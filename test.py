@@ -15,9 +15,13 @@ class Test:
 	def run(self):
 		cfg = {}
 		cfg["path"] = self.function.project.proj_dir
+		cfg["test"] = self.function.project.test_dir
 		cflags = self.function.project.module.cflags(**cfg)
 		obj = os.path.join(tempfile.gettempdir(), f"ft_{self.name}.so")
-		cflags += ["-I", self.function.path, "-shared", "-o", obj]
+		cflags += ["-I", cfg["test"], "-shared", "-o", obj]
+		util = os.path.join(cfg["test"], f"{self.function.name}.c")
+		if os.path.isfile(util):
+			cflags += [util]
 		subprocess.run(["cc", self.path] + cflags)
 		result = ctypes.cdll.LoadLibrary(obj).test()
 		return "OK" if result != 0 else "KO"
@@ -54,7 +58,7 @@ def test_project(test_dir, proj_dir):
 		results = []
 		for test in function.tests():
 			results.append((test, test.run()))
-		string = " ".join(test[1] for test in results)
+		string = "  ".join(test[1] for test in results)
 		print(f"{function.name:20} {string}")
 		for result in results:
 			if result[1] != "OK":
