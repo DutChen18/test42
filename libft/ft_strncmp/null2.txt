@@ -1,0 +1,5 @@
+stdout 57
+ft_strncmp(0) -> 0
+ft_strncmp(0) -> 0
+ft_strncmp(0) -> 0
+stderr 0

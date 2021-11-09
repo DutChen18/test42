@@ -1,4 +1,3 @@
-stdout 18
-ft_bzero(, 0) -> 
+stdout 16
+ft_bzero(0) -> 
 stderr 0
-return 0

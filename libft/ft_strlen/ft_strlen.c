@@ -9,7 +9,7 @@ void
 	unsigned long	len;
 
 	len = (unsigned long) ft_strlen(str);
-	printf("ft_strlen(%s) -> %lu\n", str, len);
+	printf("ft_strlen() -> %lu\n", len);
 }
 
 void

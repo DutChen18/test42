@@ -128,4 +128,3 @@ ft_isprint(125) -> 1
 ft_isprint(126) -> 1
 ft_isprint(127) -> 0
 stderr 0
-return 0

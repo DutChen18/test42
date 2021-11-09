@@ -1,0 +1,6 @@
+stdout 87
+ft_strchr(1) -> 0
+ft_strchr(1) -> (null)
+ft_strchr(0) -> (null)
+ft_strchr(0) -> (null)
+stderr 0

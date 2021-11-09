@@ -256,4 +256,3 @@ ft_isalpha(253) -> 0
 ft_isalpha(254) -> 0
 ft_isalpha(255) -> 0
 stderr 0
-return 0

@@ -12,14 +12,11 @@ size_t
 }
 
 void
-	test(void *dst, const void *src, size_t size, void *writeptr, size_t writesize)
+	test(char *dst, const char *src, size_t size, void *writeptr, size_t writesize)
 {
 	size_t	res;
 
-	printf("ft_strlcpy(");
-	fflush(stdout);
-	write(STDOUT_FILENO, writeptr, writesize);
-	printf(", %lu) -> ", (unsigned long) size);
+	printf("ft_strlcpy(%lu) -> ", (unsigned long) size);
 	fflush(stdout);
 	res = ft_strlcpy(dst, src, size);
 	write(STDOUT_FILENO, writeptr, writesize);
@@ -40,9 +37,9 @@ void
 	while (0 < count)
 	{
 		seed = seed * 1103515245 + 12345;
-		dst = seed & 2047;
+		dst = (seed >> 16) & 2047;
 		seed = seed * 1103515245 + 12345;
-		src = seed & 2047;
+		src = (seed >> 16) & 2047;
 		if (src == dst)
 			continue;
 		seed = seed * 1103515245 + 12345;
@@ -70,7 +67,7 @@ void
 			str[dst - 1] = '\0';
 		}
 		seed = seed * 1103515245 + 12345;
-		size = (size_t) seed % (max + 1);
+		size = (size_t) (seed >> 16) % (max + 1);
 		test(str + dst, str + src, size, str, 2048);
 		count -= 1;
 	}

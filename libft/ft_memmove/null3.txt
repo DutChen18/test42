@@ -1,4 +1,3 @@
-stdout 26
-ft_memmove(*, 1) -> *, 0)
+stdout 23
+ft_memmove(1) -> *, 0)
 stderr 0
-return 0

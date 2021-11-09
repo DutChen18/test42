@@ -1,6 +1,5 @@
-stdout 71
-ft_strlen(Hello, World!) -> 13
-ft_strlen(42) -> 2
-ft_strlen(test) -> 4
+stdout 52
+ft_strlen() -> 13
+ft_strlen() -> 2
+ft_strlen() -> 4
 stderr 0
-return 0

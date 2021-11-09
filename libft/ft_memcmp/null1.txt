@@ -1,0 +1,2 @@
+stdout 17
+ft_memcmp(10) -> stderr 0

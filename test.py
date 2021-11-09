@@ -4,6 +4,7 @@ import os.path
 import os
 import tempfile
 
+whitelist = sys.argv[3:]
 proj_path = sys.argv[2]
 test_mode = sys.argv[1]
 test_path = os.path.splitext(sys.argv[0])[0]
@@ -29,6 +30,8 @@ class Group:
 			asyncio.run(self._run())
 
 	async def _run(self):
+		if len(whitelist) > 0 and self.name not in whitelist:
+			return
 		results = {}
 		for test in self.tests:
 			path = f"{self.name}/{test.name}.txt"
@@ -41,6 +44,8 @@ class Group:
 		print(f"{self.name:16}{results}")
 
 	async def _record(self):
+		if len(whitelist) > 0 and self.name not in whitelist:
+			return
 		for test in self.tests:
 			path = f"{self.name}/{test.name}.txt"
 			await test.record(os.path.join(test_path, path))
@@ -51,6 +56,7 @@ class Test:
 		self.name = name
 		self.args = args
 		self.stdin = stdin
+		self.options = {}
 
 	async def run_test(self):
 		program = await self.setup()
@@ -64,11 +70,14 @@ class Test:
 	async def run_text(self):
 		stdout, stderr, returncode = await self.run_test()
 		result = b""
-		result += f"stdout {len(stdout)}\n".encode()
-		result += stdout
-		result += f"stderr {len(stderr)}\n".encode()
-		result += stderr
-		result += f"return {returncode}\n".encode()
+		if self.options.get("stdout", True):
+			result += f"stdout {len(stdout)}\n".encode()
+			result += stdout
+		if self.options.get("stderr", True):
+			result += f"stderr {len(stderr)}\n".encode()
+			result += stderr
+		if self.options.get("return", True):
+			result += f"return {returncode}\n".encode()
 		return result
 
 	async def record(self, path):
@@ -83,13 +92,17 @@ class Test:
 		pass
 
 class CTest(Test):
-	def __init__(self, name, flags):
+	def __init__(self, name, flags, asan=True):
 		Test.__init__(self, name, [], b"")
+		self.options["asan"] = asan
+		self.options["return"] = False
 		self.flags = flags
 
 	async def setup(self):
 		out = os.path.join(tempfile.gettempdir(), "test42")
 		cflags = self.flags + ["-o", out, "-I", test_path, "-I", proj_path]
+		if self.options.get("asan", True):
+			cflags += ["-g", "-fsanitize=address"]
 		proc = await asyncio.create_subprocess_exec("cc", *cflags)
 		await proc.wait()
 		return out

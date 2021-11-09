@@ -16,10 +16,7 @@ void
 {
 	void	*res;
 
-	printf("ft_memmove(");
-	fflush(stdout);
-	write(STDOUT_FILENO, writeptr, writesize);
-	printf(", %lu) -> ", (unsigned long) size);
+	printf("ft_memmove(%lu) -> ", (unsigned long) size);
 	fflush(stdout);
 	res = ft_memmove(dst, src, size);
 	write(STDOUT_FILENO, writeptr, writesize);
@@ -47,7 +44,7 @@ void
 		if (256 - src < max)
 			max = 256 - src;
 		seed = seed * 1103515245 + 12345;
-		size = (unsigned int) seed % (max + 1);
+		size = (size_t) (seed >> 16) % (max + 1);
 		i = 0;
 		while (i < 256)
 		{

@@ -128,4 +128,3 @@ ft_isascii(125) -> 1
 ft_isascii(126) -> 1
 ft_isascii(127) -> 1
 stderr 0
-return 0

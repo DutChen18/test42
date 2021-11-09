@@ -1,0 +1,11 @@
+stdout 165
+ft_memcmp(0) -> 0
+ft_memcmp(0) -> 0
+ft_memcmp(0) -> 0
+ft_memcmp(3) -> 0
+ft_memcmp(3) -> 0
+ft_memcmp(3) -> 0
+ft_memcmp(4) -> 0
+ft_memcmp(4) -> 97
+ft_memcmp(4) -> -97
+stderr 0

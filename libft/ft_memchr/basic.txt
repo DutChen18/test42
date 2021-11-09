@@ -1,0 +1,10 @@
+stdout 175
+ft_strchr(5) -> (null)
+ft_strchr(6) -> 5
+ft_strchr(7) -> 5
+ft_strchr(13) -> (null)
+ft_strchr(14) -> (null)
+ft_strchr(12) -> (null)
+ft_strchr(13) -> (null)
+ft_strchr(14) -> 13
+stderr 0

@@ -1,0 +1,5 @@
+stdout 57
+ft_strchr() -> 5
+ft_strchr() -> (null)
+ft_strchr() -> 13
+stderr 0

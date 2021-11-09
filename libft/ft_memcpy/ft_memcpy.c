@@ -16,10 +16,7 @@ void
 {
 	void	*res;
 
-	printf("ft_memcpy(");
-	fflush(stdout);
-	write(STDOUT_FILENO, writeptr, writesize);
-	printf(", %lu) -> ", (unsigned long) size);
+	printf("ft_memcpy(%lu) -> ", (unsigned long) size);
 	fflush(stdout);
 	res = ft_memcpy(dst, src, size);
 	write(STDOUT_FILENO, writeptr, writesize);
@@ -40,9 +37,9 @@ void
 	while (0 < count)
 	{
 		seed = seed * 1103515245 + 12345;
-		dst = seed & 255;
+		dst = (seed >> 16) & 255;
 		seed = seed * 1103515245 + 12345;
-		src = seed & 255;
+		src = (seed >> 16) & 255;
 		if (src > dst)
 			max = src - dst;
 		else
@@ -52,7 +49,7 @@ void
 		if (256 - dst < max)
 			max = 256 - dst;
 		seed = seed * 1103515245 + 12345;
-		size = (size_t) seed % (max + 1);
+		size = (size_t) (seed >> 16) % (max + 1);
 		seed = seed * 1103515245 + 12345;
 		if (seed & 65536)
 		{

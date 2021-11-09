@@ -256,4 +256,3 @@ ft_isalnum(812307506) -> 0
 ft_isalnum(-87046781) -> 0
 ft_isalnum(519516928) -> 0
 stderr 0
-return 0

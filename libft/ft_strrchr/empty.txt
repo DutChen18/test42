@@ -1,0 +1,4 @@
+stdout 41
+ft_strrchr() -> 0
+ft_strrchr() -> (null)
+stderr 0

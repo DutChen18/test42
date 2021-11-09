@@ -256,4 +256,3 @@ ft_isdigit(253) -> 0
 ft_isdigit(254) -> 0
 ft_isdigit(255) -> 0
 stderr 0
-return 0

@@ -1,0 +1,14 @@
+stdout 234
+ft_strncmp(10) -> 0
+ft_strncmp(10) -> 1
+ft_strncmp(10) -> -1
+ft_strncmp(0) -> 0
+ft_strncmp(0) -> 0
+ft_strncmp(0) -> 0
+ft_strncmp(3) -> 0
+ft_strncmp(3) -> 1
+ft_strncmp(3) -> -1
+ft_strncmp(4) -> 0
+ft_strncmp(4) -> 1
+ft_strncmp(4) -> -1
+stderr 0

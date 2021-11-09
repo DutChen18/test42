@@ -1,0 +1,5 @@
+stdout 54
+ft_memcmp(0) -> 0
+ft_memcmp(0) -> 0
+ft_memcmp(0) -> 0
+stderr 0

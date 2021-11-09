@@ -27,7 +27,7 @@ void
 	while (0 < count)
 	{
 		seed = seed * 1103515245 + 12345;
-		size = seed & 255;
+		size = (seed >> 16) & 255;
 		seed = seed * 1103515245 + 12345;
 		test(str, seed, size, 256);
 		count -= 1;

@@ -1,3 +1,2 @@
-stdout 20
-ft_memmove(*, 1) -> stderr 0
-return -11
+stdout 17
+ft_memmove(1) -> stderr 0

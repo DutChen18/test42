@@ -256,4 +256,3 @@ ft_isascii(253) -> 0
 ft_isascii(254) -> 0
 ft_isascii(255) -> 0
 stderr 0
-return 0
