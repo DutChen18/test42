@@ -1,0 +1,36 @@
+stdout 524
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> 0
+ft_atoi() -> -123
+ft_atoi() -> 123
+ft_atoi() -> 123
+ft_atoi() -> -123
+ft_atoi() -> 123
+ft_atoi() -> 123
+stderr 0

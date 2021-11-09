@@ -1,0 +1,9 @@
+stdout 110
+ft_atoi() -> -10
+ft_atoi() -> -9
+ft_atoi() -> -1
+ft_atoi() -> 10
+ft_atoi() -> 9
+ft_atoi() -> 1
+ft_atoi() -> 0
+stderr 0

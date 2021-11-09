@@ -176,3 +176,24 @@ ft_memcmp.add(test.CTest("null2", ft_memcmp_args + ["-DTEST_NULL2"], asan=False)
 ft_memcmp.add(test.CTest("basic", ft_memcmp_args + ["-DTEST_BASIC"]))
 ft_memcmp.add(test.CTest("random", ft_memcmp_args + ["-DTEST_RANDOM"]))
 ft_memcmp.start()
+
+ft_strnstr_args = [test.join_proj("libft.a"), test.join_test("ft_strnstr/ft_strnstr.c")]
+ft_strnstr_args += ["-Dft_strnstr=strnstr"] if test.test_mode == "record" else []
+ft_strnstr = test.Group("ft_strnstr")
+ft_strnstr.add(test.CTest("empty", ft_strnstr_args + ["-DTEST_EMPTY"]))
+ft_strnstr.add(test.CTest("null1", ft_strnstr_args + ["-DTEST_NULL1"], asan=False))
+ft_strnstr.add(test.CTest("null2", ft_strnstr_args + ["-DTEST_NULL2"], asan=False))
+ft_strnstr.add(test.CTest("basic", ft_strnstr_args + ["-DTEST_BASIC"]))
+ft_strnstr.add(test.CTest("random", ft_strnstr_args + ["-DTEST_RANDOM"]))
+ft_strnstr.start()
+
+ft_atoi_args = [test.join_proj("libft.a"), test.join_test("ft_atoi/ft_atoi.c")]
+ft_atoi_args += ["-Dft_atoi=atoi"] if test.test_mode == "record" else []
+ft_atoi = test.Group("ft_atoi")
+ft_atoi.add(test.CTest("null", ft_atoi_args + ["-DTEST_NULL"], asan=False))
+ft_atoi.add(test.CTest("basic", ft_atoi_args + ["-DTEST_BASIC"]))
+ft_atoi.add(test.CTest("intmax", ft_atoi_args + ["-DTEST_INTMAX"]))
+ft_atoi.add(test.CTest("long", ft_atoi_args + ["-DTEST_LONGMAX"]))
+ft_atoi.add(test.CTest("weird", ft_atoi_args + ["-DTEST_WEIRD"]))
+ft_atoi.add(test.CTest("random", ft_atoi_args + ["-DTEST_RANDOM"]))
+ft_atoi.start()

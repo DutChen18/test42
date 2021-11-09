@@ -1,0 +1,14 @@
+stdout 251
+ft_strncmp(10) -> 0
+ft_strncmp(10) -> 0
+ft_strncmp(10) -> (null)
+ft_strncmp(0) -> 0
+ft_strncmp(0) -> 0
+ft_strncmp(0) -> (null)
+ft_strncmp(3) -> 0
+ft_strncmp(3) -> 0
+ft_strncmp(3) -> (null)
+ft_strncmp(4) -> 0
+ft_strncmp(4) -> 0
+ft_strncmp(4) -> (null)
+stderr 0

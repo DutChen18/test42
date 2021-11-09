@@ -1,0 +1,2 @@
+stdout 17
+ft_strncmp(0) -> stderr 0

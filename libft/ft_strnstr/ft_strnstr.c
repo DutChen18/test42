@@ -3,22 +3,20 @@
 #include <string.h>
 #include <unistd.h>
 
-int	ft_strncmp(const char *str1, const char *str2, size_t len);
+char	*ft_strnstr(const char *str1, const char *str2, size_t len);
 
 void
 	test(const char *str1, const char *str2, size_t size)
 {
-	int	res;
+	char	*res;
 
 	printf("ft_strncmp(%lu) -> ", (unsigned long) size);
 	fflush(stdout);
-	res = ft_strncmp(str1, str2, size);
-	if (res > 0)
-		printf("%d\n", 1);
-	if (res < 0)
-		printf("%d\n", -1);
-	if (res == 0)
-		printf("%d\n", 0);
+	res = ft_strnstr(str1, str2, size);
+	if (res == NULL)
+		printf("(null)\n");
+	else
+		printf("%lu\n", (unsigned long)(res - str1));
 }
 
 void
@@ -28,7 +26,8 @@ void
 	size_t	str1;
 	size_t	str2;
 	size_t	size;
-	char	str[2048 + 33];
+	size_t	offset;
+	char	str[2048 + 32 + 257];
 
 	str[2048 + 32] = '\0';
 	while (0 < count)
@@ -46,10 +45,12 @@ void
 		}
 		seed = seed * 1103515245 + 12345;
 		size = (seed >> 16) & 31;
+		seed = seed * 1103515245 + 12345;
+		offset = (seed >> 16) & 255;
 		while (0 < size)
 		{
 			size -= 1;
-			str[str1 + size] = str[str2 + size];
+			str[str1 + size + offset] = str[str2 + size];
 		}
 		seed = seed * 1103515245 + 12345;
 		size = (seed >> 16) & 2047;
@@ -122,6 +123,24 @@ int
 	test("123", "123", 7);
 	test("123abc", "123", 7);
 	test("123", "123abc", 7);
+	test("123", "123", 10);
+	test("123abc", "123", 10);
+	test("123", "abc123", 10);
+	test("123", "123", 0);
+	test("abc123", "123", 0);
+	test("123", "abc123", 0);
+	test("123", "123", 3);
+	test("abc123", "123", 3);
+	test("123", "abc123", 3);
+	test("123", "123", 4);
+	test("abc123", "123", 4);
+	test("123", "abc123", 4);
+	test("123", "123", 6);
+	test("abc123", "123", 6);
+	test("123", "abc123", 6);
+	test("123", "123", 7);
+	test("abc123", "123", 7);
+	test("123", "abc123", 7);
 	return (EXIT_SUCCESS);
 }
 #endif
