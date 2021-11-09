@@ -29,15 +29,22 @@ class Group:
 			asyncio.run(self._run())
 
 	async def _run(self):
+		results = {}
 		for test in self.tests:
 			path = f"{self.name}/{test.name}.txt"
 			result = await test.run(os.path.join(test_path, path))
-			print(f"{self.name} {test.name} {result}")
+			if result == "OK":
+				results[test.name] = "\033[32mOK\033[0m"
+			elif result == "KO":
+				results[test.name] = "\033[31mKO\033[0m"
+		results = "".join(f"{k:>16}={v}" for k, v in results.items())
+		print(f"{self.name:16}{results}")
 
 	async def _record(self):
 		for test in self.tests:
 			path = f"{self.name}/{test.name}.txt"
 			await test.record(os.path.join(test_path, path))
+		print(f"{self.name}")
 
 class Test:
 	def __init__(self, name, args, stdin):

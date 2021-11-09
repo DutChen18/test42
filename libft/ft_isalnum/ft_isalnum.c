@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int ft_isalnum(int ch);
+int	ft_isalnum(int ch);
 
 void
 	test(int ch)
@@ -30,20 +30,38 @@ void
 	}
 }
 
+#ifdef TEST_ASCII
 int
 	main(void)
 {
-#ifdef TEST_ASCII
 	test_range(0, 128);
-#endif
-#ifdef TEST_UNSIGNED_CHAR
-	test_range(0, 256);
-#endif
-#ifdef TEST_SIGNED_CHAR
-	test_range(-128, 128);
-#endif
-#ifdef TEST_RANDOM
-	test_random(0, 256);
-#endif
 	return (EXIT_SUCCESS);
 }
+#endif
+
+#ifdef TEST_UNSIGNED_CHAR
+int
+	main(void)
+{
+	test_range(0, 256);
+	return (EXIT_SUCCESS);
+}
+#endif
+
+#ifdef TEST_SIGNED_CHAR
+int
+	main(void)
+{
+	test_range(-128, 128);
+	return (EXIT_SUCCESS);
+}
+#endif
+
+#ifdef TEST_RANDOM
+int
+	main(void)
+{
+	test_random(0, 256);
+	return (EXIT_SUCCESS);
+}
+#endif

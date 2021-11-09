@@ -46,3 +46,28 @@ ft_isprint.add(test.CTest("unsigned_char", ft_isprint_args + ["-DTEST_UNSIGNED_C
 ft_isprint.add(test.CTest("signed_char", ft_isprint_args + ["-DTEST_SIGNED_CHAR"]))
 ft_isprint.add(test.CTest("random", ft_isprint_args + ["-DTEST_RANDOM"]))
 ft_isprint.start()
+
+ft_strlen_args = [test.join_proj("libft.a"), test.join_test("ft_strlen/ft_strlen.c")]
+ft_strlen_args += ["-Dft_strlen=strlen"] if test.test_mode == "record" else []
+ft_strlen = test.Group("ft_strlen")
+ft_strlen.add(test.CTest("empty", ft_strlen_args + ["-DTEST_EMPTY"]))
+ft_strlen.add(test.CTest("null", ft_strlen_args + ["-DTEST_NULL"]))
+ft_strlen.add(test.CTest("basic", ft_strlen_args + ["-DTEST_BASIC"]))
+ft_strlen.add(test.CTest("random", ft_strlen_args + ["-DTEST_RANDOM"]))
+ft_strlen.start()
+
+ft_memset_args = [test.join_proj("libft.a"), test.join_test("ft_memset/ft_memset.c")]
+ft_memset_args += ["-Dft_memset=memset"] if test.test_mode == "record" else []
+ft_memset = test.Group("ft_memset")
+ft_memset.add(test.CTest("empty", ft_memset_args + ["-DTEST_EMPTY"]))
+ft_memset.add(test.CTest("null", ft_memset_args + ["-DTEST_NULL"]))
+ft_memset.add(test.CTest("random", ft_memset_args + ["-DTEST_RANDOM"]))
+ft_memset.start()
+
+ft_bzero_args = [test.join_proj("libft.a"), test.join_test("ft_bzero/ft_bzero.c")]
+ft_bzero_args += ["-Dft_bzero=bzero"] if test.test_mode == "record" else []
+ft_bzero = test.Group("ft_bzero")
+ft_bzero.add(test.CTest("empty", ft_bzero_args + ["-DTEST_EMPTY"]))
+ft_bzero.add(test.CTest("null", ft_bzero_args + ["-DTEST_NULL"]))
+ft_bzero.add(test.CTest("random", ft_bzero_args + ["-DTEST_RANDOM"]))
+ft_bzero.start()

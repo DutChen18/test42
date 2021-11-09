@@ -1,0 +1,4 @@
+stdout 21
+ft_bzero(ptr, 0) -> 
+stderr 0
+return 0
