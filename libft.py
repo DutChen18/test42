@@ -71,3 +71,43 @@ ft_bzero.add(test.CTest("empty", ft_bzero_args + ["-DTEST_EMPTY"]))
 ft_bzero.add(test.CTest("null", ft_bzero_args + ["-DTEST_NULL"]))
 ft_bzero.add(test.CTest("random", ft_bzero_args + ["-DTEST_RANDOM"]))
 ft_bzero.start()
+
+ft_memcpy_args = [test.join_proj("libft.a"), test.join_test("ft_memcpy/ft_memcpy.c")]
+ft_memcpy_args += ["-Dft_memcpy=memcpy2"] if test.test_mode == "record" else []
+ft_memcpy = test.Group("ft_memcpy")
+ft_memcpy.add(test.CTest("empty", ft_memcpy_args + ["-DTEST_EMPTY"]))
+ft_memcpy.add(test.CTest("null1", ft_memcpy_args + ["-DTEST_NULL1"]))
+ft_memcpy.add(test.CTest("null2", ft_memcpy_args + ["-DTEST_NULL2"]))
+ft_memcpy.add(test.CTest("null3", ft_memcpy_args + ["-DTEST_NULL3"]))
+ft_memcpy.add(test.CTest("random", ft_memcpy_args + ["-DTEST_RANDOM"]))
+ft_memcpy.start()
+
+ft_memmove_args = [test.join_proj("libft.a"), test.join_test("ft_memmove/ft_memmove.c")]
+ft_memmove_args += ["-Dft_memmove=memmove2"] if test.test_mode == "record" else []
+ft_memmove = test.Group("ft_memmove")
+ft_memmove.add(test.CTest("empty", ft_memmove_args + ["-DTEST_EMPTY"]))
+ft_memmove.add(test.CTest("null1", ft_memmove_args + ["-DTEST_NULL1"]))
+ft_memmove.add(test.CTest("null2", ft_memmove_args + ["-DTEST_NULL2"]))
+ft_memmove.add(test.CTest("null3", ft_memmove_args + ["-DTEST_NULL3"]))
+ft_memmove.add(test.CTest("random", ft_memmove_args + ["-DTEST_RANDOM"]))
+ft_memmove.start()
+
+ft_strlcpy_args = [test.join_proj("libft.a"), test.join_test("ft_strlcpy/ft_strlcpy.c")]
+ft_strlcpy_args += ["-Dft_strlcpy=strlcpy2"] if test.test_mode == "record" else []
+ft_strlcpy = test.Group("ft_strlcpy")
+ft_strlcpy.add(test.CTest("empty", ft_strlcpy_args + ["-DTEST_EMPTY"]))
+ft_strlcpy.add(test.CTest("null1", ft_strlcpy_args + ["-DTEST_NULL1"]))
+ft_strlcpy.add(test.CTest("null2", ft_strlcpy_args + ["-DTEST_NULL2"]))
+ft_strlcpy.add(test.CTest("null3", ft_strlcpy_args + ["-DTEST_NULL3"]))
+ft_strlcpy.add(test.CTest("random", ft_strlcpy_args + ["-DTEST_RANDOM"]))
+ft_strlcpy.start()
+
+ft_strlcat_args = [test.join_proj("libft.a"), test.join_test("ft_strlcat/ft_strlcat.c")]
+ft_strlcat_args += ["-Dft_strlcat=strlcat2"] if test.test_mode == "record" else []
+ft_strlcat = test.Group("ft_strlcat")
+ft_strlcat.add(test.CTest("empty", ft_strlcat_args + ["-DTEST_EMPTY"]))
+ft_strlcat.add(test.CTest("null1", ft_strlcat_args + ["-DTEST_NULL1"]))
+ft_strlcat.add(test.CTest("null2", ft_strlcat_args + ["-DTEST_NULL2"]))
+ft_strlcat.add(test.CTest("null3", ft_strlcat_args + ["-DTEST_NULL3"]))
+ft_strlcat.add(test.CTest("random", ft_strlcat_args + ["-DTEST_RANDOM"]))
+ft_strlcat.start()

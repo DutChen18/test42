@@ -1,0 +1,4 @@
+stdout 24
+ft_strlcat(, 0) -> , 0)
+stderr 0
+return 0

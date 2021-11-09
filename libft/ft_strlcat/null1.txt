@@ -1,0 +1,3 @@
+stdout 20
+ft_strlcat(*, 1) -> stderr 0
+return -11

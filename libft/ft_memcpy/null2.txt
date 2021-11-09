@@ -1,0 +1,3 @@
+stdout 19
+ft_memcpy(*, 1) -> stderr 0
+return -11

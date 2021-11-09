@@ -1,0 +1,4 @@
+stdout 23
+ft_memcpy(, 0) -> , 0)
+stderr 0
+return 0

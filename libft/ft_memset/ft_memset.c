@@ -13,7 +13,7 @@ void
 	fflush(stdout);
 	res = ft_memset(ptr, ch, size);
 	write(STDOUT_FILENO, ptr, writesize);
-	printf(", %lu)\n", (unsigned long)((char *) ptr - (char *) res));
+	printf(", %lu)\n", (unsigned long)((char *) res - (char *) ptr));
 	fflush(stdout);
 }
 
@@ -47,7 +47,7 @@ int
 int
 	main(void)
 {
-	test(NULL, '*', 1, 1);
+	test(NULL, '*', 1, 0);
 	return (EXIT_SUCCESS);
 }
 #endif
