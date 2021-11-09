@@ -1,70 +1,88 @@
-#!/usr/bin/env python3
-import os
-import os.path
 import sys
+import asyncio
+import os.path
+import os
 import tempfile
-import subprocess
-import ctypes
+
+proj_path = sys.argv[2]
+test_mode = sys.argv[1]
+test_path = os.path.splitext(sys.argv[0])[0]
+
+def join_proj(path):
+	return os.path.join(proj_path, path)
+
+def join_test(path):
+	return os.path.join(test_path, path)
+
+class Group:
+	def __init__(self, name):
+		self.name = name
+		self.tests = []
+
+	def add(self, test):
+		self.tests.append(test)
+
+	def start(self):
+		if test_mode == "record":
+			asyncio.run(self._record())
+		else:
+			asyncio.run(self._run())
+
+	async def _run(self):
+		for test in self.tests:
+			path = f"{self.name}/{test.name}.txt"
+			result = await test.run(os.path.join(test_path, path))
+			print(f"{self.name} {test.name} {result}")
+
+	async def _record(self):
+		for test in self.tests:
+			path = f"{self.name}/{test.name}.txt"
+			await test.record(os.path.join(test_path, path))
 
 class Test:
-	def __init__(self, function, path):
-		self.function = function
-		self.path = path
-		self.name = os.path.splitext(os.path.basename(path))[0]
+	def __init__(self, name, args, stdin):
+		self.name = name
+		self.args = args
+		self.stdin = stdin
 
-	def run(self):
-		cfg = {}
-		cfg["path"] = self.function.project.proj_dir
-		cfg["test"] = self.function.project.test_dir
-		cflags = self.function.project.module.cflags(**cfg)
-		obj = os.path.join(tempfile.gettempdir(), f"ft_{self.name}.so")
-		cflags += ["-I", cfg["test"], "-shared", "-o", obj]
-		util = os.path.join(cfg["test"], f"{self.function.name}.c")
-		if os.path.isfile(util):
-			cflags += [util]
-		subprocess.run(["cc", self.path] + cflags)
-		result = ctypes.cdll.LoadLibrary(obj).test()
-		return "OK" if result != 0 else "KO"
+	async def run_test(self):
+		program = await self.setup()
+		proc = await asyncio.create_subprocess_exec(program, *self.args,
+			stdin=asyncio.subprocess.PIPE,
+			stdout=asyncio.subprocess.PIPE,
+			stderr=asyncio.subprocess.PIPE)
+		stdout, stderr = await proc.communicate(self.stdin)
+		return (stdout, stderr, proc.returncode)
 
-class Function:
-	def __init__(self, project, path):
-		self.project = project
-		self.path = path
-		self.name = os.path.basename(path)
+	async def run_text(self):
+		stdout, stderr, returncode = await self.run_test()
+		result = b""
+		result += f"stdout {len(stdout)}\n".encode()
+		result += stdout
+		result += f"stderr {len(stderr)}\n".encode()
+		result += stderr
+		result += f"return {returncode}\n".encode()
+		return result
 
-	def tests(self):
-		for file in os.listdir(self.path):
-			path = os.path.join(self.path, file)
-			if os.path.isfile(path):
-				yield Test(self, path)
+	async def record(self, path):
+		with open(path, "wb") as f:
+			f.write(await self.run_text())
 
-class Project:
-	def __init__(self, test_dir, proj_dir):
-		self.test_dir = test_dir
-		self.proj_dir = proj_dir
-		self.name = os.path.basename(self.test_dir)
-		self.module = __import__(os.path.basename(test_dir) + ".test").test
+	async def run(self, path):
+		with open(path, "rb") as f:
+			return "OK" if f.read() == (await self.run_text()) else "KO"
 
-	def functions(self):
-		for file in os.listdir(self.test_dir):
-			path = os.path.join(self.test_dir, file)
-			if os.path.isdir(path) and file != "__pycache__":
-				yield Function(self, path)
+	async def setup(self):
+		pass
 
-def test_project(test_dir, proj_dir):
-	project = Project(test_dir, proj_dir)
-	print(f"### {project.name}")
-	for function in project.functions():
-		results = []
-		for test in function.tests():
-			results.append((test, test.run()))
-		string = "  ".join(test[1] for test in results)
-		print(f"{function.name:20} {string}")
-		for result in results:
-			if result[1] != "OK":
-				print(f"{result[0].name}: {result[1]}")
+class CTest(Test):
+	def __init__(self, name, flags):
+		Test.__init__(self, name, [], b"")
+		self.flags = flags
 
-if __name__ == "__main__":
-	test_dir = sys.argv[1]
-	proj_dir = sys.argv[2]
-	test_project(test_dir, proj_dir)
+	async def setup(self):
+		out = os.path.join(tempfile.gettempdir(), "test42")
+		cflags = self.flags + ["-o", out, "-I", test_path, "-I", proj_path]
+		proc = await asyncio.create_subprocess_exec("cc", *cflags)
+		await proc.wait()
+		return out
