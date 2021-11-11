@@ -1,0 +1,77 @@
+stdout 1473
+ft_substr(0, 10) -> Hello, Wor
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 10) -> , World!
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(13, 10) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(14, 10) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(15, 10) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(0, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(13, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(14, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(15, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(0, 1) -> H
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 1) -> ,
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(13, 1) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(14, 1) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(15, 1) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(0, 8) -> Hello, W
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 8) -> , World!
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(13, 8) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(14, 8) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(15, 8) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(0, 9) -> Hello, Wo
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 9) -> , World!
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(13, 9) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(14, 9) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(15, 9) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+stderr 0

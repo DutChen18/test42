@@ -1,0 +1,14 @@
+stdout 224
+ft_substr(0, 0) -> 
+0 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1, 0) -> 
+0 unfreed mallocs
+0 unfreed mallocs
+ft_substr(0, 1) -> 
+0 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1, 1) -> 
+0 unfreed mallocs
+0 unfreed mallocs
+stderr 0

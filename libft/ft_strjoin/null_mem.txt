@@ -1,0 +1,8 @@
+stdout 171
+ft_substr() -> (null)0 unfreed mallocs
+0 unfreed mallocs
+ft_substr() -> (null)0 unfreed mallocs
+0 unfreed mallocs
+ft_substr() -> (null)0 unfreed mallocs
+0 unfreed mallocs
+stderr 0

@@ -1,0 +1,29 @@
+stdout 507
+ft_substr(0, 10) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1, 10) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 10) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(0, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(0, 1) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1, 1) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(5, 1) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+stderr 0

@@ -1,0 +1,14 @@
+stdout 208
+ft_strtrim() -> 
+1 unfreed mallocs
+1 malloc'd size
+0 unfreed mallocs
+ft_strtrim() -> 
+1 unfreed mallocs
+1 malloc'd size
+0 unfreed mallocs
+ft_strtrim() -> a
+1 unfreed mallocs
+2 malloc'd size
+0 unfreed mallocs
+stderr 0

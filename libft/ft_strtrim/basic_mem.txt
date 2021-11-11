@@ -1,0 +1,6 @@
+stdout 80
+ft_strtrim() -> llo, World
+1 unfreed mallocs
+11 malloc'd size
+0 unfreed mallocs
+stderr 0

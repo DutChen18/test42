@@ -1,0 +1,11 @@
+stdout 203
+ft_substr() -> 1 unfreed mallocs
+1 malloc'd size
+0 unfreed mallocs
+ft_substr() -> a1 unfreed mallocs
+2 malloc'd size
+0 unfreed mallocs
+ft_substr() -> a1 unfreed mallocs
+2 malloc'd size
+0 unfreed mallocs
+stderr 0

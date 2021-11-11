@@ -1,0 +1,11 @@
+stdout 170
+ft_calloc(0, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_calloc(0, 42) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_calloc(69, 0) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+stderr 0

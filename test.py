@@ -38,9 +38,13 @@ class Group:
 			result = await test.run(os.path.join(test_path, path))
 			if result == "OK":
 				results[test.name] = "\033[32mOK\033[0m"
-			elif result == "KO":
+			elif result == "KO" and not test.options["opt"]:
 				results[test.name] = "\033[31mKO\033[0m"
-		results = "".join(f"{k:>16}={v}" for k, v in results.items())
+				print(f"\033[31mKO\033[0m  {test.name}")
+			elif result == "KO" and test.options["opt"]:
+				results[test.name] = "\033[33mKO\033[0m"
+				print(f"\033[33mKO\033[0m  {test.name}")
+		results = "".join(f" {v} " for k, v in results.items())
 		print(f"{self.name:16}{results}")
 
 	async def _record(self):
@@ -52,11 +56,12 @@ class Group:
 		print(f"{self.name}")
 
 class Test:
-	def __init__(self, name, args, stdin):
+	def __init__(self, name, args, stdin, opt):
 		self.name = name
 		self.args = args
 		self.stdin = stdin
 		self.options = {}
+		self.options["opt"] = opt
 
 	async def run_test(self):
 		program = await self.setup()
@@ -92,10 +97,11 @@ class Test:
 		pass
 
 class CTest(Test):
-	def __init__(self, name, flags, asan=True):
-		Test.__init__(self, name, [], b"")
+	def __init__(self, name, flags, asan=True, libmem=True, opt=False):
+		Test.__init__(self, name, [], b"", opt)
 		self.options["asan"] = asan
 		self.options["return"] = False
+		self.options["libmem"] = libmem
 		self.flags = flags
 
 	async def setup(self):
@@ -103,6 +109,10 @@ class CTest(Test):
 		cflags = self.flags + ["-o", out, "-I", test_path, "-I", proj_path]
 		if self.options.get("asan", True):
 			cflags += ["-g", "-fsanitize=address"]
+		if self.options.get("libmem", True):
+			base = os.path.dirname(__file__)
+			libmem = os.path.join(base, "mem.c")
+			cflags += ["-I", base, libmem]
 		proc = await asyncio.create_subprocess_exec("cc", *cflags)
 		await proc.wait()
 		return out

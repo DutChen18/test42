@@ -1,0 +1,798 @@
+stdout 23667
+ft_substr(57, 1662) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(2015, 1068) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1781, 1162) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(763, 1816) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1393, 1878) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(983, 1220) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1965, 738) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1651, 304) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(425, 814) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1743, 92) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1893, 1082) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(235, 1608) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1249, 518) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(199, 1780) -> 9Ù%fé>	v@U+qaÑ7”ô>åÜãYšÌÓÕ%mA$âlL³ºÏ8'aíBäÇA^B†ÛÁ‚þPÎ/{Ëõ¡Ì¶ãXïáÊ¡’K¶Z©1k(=è\lù/ücøP¿B°Ä)nú)µJmš;†¬Ád	P^>ŒþçmTA9kà? ©Œ‡ž
+n¹}æ
+ŸÏ›³zàÁr5€ÏŠiþc=å€=·†åÞdAi¨¹W+gÎeÝ6ÅBŸÊpÓ³v²¨áo:Ø$£–í™ÐõÃæîì®×%†‰ŒøÕh™@ªÏ‹ÿùis1#Lxƒ–- %‹S%åá.VX$‡%ÔÂÄaÞàLyŠ Ÿˆ#ÿ·€`W;£¤Üz‰}–ù¬ä)n)¯†dÕÿ<Ÿß¥K;iÝþf</|PÒ¡J½UêŽ¾ÌKâJ[nSÖ]—¯¡©§ÚoZ’Õo¯ØcõÑFú–‰í•‹œ´¾8HŒp"¤Â)°yù½oð(f 5wÖUâ`Ažß_¸²Ïˆmërÿ}9E¶ººh¢IV‚Úuˆ7&HÉ!Kí½Å 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1565, 146) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(611, 1632) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1817, 990) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(447, 140) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(981, 2026) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(731, 376) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(81, 182) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(439, 1316) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(141, 578) -> »´ÎïÊtPõÜhå–)~ÐÈÙÝòÞ’iáëÚô¨È/$Aåè"ÓÑÊ¬‡iü~E[Wo ðéä Ñv…)U"ø¸€ZJã
+È_yPôß™ÍÍòÇ3ÍY¦´èQw,E 7ºat
+ó“ÞUÛ„Ÿëi)G>W•›)o'¼æœbKd½ÖÌ1º$A
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(595, 1936) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(137, 142) -> ¤g³Å¼—ëDýŽÇ i×j<(™³îà¸9FK)æÓJ,sƒ¿îÂ× <hû'„¡Œ&xFøž?oÌe˜£Zþ×gÝTÞ
+&Æ˜IÖV—†Ÿ}˜d³0Ü$î”&ÂÂ€’Ïæ¶¾áìÌ‰NcMkæ>‚
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(175, 1212) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1093, 1946) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(203, 168) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1985, 870) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1703, 1876) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1789, 2034) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1603, 1216) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1529, 318) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(927, 1260) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(181, 842) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(699, 984) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(817, 534) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1943, 1412) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(365, 418) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1587, 1520) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1897, 1518) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(655, 284) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(293, 762) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(171, 776) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(673, 1222) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1159, 1972) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(2013, 1874) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(547, 800) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1241, 1694) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1407, 332) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1429, 1706) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(667, 1592) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1553, 886) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1399, 1508) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(589, 258) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(531, 1104) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1609, 846) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1135, 1404) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1541, 1626) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(139, 1384) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1409, 1574) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(615, 20) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(189, 1714) -> 8™¥ûtúÉç»”®NFá‹ÂÜÈªù˜u2†“ž¢Álì-ìÇ‘¹Ø‚ÚpÛjæÔ’:'\«¼QÈ«.¤|q˜¿—gƒÏ6ÊF‰Â0ã
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1539, 384) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(953, 1022) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1887, 1452) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(629, 522) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(635, 152) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(241, 1238) -> p¤1ßË^WÓúMy¶ÑäÐT½øw=lªÛ‘Ù0mœŽŸíc„[¼eƒ¼bÜ}_„iÖž.ã€…Ä™ó(6¸á/é„Õ¿ÂßùôŠ-q3v•²Ý%ý¸×RÑÚ+`‡f
+MÊÓxí8Wa&°Då‡wtÐp¡nCÏ¤9M…&ÖßÖ2—¡—ìN88ÀÜ0wvµº`¤QÀ–’zÃþqÜw-[N’ãšch¯dH¢Y	ÊLešz>¿á˜+kU’Ñt”‹•}³\Ÿx¢¶‰ˆ0·(ù`Áä=VJyÄÞk–np(7·ä}Â¡õ-ã`wJ)ÈXƒ]wX0¦Âˆ^`„²ØpBü¬³àCvû(—Ûm`£þ¡1Š¬å~‡æ[@˜ˆ"ê	›Ûº}O±¾œe¶…w¦0XêšÊ7ã¥¦ØE]ºr	ÍS±>ˆê’U,Át‰Ÿ4“ÑH~M4mÙ;ÑñÛ`åfÊ5P¡U‚¼¨Š¢AÃY5
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(855, 1604) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(813, 98) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1523, 688) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1321, 174) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1615, 476) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(741, 442) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(107, 1992) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(97, 1926) -> /_Q–YP}¼Âç&t(ÅKPêœi®žqñµ§‹ºù)„Û:L¯!;:5:Ý®–+RoT[ PáST½¯ú<k$õ1)®få-W3[
+¡+¸PÃü¥H–†…b‘º¦ÈéW·ðiõöf^nËR’ôîŠþ5!œ]Äýä|%ß€—¬yÙ«Ä´¹[w÷L…F<póÛÞš•'‰„ßzlˆJ@&õ¢œd‡÷ÅfÀ;ìŽ”m]‚Ý¬Z­NA÷Kb,ý…xƒŠ’×ãox]ÍîmGF2-Áæ/.(ýˆ®SXè.Ìâtøü”A
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(71, 116) -> ÷Usœçd7Û9gÃG¿×¹}bª¼‹Š&A_¬
+9Cû‹ÒQÿJ#JÒÁ°·‹ˆ²}¿ðœ9Ç’<¶<™‘C×ÊÜîÍ‘ïÀÆ‡€¡T wÌ¯µ3†CvšÒg)F†½3pF¢¯|ðç›8m^h
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(413, 1554) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(483, 2016) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(665, 350) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(319, 524) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1877, 1386) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(603, 760) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(977, 1590) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(311, 1700) -> –ž¤™ë4zËíûÄVšä8ÿR:/æW;ƒ
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1037, 1986) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(467, 272) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1033, 1550) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(47, 1596) -> wK’f¶‹ŸXHT‹Uç2›‡wúh<´º[º`æÆU-‡óð×~«IÿÃ[ä.Â÷™‰ŸC‘Á[ØØØºQO¦Á9#Z—*âÎŠ’ýq±=~FŠçødQÝ†åK NÕ}ŠIB»X>Žû¶…Í¸Þ3ì~á›A,×È¯|[h°ÁbÎŽ(±ÄË‘ä¦ƒn’¤õ£ Dy³øŒL[`¥Õ4ñÊr^[røÃ|FŽ6Œym0D‘ñQ_%ðLA²º·÷i HWÁì#k£7žOP§Ü;P¢y‰¶:Ð¯»£(Ñõ…œø:×h{ã¦<ßT¶äÐ Î¯¤\n†¤µ&%³Vd¼\Av²Ò†
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1989, 1306) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(75, 552) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(833, 230) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1575, 212) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(637, 1394) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1475, 1600) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(377, 1726) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(799, 1644) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1077, 202) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(571, 1368) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1713, 1942) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1815, 1796) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1261, 1826) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1459, 1904) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(745, 878) -> á|
+'3•CÐäcÑáÎž„:fÊ*øe×øøŸfGr/Ò‡ÿ/ÚÃ&cÿ6“#‡C>ÃtÃýôÿè¹¿Œ|^xO^äÊå'	LMµ-×§±NÎ“˜õw¨PBxÚ\ýD|V½,)ê¥·tûÆ´ò»o,¿.J:Ÿ5©Ÿ @üÔŸõlÞâõ<*«ð@¬›bGÎîº_-Åÿ\îÊ÷^3gâe*£<éïr(üè=Ýš2e
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(527, 668) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1189, 122) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(43, 1160) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1569, 582) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1031, 308) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(861, 1234) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(419, 1184) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(89, 1054) -> +‘Î´wôÊ×ö*Õ‘€l\½PWs’‹°¬¬]=£$^ÿ9È
+ žéj£•”h¯H÷
+os[÷lõ/`±èNb:E{P‚×ÀáKyànv‹¥¡˜ÆÙN ¥Ÿsÿ¤ÿQH˜ô!«ùaüâòX÷EÍÄ?mf	Š¾7Áq‘:Î[šV§îI‰W!˜|Ã€÷È
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1279, 716) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(277, 1066) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(539, 1976) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(401, 246) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1271, 1892) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1485, 1666) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(403, 1488) -> ‘Ü²´ÖÝ’ŽÞõ»>¢Û‘ìfÞC
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(457, 206) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1007, 1788) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(389, 986) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(11, 1768) -> ]w
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(257, 934) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(487, 404) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1085, 1074) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1411, 768) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1849, 382) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1759, 1836) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1525, 1930) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(507, 536) -> _^\s–œ›î]K¥ _3Úô}tÇÍ×t¢r”¼¾Ž÷¥
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1137, 598) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(727, 1988) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1709, 1506) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1395, 1072) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(169, 1582) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1487, 860) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1637, 1850) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(2027, 328) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(993, 1286) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1991, 500) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1309, 914) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(355, 352) -> '<wè•ËÊ ¤q"´å¢v,*íAÁ­sÆ.Þmz]º7R¤ùdðc¡@Ý¦Óî”VÀFC–®Lq¡wÐ`+ª&U¾Âb&Mb®=@»]K¥¶Ç^+€¬~1±P”‰P¬
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1561, 1758) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(191, 908) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(725, 746) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(475, 1144) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1873, 950) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(183, 36) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1933, 1346) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(339, 656) -> |ëAOÕp®ÝQåðš1‚Mª´ÓÁ–WðîTøÝÆš8^pûk#éc]ôÃ5ƒQù§ùï·ÖøQØD]€U.åäÄ¦Ð%º$•žžŒWŸ¨4×¢Ë[Ê¯ÿŽ(˜ÌËuªù×tN–KÈQ0‘xžì1FkCÚÑ&}3jî_¶òóRº¬×{÷v]Ò;/…—)l×Éê¸‚"ªd9ŠLwR”w•‹v(´Ìþ£µlUÀ™¤û1ß´†’¡×5mè§«äÐå·"—æeöh~XšˆÛšXUÅÍÂ¥]¥ÂþÖu† üÔ3›]â,äñkXT>º2”yŸË£¢`G$ Š{Ìz–r8H®  ØŒ~)-l¹@>9,Û[Y;îàõ0óBðxçÁ§àÅTtpu‹þËÜÁÂÁ×ÉGŠªÞuþìÄú‡Ýš¹`p±Bw«ÝbµyÞ8ãÀÿRx^ƒ°˜m÷Y·Ñ¸‘9®¶_fn·”zx‚¢\@œÂ’¨7Uÿ eU%ôàâåc’hƒÕÑÜÜUýµÂÿ‚Úx”i[±
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1929, 910) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1967, 1980) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(837, 666) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1995, 936) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1729, 1638) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1447, 596) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1533, 754) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1347, 1984) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1273, 1086) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(671, 2028) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1973, 1610) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(443, 1752) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(561, 1302) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1687, 132) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(109, 1186) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1331, 240) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1641, 238) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(399, 1052) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(37, 1530) -> ÎÝ³2»Öž‡k&«ÓÓzÊom.¾áSZhcoLÐçWOŠ+VBÑÜë;;‹ÍFÓŒ¼\l£éSÇF‘%öö¯ÑºU¢‡2B-Ô~\¸».‰ÝÈ)"ŸŽnÈÕ"1)Â·<ã½Ä¨GuCöéûé;ç>ú9îkHyÝ\õÄ]î«Ž]‚&ÌGŽñ–nP…3áî'm!OðâJ“c…£iÿò†Õp‘Èi°vqUiˆÂ”Á„mzgõ¨‡’^Øuû9VØ6ð®{(,ù3U¥»Î'%IPX/ýÎºI“MN”¥E8vŒ¼‰~qê¿²Öj4ÊVKß»¸€cÍw·*…á}Ù¢„™-ç?ÿn>
+N¼,ä˜
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1963, 1544) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(417, 1990) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(903, 692) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1757, 594) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(291, 1568) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(985, 414) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1151, 1100) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1173, 426) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(411, 312) -> @õq.þwû^C%Õ
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1297, 1654) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1143, 228) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(333, 1026) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(275, 1872) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1353, 1614) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(879, 124) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1285, 346) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1931, 104) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1153, 294) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(359, 788) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1981, 434) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1283, 1152) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(697, 1790) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1631, 172) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(373, 1290) -> …™bV¯ni6ôw˜/|Áò‘AžÄFéÑØÁ²»ä!ÅGe²ßµl·D¯¶Ý<²f:@6ÏYç°Q•3ƒt¶ëÆƒþi¼¥4×’;$Q‚ÆLDÞñòâZJ®ÒlýÂ}éÍIIQç¯:«Kåãî4|¡4ÿìj–AÿˆÇÒÚ^IÄ9†:µg/£ƒXgŒÁPBÑÆùå	‘ã³€¤²:0OájûÁì“˜…HŽV‡­0cïÙ\³cùYßw^»×G:ŽzÌH¯)\IÑHEÉ+¦þ€2å…Q¥«ùt‚<Šo.¡«g¶#‘A.YõqÀGt\)¨¬Ã2‹™3@ÚÝö’@6´ÃN²L8ñóQÌ€½æÞ§8•I—K
+s&i›Xš1» Ð1M#Ç{)»Ñ×_—ÿÍE>â|AÐj+0R–S
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(379, 920) -> 5|"ÁÌšÁF„;‡Yþc†MW´y¨5‰´¢“ÒÍ[M²àjÚ„Ü-£&ÚîIÎI»"o,Œô”wùbuÉ½ï)?Æ7UÐÔ=qê"3{é^cÒ–+_LœÎvp÷O\dì9C)×¢„¼óRÕ~ô'L}Šxã¤	UKð·/€"ë§—S¾‡È,BEW‚X‰©>?…cJl-L/Zë»Mw{–½[aü×.(ÆêK)ŽÙ#_ª«ñÛõdPAAŒðÜÃ!zôä{÷šs¡’ók¶Ç”´°³“t¯ãÕð²\(qhôë"±”³Á¸\¤KüŸ!"àA­3+=”–«¯¥ÌÝLŠ
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(2033, 2006) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(599, 324) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(557, 866) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1267, 1456) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1065, 942) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1359, 1244) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(485, 1210) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1899, 712) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1889, 646) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1863, 884) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(157, 274) -> ^óh}}ª®ÖJ”v¾LÙ]~oÑ «áÈµ€õyŒCýë8ÉÂƒBÍvOÚå2¶È¹bñNâxa6Åáæ‡féFj8d%,Œ±k]¡þ¿`‰7±_£íðUý=ã}®Î?.Ø$–j!sƒA·:Pcoù0×RÓUÑ!·EµØ¿.9ÛDàÝYŽŠ{ö`°&7<U«')¢“B8°5V—µ'‡|ÀT[StÂÓÌ£ÕéŽjcÍûa®.Y|‡‰!³úÎ•c8A–+e—ÔJYß2Ðµ2gk‚u.ýæ¨|
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(227, 736) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(409, 1118) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(63, 1292) -> õ¨´
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1621, 106) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(347, 1528) -> +ÔU™
+’©2èÜûSˆ¬‹bè^Í©¿ªaû !õ/»â0)À¥jkÛjA³ÆÇ—cMº¥ìÚ~0]‹1pÚ…Uš âèË%±ëb9¹'+8HÔn·SÕŸ5§E+ÝPéa-éô¤ÎRJ,Íj&FÚºöö>ú¥­óZ‰$Ôuœ	¬ÀÅC
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(721, 310) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(55, 420) -> BÚ05W0Æ'=àB°«ŽÆËRS‡ß,È3°¢Õ³ Bº–Ô8Ò+<˜Å[Ü?»ÁÆ\¤d§Ë0H4ÛãFCeêÉ0ÿ3ø¶ÎÐÛäØP…ßÝý]üðÜ™©¦M¸l†éGxJÔñ·ìÃv:0ï•EÒ5Œs†aAM¶Ã‘Ißµjg×'±èŽËÙ£ü¶Æ­“~n¯>7=³Øå«ƒm²®‹K£†úø‰øû³Ñïg µQb9§JµÒWgß/Çv¤ˆÝñßŒÀ…×/pqÜþy§²!ñ8aä’ýc96­`lòG¶"#·Ç‚÷ì³_¢]n(<¦»ºòìkúC2ÔŸÃ_°]Š”ïG:#ûï]°%¤HbV**§ÓI”›ÎqÕ»‘þP·IÍêhô“É„çë¶~7j#zŒÊ«ü.:^a³ªdàŽ«[ð
+ƒ¸½~Ð3Xº²vîõÓ™7—hE ™’ÑsVÝB§}´¸Àp©‘‹ä»GRAòžVÛçÚ°³ü½û‘‡Q3£6}†ÁÇ=þƒùŠ±
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(781, 706) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(211, 1040) -> R	Û…Ó–Üsê×óæXp£Hú¡w<LZ†S
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(777, 270) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1839, 316) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1733, 26) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1867, 1320) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(577, 998) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1319, 980) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(381, 114) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1219, 320) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(121, 446) -> ¬ÝY~Ìí.]îTC¹ ƒªl>h”yDçœ'’@ÎÂ¶2é3]ËÁFj!¸xL5¾‘o\ùæàdÃ/>Iñ¬œå¯‘X;ÏèN]•ÿ#‚£¢tRaá{Îñµ7^×ÉÒÕDÔÕ( ºîÚb=—ïUl;…JVj¾›r¦rÏÖö¯21ÅxŸ«Î‰3©CÖ$[šÐÈ	£nz;à¢éÑ¯ã¨ÞåQÒšÅ2¼¹´?K³V~È°Çx%åhÞíN"ò„mÑ†OÌhÙeº˜rÀ¹Ù¶8¸L`öjºÑ3û!FçrÊªå™@ªÒ‡#CpQŽxœR FÙ‚“E?»÷Š4dŽu‰YCøGUA65MtjQŠ#UmŒÙß•ÝˆÛ¤Ž,ÑíDà›„Žèüóî„]MW1SÇŒ¦tÇÜ~÷Š	ü0‘Ã{þãEØŸb‚<œHÂÝ†IýŽiæ~ù‰y„uÎp-R¶l"’ÊjlÕ2I‚>V¿VãIÝµ”ÝšU€xn¬9®¨×lq‚šýÓhÔþö2eS9€äùýÂ'-’àPœa»l
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(543, 364) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(821, 970) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(315, 88) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1457, 662) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1559, 516) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1005, 546) -> á¼XÔ]PäÌ'7¥ŒtjáÚ)¢ä õŒSÿÇ'sXjÅ5Tœî„°XIH^n9W›Fýø¯!‚§´4jÄÍ5«ý'¤æ|±ÞˆÑ›ã¢žâ‰²Š-ÒY:gŒþðk;ÂÃ2Bò²ë`g‹mâ}(ÞŸ—z7;Ÿ æ¨‹ækÆÅNö°ò›Ë0Ê^-•zÝ¹.r˜G¨‡û*êü
+1ÍM-Ïƒ‡Ù,àw[¥¦œ0iÊs`×qâ’o¨RÝýÝ·ñüog€$/¥¼_5}ª5ƒlPé’î¼39›7W…=¶e§H¶‰“¢ò´’G-"âô=$”,+[œÎò!÷âf¥HòqÓÓ·3 @¼±+_=*–Á°+™ÿ¥©}ßÊyP=„â$’3‹£üS$â¿¯ˆï‚yHf³vk<š>	ü¬MdÎo8GÕh÷Áô²pXú½E³`KP<þ]Ýˆ×%˜ã·oMÃ|ýéí5´+å¶nm#d¿~Ãov=ïÐòú+Œ§€|21*vÕ€¿8Ó1BhgÉ{ ,VV3fA¢È_mßñ]Lr¼0bÙ-¯÷k±Ï£}ªà•ä¯R^NÔ†ØÄ1>ž‡¶+À‚“	F¯Q€g®¶§Ï€C[t^õùb6ö$×µ©¢J`½K¥çÅšBóø]G·K)"›ÛdEý“³—’ãn
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1203, 624) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(489, 1646) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(271, 1436) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(933, 890) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1835, 1928) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1313, 1350) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(775, 1076) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(605, 2002) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(163, 1952) -> ÂTeì¹’„Í«]i¹b¿J£ã•Ï;*:ÆÎü_»†žgàGõvW©QN,6±úÿ¸où‹Q¼O™!"ê:œ‘T‘{#ƒ£/o²>¼;>­$\â¯
+èç€P]Å#r¾Z„¡Â•yùÉãc}Z“ç`¬µ>*Ìqk&òA‹>ëñŠ×Á¸‹«¤Óƒw¶tpB‘)f²G™Â¢a-Ní¾+^|A2‘€=&%HÒÞ â'85¡­N©´®0êÎù]>Ç|LºD„yVëÌn÷!nNf‰üòÁ4‡*â*2÷"H>h¸QaÛ•ÿ$¾Ý‘eðËTÔùôOr×#èË‡öVòR5ÊAÜõ]Îîq¸¬þ£…æ„¦™<üËÞ›¹}^pÕáG€ü³;DõÁ•9æ9ìÜ×Ëw[ð…ç›ŠS,@ê,„–Uæ12s¨J¸„ÍÞ~BWƒ>pÚ]VD¨b®ŠÚ6úHøÁö+
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1881, 1822) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1023, 1484) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(21, 1834) -> r#õË^,y-W<[z«öá†\<öÀýpý¿žŒ
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(283, 696) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(145, 1014) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1015, 612) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1229, 386) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(147, 208) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(201, 974) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(751, 508) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(133, 1754) -> E©ÑˆbJá«a/afJç1åçlsqÄ¹BNŠñnËOô
+sÑ?:¤!‹)Næ!!SEƒsŽEÜùþ$éµ]1™Ý¼3‚f¯°Â9å"ºÔ¨/4ñ¼ÈZt¼Œ`,ÜMÄªNfçv¤Ñ5?8š½Þ²Hž#ô9ë69kh¾fˆªÎäœ~@}Êõþf•‹/¹ýUQQëÖÆ¡Ž;l~Z¯zÛ3Wß´Ü¦´'À¿æcÅe¤;ƒ¹³Ò¼nƒié’„u Ö<1žr*{’1-š $œ-Úq#×þá`¨r'AJ€ñðQ°‹þ+(xj·^,@e’Ÿ,¯ô¹; 0[â´VªMßÑG›Û-HÑNí{«]i÷"Àóê]A%[Ùsd_çØRœ	ÐÒëŠNužÈ{Ã(kAÒŒc•«‡£†\|Ÿ
+Ý#†ƒ£ò?G&§SZƒº±åÎì´¥KÃ‰[*Z\åþ¿›†´ê[ó€Ào_Ñ¨CÆCè‡ èqHÝÀËÞ7ü”C9ïàØ@ÄérbÂ%c¼d"2£m‡ª«›ÉÞðô#!Þ(lo`>£ö6RÃbQóy¿ÜŽLO‘Î”<›EÏjýâ[….¾+¿cçÒkŽ’WÏVÝx{êÖÒR‰¯‰£)%$ZjÖºÁ^—ÿ¦G9¬.¶k6µ¨•÷Ûì¥„×ú™,«½‰Eî. µZEMâ×XúU	dIÄ^³ðôp7º7£Ï4ï“©Rìë;³ytþz`‡Äì2î&GTcT¡±Ìœ"8»:˜™ç?˜ø3fÎªÔyùÌU.ÿ($7qDšªc‰ÇžþÇƒÑž«¥J·ª6gªŠÊx<*é_ˆf¹‡uP7ü&¢+í¿›Ìã÷2¿bˆ€u|ÔÍ‹uq×O¾^gÛW‚Ê×pT·8éÝzhØX!ùp°"ƒ"™¥pú@úË˜1>Ÿ	ßZ€å&QrAyQžÎößÚ¦ÜMe±þ÷_¸5gTG0W| 	ä¬ô†¡‰Pò…Oð\†û.3šjBR\}^f< ç¥»EÙ“—†¢óÔx92„ùP0v^Ï¤‡òx¦»ÞE-{
+
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1803, 488) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1, 1702) -> ®’¶à¸òfì+8ÚÛäP}×(¿s,"à)Õ]
+³†úr¯iÊ²—vR+Ï>õPí~"Ê*ÜkÜàã]ê)ž+&f|ƒñÇ·-;êÅv‹øA¨Ë~™JÙ}ÎÑnšŠ
+gµß(3ì­å\Î¹<â!@Ë]e:ä éP¿Ü~lñÜ/d>J’%Ô@šZªFøÃÐ"Ø*ø×Ó]pH$Z[nÉŒ;ôïÅB’úX)Âë£·{ˆ¤áa³äbÍâ:wdÕÞZO_OP¤º‚)ÙñöUdvþËyZ8IXµ¬G­‰äî¥áMÀÐ¼ÆK&LÒådÙ˜^}_ÈÑèF1HÛµß:ï¸pÓ=R½UÈ®5W#W] \¿±ÎšÕqø¨%õ8‡+ Ï—ÿÈß+.È1øL)é×vqÿHo,û$®*êÍ¾bØªJlÊŒßYRnßjånú(ºótÃrrC°sÿš	3÷ö2ÆÝÙ¨w™Pçbãí¹Ók‰C]È»Ìº'Lf°&¹ú·)I§Ž&<¯/,m*M†ÏOEX:»ƒð(Ó(Se1L‹f¤µ¸pDï>#íÅPÜx¿k ‡Ó1×¯ƒ™Ä=¯Ÿ™úÜMËˆžKùñ\\¤¼bK®²Å“”múÑj¥5ê›:ƒü^¦øO´V´Fn¶¢âaUÂ¿wÎ·úÜ&ònºïz¯ñ½'¨ø;‘xRLÝÆQbïªº!ÁMFõ½Âð‚	B§Æ1Øáº†Þ¸¬HG–sí®·ƒ³•¢èó·Q¦öš&‰~Øä,Œç`ˆ
+°ÃøN
+d9ÿ•—&’Ý-?j<4
+µ°:“|­×úJBå”†4_¹òý¥W~ý%€MéÃQî ~âGn?î<Îr£LèQiƒy‚Â`NÜ#‡~ú•+j‚9v3’E„°55È°Þ)DL|cY8TŒÚ‰ø+L"“–sÀQ%ÇÑÂlvyGîã#C\u<Z%8ü}î™QW®Ðv\ˆ[å¶ò¡²øµ0=m…Â€äŠæÇw
+Œï{’ŒÏŠm¼™ÛÈ½‡ôâ0êVŒÁ0ùØYKâîØ‡NÏø–ü„¦ŒÏiœZ‹·k	çÙ¾YXH·L¥èDÄœß­ª¹ò1b=)9ç/÷¾°5öI0¨‚dÓÞÃ·5^2+à+>èqõ£*CyìÉ^{=à)ûräÛX¾Æaò!¬B}Òm°ò"a¤¡L­µ7_;‹"j[Ðs@“ºYRÂ3“›ÛÞg<?¡a°¤Væ‹â»ÆÄtDH¦˜ÝèH„*Îí PeV`ñüWvÃ6„dßò<¿Ûjø}pGVõä M¨«”§"ø½=ð«¤bYÕ)Z~ÁÊòÊ¸¼Ê¨Ü·úö6ÐÿÖÙñÅg9:&¯ð	=ƒr*çžZz9Q‹x#Iâ¢FËî6_”ï ¿É?M>8l=‘Ô…Ú÷Q>ÃÎúE{¾;÷ˆY@„C
+ëxºs9“ÏMçÿÆâNp5Ô
+Ã©pÿ™.CòâþÒ&QrQéËK¨väìÊÜ(Ï¶„%èŠ¡¢HÞPßßR«,B·x;ØD¦'ÖN…Z.Ë.HñÀÏåÃK-5%9 ×Øèôn Ð0Ã°£&\I5ìmê¥¸nRj H78@ŽKÈ9½œb×«ÓXGi19Âz-ï1‚=5Ù4ˆ^NÕ
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(231, 1172) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(829, 1842) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+ft_substr(1155, 1536) -> 
+1 unfreed mallocs
+0 unfreed mallocs
+stderr 0

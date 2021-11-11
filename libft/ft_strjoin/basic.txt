@@ -1,0 +1,4 @@
+stdout 64
+ft_substr() -> Hello, World!1 unfreed mallocs
+0 unfreed mallocs
+stderr 0
