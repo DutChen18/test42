@@ -1,0 +1,10 @@
+stdout 226
+ft_lstiter() -> ()
+0 unfreed mallocs
+ft_lstiter() ->  <97> (16 97, )
+1 unfreed mallocs
+ft_lstiter() ->  <97>  <98> (16 97, 16 98, )
+3 unfreed mallocs
+ft_lstiter() ->  <97>  <98>  <99> (16 97, 16 98, 16 99, )
+6 unfreed mallocs
+stderr 0

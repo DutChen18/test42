@@ -1,0 +1,5 @@
+stdout 114
+ft_lstdelone() <97> 0 unfreed mallocs
+ft_lstdelone() <97> 1 unfreed mallocs
+ft_lstdelone() <97> 3 unfreed mallocs
+stderr 0

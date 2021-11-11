@@ -1,0 +1,10 @@
+stdout 188
+ft_lstclear() -> ()
+0 unfreed mallocs
+ft_lstclear() ->  <97> ()
+0 unfreed mallocs
+ft_lstclear() ->  <98>  <97> ()
+0 unfreed mallocs
+ft_lstclear() ->  <99>  <98>  <97> ()
+0 unfreed mallocs
+stderr 0

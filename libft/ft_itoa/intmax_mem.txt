@@ -1,0 +1,10 @@
+stdout 176
+ft_itoa(2147483647) -> 2147483647
+1 unfreed mallocs
+11 malloc'd size
+0 unfreed mallocs
+ft_itoa(-2147483648) -> -2147483648
+1 unfreed mallocs
+12 malloc'd size
+0 unfreed mallocs
+stderr 0

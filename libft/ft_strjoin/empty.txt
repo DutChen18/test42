@@ -1,8 +1,11 @@
-stdout 155
-ft_substr() -> 1 unfreed mallocs
+stdout 161
+ft_strjoin() -> 
+1 unfreed mallocs
 0 unfreed mallocs
-ft_substr() -> a1 unfreed mallocs
+ft_strjoin() -> a
+1 unfreed mallocs
 0 unfreed mallocs
-ft_substr() -> a1 unfreed mallocs
+ft_strjoin() -> a
+1 unfreed mallocs
 0 unfreed mallocs
 stderr 0

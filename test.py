@@ -3,6 +3,7 @@ import asyncio
 import os.path
 import os
 import tempfile
+import secrets
 
 whitelist = sys.argv[3:]
 proj_path = sys.argv[2]
@@ -24,36 +25,49 @@ class Group:
 		self.tests.append(test)
 
 	def start(self):
+		asyncio.run(self.start_async())
+
+	async def start_async(self):
 		if test_mode == "record":
-			asyncio.run(self._record())
-		else:
-			asyncio.run(self._run())
+			await self.record()
+		elif test_mode == "run":
+			await self.run()
 
-	async def _run(self):
+	async def run(self):
 		if len(whitelist) > 0 and self.name not in whitelist:
 			return
-		results = {}
-		for test in self.tests:
-			path = f"{self.name}/{test.name}.txt"
-			result = await test.run(os.path.join(test_path, path))
+		results = await asyncio.gather(*[self.run_test(test) for test in self.tests])
+		result_str = ""
+		for i, result in enumerate(results):
+			test = self.tests[i]
 			if result == "OK":
-				results[test.name] = "\033[32mOK\033[0m"
+				result_str += "  \033[32mOK\033[0m "
 			elif result == "KO" and not test.options["opt"]:
-				results[test.name] = "\033[31mKO\033[0m"
-				print(f"\033[31mKO\033[0m  {test.name}")
+				result_str += "  \033[31mKO\033[0m "
 			elif result == "KO" and test.options["opt"]:
-				results[test.name] = "\033[33mKO\033[0m"
-				print(f"\033[33mKO\033[0m  {test.name}")
-		results = "".join(f" {v} " for k, v in results.items())
-		print(f"{self.name:16}{results}")
+				result_str += "  \033[33mKO\033[0m "
+		print(f"{self.name:16}{result_str}")
+		for i, result in enumerate(results):
+			test = self.tests[i]
+			if result == "KO" and not test.options["opt"]:
+				print(f"\033[31mKO\033[0m  {self.name} {test.name}")
+			elif result == "KO" and test.options["opt"]:
+				print(f"\033[33mKO\033[0m  {self.name} {test.name}")
 
-	async def _record(self):
+	async def run_test(self, test):
+		path = f"{self.name}/{test.name}.txt"
+		result = await test.run(os.path.join(test_path, path))
+		return result
+
+	async def record(self):
 		if len(whitelist) > 0 and self.name not in whitelist:
 			return
-		for test in self.tests:
-			path = f"{self.name}/{test.name}.txt"
-			await test.record(os.path.join(test_path, path))
+		await asyncio.gather(*[self.record_test(test) for test in self.tests])
 		print(f"{self.name}")
+
+	async def record_test(self, test):
+		path = f"{self.name}/{test.name}.txt"
+		await test.record(os.path.join(test_path, path))
 
 class Test:
 	def __init__(self, name, args, stdin, opt):
@@ -105,7 +119,8 @@ class CTest(Test):
 		self.flags = flags
 
 	async def setup(self):
-		out = os.path.join(tempfile.gettempdir(), "test42")
+		token = secrets.token_hex(16)
+		out = os.path.join(tempfile.gettempdir(), "test42_" + token)
 		cflags = self.flags + ["-o", out, "-I", test_path, "-I", proj_path]
 		if self.options.get("asan", True):
 			cflags += ["-g", "-fsanitize=address"]

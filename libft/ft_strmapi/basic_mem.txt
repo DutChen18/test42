@@ -1,0 +1,10 @@
+stdout 154
+ft_strmapi() -> HFNOS1&^W{VO-
+1 unfreed mallocs
+14 malloc'd size
+0 unfreed mallocs
+ft_strmapi() -> 43
+1 unfreed mallocs
+3 malloc'd size
+0 unfreed mallocs
+stderr 0

@@ -1,0 +1,8 @@
+stdout 22
+Hello, World!
+42
+test
+stderr 22
+Hello, World!
+42
+test

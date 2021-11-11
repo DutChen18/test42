@@ -1,0 +1,5 @@
+stdout 56
+ft_strjoin( ) -> ()
+1 unfreed mallocs
+0 unfreed mallocs
+stderr 0

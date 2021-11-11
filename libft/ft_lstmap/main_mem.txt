@@ -1,0 +1,14 @@
+stdout 247
+ft_lstmap() -> ()
+()
+0 unfreed mallocs
+ft_lstmap() -> (16 97, )
+(16 194, )
+2 unfreed mallocs
+ft_lstmap() -> (16 97, 16 98, )
+(16 194, 16 196, )
+6 unfreed mallocs
+ft_lstmap() -> (16 97, 16 98, 16 99, )
+(16 194, 16 196, 16 198, )
+12 unfreed mallocs
+stderr 0

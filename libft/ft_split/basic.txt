@@ -1,0 +1,14 @@
+stdout 287
+ft_strjoin( ) -> (Hello,, World!, )
+3 unfreed mallocs
+0 unfreed mallocs
+ft_strjoin(,) -> (Hello,  World!, )
+3 unfreed mallocs
+0 unfreed mallocs
+ft_strjoin(a) -> (Hello, World!, )
+2 unfreed mallocs
+0 unfreed mallocs
+ft_strjoin( ) -> (Hello,, World!, )
+3 unfreed mallocs
+0 unfreed mallocs
+stderr 0

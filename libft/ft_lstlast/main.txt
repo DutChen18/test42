@@ -1,0 +1,10 @@
+stdout 160
+ft_lstlast() -> ()
+0 unfreed mallocs
+ft_lstlast() -> (97, )
+1 unfreed mallocs
+ft_lstlast() -> (98, )
+3 unfreed mallocs
+ft_lstlast() -> (99, )
+6 unfreed mallocs
+stderr 0

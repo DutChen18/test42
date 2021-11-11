@@ -22,7 +22,6 @@ void
 		free(str3);
 	}
 	printf("%lu unfreed mallocs\n", mallocs - frees);
-	fflush(stdout);
 }
 
 void

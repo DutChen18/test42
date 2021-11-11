@@ -1,0 +1,3 @@
+stdout 24
+ft_striteri() -> (null)
+stderr 0

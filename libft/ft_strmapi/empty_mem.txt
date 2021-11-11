@@ -1,0 +1,6 @@
+stdout 69
+ft_strmapi() -> 
+1 unfreed mallocs
+1 malloc'd size
+0 unfreed mallocs
+stderr 0

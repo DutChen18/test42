@@ -1,0 +1,4 @@
+stdout 43
+ft_lstnew(1) -> (16 1, )
+1 unfreed mallocs
+stderr 0

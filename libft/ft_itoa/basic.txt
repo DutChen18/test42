@@ -1,0 +1,11 @@
+stdout 158
+ft_itoa(-1) -> -1
+1 unfreed mallocs
+0 unfreed mallocs
+ft_itoa(0) -> 0
+1 unfreed mallocs
+0 unfreed mallocs
+ft_itoa(1) -> 1
+1 unfreed mallocs
+0 unfreed mallocs
+stderr 0

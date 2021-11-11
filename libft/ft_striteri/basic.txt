@@ -1,0 +1,4 @@
+stdout 51
+ft_striteri() -> HFNOS1&^W{VO-
+ft_striteri() -> 43
+stderr 0

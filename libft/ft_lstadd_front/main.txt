@@ -1,0 +1,6 @@
+stdout 105
+ft_lstadd_front() -> (97, )
+1 unfreed mallocs
+ft_lstadd_front() -> (100, 97, 98, 99, )
+5 unfreed mallocs
+stderr 0

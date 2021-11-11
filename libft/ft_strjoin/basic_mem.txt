@@ -1,5 +1,6 @@
-stdout 81
-ft_substr() -> Hello, World!1 unfreed mallocs
+stdout 83
+ft_strjoin() -> Hello, World!
+1 unfreed mallocs
 14 malloc'd size
 0 unfreed mallocs
 stderr 0

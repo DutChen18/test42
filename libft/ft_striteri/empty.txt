@@ -1,0 +1,3 @@
+stdout 18
+ft_striteri() -> 
+stderr 0

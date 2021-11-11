@@ -1,0 +1,10 @@
+stdout 144
+ft_lstsize() -> 0
+0 unfreed mallocs
+ft_lstsize() -> 1
+1 unfreed mallocs
+ft_lstsize() -> 2
+3 unfreed mallocs
+ft_lstsize() -> 3
+6 unfreed mallocs
+stderr 0

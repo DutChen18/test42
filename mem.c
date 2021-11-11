@@ -13,12 +13,28 @@ size_t
 }
 
 void
+	*libc_malloc(size_t size)
+{
+	void	*(*fn)(size_t);
+
+	fn = (void *(*)(size_t)) dlsym(RTLD_NEXT, "malloc");
+	return (fn(size));
+}
+
+void
+	libc_free(void *ptr)
+{
+	void	(*fn)(void *);
+
+	fn = (void (*)(void *)) dlsym(RTLD_NEXT, "free");
+	fn(ptr);
+}
+
+void
 	*malloc(size_t size)
 {
-	void	*(*libc_malloc)(size_t);
 	size_t	*ptr;
 
-	libc_malloc = (void *(*)(size_t)) dlsym(RTLD_NEXT, "malloc");
 	ptr = libc_malloc(size + sizeof(size_t));
 	if (ptr == NULL)
 		return (NULL);
@@ -30,9 +46,6 @@ void
 void
 	free(void *ptr)
 {
-	void	(*libc_free)(void *);
-	
-	libc_free = (void (*)(void *)) dlsym(RTLD_NEXT, "free");
 	if (ptr != NULL)
 		frees += 1;
 	libc_free((size_t *) ptr - 1);

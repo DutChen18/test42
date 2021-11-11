@@ -1,583 +1,710 @@
-stdout 131050
-ft_substr() -> ¶b.ß<ù5ýK”(Ê	|D³^–_³êm¬Ô-ni¯àæ‡LœçÒ6],`Éêôyö† ë“&äbÕË³wjj:hºŽÛtFžóÎ³
+stdout 131562
+ft_strjoin() -> ¶b.ß<ù5ýK”(Ê	|D³^–_³êm¬Ô-ni¯àæ‡LœçÒ6],`Éêôyö† ë“&äbÕË³wjj:hºŽÛtFžóÎ³
 øÐÝh»ø_ú$òÒü‡û\‡º´82¥›=|÷xÖâmø‘)~“•ËÅWÎZñÔ×¼[~™eñ¢”qÄ*¬j©8ÄuÇ­28;,™üëÞÏhºà|¼Ö—š¾—cÓ’ü¯ß¢Œ—#EbëÝepÿX‰jÏ÷Êî?éä
 håÞ“8œ}½×[	Ôçâ3D?JŒÄ¡Ö¸¸Üa_ÑŽ(¾YªPPŠj6)æpßUwºÜDmC»©ÖÀö{apÙ-Ér[$~ÂâÚ±²ž €t7šoÝ.^rõ	H¶XÑ—éÃŒ±nÓÝDb2§¯?úÞÖÎ†ËW Gä[¾ÑE´6ÕˆþÒ)–7(—=òvµà¬<`pæ›@,˜-ÓL¦ËÀ`E~àÝ¥fôÒà#‰•$_!X°bš#t^“uöPTë?r_z7Vô)¶JWšCJHª…M/.˜ÿJëÕ²ÄžÖŸï¹4£œ2ƒðRù6ðÞùFùy2º§Õš<ÄÂº±åÐ$~ìÞwÕmDÂÄÃôò.L<Õ)'‚´œl``áT­Zü× Q¬Äµåg»’,ß¡R™nCµÔ"’˜i·K˜üînÝùE)±³÷rqœõo…Üx”µ3WÞ0S¾º«)Q•Bd&!jš"À"i¸lº9I¢îÈ_Eæ‹þçVYb¥)°hš#œQî±?¬Z}ÄÿJ“ˆÕsæèKÕJ×—}B7}øf*uñ—A@O2)ðÇ€…bÜT¬[{^äv
-ÝßðNÙËÔ“DZÑUfƒñÔ$¿knÕxœñœ0Ç ˆrly*¡u´‘–©Ø&„mFKH‰1 unfreed mallocs
+ÝßðNÙËÔ“DZÑUfƒñÔ$¿knÕxœñœ0Ç ˆrly*¡u´‘–©Ø&„mFKH‰
+1 unfreed mallocs
 730 malloc'd size
 0 unfreed mallocs
-ft_substr() -> DèOTÑ$j¶mÐc'ò¢ýY¦áÀbtK=ž¾ÀeËšyœçŸ1PŽÐ”„| +çf(©ÞdÝ¬È£ŸÞq»'–œÁ¦0“¦m¼¼þà4R‰C
+ft_strjoin() -> DèOTÑ$j¶mÐc'ò¢ýY¦áÀbtK=ž¾ÀeËšyœçŸ1PŽÐ”„| +çf(©ÞdÝ¬È£ŸÞq»'–œÁ¦0“¦m¼¼þà4R‰C
 *ã‘šŸF¥«“Ë"H¨ù_è)»{pŸìSÌ&šƒ	<þ*r«à›¼ÇNÿH7k9*©ÁeNƒÛ„®áþÜt2å™2>2
-Ï/Þ‹E¢ž_ ~üÁ„ÃùÿÊj¸±úë·oêô3ºÌ|Ðt^Ý^©IÚ€ú1Î–~`¦(Ü¹ÄËzzÝ…÷cD-Ù¡f€H•C=œ­¢ºx0Aùõ“m‹§OnO¬ºBþ]¬ëì£ëÅÁ¦|¬ópÆ‚É¸[-	ì–ç:û#ù’BL¥Ã±´‹Jä*›{(×ãÅSã?º±çD(É§ó—&«ÆfèÒF}l\ Ò5åùd2´g€ït÷Ú~¬úp#Â6‚	Õ.Ž]Átn†e²·’K©íç­1 unfreed mallocs
+Ï/Þ‹E¢ž_ ~üÁ„ÃùÿÊj¸±úë·oêô3ºÌ|Ðt^Ý^©IÚ€ú1Î–~`¦(Ü¹ÄËzzÝ…÷cD-Ù¡f€H•C=œ­¢ºx0Aùõ“m‹§OnO¬ºBþ]¬ëì£ëÅÁ¦|¬ópÆ‚É¸[-	ì–ç:û#ù’BL¥Ã±´‹Jä*›{(×ãÅSã?º±çD(É§ó—&«ÆfèÒF}l\ Ò5åùd2´g€ït÷Ú~¬úp#Â6‚	Õ.Ž]Átn†e²·’K©íç­
+1 unfreed mallocs
 380 malloc'd size
 0 unfreed mallocs
-ft_substr() -> J‡PYñÎ1‚Ô~›cüôMš1CzTñ2¯÷jql•&á†qËÕÃFÿ·OœiVezñdõA8<X6,D`N6’À„Ø(KlS0lÆK‘u¶Æ³0§òPÓÃe4	Âæ3sÅÜûB`€y!Û	4;ñç?œ^ÐïÖ+uXÈúú_@±ÒµJÃ•?9†š‡ç4»oÍ¯LNã°”p¤CRbV8seÁ¯
+ft_strjoin() -> J‡PYñÎ1‚Ô~›cüôMš1CzTñ2¯÷jql•&á†qËÕÃFÿ·OœiVezñdõA8<X6,D`N6’À„Ø(KlS0lÆK‘u¶Æ³0§òPÓÃe4	Âæ3sÅÜûB`€y!Û	4;ñç?œ^ÐïÖ+uXÈúú_@±ÒµJÃ•?9†š‡ç4»oÍ¯LNã°”p¤CRbV8seÁ¯
 xß”½A3-ÇÎ6Ä_ºöÖŽðsfy0;oÁ(dã’¤ÛðžgZk.Á¬oëÂÈO(g
-¿3ð—5oâÀcÞÓ3M#fÅ‰…2i¼,×ìÃéÐ^:êœ±z½(yÝ.§–±¾wÑ{”yÚÄYÀ'{‚²ý»ÐïmšÎÁ1 unfreed mallocs
+¿3ð—5oâÀcÞÓ3M#fÅ‰…2i¼,×ìÃéÐ^:êœ±z½(yÝ.§–±¾wÑ{”yÚÄYÀ'{‚²ý»ÐïmšÎÁ
+1 unfreed mallocs
 304 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ³"Ð×* O¼Â¡õ/)ÔƒUÚ§>Â˜Q¸»±ëøÖ–è€2ò‹©´”T·¤gp¥*²"*ýýX3ôú[5å7”ÏíÜ•[^J{×XøQA7”aøÄÁ=Ò’ŒüdÆ••*Á
+ft_strjoin() -> ³"Ð×* O¼Â¡õ/)ÔƒUÚ§>Â˜Q¸»±ëøÖ–è€2ò‹©´”T·¤gp¥*²"*ýýX3ôú[5å7”ÏíÜ•[^J{×XøQA7”aøÄÁ=Ò’ŒüdÆ••*Á
 šO¡/eÂ"qá3àAˆÓ¤"½*€6É’_ó‘¾m­&Ðá4Å.šc×¥¸V¯×ÔYR¢Í ¹qË)¬é×\ójU;|^Äy¿l_1UÚ™Gy;2¿ç::$–9_hzPªÞ±õÀ¡7pyy¬…z¢QÙBea{žÈº.ÿ“¦…bÁ@wâé¿¶æò‚Ñ
 •ßÎ—¬óÄ‰Ñëªô±=
-Cº`{¡=ûëá©ùÝüJÂ3·²â>¡Î²Ý¤ÃÔ‡ÈŽ_†ÒëÉ»…ŽŠgÅ˜fÈãiV¿ÐNÐ#Mèð#ß í#"Ð Që‘6€¤¯Æ-¸¡~ÿØ±ý¥i=ünG4š3y5JþðÊLÔŠê„H¡‹ÈeÃž.ŒÁûŽF–¼Ëþ=‚QÒ`&_,!j…ŸÜjÈˆ¬VGîãéS7	2êF…‚÷I‹¨Ü„lÝèš'«t/¤ÜPìëÙpF­"·{U¾¶ðëµeÜeX³™ëŽo3\[:—7ÚèüÄÑwîvÙ•þ´˜»&—Y¦‘Ï1 unfreed mallocs
+Cº`{¡=ûëá©ùÝüJÂ3·²â>¡Î²Ý¤ÃÔ‡ÈŽ_†ÒëÉ»…ŽŠgÅ˜fÈãiV¿ÐNÐ#Mèð#ß í#"Ð Që‘6€¤¯Æ-¸¡~ÿØ±ý¥i=ünG4š3y5JþðÊLÔŠê„H¡‹ÈeÃž.ŒÁûŽF–¼Ëþ=‚QÒ`&_,!j…ŸÜjÈˆ¬VGîãéS7	2êF…‚÷I‹¨Ü„lÝèš'«t/¤ÜPìëÙpF­"·{U¾¶ðëµeÜeX³™ëŽo3\[:—7ÚèüÄÑwîvÙ•þ´˜»&—Y¦‘Ï
+1 unfreed mallocs
 518 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ©sÄ0fX`uúy½?Êžïúa:OI¹1Ï49ôï	ÊŸâHä8ç­o™^òñŠ,–!Y&Z·ªŽóÝ"^}¯l=Î8"´ ›‚Ñ²Msð¨SxMÆË±dš¥å
+ft_strjoin() -> ©sÄ0fX`uúy½?Êžïúa:OI¹1Ï49ôï	ÊŸâHä8ç­o™^òñŠ,–!Y&Z·ªŽóÝ"^}¯l=Î8"´ ›‚Ñ²Msð¨SxMÆË±dš¥å
 i"QKÚ2d½;yÇÙIoƒˆ¦3DÛ¬V†Yð·I›)•µþFŒ½ÜaœœóëàÒº@1e;åVF¤4œ
-z+f¥k@ÝÊÐ'Àñä©¼F3×ðîôéÉ>þUzd¦¨ïC>Î­ücøT0 ú!Np”åæÃÿ`ŸB3Ÿ/²Œ¯|8ŽX…Ô1 unfreed mallocs
+z+f¥k@ÝÊÐ'Àñä©¼F3×ðîôéÉ>þUzd¦¨ïC>Î­ücøT0 ú!Np”åæÃÿ`ŸB3Ÿ/²Œ¯|8ŽX…Ô
+1 unfreed mallocs
 236 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÜãfðäsL6¹(½Êørkˆ°ä§#8kŒß”H¢½í¡‡äïBfPyáÅÆØã7¿©ñO3ÎÏŸ­YòŸçë©oÐÍ	K_ÐÍåËæe{š‹œ³ŽÆãó®Š® »æi±c‘Q›ïtèöxŸ•&Lil3é!JãB;žaJžŒÜ;(Û5.{–‚Y‰ªváD\»éÇÄRfCª"UgÔ˜ÅO¬Ø½a×+ôhxn[)+Ï3¾OP×­UPyï·6æN4Mˆ]§4Î¥ˆqŽÿ‹SºœÐX:“Þ2î,M¹F:¾þenìßý¯ü0_Ãþ=¦iÙ@5ö¡¼0¯ë˜+v’ÈçÅgFæÊ×ÜÎçsiðDgÔ¯ü0_Ãþ=¦iÙ@5ö¡¼0¯ë˜+v’ÈçÅgFæÊ×ÜÎçsiðDgÔ1 unfreed mallocs
+ft_strjoin() -> ÜãfðäsL6¹(½Êørkˆ°ä§#8kŒß”H¢½í¡‡äïBfPyáÅÆØã7¿©ñO3ÎÏŸ­YòŸçë©oÐÍ	K_ÐÍåËæe{š‹œ³ŽÆãó®Š® »æi±c‘Q›ïtèöxŸ•&Lil3é!JãB;žaJžŒÜ;(Û5.{–‚Y‰ªváD\»éÇÄRfCª"UgÔ˜ÅO¬Ø½a×+ôhxn[)+Ï3¾OP×­UPyï·6æN4Mˆ]§4Î¥ˆqŽÿ‹SºœÐX:“Þ2î,M¹F:¾þenìßý¯ü0_Ãþ=¦iÙ@5ö¡¼0¯ë˜+v’ÈçÅgFæÊ×ÜÎçsiðDgÔ¯ü0_Ãþ=¦iÙ@5ö¡¼0¯ë˜+v’ÈçÅgFæÊ×ÜÎçsiðDgÔ
+1 unfreed mallocs
 326 malloc'd size
 0 unfreed mallocs
-ft_substr() -> AY5o r@æX1â»dB–ûÂÔñ=‚xšc»P¬zR1–¥ø`A’ª—ågëÅ0EmÁõ6QW¤˜ÓY2ý-›–ß#æ.ÃH÷_2k‰u›úa‡	möhYÊ‚OuÅQœ¹ã6±¼ÑS1 unfreed mallocs
+ft_strjoin() -> AY5o r@æX1â»dB–ûÂÔñ=‚xšc»P¬zR1–¥ø`A’ª—ågëÅ0EmÁõ6QW¤˜ÓY2ý-›–ß#æ.ÃH÷_2k‰u›úa‡	möhYÊ‚OuÅQœ¹ã6±¼ÑS
+1 unfreed mallocs
 107 malloc'd size
 0 unfreed mallocs
-ft_substr() -> bSõNkEqÝP¦ú>æSE¹¯`ñí6‰3¹$kž	ç¤ÕFÆn?MJ¨oÿU/»qÈEj¹M”n[YñJÏgÆÔýi/¹:;# ~Ø¯&þíŠ}_êßž@É˜<›Ç™Dl@¦v%3vÈ¾ÑÎÈæã†#ùÐ±“_âÖ27ÕŒªŸ§¤çÂÞ’âo‰aË3À­²ª<RÔüÌd¥«cG‰÷vx&5Ë¤F^ –®Ý¸µF~ÖâÞ¸=S.ÂU`Ï7'
-÷ßS³ý)·_	m²O=Æ$â°k[&NÆÝ¦¼‘1Š6/ *¦´Ÿ¯Ÿh8ÑDÚ‚5rŸ¬Œ­ÉÊlË)_ìbE¯óÁÓŒ6‚Ý¸ÍèÙÙ±Ò«‰/;ã>²(k‹r,]FBMÄpÎÉvþz¿ZdúYç±M% Ë¬Ot[å¯0Ï?Ýì4Ÿ¬ÍŽÜW€¨’úËñGØo\Ô˜I±Ç‡ž#ó;HÕGoe}¶Ísþò¼Ä/ØÏC+¥(=$‡0H5Vÿ;€OØæë*[¯ÆñŽžNª(´QšÀènd‰_À|VW>Þ%ŠuÄw_ÃÚ'×ZÚŒXãF/kkKÄ(B¡Ð>Z†x“zt×ÛrqÝÍ‚QéÆcu	ýy8Dœ ]»CÄß„¶vJH.é¡÷*¤ýÃk)"kYt&æHˆ9US˜›²Ä\óTêq-‰]¸x®¹Õ£PgÌ˜”ïcŽó5ñµA–/Ö*Œ¼±D||1 unfreed mallocs
+ft_strjoin() -> bSõNkEqÝP¦ú>æSE¹¯`ñí6‰3¹$kž	ç¤ÕFÆn?MJ¨oÿU/»qÈEj¹M”n[YñJÏgÆÔýi/¹:;# ~Ø¯&þíŠ}_êßž@É˜<›Ç™Dl@¦v%3vÈ¾ÑÎÈæã†#ùÐ±“_âÖ27ÕŒªŸ§¤çÂÞ’âo‰aË3À­²ª<RÔüÌd¥«cG‰÷vx&5Ë¤F^ –®Ý¸µF~ÖâÞ¸=S.ÂU`Ï7'
+÷ßS³ý)·_	m²O=Æ$â°k[&NÆÝ¦¼‘1Š6/ *¦´Ÿ¯Ÿh8ÑDÚ‚5rŸ¬Œ­ÉÊlË)_ìbE¯óÁÓŒ6‚Ý¸ÍèÙÙ±Ò«‰/;ã>²(k‹r,]FBMÄpÎÉvþz¿ZdúYç±M% Ë¬Ot[å¯0Ï?Ýì4Ÿ¬ÍŽÜW€¨’úËñGØo\Ô˜I±Ç‡ž#ó;HÕGoe}¶Ísþò¼Ä/ØÏC+¥(=$‡0H5Vÿ;€OØæë*[¯ÆñŽžNª(´QšÀènd‰_À|VW>Þ%ŠuÄw_ÃÚ'×ZÚŒXãF/kkKÄ(B¡Ð>Z†x“zt×ÛrqÝÍ‚QéÆcu	ýy8Dœ ]»CÄß„¶vJH.é¡÷*¤ýÃk)"kYt&æHˆ9US˜›²Ä\óTêq-‰]¸x®¹Õ£PgÌ˜”ïcŽó5ñµA–/Ö*Œ¼±D||
+1 unfreed mallocs
 570 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ói'ªz©6
+ft_strjoin() -> ói'ªz©6
 ¥åðQŒ9öäs‰iÇóêQ¼\'L‹¶W–XQvÚwCÅÞŠ_zŠôÌeÖÒ'¿U_¥ß\"ÏGØýjk”>‹çÿ†Z˜nÝƒQX“ån—õöó'ÚÚïF›(¼ýít&¨ÕÐì½ôËe“·]ÔFèKDIÕcà¥o;²Ú|øRL­?€HïŸ«U§€1VDöÞá“v1N	íë>i_
 -‹Ëô*ñSBã·pIRéEw–µz†šŸÍxYYª@ÒJ‚‚o›î)n6^ûß¡-»zX‹çØ‚iWâ2ÙA*aŽÓÀµøq9)ùü-Y³“ž@š;ÐñÚ(
 ‘	=RGŸêRA`”o¯7s˜þXQ†¼2ññž]^l·®ô‘w?Ø­íû,¼è]ÃÞ8__hÑI›6B°Í(¥:˜¦Tž>Ã¨ûDuïÊÍÂ¡¬ÇE‹[ y‚^¡6¥¬mç×0}!‰Bè
-Ã®dšgè±¨#òztí,’|‚ëm:ÏŒ^I(ô-Þtí,’|‚ëm:ÏŒ^I(ô-Þt1 unfreed mallocs
+Ã®dšgè±¨#òztí,’|‚ëm:ÏŒ^I(ô-Þtí,’|‚ëm:ÏŒ^I(ô-Þt
+1 unfreed mallocs
 430 malloc'd size
 0 unfreed mallocs
-ft_substr() -> *àêšHîVÄ)}Ü÷ùT)þõ3_ª¾%Ö`ÂeTªO¹ÈÅœ­»™Tl+S‘+WLÞ=…•O™oß:"±¢¡h„”{0X=v¤AÓ;^Ú2ŸÑö5Î_HKRaÔøÕî/´¼–°H€VwŒŒæ Fß‚·Õ²ÙÓL­†­hƒ±ËËË˜Âÿø“mgŒ‚T¾ŠÂÃç¤Š•ÀÅYñ¶KÔóñí*XÚy‘ùkGés^R’«Ký”,WÖÝEÝ´¹íÀP0´¤Pf<„”ÔµÿEö¥½Õ0®B§–j$§Ü
-˜Îq5WÏ}KöL™wºQwå[+qC”ßLH¾X/û ì´‘º²;$âO;w±é *¿’4¡_ù•Ôÿ]‹IQß	ÍTOnSaé¡Œ“3]¦'g^—PL!}êÇMxVâpc¤ÙMY!µM±À3@]N¸3Ž—îo^-Ü§Jå–›æ´Åúpv¡ëZâ¾S©Äò‰%^ö†p%Š:ëQØx—g©Í~B›z‚VáqŠýùç­l'“q#ùÛæ\3-º"ú2›1cç—*AßYµ³-¾(K`œ¨¢ÏCîtR;S9˜K“½H»)ó·%%)ÊúÇén`þüôàßƒ‘óì&Û©õð‹ÜŸI¸fÒúWs}›Ofñ-ÍWÛ¢34ÐŽH$ê+TÐÙJˆ¥pu°~¤V’Wß‘Ý}(ø`€òQ‹™r÷yêµSjWã—+ZÿM_ÖÅ2ál¡™i?]ðC¥>:7Qx‹¾b²6%jeCüs14O0VNÒG"¯ì¼‚'5‘XAöŒÆ#þ{G©/úr\ÉÿÅ6×y˜!÷-Å4èR¬Øëi¬kæ­µ‹ù|ãò8“íyv÷Úbæ„Ö]Î0¥&ã·;èö´˜¡Ëå-ï¬`úJ€1¾©tr£Z“VQT_Y1 unfreed mallocs
+ft_strjoin() -> *àêšHîVÄ)}Ü÷ùT)þõ3_ª¾%Ö`ÂeTªO¹ÈÅœ­»™Tl+S‘+WLÞ=…•O™oß:"±¢¡h„”{0X=v¤AÓ;^Ú2ŸÑö5Î_HKRaÔøÕî/´¼–°H€VwŒŒæ Fß‚·Õ²ÙÓL­†­hƒ±ËËË˜Âÿø“mgŒ‚T¾ŠÂÃç¤Š•ÀÅYñ¶KÔóñí*XÚy‘ùkGés^R’«Ký”,WÖÝEÝ´¹íÀP0´¤Pf<„”ÔµÿEö¥½Õ0®B§–j$§Ü
+˜Îq5WÏ}KöL™wºQwå[+qC”ßLH¾X/û ì´‘º²;$âO;w±é *¿’4¡_ù•Ôÿ]‹IQß	ÍTOnSaé¡Œ“3]¦'g^—PL!}êÇMxVâpc¤ÙMY!µM±À3@]N¸3Ž—îo^-Ü§Jå–›æ´Åúpv¡ëZâ¾S©Äò‰%^ö†p%Š:ëQØx—g©Í~B›z‚VáqŠýùç­l'“q#ùÛæ\3-º"ú2›1cç—*AßYµ³-¾(K`œ¨¢ÏCîtR;S9˜K“½H»)ó·%%)ÊúÇén`þüôàßƒ‘óì&Û©õð‹ÜŸI¸fÒúWs}›Ofñ-ÍWÛ¢34ÐŽH$ê+TÐÙJˆ¥pu°~¤V’Wß‘Ý}(ø`€òQ‹™r÷yêµSjWã—+ZÿM_ÖÅ2ál¡™i?]ðC¥>:7Qx‹¾b²6%jeCüs14O0VNÒG"¯ì¼‚'5‘XAöŒÆ#þ{G©/úr\ÉÿÅ6×y˜!÷-Å4èR¬Øëi¬kæ­µ‹ù|ãò8“íyv÷Úbæ„Ö]Î0¥&ã·;èö´˜¡Ëå-ï¬`úJ€1¾©tr£Z“VQT_Y
+1 unfreed mallocs
 746 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ;Ô{L­H~€0›^¦y+?v:çJLÇ€×Âz_éç/n±IƒÆhžku)}eÒU«´Îs£fË“?Ux'ÖvòZ'NdtIeàÌòÝž—É™µõéB2Ý\ûÈYyf =2˜gK‰Ÿ($OžÝ%Âý=d†Ž;8HL[_Mréßt_|U°.Ä_ßFÜSnÙÓ‰‹u?µH&ÓÉ£O³eWi0¥Ë¯ºg-—1 unfreed mallocs
+ft_strjoin() -> ;Ô{L­H~€0›^¦y+?v:çJLÇ€×Âz_éç/n±IƒÆhžku)}eÒU«´Îs£fË“?Ux'ÖvòZ'NdtIeàÌòÝž—É™µõéB2Ý\ûÈYyf =2˜gK‰Ÿ($OžÝ%Âý=d†Ž;8HL[_Mréßt_|U°.Ä_ßFÜSnÙÓ‰‹u?µH&ÓÉ£O³eWi0¥Ë¯ºg-—
+1 unfreed mallocs
 181 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¦Ü6oaRYè­àz8ßÖ@€–Aµ©}V€éÖä%Ë˜²*PdUá›ùÇ9ó’JÒ¨ÑÀcùí.Ô•ŒDmŠé}ûÝ6gŸTÉÛ•ÍŠû]P¦[…Š­ÚKöÜl•Ôc™7®Iÿ|0GyKw˜Ã„×ËµÊ8?À¸’œo`8¬U”ÄJqsîCkÞBÞ^«Á?w•áù-¬³î7N»Qõ½ûsSb…Ÿµá2®—Ãf¿›þ¢’kSt<<EàTÔ¯ö}~`§â›QOPbÈæZ©0NOÞ†È\È+WëXïªXš«ÜôÍºíV
-P0Fš‹92ÙœIx!sšìŒSÀ¹iõéf‡V6„ñ/ ÚPgñê6¤ùe‘ÅzG§¶NÊVÿÌ6Ä¾ÌAêòby ‹¡„ß º’N¼¦M$)Ö–ÎfcÚzíØ0û7â]2Õüž¿]çä'Zr±DzÓgv£1ÎCÞP¡¬Dßÿ»óiJÁ€ËV'ÚçŸóßL¼*çˆ®Úð˜?©S1ñRÍ^$4À¿·•kÖ—©Xuß†wøò 4X>þJvº ü¨­Õ´˜oJ·¶†ø£+å1 unfreed mallocs
+ft_strjoin() -> ¦Ü6oaRYè­àz8ßÖ@€–Aµ©}V€éÖä%Ë˜²*PdUá›ùÇ9ó’JÒ¨ÑÀcùí.Ô•ŒDmŠé}ûÝ6gŸTÉÛ•ÍŠû]P¦[…Š­ÚKöÜl•Ôc™7®Iÿ|0GyKw˜Ã„×ËµÊ8?À¸’œo`8¬U”ÄJqsîCkÞBÞ^«Á?w•áù-¬³î7N»Qõ½ûsSb…Ÿµá2®—Ãf¿›þ¢’kSt<<EàTÔ¯ö}~`§â›QOPbÈæZ©0NOÞ†È\È+WëXïªXš«ÜôÍºíV
+P0Fš‹92ÙœIx!sšìŒSÀ¹iõéf‡V6„ñ/ ÚPgñê6¤ùe‘ÅzG§¶NÊVÿÌ6Ä¾ÌAêòby ‹¡„ß º’N¼¦M$)Ö–ÎfcÚzíØ0û7â]2Õüž¿]çä'Zr±DzÓgv£1ÎCÞP¡¬Dßÿ»óiJÁ€ËV'ÚçŸóßL¼*çˆ®Úð˜?©S1ñRÍ^$4À¿·•kÖ—©Xuß†wøò 4X>þJvº ü¨­Õ´˜oJ·¶†ø£+å
+1 unfreed mallocs
 461 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ªúù‘ý’¥©7¬M5 DÜÑ§
-¡tûÓ!…êó<Á@aÓ6Â#A\šXÿQp^†æn7^9QYzÞQ1 unfreed mallocs
+ft_strjoin() -> ªúù‘ý’¥©7¬M5 DÜÑ§
+¡tûÓ!…êó<Á@aÓ6Â#A\šXÿQp^†æn7^9QYzÞQ
+1 unfreed mallocs
 61 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 9Ù%fé>	v@U+qaÑ7”ô>åÜãYšÌÓÕ%mA$âlL³ºÏ8'aíBäÇA^B†ÛÁ‚þPÎ/{Ëõ¡Ì¶ãXïáÊ¡’K¶Z©1k(=è\lù/ücøP¿B°Ä)nú)µJmš;†¬Ád	P^>ŒþçmTA9kà? ©Œ‡ž
+ft_strjoin() -> 9Ù%fé>	v@U+qaÑ7”ô>åÜãYšÌÓÕ%mA$âlL³ºÏ8'aíBäÇA^B†ÛÁ‚þPÎ/{Ëõ¡Ì¶ãXïáÊ¡’K¶Z©1k(=è\lù/ücøP¿B°Ä)nú)µJmš;†¬Ád	P^>ŒþçmTA9kà? ©Œ‡ž
 n¹}æ
-ŸÏ›³zàÁr5€ÏŠiþc=å€=·†åÞdAi¨¹W+gÎeÝ6ÅBŸÊpÓ³v²¨áo:Ø$£–í™ÐõÃæîì®×%†‰ŒøÕh™@ªÏ‹ÿùis1#Lxƒ–- %‹S%åá.VX$‡%ÔÂÄaÞàLyŠ Ÿˆ#ÿ·€`W;£¤Üz‰}–ù¬ä)n)¯†dÕÿ<Ÿß¥K;iÝþf</|PÒ¡J½UêŽ¾ÌKâJ[nSÖ]—¯¡©§ÚoZ’Õo¯ØcõÑFú–‰í•‹œ´¾8HŒp"¤Â)°yù½oð(f 5wÖUâ`Ažß_¸²Ïˆmërÿ}9E¶ººh¢IV‚Úuˆ7&HÉ!Kí½Å Îºm¦cÚ‘­º$Ñ•ê{È@ù¨@Ä8Kò[·dYS-ºR€äL›™bL°÷W~?©TmYàCkÈ—ìÂ›ò·õ[	÷ü°‹%ï»/éiÀ`u"Š]?K\³ÁÛ—¦!¥¢(Úôü¯°Kêkka>w-*Œ‰Ý1Šj”™ÇgJÈÁI¾€ÇÄ"1 unfreed mallocs
+ŸÏ›³zàÁr5€ÏŠiþc=å€=·†åÞdAi¨¹W+gÎeÝ6ÅBŸÊpÓ³v²¨áo:Ø$£–í™ÐõÃæîì®×%†‰ŒøÕh™@ªÏ‹ÿùis1#Lxƒ–- %‹S%åá.VX$‡%ÔÂÄaÞàLyŠ Ÿˆ#ÿ·€`W;£¤Üz‰}–ù¬ä)n)¯†dÕÿ<Ÿß¥K;iÝþf</|PÒ¡J½UêŽ¾ÌKâJ[nSÖ]—¯¡©§ÚoZ’Õo¯ØcõÑFú–‰í•‹œ´¾8HŒp"¤Â)°yù½oð(f 5wÖUâ`Ažß_¸²Ïˆmërÿ}9E¶ººh¢IV‚Úuˆ7&HÉ!Kí½Å Îºm¦cÚ‘­º$Ñ•ê{È@ù¨@Ä8Kò[·dYS-ºR€äL›™bL°÷W~?©TmYàCkÈ—ìÂ›ò·õ[	÷ü°‹%ï»/éiÀ`u"Š]?K\³ÁÛ—¦!¥¢(Úôü¯°Kêkka>w-*Œ‰Ý1Šj”™ÇgJÈÁI¾€ÇÄ"
+1 unfreed mallocs
 584 malloc'd size
 0 unfreed mallocs
-ft_substr() -> þ’ó5m;CKV”4·ª#rÈ–.šÌ‰5…r[ªUá:p@”YüWÐµÓo9ÀBeËÂ²,ŒrWÓFxâiÙ #Q­žÏÆR^å¥Õœ“¯ÀïëGÇ¢µ lM§‰w÷”îU¤D—»ü[ÿ-ÞSvûÜ¿rvà%1ŒbÈ£#?TUÌ´ÐÖ[Ú3üùS+ÏÂ|úuêêŠbiô[Œˆ`Zëÿ¦ý\šQ0I„\£‹^]Y¼w<ÎXÞYQ“¨$ÇÌä QV„Òõ«£eŠíOr¼„A”³ÔÇ)‘NÎéKÃ[¾¡¿ãÕ ÿmÿ(%q–ÙÿèÄ“yoh¬—½@•pú•‡DÂe:RÉ&ÞTh’º"¦xËóÉMn–y„Qw¿Š‰ˆ„“ríÍJj¸N6é›†,Ú;uUÌäWíðÃÙ˜ý@°–y#›œ™E7P¥ßÊØ=™UiºÀÙ¹+‡s¡}ˆ¡FÔ“§èÝóçâ»XÏ[p*kõìðŸZ-ƒ€æ«.rÀìâ<áb"^ì“÷e–<„ŸE59ºV¬¿k¨“ƒôYx}½šd5÷ªøÙ¨§_Ë‚Z®·Ë&Ä#‰8¥Ÿ­Xb‹æÐúà"ZÊ1 unfreed mallocs
+ft_strjoin() -> þ’ó5m;CKV”4·ª#rÈ–.šÌ‰5…r[ªUá:p@”YüWÐµÓo9ÀBeËÂ²,ŒrWÓFxâiÙ #Q­žÏÆR^å¥Õœ“¯ÀïëGÇ¢µ lM§‰w÷”îU¤D—»ü[ÿ-ÞSvûÜ¿rvà%1ŒbÈ£#?TUÌ´ÐÖ[Ú3üùS+ÏÂ|úuêêŠbiô[Œˆ`Zëÿ¦ý\šQ0I„\£‹^]Y¼w<ÎXÞYQ“¨$ÇÌä QV„Òõ«£eŠíOr¼„A”³ÔÇ)‘NÎéKÃ[¾¡¿ãÕ ÿmÿ(%q–ÙÿèÄ“yoh¬—½@•pú•‡DÂe:RÉ&ÞTh’º"¦xËóÉMn–y„Qw¿Š‰ˆ„“ríÍJj¸N6é›†,Ú;uUÌäWíðÃÙ˜ý@°–y#›œ™E7P¥ßÊØ=™UiºÀÙ¹+‡s¡}ˆ¡FÔ“§èÝóçâ»XÏ[p*kõìðŸZ-ƒ€æ«.rÀìâ<áb"^ì“÷e–<„ŸE59ºV¬¿k¨“ƒôYx}½šd5÷ªøÙ¨§_Ë‚Z®·Ë&Ä#‰8¥Ÿ­Xb‹æÐúà"ZÊ
+1 unfreed mallocs
 487 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Uë°Û|™¬žÔˆ…¦è	ö: ~¾ñõeFgªBb¡ž±~«¶8ýÒÄEW…TaÚ÷BX„ºTJ÷:‚P÷0…Õ›$$Ÿ€>*	b–¦a£–Ò‘/Áß©j©›GR3à¢…Õ%óä˜=ôìðô2ä5Òº77M¸…eë¤"¤²Ùê«ˆÕÆ„¿†õž~RšÏ/•è45V8uÙÌ¼1”Ùªq5G°uûœ„P—uE{!úÀÐ°•VÈçeù1 ø¬Õkµ#wðºïURàÁ¥q8¹|ÓÐ¾•qüÑMv5_Ï­«?ÌÀNŒ*saDl¤Ã¢ßü;Š‘
+ft_strjoin() -> Uë°Û|™¬žÔˆ…¦è	ö: ~¾ñõeFgªBb¡ž±~«¶8ýÒÄEW…TaÚ÷BX„ºTJ÷:‚P÷0…Õ›$$Ÿ€>*	b–¦a£–Ò‘/Áß©j©›GR3à¢…Õ%óä˜=ôìðô2ä5Òº77M¸…eë¤"¤²Ùê«ˆÕÆ„¿†õž~RšÏ/•è45V8uÙÌ¼1”Ùªq5G°uûœ„P—uE{!úÀÐ°•VÈçeù1 ø¬Õkµ#wðºïURàÁ¥q8¹|ÓÐ¾•qüÑMv5_Ï­«?ÌÀNŒ*saDl¤Ã¢ßü;Š‘
 ÚÓÚêññåÌ0ŸüX­áèc{!Šà¥×ý¤ë’™:l´míS|üÆ“~ªEËp üCˆ‰ ÇÕ®V¦^7ÀÎAúbg…+- Õô$-R›ÁcSðþ9=•®Žíó¡,	{ñ÷U¥YIg}¦{s/[”®MEïôãx”H¹æóZPRâ¾tˆ·qÎPõÓf<Ãoj»yîIÜÝÎÒMéðÌ×<½^ÐâÁí8ˆœ‹u¥Mñ¦y~p4_RÐËwò†˜ïÓYSSD##Ñü½‹ávŽžB8í)¹à:Ÿ‰óºÉ±e6*èèS3Yõ°+›ÂÜ~
 nþçÞkeª-VêxO’ pæŸÖÔqãóº½>*«’.aNÌKìËús+H×JþjwÓ¥¨–¹ïipB§ÔÚ¤+Vgòc
 2ÔÝôÛa«#‘‘£Ifb7&ÚØy
-‡¢ºU;ØÕsœJã¤Áì<ˆâ‹ >n0-MÇ-x•Àèp÷ØjóÄ3§-æ\‹µÑ½Éf'Úcý.Pøwò‘Ð(9\¨›+ÿ>-¾Lhã]& rbPÖ‰²xoÑ ìvx­Þã‚»ÐŽz¿}Ur Øò,jW65•Ô0}€œy>°SþÂZeÙýÇ¤sh(EÂs$}CmBu8Š’9fMPþ/tŽÓ}«ð@0òHŒgi<Îþ1 unfreed mallocs
+‡¢ºU;ØÕsœJã¤Áì<ˆâ‹ >n0-MÇ-x•Àèp÷ØjóÄ3§-æ\‹µÑ½Éf'Úcý.Pøwò‘Ð(9\¨›+ÿ>-¾Lhã]& rbPÖ‰²xoÑ ìvx­Þã‚»ÐŽz¿}Ur Øò,jW65•Ô0}€œy>°SþÂZeÙýÇ¤sh(EÂs$}CmBu8Š’9fMPþ/tŽÓ}«ð@0òHŒgi<Îþ
+1 unfreed mallocs
 779 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Ý“Ÿ5þš¸ow=ÿ³À>ÖswUÊM{F'È6ÛYûæˆxñíÊ
+ft_strjoin() -> Ý“Ÿ5þš¸ow=ÿ³À>ÖswUÊM{F'È6ÛYûæˆxñíÊ
 UùŒáõÿYaæ¦°ñè¡aWì·BØ3%]‰(Ž—BLá¾ös¨çü¤_ü§™AèC¦½Í«#©v`—ÖD·¤ðÌ’Hê
-A‰Ý>n3¡QWBƒüR’Ü…2l00"ŒŽ«ã@ÕƒÁóÌHDi+ëÄF¬œÙ|NL$R8&c"›®Gûl¤î¼¯Ûñ\ãIwðV„ éèX#A°t¡Çi$‹Šr\ä\M,o3ÊÊ^Ó[)ú`º~îa|"ËÈ™8Y<ûÜî¼­¡ïïÇ~µmŸ¢T³H¿’Ç¨ñé1 unfreed mallocs
+A‰Ý>n3¡QWBƒüR’Ü…2l00"ŒŽ«ã@ÕƒÁóÌHDi+ëÄF¬œÙ|NL$R8&c"›®Gûl¤î¼¯Ûñ\ãIwðV„ éèX#A°t¡Çi$‹Šr\ä\M,o3ÊÊ^Ó[)ú`º~îa|"ËÈ™8Y<ûÜî¼­¡ïïÇ~µmŸ¢T³H¿’Ç¨ñé
+1 unfreed mallocs
 273 malloc'd size
 0 unfreed mallocs
-ft_substr() -> sNbòÆqú¾ÍÅ‘P0+CJ 4Ô²[º9é€ ç¤}Ò F<úB„_;âê—3õu˜íœË1		¯>‰ŸQ$·Ï£ˆÁÆ¼òé—¬ã¾|k¡Óû‹ŒÚªÙ +N~œÁ¯pfAÏæŸwA(Z†‚zì"¹æa6õÖê%:K6¶vGÆÒYÈÍè‘rÛ32§Õ\'ŠE›xæÑÝ“2zôO€Ž6R¹*æ®N1Ø1 unfreed mallocs
+ft_strjoin() -> sNbòÆqú¾ÍÅ‘P0+CJ 4Ô²[º9é€ ç¤}Ò F<úB„_;âê—3õu˜íœË1		¯>‰ŸQ$·Ï£ˆÁÆ¼òé—¬ã¾|k¡Óû‹ŒÚªÙ +N~œÁ¯pfAÏæŸwA(Z†‚zì"¹æa6õÖê%:K6¶vGÆÒYÈÍè‘rÛ32§Õ\'ŠE›xæÑÝ“2zôO€Ž6R¹*æ®N1Ø
+1 unfreed mallocs
 181 malloc'd size
 0 unfreed mallocs
-ft_substr() -> xn°A¯±‘¹ð’5Ä¸â=;Åë[ìû5kÜòUD×«s=lŸÙ¢*ÖÚ%µ³ƒ‘¡õI5ø´4ƒ¡b&k„ìu©.¡|@6þ£cËòÁªÓe†!ÀËlB2)©¹8%5‘xÛ>˜Êžà“öEïžÓÖØ[¡ÅœÚÞÔpŽu÷(êÚ¯¯Òm–sZg–f°¢Ysƒ'yÄh¢œö’ÞñH3ßR¡2{	Â¼&ãrò3¾SÊ×(ë¨Ð9š„[á·‹`ŒÅøEY‚d[ï3Aã)è¬Oô#Ržû¬-|i€Pj3íjž£³ÅXØÔ†¶«Ü}Û¡¢%Åôcú®Ø9ø4![¹$zE<2¸É:K>©8Ü"°,õô<<¦'ø-DJA"‰!G?·æ‘;-±Kk÷þ·’YU*ÈËÄû,Ù%ÆpG1 unfreed mallocs
+ft_strjoin() -> xn°A¯±‘¹ð’5Ä¸â=;Åë[ìû5kÜòUD×«s=lŸÙ¢*ÖÚ%µ³ƒ‘¡õI5ø´4ƒ¡b&k„ìu©.¡|@6þ£cËòÁªÓe†!ÀËlB2)©¹8%5‘xÛ>˜Êžà“öEïžÓÖØ[¡ÅœÚÞÔpŽu÷(êÚ¯¯Òm–sZg–f°¢Ysƒ'yÄh¢œö’ÞñH3ßR¡2{	Â¼&ãrò3¾SÊ×(ë¨Ð9š„[á·‹`ŒÅøEY‚d[ï3Aã)è¬Oô#Ržû¬-|i€Pj3íjž£³ÅXØÔ†¶«Ü}Û¡¢%Åôcú®Ø9ø4![¹$zE<2¸É:K>©8Ü"°,õô<<¦'ø-DJA"‰!G?·æ‘;-±Kk÷þ·’YU*ÈËÄû,Ù%ÆpG
+1 unfreed mallocs
 334 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ©ª‚k÷˜ç˜V²Í¾ªB¹²@nlÃ×}HÇ/±žÇ£Eè¾ŸþØè$1) ?Ùô]ëqCx‹{BxÄþ	×ðã[( N9ûÏ±°O7ßUµë±F>’T¥©så]ÃÑ‹"®ïï£'Z¤pzhLtp˜£ìüà“‘ WÈ¢®‚•Ó*ê&û›aÆŸô¬èGJjÃ…Ž*Ý*p€ešÿ©[òãAªŒ™ùL6ZÚ8JóY›@ 'k—ÊLâ4îlˆ#_ß\TWlÊ¨2*Y£WŠÑãê.(	xIØ`ÚâoÆWŸZ©NB'’5e“a1 unfreed mallocs
+ft_strjoin() -> ©ª‚k÷˜ç˜V²Í¾ªB¹²@nlÃ×}HÇ/±žÇ£Eè¾ŸþØè$1) ?Ùô]ëqCx‹{BxÄþ	×ðã[( N9ûÏ±°O7ßUµë±F>’T¥©så]ÃÑ‹"®ïï£'Z¤pzhLtp˜£ìüà“‘ WÈ¢®‚•Ó*ê&û›aÆŸô¬èGJjÃ…Ž*Ý*p€ešÿ©[òãAªŒ™ùL6ZÚ8JóY›@ 'k—ÊLâ4îlˆ#_ß\TWlÊ¨2*Y£WŠÑãê.(	xIØ`ÚâoÆWŸZ©NB'’5e“a
+1 unfreed mallocs
 253 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ŸWÏ'9ÅP&·Qƒyïyi®Ùáž
+ft_strjoin() -> ŸWÏ'9ÅP&·Qƒyïyi®Ùáž
 Ã‰Ñ¬ Œ˜ 	"\MªFâ\0<*§´kÂ4$«kg]Z•ï£7=àèz"%éÄCMÇèµ¡ÆÊi÷«Xõ16^ÙhÚ¾:,¹¿7ŠhmPú¯½%Ò°„×v ~>B*%(;7©“ÿ¹¡‚¯ëèŒŸ€Jš%Ò(t·øtŠþˆÁ¬a@¾à5.¶ÇÈ}(È¥»Î%í³,®±)Ÿ¢Xa¹~À¾@äúÚïté0zÅ)Š‹lsÝº3ëZÂKNjE¬gg3¾CßÔCqÔõÔâÃ
 )Ñ”ìsçˆÄÕ‰,bëJ¾‹Ñ Írl¥GEÝ\nIÝÎ³U×YÂ`Ú7­tÿþÄÚ›µ1Ëú-ùËšVY‡N~½ NtWZÃþ?Ý·"º
-ÝR6ãb‹Ãµƒ,JÉ¡™ê=¹FÃ	 	.E=:ÜFFþ=ä×!ûžZ$#rva¤T6Ñ¦1 unfreed mallocs
+ÝR6ãb‹Ãµƒ,JÉ¡™ê=¹FÃ	 	.E=:ÜFFþ=ä×!ûžZ$#rva¤T6Ñ¦
+1 unfreed mallocs
 379 malloc'd size
 0 unfreed mallocs
-ft_substr() -> À€ÞKµ6TW£u¶`ÜþJ©´ôa0Ù•Õê®LýÖˆ]C_U`ræÀ‡NÈÂ7*¹¼J*9v­øa
-½Sïõ7•Á‡+ŒH2÷³éEµÇæ†È—A)†œÀòüýWD”+£”äŒ›1WuÞ’‡XTt(	DÌšÿµÌõ¥},æÏ*†ÑôÈ“»“Í³—X"+Crhx/ìáq°Ì”>8I'K:ž5Èæöê¦nÎ„P2ŠÔê4šm¸•á;ž=8AÇÐÆÛÐh\Ü®k²Ö±¡IQ•*ƒ ú©µ-õ:“>qËøÜL1{Lð(š÷|æÇ†òšO?©<„Þr0šë´X‹ÇîÌÝ†GÒlûŒ1 unfreed mallocs
+ft_strjoin() -> À€ÞKµ6TW£u¶`ÜþJ©´ôa0Ù•Õê®LýÖˆ]C_U`ræÀ‡NÈÂ7*¹¼J*9v­øa
+½Sïõ7•Á‡+ŒH2÷³éEµÇæ†È—A)†œÀòüýWD”+£”äŒ›1WuÞ’‡XTt(	DÌšÿµÌõ¥},æÏ*†ÑôÈ“»“Í³—X"+Crhx/ìáq°Ì”>8I'K:ž5Èæöê¦nÎ„P2ŠÔê4šm¸•á;ž=8AÇÐÆÛÐh\Ü®k²Ö±¡IQ•*ƒ ú©µ-õ:“>qËøÜL1{Lð(š÷|æÇ†òšO?©<„Þr0šë´X‹ÇîÌÝ†GÒlûŒ
+1 unfreed mallocs
 281 malloc'd size
 0 unfreed mallocs
-ft_substr() -> »´ÎïÊtPõÜhå–)~ÐÈÙÝòÞ’iáëÚô¨È/$Aåè"ÓÑÊ¬‡iü~E[Wo ðéä Ñv…)U"ø¸€ZJã
+ft_strjoin() -> »´ÎïÊtPõÜhå–)~ÐÈÙÝòÞ’iáëÚô¨È/$Aåè"ÓÑÊ¬‡iü~E[Wo ðéä Ñv…)U"ø¸€ZJã
 È_yPôß™ÍÍòÇ3ÍY¦´èQw,E 7ºat
-ó“ÞUÛ„Ÿëi)G>W•›)o'¼æœbKd½ÖÌ1º$A@âUU|Œ4õ<‚3Û|îW…ÿ‰1 unfreed mallocs
+ó“ÞUÛ„Ÿëi)G>W•›)o'¼æœbKd½ÖÌ1º$A@âUU|Œ4õ<‚3Û|îW…ÿ‰
+1 unfreed mallocs
 157 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Ð¯‰¥ãÙ$R±PEÉe¦¡n(7U¡JûÄ2HÜñJÎ+Œ"ä_ÿ×7¡è§2¹·uMkmSKÚ¬¯%8A”Ùb	_¨8
+ft_strjoin() -> Ð¯‰¥ãÙ$R±PEÉe¦¡n(7U¡JûÄ2HÜñJÎ+Œ"ä_ÿ×7¡è§2¹·uMkmSKÚ¬¯%8A”Ùb	_¨8
 d)nÈiâ
 ‚ ÛÓ0üøw;6ÿžóó¢¬Ìð9]kx:E¥üÒ…
-ß§nÕÚ!®Òs:&¦Ì.k«1/™•ËMÀ›=NL†ÖN8E-n`û†¸ËYÿÚ¼¸€¢wù`9ÔØ…£(ê&¥‹¾	±Ü‹¿h	gÙ+u¶›š	Ê¬r<®¾¬91V©©Sé¶âêùºDPCH—²Ÿ†‹0•ér‡í£ØÎû³uc9º¡†a‹ï‡žç<îBm×aÜmzüw‹Ç59\Ôç¤§ÕvX·=5_ß€Aæ‰ÌÏo‡ÓìŒË’Ø¿`F	Éùˆ½C¨-¢eHÏÊ©91oˆÞdo³?<ÈàìÓU1 unfreed mallocs
+ß§nÕÚ!®Òs:&¦Ì.k«1/™•ËMÀ›=NL†ÖN8E-n`û†¸ËYÿÚ¼¸€¢wù`9ÔØ…£(ê&¥‹¾	±Ü‹¿h	gÙ+u¶›š	Ê¬r<®¾¬91V©©Sé¶âêùºDPCH—²Ÿ†‹0•ér‡í£ØÎû³uc9º¡†a‹ï‡žç<îBm×aÜmzüw‹Ç59\Ôç¤§ÕvX·=5_ß€Aæ‰ÌÏo‡ÓìŒË’Ø¿`F	Éùˆ½C¨-¢eHÏÊ©91oˆÞdo³?<ÈàìÓU
+1 unfreed mallocs
 345 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¤g³Å¼—ëDýŽÇ i×j<(™³îà¸9FK)æÓJ,sƒ¿îÂ× <hû'„¡Œ&xFøž?oÌe˜£Zþ×gÝTÞ
+ft_strjoin() -> ¤g³Å¼—ëDýŽÇ i×j<(™³îà¸9FK)æÓJ,sƒ¿îÂ× <hû'„¡Œ&xFøž?oÌe˜£Zþ×gÝTÞ
 &Æ˜IÖV—†Ÿ}˜d³0Ü$î”&ÂÂ€’Ïæ¶¾áìÌ‰NcMkæ>‚¼—ëDýŽÇ i×j<(™³îà¸9FK)æÓJ,sƒ¿îÂ× <hû'„¡Œ&xFøž?oÌe˜£Zþ×gÝTÞ
-&Æ˜IÖV—†Ÿ}˜d³0Ü$î”&ÂÂ€’Ïæ¶¾áìÌ‰NcMkæ>‚1 unfreed mallocs
+&Æ˜IÖV—†Ÿ}˜d³0Ü$î”&ÂÂ€’Ïæ¶¾áìÌ‰NcMkæ>‚
+1 unfreed mallocs
 226 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¡ï…D0¸eqÂjÎ}_)L­1Ù´š†6­¤´ZXPÇÒ0u![iåÕÖ8C3Ô¡ûÏ»éˆã«ýÒbšTã·1à³‹;ýëÄ¹¤ÔØÌ¬÷PÈÈ_ÜÑš^ÃgHÝGˆ‡Ëd¬ÝÒ0˜=Ð—wÅ}nqÐðƒ•³¶™bA¦=¢b‹d¨áøJù£Î·£ŽÑµ_ðìöß±ªE«ÚÆþ%báw÷®ãÔ´xm7Ô²õÆÈèˆvg¢˜ª#-Ó‹ïò&ÜŒ©«,,Jv‰n}½º1ÙAŠTC‹î¤ò)­­jëŸçV*„YÂÍü…Æ¡îH²Z€y¦6@ð1§0gÍhIŽ‹Ðïœt€r¶,ÊKVî–Pb‹ Ê]z¥­Û]W§„­½r5¢¨ÒE$ßoê*4W³è˜¥1 unfreed mallocs
+ft_strjoin() -> ¡ï…D0¸eqÂjÎ}_)L­1Ù´š†6­¤´ZXPÇÒ0u![iåÕÖ8C3Ô¡ûÏ»éˆã«ýÒbšTã·1à³‹;ýëÄ¹¤ÔØÌ¬÷PÈÈ_ÜÑš^ÃgHÝGˆ‡Ëd¬ÝÒ0˜=Ð—wÅ}nqÐðƒ•³¶™bA¦=¢b‹d¨áøJù£Î·£ŽÑµ_ðìöß±ªE«ÚÆþ%báw÷®ãÔ´xm7Ô²õÆÈèˆvg¢˜ª#-Ó‹ïò&ÜŒ©«,,Jv‰n}½º1ÙAŠTC‹î¤ò)­­jëŸçV*„YÂÍü…Æ¡îH²Z€y¦6@ð1§0gÍhIŽ‹Ðïœt€r¶,ÊKVî–Pb‹ Ê]z¥­Û]W§„­½r5¢¨ÒE$ßoê*4W³è˜¥
+1 unfreed mallocs
 336 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Wxy9á\]*–ñ6ü³ÿ©âáäØð¶.C°3ZÁ½8ßâs 0`m-Ek$ÐáÀ¬UÎƒUt0Há;ÔBÇ¥î''"ÉšÊ£ÎÇ†^‚lYçÊ.*$C!a»FC=©Ø[(=·ÎQc*’Šžï^h½Í©é§P„ûXu:GWîû€§ÁEbŸnaÂbÄÇzÈ1ii]A-Q…ïaTîkÔˆgki)¦L2’÷2šþ5_¤ª¨(Â^!…Úê¢Í¹šwO–+`ˆI‹¿³àãP{_¥JÝ8X;Û‰#¡æH	LfÕv‰wuôÙGL()ýùWùÙ“8%ÈØ™öòON$ØnO&#Î'o,Ë`kGÝ¬8Ó¹Ø$'qëi¢3­F±5±•×ÜÑ]gïŠ–„¬jÆ‰é.ó«ð“\wËuñfVnÛ«‚Ñkf­hÖÉSÄ”`u^6­åÕÕûÑz‡ËeIÐk=Ê½a\:tæ(¿íYÞÿ1iœ%Xª¦¥Ybî¨XÅÃ[Ø¼ÈÅó™Kø¶a5È™í}dh"öT~RZ40Ñ‹nŠÉØE[‹§æ_ì23gJ „nœ†ÜïR
+ft_strjoin() -> Wxy9á\]*–ñ6ü³ÿ©âáäØð¶.C°3ZÁ½8ßâs 0`m-Ek$ÐáÀ¬UÎƒUt0Há;ÔBÇ¥î''"ÉšÊ£ÎÇ†^‚lYçÊ.*$C!a»FC=©Ø[(=·ÎQc*’Šžï^h½Í©é§P„ûXu:GWîû€§ÁEbŸnaÂbÄÇzÈ1ii]A-Q…ïaTîkÔˆgki)¦L2’÷2šþ5_¤ª¨(Â^!…Úê¢Í¹šwO–+`ˆI‹¿³àãP{_¥JÝ8X;Û‰#¡æH	LfÕv‰wuôÙGL()ýùWùÙ“8%ÈØ™öòON$ØnO&#Î'o,Ë`kGÝ¬8Ó¹Ø$'qëi¢3­F±5±•×ÜÑ]gïŠ–„¬jÆ‰é.ó«ð“\wËuñfVnÛ«‚Ñkf­hÖÉSÄ”`u^6­åÕÕûÑz‡ËeIÐk=Ê½a\:tæ(¿íYÞÿ1iœ%Xª¦¥Ybî¨XÅÃ[Ø¼ÈÅó™Kø¶a5È™í}dh"öT~RZ40Ñ‹nŠÉØE[‹§æ_ì23gJ „nœ†ÜïR
 <V¶úÙg`Y–_±¯l‡?ÈC_>’ä¶9ûÛ!³sa¯ëƒ:jˆ#IÔùzéVAÉÚCh)k›“lZ*Ž0s¬[@ÒÔÊkIÿ;.«[¿J°y)D@
-(Î1 unfreed mallocs
+(Î
+1 unfreed mallocs
 557 malloc'd size
 0 unfreed mallocs
-ft_substr() -> œcè/Ñd¤¤B†x2,¨‘	nR¨ÛXª9î´æNúŽ~Ý£^í°è|°BÎ¾ø‘–æl-gŠYöI´Ÿ”€ïÑkÎ277O3iÖ…PNPr#=4mvò;\GƒR°ƒNñc6/ó}¤Nžñt
-qú½×[Dyš¥œcè/Ñd¤¤B†x2,¨‘	nR¨ÛXª9î´æNúŽ~Ý£^í°è|°BÎ¾ø‘–æl-gŠYöI´Ÿ”€ïÑkÎ277O3iÖ…PNPr#=4mv1 unfreed mallocs
+ft_strjoin() -> œcè/Ñd¤¤B†x2,¨‘	nR¨ÛXª9î´æNúŽ~Ý£^í°è|°BÎ¾ø‘–æl-gŠYöI´Ÿ”€ïÑkÎ277O3iÖ…PNPr#=4mvò;\GƒR°ƒNñc6/ó}¤Nžñt
+qú½×[Dyš¥œcè/Ñd¤¤B†x2,¨‘	nR¨ÛXª9î´æNúŽ~Ý£^í°è|°BÎ¾ø‘–æl-gŠYöI´Ÿ”€ïÑkÎ277O3iÖ…PNPr#=4mv
+1 unfreed mallocs
 232 malloc'd size
 0 unfreed mallocs
-ft_substr() -> jÖ¡¤#–)Y&5CÄCCÎUíºZA§œôX!2&’/ÿË‹™'š=¡t7
+ft_strjoin() -> jÖ¡¤#–)Y&5CÄCCÎUíºZA§œôX!2&’/ÿË‹™'š=¡t7
  ãÏìXöÎ˜ßÛ?ìM¨&øŠÞEÌš¾ˆß™‚²®?3®g&îð`O`Æ…×l£§+Š=¶£8´ãW²âËVöÜ–Ú¤sÀvZ8­¸ZkEfxs'ÿéÆ%¼¾ãa¬©xuÊ=Ê7}4]ñ²Ûñ³Ù‘¥hPñµ6"Úá7Úa}ý ÓuŽCDå>ÔdB'R\ç[ÙÇ<9H>ª•`”$Ñ$À	+¡²À-¶)XstQÑÍ{³C&‰ê˜}ÚhÞrèùŒ—vårðYÇa)	0™šëû÷û\nÛç}ÛÁ_)I7õÄ.˜Þa±TNÍcÏ	HGg)Vƒ¨¶íÁí´·mY¡€l°\ëÜÌj+d.¹ÁiÂÍ²åg
-''$@¨…	›mÚr]¼Æi§„eö™@c£yà1¯r€Oûÿ*×ÃEÛÒ¸Ë5ªaâKŠ;°˜vò eÓQ¸ÅnRFI—”oû4›#í›0è@µËëiÓ3*ï±ô	d³Ý:Ü ¼-šö'ÿ	0±6º‘Nî‰;Ûrze¾ØD¥ëœ_çð»rEW…U™£S{„—1 unfreed mallocs
+''$@¨…	›mÚr]¼Æi§„eö™@c£yà1¯r€Oûÿ*×ÃEÛÒ¸Ë5ªaâKŠ;°˜vò eÓQ¸ÅnRFI—”oû4›#í›0è@µËëiÓ3*ï±ô	d³Ý:Ü ¼-šö'ÿ	0±6º‘Nî‰;Ûrze¾ØD¥ëœ_çð»rEW…U™£S{„—
+1 unfreed mallocs
 491 malloc'd size
 0 unfreed mallocs
-ft_substr() -> -ZØ#˜Bs¨Ã¦+†±2y†XÀóÉÜW‹8”Bc&;{	ŽQ¨¾‰õÂtM¾cPVm¬Þ&RÃõf6lÅŠügœ¾œÜsM•Ï‡‚¶öØ¡3’/\Ÿm.C4“=ÍÅbˆrËwìü¥ÜÙ7}0Ÿ9B[–<úõ—É×Â¶T…Çàœ:JyŽp”æu0LŽ{¤¼3ÿÞ¾ZÒi(ë’gƒ’¼z\;@!òéŸÄ'€ÐmwÏœä~Íh‚ØS*¥]·ß(,½mûÛ•Ã/"Ê±´ÂA¤îJ#£Z.¨vRãggVØ‚ÊP›n(þ“&7@•“ÖbE¶Æ)3›*Ÿ±þ½žvºÕôõ@yA8ôëB±¿À¼g(@ÕÃ2š@Ç`YNh•²·Gs9ù.h7 Ö‘œ¹§?Þß•i§Ì…_¸ƒ’¼z\;@!òéŸÄ'€ÐmwÏœä~Íh‚ØS*¥]·ß(,½mûÛ•Ã/"Ê±´ÂA¤îJ#£Z.¨vRãggVØ‚ÊP›n(þ“&7@•“ÖbE¶Æ)3›*Ÿ±þ½žvºÕôõ@yA8ôëB±¿À¼g(@ÕÃ2š@Ç`YNh•²·Gs9ù.h7 Ö‘œ¹§?Þß•i§Ì…_¸1 unfreed mallocs
+ft_strjoin() -> -ZØ#˜Bs¨Ã¦+†±2y†XÀóÉÜW‹8”Bc&;{	ŽQ¨¾‰õÂtM¾cPVm¬Þ&RÃõf6lÅŠügœ¾œÜsM•Ï‡‚¶öØ¡3’/\Ÿm.C4“=ÍÅbˆrËwìü¥ÜÙ7}0Ÿ9B[–<úõ—É×Â¶T…Çàœ:JyŽp”æu0LŽ{¤¼3ÿÞ¾ZÒi(ë’gƒ’¼z\;@!òéŸÄ'€ÐmwÏœä~Íh‚ØS*¥]·ß(,½mûÛ•Ã/"Ê±´ÂA¤îJ#£Z.¨vRãggVØ‚ÊP›n(þ“&7@•“ÖbE¶Æ)3›*Ÿ±þ½žvºÕôõ@yA8ôëB±¿À¼g(@ÕÃ2š@Ç`YNh•²·Gs9ù.h7 Ö‘œ¹§?Þß•i§Ì…_¸ƒ’¼z\;@!òéŸÄ'€ÐmwÏœä~Íh‚ØS*¥]·ß(,½mûÛ•Ã/"Ê±´ÂA¤îJ#£Z.¨vRãggVØ‚ÊP›n(þ“&7@•“ÖbE¶Æ)3›*Ÿ±þ½žvºÕôõ@yA8ôëB±¿À¼g(@ÕÃ2š@Ç`YNh•²·Gs9ù.h7 Ö‘œ¹§?Þß•i§Ì…_¸
+1 unfreed mallocs
 518 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Zð4…;°˜¶œ¢âQgÜV‘9 ÎèÆæ\?šLQ~"5­*¾p¹i’˜Iøª‘\z£4ä4ÞéW®„ñññ<òÜ~²ãw¹W¦G^E8w×ñ-’s—½|Ž| -5ó¨°,fù	3&~<©9zÓîé$iìÍ**¼÷¤LÊæ0	¼X/cpÇsu¦öú*/³£–+É‘2ž¨Ú5Šp€µ’ÕTYÏ“Rè¹˜-]øN
-fV\ÎÃ9á˜RÅ©Ñç*=H=´Œ³T™ªÙ?æ#¾EŸ¯÷ò‡5pf£…òô¨[x}&1‹q.U,R¨”r?Ïr‚­V+ž}'¹”r?Ïr‚­V+ž}'¹1 unfreed mallocs
+ft_strjoin() -> Zð4…;°˜¶œ¢âQgÜV‘9 ÎèÆæ\?šLQ~"5­*¾p¹i’˜Iøª‘\z£4ä4ÞéW®„ñññ<òÜ~²ãw¹W¦G^E8w×ñ-’s—½|Ž| -5ó¨°,fù	3&~<©9zÓîé$iìÍ**¼÷¤LÊæ0	¼X/cpÇsu¦öú*/³£–+É‘2ž¨Ú5Šp€µ’ÕTYÏ“Rè¹˜-]øN
+fV\ÎÃ9á˜RÅ©Ñç*=H=´Œ³T™ªÙ?æ#¾EŸ¯÷ò‡5pf£…òô¨[x}&1‹q.U,R¨”r?Ïr‚­V+ž}'¹”r?Ïr‚­V+ž}'¹
+1 unfreed mallocs
 274 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÒŸ« Í3bÃ9¿»MÉUJµü4Jû|Ç«ÀmÂ5ÀðÄÂž\Ü‚²»¯6Qêé€$‡1CŒ½BT“·­ôZÍ-9iT˜2ª´ã¦££½;ÅL¢UÊ bè¾Ø‚3V}:s´É»d­Ø‚l{Ã–`Y¦ªðÂ“Ñÿç(At|Ž@«’#-B{gü½Í:¶Ä˜•H1ªýG¯d·—rÝèÙ’‚ÅhÒJ¸p8•%FCÃ¾¡Æ×ä2MÝ¥¯—ãm’´jæ	·*ß»ÚX¿lîÈ9»HCÎÜõØ0™tZH.É -gÌCD=È#Èn³-¢Ü=W¨’ð”ðó ¼R‡G7¢‡¡qª'‡þê¦ˆZ|3ëJxÚFÅs¨ÿÝªätªN­åïþ«G¦ckŸx¾¶¿'ÎâÐl£=4Î½¤v¢qöÿñTÔhæ÷³=>¾Ž4ÛN*ÞôáŠkŒ{kxÒµ†»¡åÑ©²mª•ojl–3·ÇÈÑº¬°ñ%Ôo">ç$; ÷ZØ·(³/{Ø¡Þ}ã™úÞÁÎÓÈu´o>?ÀoðPÒÝA‘1&w¶U¿Ù	)ü1½Ù¹`rU³gÄ&Z{¯J„éÄqHN@ŽÞ6åµ­™P	|"×5+gÝLÕIE©ÃÝzyûÊ%bÇE?ÖNZ#2ië¶˜{ì@ZýÊ¶0øz
+ft_strjoin() -> ÒŸ« Í3bÃ9¿»MÉUJµü4Jû|Ç«ÀmÂ5ÀðÄÂž\Ü‚²»¯6Qêé€$‡1CŒ½BT“·­ôZÍ-9iT˜2ª´ã¦££½;ÅL¢UÊ bè¾Ø‚3V}:s´É»d­Ø‚l{Ã–`Y¦ªðÂ“Ñÿç(At|Ž@«’#-B{gü½Í:¶Ä˜•H1ªýG¯d·—rÝèÙ’‚ÅhÒJ¸p8•%FCÃ¾¡Æ×ä2MÝ¥¯—ãm’´jæ	·*ß»ÚX¿lîÈ9»HCÎÜõØ0™tZH.É -gÌCD=È#Èn³-¢Ü=W¨’ð”ðó ¼R‡G7¢‡¡qª'‡þê¦ˆZ|3ëJxÚFÅs¨ÿÝªätªN­åïþ«G¦ckŸx¾¶¿'ÎâÐl£=4Î½¤v¢qöÿñTÔhæ÷³=>¾Ž4ÛN*ÞôáŠkŒ{kxÒµ†»¡åÑ©²mª•ojl–3·ÇÈÑº¬°ñ%Ôo">ç$; ÷ZØ·(³/{Ø¡Þ}ã™úÞÁÎÓÈu´o>?ÀoðPÒÝA‘1&w¶U¿Ù	)ü1½Ù¹`rU³gÄ&Z{¯J„éÄqHN@ŽÞ6åµ­™P	|"×5+gÝLÕIE©ÃÝzyûÊ%bÇE?ÖNZ#2ië¶˜{ì@ZýÊ¶0øz
 øÖt`€ÒÙxrò‡˜.~Ûüb¼sj‡š)šüžêÖb˜VÖ-¯[&X»ÖÎÍ‘¾,GBì»ýJ6æ¯XÙÛÑ¼:™wDb`²V¦CC?½ÑE^%4Ú„“+Á1oÃœnð·ü„½!,«„#™ÀÙ«#%6†I
-7Ž¡K¼[“êÒw ‚Î{|6‘^zHÕGqGŸ@Ìr\–¶ÎÖ¸=z¶[/òøÄWŽÉLÀøÐ€a%¾ëyÜé<xl7‘—àeHÎËâ¨´ð³+i×§0‹â7fâ03ºlÈ†=žvWV±>'ºðþE®—pÊoM×¯þý§	®tõn¿§×B5;ô˜µŸÕ.â7ÒŸ« Í3bÃ9¿»MÉUJµü4Jû|Ç«ÀmÂ5ÀðÄÂž\Ü‚²»¯6Qêé€$‡1CŒ½BT“·­ôZÍ-9iT˜2ª´ã¦££½;ÅL¢UÊ bè¾Ø‚3V}:s´É»d­Ø‚l{Ã–`Y¦ªðÂ“Ñÿç(At|Ž@«’#-B{gü½Í:¶Ä˜•H1ªýG¯d·—rÝèÙ’‚ÅhÒJ¸p8•%FCÃ¾¡Æ×ä2MÝ¥¯—ãm’´jæ	·*ß»ÚX¿lîÈ9»HCÎÜõØ0™tZH.É -gÌCD=È#Èn³-¢Ü=W¨’ð”ðó ¼R‡G7¢‡¡qª'‡þê¦ˆZ|3ëJxÚFÅs¨ÿÝªätªN­åïþ«G¦ckŸx¾¶¿'ÎâÐl£=4Î½¤v¢qöÿñTÔhæ÷³=>¾Ž4ÛN*ÞôáŠkŒ{kxÒµ†»¡åÑ©²mª•ojl–3·ÇÈÑº¬°ñ%Ôo">ç$; ÷ZØ·(³/{Ø¡Þ}ã™úÞÁÎÓÈu´o>?ÀoðPÒÝA‘1&w1 unfreed mallocs
+7Ž¡K¼[“êÒw ‚Î{|6‘^zHÕGqGŸ@Ìr\–¶ÎÖ¸=z¶[/òøÄWŽÉLÀøÐ€a%¾ëyÜé<xl7‘—àeHÎËâ¨´ð³+i×§0‹â7fâ03ºlÈ†=žvWV±>'ºðþE®—pÊoM×¯þý§	®tõn¿§×B5;ô˜µŸÕ.â7ÒŸ« Í3bÃ9¿»MÉUJµü4Jû|Ç«ÀmÂ5ÀðÄÂž\Ü‚²»¯6Qêé€$‡1CŒ½BT“·­ôZÍ-9iT˜2ª´ã¦££½;ÅL¢UÊ bè¾Ø‚3V}:s´É»d­Ø‚l{Ã–`Y¦ªðÂ“Ñÿç(At|Ž@«’#-B{gü½Í:¶Ä˜•H1ªýG¯d·—rÝèÙ’‚ÅhÒJ¸p8•%FCÃ¾¡Æ×ä2MÝ¥¯—ãm’´jæ	·*ß»ÚX¿lîÈ9»HCÎÜõØ0™tZH.É -gÌCD=È#Èn³-¢Ü=W¨’ð”ðó ¼R‡G7¢‡¡qª'‡þê¦ˆZ|3ëJxÚFÅs¨ÿÝªätªN­åïþ«G¦ckŸx¾¶¿'ÎâÐl£=4Î½¤v¢qöÿñTÔhæ÷³=>¾Ž4ÛN*ÞôáŠkŒ{kxÒµ†»¡åÑ©²mª•ojl–3·ÇÈÑº¬°ñ%Ôo">ç$; ÷ZØ·(³/{Ø¡Þ}ã™úÞÁÎÓÈu´o>?ÀoðPÒÝA‘1&w
+1 unfreed mallocs
 1278 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Lx„”õVÉR'Î*,–ì(­.T’G*rèÕ7œx|‰‘fwâVx•Ëq”‡™ÀÔ6‘GX¾·Ê¢"]|s2zEI_¯\M"7úduHw÷óÿgküÙëû»ˆ’Ÿý#zC'íF=¶fnZQh£ùÜƒÝÅwìÁª˜jB²Ëpi«Ññ’¿¢¼f]nÊ(€MJDØ-ÚÓ§íÃl{$ÛÌéß¦ÜQº0¯Å‹h'\&[n„š jü\6”PÛôXŸ[3K'”=,•	tœ*Bý)ÄÌ›œ6^?×Ük6ž’!	«"Íˆv%¢K‘ÂqÂ:LØáUðu9 kiX0ŽßJÑŠ$£6{ÒS¤ËÎê‡ýJ¯>)Wu#™¨xtEjÃG[Ù£¬œj¡¿.ùèÒýÚ\Î¶ÊŸr}z­ þ´°^¹c„Ò°¶—Ißë{	'´@?~Æ‚3ä¿:ôÖ"©”º¿b‹]§¶A]Œ&{¼3³Åq¸¡È¢è?g‰Ä¯›%´u ‹Âzƒ>~ÀœdÈ«mÏ¢9B³àáÜx|`uDZ@…|¤Å	¿;¶¤§ù÷yÔJ‰¤xVÖÿaTh‘~è·‡-‰VôC“ßHØ+ ’××uIÙ½ì\N¾½6Ó¾|3Ë ˜2ƒî×ÅV2Öí÷+Îpæçoå<F†Óž:¶”°ˆ‡±¡Ï)ëLuèSo^p ½!ižçl—†’4/ Ùõ9Æ ’jëÇ¿±Îecw4[{
+ft_strjoin() -> Lx„”õVÉR'Î*,–ì(­.T’G*rèÕ7œx|‰‘fwâVx•Ëq”‡™ÀÔ6‘GX¾·Ê¢"]|s2zEI_¯\M"7úduHw÷óÿgküÙëû»ˆ’Ÿý#zC'íF=¶fnZQh£ùÜƒÝÅwìÁª˜jB²Ëpi«Ññ’¿¢¼f]nÊ(€MJDØ-ÚÓ§íÃl{$ÛÌéß¦ÜQº0¯Å‹h'\&[n„š jü\6”PÛôXŸ[3K'”=,•	tœ*Bý)ÄÌ›œ6^?×Ük6ž’!	«"Íˆv%¢K‘ÂqÂ:LØáUðu9 kiX0ŽßJÑŠ$£6{ÒS¤ËÎê‡ýJ¯>)Wu#™¨xtEjÃG[Ù£¬œj¡¿.ùèÒýÚ\Î¶ÊŸr}z­ þ´°^¹c„Ò°¶—Ißë{	'´@?~Æ‚3ä¿:ôÖ"©”º¿b‹]§¶A]Œ&{¼3³Åq¸¡È¢è?g‰Ä¯›%´u ‹Âzƒ>~ÀœdÈ«mÏ¢9B³àáÜx|`uDZ@…|¤Å	¿;¶¤§ù÷yÔJ‰¤xVÖÿaTh‘~è·‡-‰VôC“ßHØ+ ’××uIÙ½ì\N¾½6Ó¾|3Ë ˜2ƒî×ÅV2Öí÷+Îpæçoå<F†Óž:¶”°ˆ‡±¡Ï)ëLuèSo^p ½!ižçl—†’4/ Ùõ9Æ ’jëÇ¿±Îecw4[{
 H×˜Æ;[âw%ÔKƒ¯ž9ªj7†Ãb¦é7‚´’Ñt’SÌ3E‡ñäÃ
 L"Ý:„–mÈoj¯‰É4ák5_èxúéŠ×æ[“ï¶ìoš\¼_÷O¢;¦+xä­J¨ À(RÃˆ¯PôÔeù§ãC
-1 unfreed mallocs
+
+1 unfreed mallocs
 689 malloc'd size
 0 unfreed mallocs
-ft_substr() -> %qCUtu!X¥-ÑPÔnÐ7P_Â0ü@ßÔ‘ê³p!¯¶8¿•À‡èp3Ðw™\U-ÜÍÐZ›\G"ÑEÎO¤h¯ÇüÚß0ÑØƒfØÞÊ€óõ«Óì[Or"…[`És@Óc¢2u¼¡¿œî1 unfreed mallocs
+ft_strjoin() -> %qCUtu!X¥-ÑPÔnÐ7P_Â0ü@ßÔ‘ê³p!¯¶8¿•À‡èp3Ðw™\U-ÜÍÐZ›\G"ÑEÎO¤h¯ÇüÚß0ÑØƒfØÞÊ€óõ«Óì[Or"…[`És@Óc¢2u¼¡¿œî
+1 unfreed mallocs
 110 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Q[„™PýWßUã9¹ÎA¼ð×¯•‘…¹Â~L[†–×–òÝ¹ðBû2r•×J£_4ì÷­Núšð/÷§ùÎ	ZdòæŽ&=é0QŽ‹d@G)¯Û8€£zóƒ¼ˆ¤½J©S¯õ ¡™ÃÑñW¹Bª=š@Cþ>A±¢/y©•×9!˜êºÑ•BÅm"{%Ÿ×NÌÆP®Çq¤ã™¼ë¢KË¶‹	$ï{.åzÖlç6@èB„?úd*³¿¬É–/‹‘5ØïS¨¯Y³f·¹í_ÈBþxÿ¼"27ðâ³oJpEbîrÇó›S¬kòá}^D`Ôµv9Þ2;žËIIáÓÅ÷À~»¯±µÎµúã=ÕþaAÝ¶ó/g>³Ft@Ö×¦}Ÿ†|ABs¸¿ÿ¤ßÄâìKž§3|ÁÙ:‹¼%Á‘|¤{ðiÅ‰?ø»5­ †6¯¶Ã!«¼-µMi˜$ŽòÅùÊûHóqÄ[l=éÍ‘²¹¼S‘†¶ëÚH„#ŸK„×ä“_)§¨ÜLx©äÅÔ"¤BãR‚fözD=7Û½X¶XZTÅ®½_SHLŽ]QETŒ²Á´ÐbÅjpcÜäÐ¿WåÂ‰\ÒQšNŠ*xo“ñO>˜rù=âb$‘š‹;ÌÇ3bØ+ôŽÆ&>†±äMÁ*xCÈ’8,Mc2'oYÛõpÁCÉq6Tž•.7r„ñm&Ð«1 unfreed mallocs
+ft_strjoin() -> Q[„™PýWßUã9¹ÎA¼ð×¯•‘…¹Â~L[†–×–òÝ¹ðBû2r•×J£_4ì÷­Núšð/÷§ùÎ	ZdòæŽ&=é0QŽ‹d@G)¯Û8€£zóƒ¼ˆ¤½J©S¯õ ¡™ÃÑñW¹Bª=š@Cþ>A±¢/y©•×9!˜êºÑ•BÅm"{%Ÿ×NÌÆP®Çq¤ã™¼ë¢KË¶‹	$ï{.åzÖlç6@èB„?úd*³¿¬É–/‹‘5ØïS¨¯Y³f·¹í_ÈBþxÿ¼"27ðâ³oJpEbîrÇó›S¬kòá}^D`Ôµv9Þ2;žËIIáÓÅ÷À~»¯±µÎµúã=ÕþaAÝ¶ó/g>³Ft@Ö×¦}Ÿ†|ABs¸¿ÿ¤ßÄâìKž§3|ÁÙ:‹¼%Á‘|¤{ðiÅ‰?ø»5­ †6¯¶Ã!«¼-µMi˜$ŽòÅùÊûHóqÄ[l=éÍ‘²¹¼S‘†¶ëÚH„#ŸK„×ä“_)§¨ÜLx©äÅÔ"¤BãR‚fözD=7Û½X¶XZTÅ®½_SHLŽ]QETŒ²Á´ÐbÅjpcÜäÐ¿WåÂ‰\ÒQšNŠ*xo“ñO>˜rù=âb$‘š‹;ÌÇ3bØ+ôŽÆ&>†±äMÁ*xCÈ’8,Mc2'oYÛõpÁCÉq6Tž•.7r„ñm&Ð«
+1 unfreed mallocs
 571 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ž13þÅŸâS¸6ÇúŸ:“{qY¤{!-\l}Ž¦Þ­¥Í{W9Ø"öV†—¸´Ö+/ÑoÛAé£”Ö¾|ÒÒ¶´K‹î-úsùN¢!è‚B÷^‘¼ä¢ùþ¨M4Ø0—>ÉµRªâa42…ùÛøÞÍFö¼ˆî]ê¤F¼ÁŠ¨äµòŒ#]ÊÃEFBöµÛ7—	5ŽÒÙfy4>L½
-A	©ŠýXùøü;ó%è@ O¯UÅ«'ÂŠúQ«%çœa[_Án'm„Ïx¦°hš+ß"1 unfreed mallocs
+ft_strjoin() -> ž13þÅŸâS¸6ÇúŸ:“{qY¤{!-\l}Ž¦Þ­¥Í{W9Ø"öV†—¸´Ö+/ÑoÛAé£”Ö¾|ÒÒ¶´K‹î-úsùN¢!è‚B÷^‘¼ä¢ùþ¨M4Ø0—>ÉµRªâa42…ùÛøÞÍFö¼ˆî]ê¤F¼ÁŠ¨äµòŒ#]ÊÃEFBöµÛ7—	5ŽÒÙfy4>L½
+A	©ŠýXùøü;ó%è@ O¯UÅ«'ÂŠúQ«%çœa[_Án'm„Ïx¦°hš+ß"
+1 unfreed mallocs
 231 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ½9°˜‘KšÇ.ŽAm¤h@Ò­'îÅˆƒ·„K’*¿·Ã_ûï¾üqZñAÓhOÿõ?`ç‹å1ÙúFð{ûz8ä‘¶ó«ñ&Ñ>:ãu½„»W5PômÎííæo°¾YLÚíSÅŸÖ |†É‹RXØÄ¯yIçCà$ô¬³—éñØ€c>àÔIZÛ‹(uH1Ó_ØÙ4øŒ0W7I¤°FïËï4fv¢xLA+$žà	éò]·:>7`—ÔîH¸ ù/Ué×"2'Û¦	ÿ™ šPÓmU‘LÔÆÜó‚›øXgßpåcÎ ¬0±«tàöF‚IíÏ®Vgó_™ kœ¶Ã@ó½ÃM\÷»9½¨Ô=bCŽÞbtðÏÊUaXÔñUgï±”/]=á“¥¹WíIŒjá°ß°9ÔÔr°‡öbgÅŠ¿4P‘MÍƒ7Ò0L bÐž§ÑösþüG½a¿K'­\¤ÒÏMçþÌ>‡»¾ðŠ£‰rnŸ£’%Æ•–(‰Ä®a#Žáªb*¸
-6<­®û;R©†ƒBkñ9È'âP.Â’™7öxXgQÓ'cöÂâžºÞ'b7&ØŸ¯®Nw§]…@kñT°4Tê¬äÞŽß3,¾8ë‚þÜ¿[Î;f3Ót§¡¢,•xg}ì–ŸÓ%eªŽÞpéDwÁæª•`‡³Ïb„ˆÐkî9‹2œõl<ZAçCnôqr÷–'^ªÿlÜ®½9°˜‘KšÇ.ŽAm¤h@Ò­'îÅˆƒ·„K’*¿·Ã_ûï¾üqZñAÓhOÿõ?`ç‹å1ÙúFð{ûz8ä‘¶ó«ñ&Ñ>:ãu½„»W5PômÎííæo°¾YLÚíSÅŸÖ |†É‹RXØÄ¯yIçCà$ô¬³—éñØ€c>àÔIZÛ‹(uH1Ó_ØÙ4øŒ0W7I¤°FïËï4fv¢xLA+$žà	éò]·:>7`—ÔîH¸ ù/Ué×"2'Û¦	ÿ™ šPÓmU‘LÔÆÜó‚›øXgßpåcÎ ¬0±«tàöF‚IíÏ®Vgó_™ kœ¶Ã@ó½ÃM\1 unfreed mallocs
+ft_strjoin() -> ½9°˜‘KšÇ.ŽAm¤h@Ò­'îÅˆƒ·„K’*¿·Ã_ûï¾üqZñAÓhOÿõ?`ç‹å1ÙúFð{ûz8ä‘¶ó«ñ&Ñ>:ãu½„»W5PômÎííæo°¾YLÚíSÅŸÖ |†É‹RXØÄ¯yIçCà$ô¬³—éñØ€c>àÔIZÛ‹(uH1Ó_ØÙ4øŒ0W7I¤°FïËï4fv¢xLA+$žà	éò]·:>7`—ÔîH¸ ù/Ué×"2'Û¦	ÿ™ šPÓmU‘LÔÆÜó‚›øXgßpåcÎ ¬0±«tàöF‚IíÏ®Vgó_™ kœ¶Ã@ó½ÃM\÷»9½¨Ô=bCŽÞbtðÏÊUaXÔñUgï±”/]=á“¥¹WíIŒjá°ß°9ÔÔr°‡öbgÅŠ¿4P‘MÍƒ7Ò0L bÐž§ÑösþüG½a¿K'­\¤ÒÏMçþÌ>‡»¾ðŠ£‰rnŸ£’%Æ•–(‰Ä®a#Žáªb*¸
+6<­®û;R©†ƒBkñ9È'âP.Â’™7öxXgQÓ'cöÂâžºÞ'b7&ØŸ¯®Nw§]…@kñT°4Tê¬äÞŽß3,¾8ë‚þÜ¿[Î;f3Ót§¡¢,•xg}ì–ŸÓ%eªŽÞpéDwÁæª•`‡³Ïb„ˆÐkî9‹2œõl<ZAçCnôqr÷–'^ªÿlÜ®½9°˜‘KšÇ.ŽAm¤h@Ò­'îÅˆƒ·„K’*¿·Ã_ûï¾üqZñAÓhOÿõ?`ç‹å1ÙúFð{ûz8ä‘¶ó«ñ&Ñ>:ãu½„»W5PômÎííæo°¾YLÚíSÅŸÖ |†É‹RXØÄ¯yIçCà$ô¬³—éñØ€c>àÔIZÛ‹(uH1Ó_ØÙ4øŒ0W7I¤°FïËï4fv¢xLA+$žà	éò]·:>7`—ÔîH¸ ù/Ué×"2'Û¦	ÿ™ šPÓmU‘LÔÆÜó‚›øXgßpåcÎ ¬0±«tàöF‚IíÏ®Vgó_™ kœ¶Ã@ó½ÃM\
+1 unfreed mallocs
 828 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ü©¯0¯`oÑÍNŸ=VéÇžuöÈ‚=y“Bð|l…
-§|ŒMÓÑtó˜8Ã}„'¢«;áÈz„xA;¯ Ggç¹¯Ö¥“Ém¡.û‘=hsþƒÜºUÛ	Ó¢M²æfÞù!šÂw‹á*Êf´˜ˆìrÓP‘RÀ‘n_åÛDÙ½ðŒøØñ	+‰Ñº©>&£ßÒiyà¸c_þVûìnIö­€ôäâ?hKš»¿ÄI[:Š—Ä“aoµÙ‰ažèÉ°²H•dg{J*£H]bÇ®Cqg<õýðÔF›7 ú¿ýRˆ_žÒæ·¸R=-ÎÏ`B‚Ë94KÃrÄfJU&þ»Š1 unfreed mallocs
+ft_strjoin() -> ü©¯0¯`oÑÍNŸ=VéÇžuöÈ‚=y“Bð|l…
+§|ŒMÓÑtó˜8Ã}„'¢«;áÈz„xA;¯ Ggç¹¯Ö¥“Ém¡.û‘=hsþƒÜºUÛ	Ó¢M²æfÞù!šÂw‹á*Êf´˜ˆìrÓP‘RÀ‘n_åÛDÙ½ðŒøØñ	+‰Ñº©>&£ßÒiyà¸c_þVûìnIö­€ôäâ?hKš»¿ÄI[:Š—Ä“aoµÙ‰ažèÉ°²H•dg{J*£H]bÇ®Cqg<õýðÔF›7 ú¿ýRˆ_žÒæ·¸R=-ÎÏ`B‚Ë94KÃrÄfJU&þ»Š
+1 unfreed mallocs
 273 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Õ%l1†cæÓbt¢‹³3úSÐðóÄÎ°LS­ï‘nCá\ìÀzÒï¦	T¯l´R–ãþÁ6ÒîkØv tÃÇ·bfÆˆ†j2eþÍŸhÈ¡*àÏCUX¿Ì<M¸À`/m²eç:òÙCq`¬
+ft_strjoin() -> Õ%l1†cæÓbt¢‹³3úSÐðóÄÎ°LS­ï‘nCá\ìÀzÒï¦	T¯l´R–ãþÁ6ÒîkØv tÃÇ·bfÆˆ†j2eþÍŸhÈ¡*àÏCUX¿Ì<M¸À`/m²eç:òÙCq`¬
 ƒvànÕð1¬A„Û=„¼˜ˆÇÈ¢UøFoñž^š¦¦Ÿ‘ûë˜°‡6	xÛát`U‰t,@VìD ò¸¤Û_›ÑI—pÑë#ÞècÛlŸÍò}‘õ•™äö?ÿC1Ùt˜`%ÒßÏn¡¯I´0ë	ô¡Œ™x<‚uæµî~ÓØH®×Fô]4ÀÐá”šˆÿ¬¶ÑC°*×í_–ì­IK‡”rÎfVceîkØv tÃÇ·bfÆˆ†j2eþÍŸhÈ¡*àÏCUX¿Ì<M¸À`/m²eç:òÙCq`¬
-ƒvànÕð1¬A„Û=„¼˜ˆÇÈ¢UøFoñž^š¦¦Ÿ‘ûë˜°‡6	xÛát`U‰t,@VìD ò¸¤Û_›ÑI—pÑë#ÞècÛlŸÍò}‘õ•™äö?ÿC1Ùt˜`%ÒßÏn¡¯I´0ë	ô¡Œ™x<‚uæµî~ÓØH®×Fô]4ÀÐá”šˆÿ¬¶ÑC°*×í_–ì­IK‡”rÎfVce1 unfreed mallocs
+ƒvànÕð1¬A„Û=„¼˜ˆÇÈ¢UøFoñž^š¦¦Ÿ‘ûë˜°‡6	xÛát`U‰t,@VìD ò¸¤Û_›ÑI—pÑë#ÞècÛlŸÍò}‘õ•™äö?ÿC1Ùt˜`%ÒßÏn¡¯I´0ë	ô¡Œ™x<‚uæµî~ÓØH®×Fô]4ÀÐá”šˆÿ¬¶ÑC°*×í_–ì­IK‡”rÎfVce
+1 unfreed mallocs
 506 malloc'd size
 0 unfreed mallocs
-ft_substr() -> MbXuØ(?i9ÅF¼ÁˆÒGL¬‰à>h§2Y¨šPd)m‰¾`asÞBÜŽŽ.hó” (ÓA2ä M¢åD‹èxóVT9Îºkm›¶!Ýà(.Æùÿj £Å¿TVfÅÐ¯–OçÁõ8JçåEL-u¿7Okð©àRN”£Î¢4V;·ÕØ'k¶H¿>+CfôÚøî¿VÛIm«Ê³e¼`ªTgÓàÞbîÌn“fÇª§ŠC ¯›Ux¹áíÉXf,?à¾¹>bRräoÚhÇÇtðˆ§µ±HSBqôY-7k
+ft_strjoin() -> MbXuØ(?i9ÅF¼ÁˆÒGL¬‰à>h§2Y¨šPd)m‰¾`asÞBÜŽŽ.hó” (ÓA2ä M¢åD‹èxóVT9Îºkm›¶!Ýà(.Æùÿj £Å¿TVfÅÐ¯–OçÁõ8JçåEL-u¿7Okð©àRN”£Î¢4V;·ÕØ'k¶H¿>+CfôÚøî¿VÛIm«Ê³e¼`ªTgÓàÞbîÌn“fÇª§ŠC ¯›Ux¹áíÉXf,?à¾¹>bRräoÚhÇÇtðˆ§µ±HSBqôY-7k
 œ÷ÙQŸÔŸá9™ÿ¿Å„‰Ørlt—~Q¾­ô+D$V³mºZà`øšÃhäîHÒ»‡£<¼Ü¤YF]eš2¥h!h«RÆü®içßÏó=Ë|µZýb/ºîaÕµ¢«¶Cs}&q5ò×dîëwJ<NŽ,ÙÝ_™©jÉ{é´u­u°™xkÌÄ¹Æ*ñ×¤5ñ$6¯åMbXuØ(?i9ÅF¼ÁˆÒGL¬‰à>h§2Y¨šPd)m‰¾`asÞBÜŽŽ.hó” (ÓA2ä M¢åD‹èxóVT9Îºkm›¶!Ýà(.Æùÿj £Å¿TVfÅÐ¯–OçÁõ8JçåEL-u¿7Okð©àRN”£Î¢4V;·ÕØ'k¶H¿>+CfôÚøî¿VÛIm«Ê³e¼`ªTgÓàÞbîÌn“fÇª§ŠC ¯›Ux¹áíÉXf,?à¾¹>bRräoÚhÇÇtðˆ§µ±HSBqôY-7k
-œ÷ÙQŸÔŸá9™ÿ¿Å„‰Ørlt—~Q¾­ô+D$V³mºZà`øšÃhäîHÒ»‡£<¼Ü¤YF]eš2¥h!h«RÆü®içßÏó=Ë|µZýb/ºîa1 unfreed mallocs
+œ÷ÙQŸÔŸá9™ÿ¿Å„‰Ørlt—~Q¾­ô+D$V³mºZà`øšÃhäîHÒ»‡£<¼Ü¤YF]eš2¥h!h«RÆü®içßÏó=Ë|µZýb/ºîa
+1 unfreed mallocs
 696 malloc'd size
 0 unfreed mallocs
-ft_substr() -> õ{È»^ÃÖyÒ V, ãnû@“øˆïû¨©Æ1•ëžâã$˜!öŽØBæIê÷“˜ö±ªu×ÝV;fm‘~'"^Uï	Ê¡?«¤dúü*Oö\X4"É´åªxÔíQP£l#í¶À¬©ªÌH
+ft_strjoin() -> õ{È»^ÃÖyÒ V, ãnû@“øˆïû¨©Æ1•ëžâã$˜!öŽØBæIê÷“˜ö±ªu×ÝV;fm‘~'"^Uï	Ê¡?«¤dúü*Oö\X4"É´åªxÔíQP£l#í¶À¬©ªÌH
 Ò—uD?ç"f<<+ÅM*¢­(Fj*¸èWÿèÇ|_ª8*ÀxXD7•žÖ@âæ4ÒÑÿêÅâ/ÆÀªç–Olgé¢Çg½8íŒxøqùÍ‡¬R—°ßu|Ëü”Lhçó†Å›­·)ûœûÓ.óµì
 o/©étV¯–/D¾Bô“fe#Y¯À¡ë˜#ÂÂ¡2b)ô
 é˜U×ê”GÅØ¡:µ¸ÄOHFÙ™:GfÕ9ViDHmV5dM,JäúrD{Bš¢”’±Ð’îi•b`p‰g°Ê [ÎS
-ÆŸŸÔ=‡“^[»À1 unfreed mallocs
+ÆŸŸÔ=‡“^[»À
+1 unfreed mallocs
 349 malloc'd size
 0 unfreed mallocs
-ft_substr() -> <ÙŽ‹¯½W‘Jú
+ft_strjoin() -> <ÙŽ‹¯½W‘Jú
 ±2Û§›1IÈ¡Zeh”ª„+~šd6ör/}o{M|ÇVÂDP 0‘ñµ¿nøGþÉeŠW˜éŸxàk/™'F¥éÂhZ½/ä²ˆ‚g[ÓJ!àabËm:ÍÄÓï`*·1¼½ã9Š9Œ<ð#¯#hÍÖb¤È¹G¬¡ bw‘òâ*Â¥îfÑ¤r©Œ;Ähô(’´ûò(õÖ>ãüe}1/”­ì¾[æ(_žÓ½øæ©ÒQ²3÷¡Zì|%»h‘‹YºIj
-°*ÙeÓtÎè28ëxÜHû£ñÇãCzLS†eÀÌVh¿jm—ä¤ÅšAù¡¹[aŒ‚S;c\FÞ´:{ÿ‡dÒàâ‘Å{ƒá¥?hˆÉX÷9^ùF¼ãBÁt£5¾ Ù±±ç8¶ŽŠ98@£‡¯çØµ®Oü…ÜŒ²ý«£?TvûÇ¤%õ~æ¯?úŸp?™VßNÂiÇxGÃmÙx	¨¢­˜…¥dg0ªŠ©—Ç›¦3al~É¡"™(-ÉŒšŒúÓsêøÓ#þda:ùïm3è~çÐ%ùmvÞCxÓæ‰©õÛ1 unfreed mallocs
+°*ÙeÓtÎè28ëxÜHû£ñÇãCzLS†eÀÌVh¿jm—ä¤ÅšAù¡¹[aŒ‚S;c\FÞ´:{ÿ‡dÒàâ‘Å{ƒá¥?hˆÉX÷9^ùF¼ãBÁt£5¾ Ù±±ç8¶ŽŠ98@£‡¯çØµ®Oü…ÜŒ²ý«£?TvûÇ¤%õ~æ¯?úŸp?™VßNÂiÇxGÃmÙx	¨¢­˜…¥dg0ªŠ©—Ç›¦3al~É¡"™(-ÉŒšŒúÓsêøÓ#þda:ùïm3è~çÐ%ùmvÞCxÓæ‰©õÛ
+1 unfreed mallocs
 461 malloc'd size
 0 unfreed mallocs
-ft_substr() -> àJÂñ7FVšëÿ*_w§¾ö®¡ó¡<‚‚U€ç^CÄËkÓI0ÞïºÖÕ±Z†Á÷à€ÐÐ7·':u9zL•.¹6‹æædqÈñ’àìß‚MQ,½&ÎCb²¼¹±¦eMV†+ wÁx´|‹i'¡z:,=àoMÏëÈâÎ}âO-Ì­°¹‘(ñò_21Æú
+ft_strjoin() -> àJÂñ7FVšëÿ*_w§¾ö®¡ó¡<‚‚U€ç^CÄËkÓI0ÞïºÖÕ±Z†Á÷à€ÐÐ7·':u9zL•.¹6‹æædqÈñ’àìß‚MQ,½&ÎCb²¼¹±¦eMV†+ wÁx´|‹i'¡z:,=àoMÏëÈâÎ}âO-Ì­°¹‘(ñò_21Æú
 àËÂê2ÄéÇå¢ËAeCïf;nç'ùý“³–ZT¥LÔb:å¹ýŒv8•bxQŽë)ÌÕÈûöòŒÏ}J¼JtâŸ|ðmuÇYY_¢k-$ÔŒSQ’.­'òhé9ú&¼ª°MòÕ~Ãfz>x¾:™;3,ä÷Ñ+[þVyÅ‘›=öH‘{C³¿B‚þ2Ð°¼T‡ŠS·è"‹g» ×ã‰#ÚV`PYg‡€qÌ—”pŠ¡ã±ÀÉýº}Fçuÿ®ûdü¤bpªäj±¿ÉºŸh¯ÆÍ¸këÕ N¬žtÆ¡Ð€òÀ19TÅ¾œ¼šíáÇÂôlrß¶a„´¥Æ2xwPâFåó”Ï²à#¶ÔÛp8c(9=TúÎb!Ç€jHFüe%åRs#Þ""åì¢Š9Ên*¾pOZl6ÃTB$*±„p¡Wœp ÂBbô<‰ºË=¤%Ü	"ÕxÄ¶§Â¦î×d\ã±Ù:Ô$ü`
 çXM%y÷«1[ƒw3M#j“„U¼}çäVàCË¬z9h0C¹ÑGí?ÜBÓô”žÁ‰@=I¥—cAI¢Ë°Y$úÆº=DãÈ×ú>Îr?‘A­«„À“¡ÛÌ«p^G¾,Œ®fKþ[ÿç}Uƒ[¡²¶HwC¼œxøQsö.×0XÓòŽì÷ˆf)´WŽµeÙ1ÿêß0Wp/!È*™P·\Æ&ÉÒP¤Gn„¾õãÖÉ,û<ÞŸR8ó ¨jh¶Ã„k.ˆö¦¾Ú0ë¶XIJÔ¨A¶¦Hý·hÖºŒlx‰N¯(z×ñõ¹¢ÊÊ3HYÎÚBgÕ~éò„ªÁ¦ˆ fde¹5týOZl6ÃTB$*±„p¡Wœp ÂBbô<‰ºË=¤%Ü	"ÕxÄ¶§Â¦î×d\ã±Ù:Ô$ü`
-çXM%y÷«1[ƒw3M#j“„U¼}çäVàCË¬z9h0C¹ÑGí?ÜBÓô”žÁ‰@=I¥—cAI¢Ë°Y$úÆº=DãÈ×ú>Îr?‘A­«„À“¡ÛÌ«p^G¾,Œ®fKþ[ÿç}Uƒ[¡²¶HwC¼œxøQsö.×0XÓòŽì÷ˆf)´WŽµeÙ1ÿêß0Wp/!È*™P·\Æ&ÉÒP¤Gn„¾õãÖÉ,û<ÞŸR8ó ¨jh¶Ã„k.ˆö¦¾Ú0ë¶XIJÔ¨A¶¦Hý·hÖºŒlx‰N¯(z×ñõ¹¢ÊÊ3HYÎÚBgÕ~éò„ªÁ¦ˆ fde¹5tý1 unfreed mallocs
+çXM%y÷«1[ƒw3M#j“„U¼}çäVàCË¬z9h0C¹ÑGí?ÜBÓô”žÁ‰@=I¥—cAI¢Ë°Y$úÆº=DãÈ×ú>Îr?‘A­«„À“¡ÛÌ«p^G¾,Œ®fKþ[ÿç}Uƒ[¡²¶HwC¼œxøQsö.×0XÓòŽì÷ˆf)´WŽµeÙ1ÿêß0Wp/!È*™P·\Æ&ÉÒP¤Gn„¾õãÖÉ,û<ÞŸR8ó ¨jh¶Ã„k.ˆö¦¾Ú0ë¶XIJÔ¨A¶¦Hý·hÖºŒlx‰N¯(z×ñõ¹¢ÊÊ3HYÎÚBgÕ~éò„ªÁ¦ˆ fde¹5tý
+1 unfreed mallocs
 1142 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ‘ë™–üQ­ð3œ£
+ft_strjoin() -> ‘ë™–üQ­ð3œ£
 uð+V£}œtüÔa/lKƒØA\JÆ|õàÂ½ô?-…ÊÌ×Ð<HGîý<ã¤ø}¸¾ÒùòÜq"™aÝ-Í¬²‚uyÁFVí›6'˜6PDüýºt™¾>þ•SÌÓúsÀ>.¹¢ŠÝ Ã"ò+äz6·ü#6}’.YLÁ†
-ƒ—"¨áX’ÕÅ¿z âégnzÙ\Œ×ï¤ö*ZîòµÙ2³_R¢ÍÃÒ°µ™¨o$§upõ×è.-)R‘ÒÑnÊkÌ$·Nš+Ëæ¡Ö•V5 D1 unfreed mallocs
+ƒ—"¨áX’ÕÅ¿z âégnzÙ\Œ×ï¤ö*ZîòµÙ2³_R¢ÍÃÒ°µ™¨o$§upõ×è.-)R‘ÒÑnÊkÌ$·Nš+Ëæ¡Ö•V5 D
+1 unfreed mallocs
 236 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÊÜÔù2~˜ý7qIöKþ2«_uŸ{°ótFƒ…'÷ÀKÀÚL‹œ:WäèÖ¼½ñtÚìal3+9ñÇ;Ž.ÖÅxV
+ft_strjoin() -> ÊÜÔù2~˜ý7qIöKþ2«_uŸ{°ótFƒ…'÷ÀKÀÚL‹œ:WäèÖ¼½ñtÚìal3+9ñÇ;Ž.ÖÅxV
 öÅ&ÚQ£ì.*sÄÃÙZ‘/~Ä”	(Š¾÷Z
 üŒÝa÷÷Y$Ôx"‰HÑYÔA]/*¹ílwŠÓ6Rô&cçž1«„Ñ–ÒÛ¦…íy]ÜÓtU‘	&l™¾^¥¼z›¦HXœÛýpóÛ¥Ñ9ï]r´$Äçµ«Á’­š]¹)f½ÆH6j¿}ÛMdUƒÉX¸Î‡ÒàÚæ…—õ:jÛ²k¬ó¢µ¯Ô¡ÉÓì-»€ÄVi ô,ü™ú¯;ý¹È¬vNn$r«eöF¤Ä1¶‘_œC©ør8$Þsçÿ5ôŠõ'EùñGfš|„²ÃQÛÜÂ$‰	ÄÒ|ùòîW…ÀÞí©Ý»íO…‘·ÿÉ‘ÿhš†¾¤ÕŽ'"×C–ÁCtòãÔóå}'–ž÷7ÃošS½(¶á²1–Õ€i%îKÂ\·À™s9&ÖÃ€)È}Õf½µµdL“:ähR*¸“€^QnTši4fš)§0àú»H@+['Gßé¯4cÂeDÕ»QÚ]¿§T?o“,HJ©0”~ìÉ›j™ž^[òyVèXj¬ø¥Ò£uW½’ùDØWÚà_`Â2\ê VAK\PíŠ’ÌìízOs±×‰àæË‡{ò…7õåÐcëüÏ9ÁoµIÕ¡3µw¾Ó¯|×•³õ©ûÄaÐåÔ¦oWr¸â¬&·â`[z<ÅŽÃM_dZéfòØƒ×A+ýÖŸ	êV±d}Ë"‘Á)€bŸ%?Ù’×B3ÿyÇxü#ÍßÆráâ¸¥a9úêÒƒ…‘·ýÇ¢/ntÌî=¨'|+¤°
 )ñú¼<CV€'fæö0¯¾†^§¼)d"zµ¸Ú‡§Àæ'UäkÜ[œX;
-Ñ‚™©„'bA`IÏ<ÂpÑÝoß9ä?TUÊ|ÀÜI‹xGaéÃf'œ0ïb#q³ã ¹d^‹ù(×Þjn2MuÈcÕ´ÏïŽÈDÀˆV,Œž…µ„h‚ÉÛA1ƒ–Ž¨¬0í¢G¼3/aáØÉCŒóMN=W0¡×I¿¯”_…;[„¢Mü„j—3W¼©]-"Ùø=­ðÜNŽ”;tyZå©H9ìKóÝvÅI”³j+1 unfreed mallocs
+Ñ‚™©„'bA`IÏ<ÂpÑÝoß9ä?TUÊ|ÀÜI‹xGaéÃf'œ0ïb#q³ã ¹d^‹ù(×Þjn2MuÈcÕ´ÏïŽÈDÀˆV,Œž…µ„h‚ÉÛA1ƒ–Ž¨¬0í¢G¼3/aáØÉCŒóMN=W0¡×I¿¯”_…;[„¢Mü„j—3W¼©]-"Ùø=­ðÜNŽ”;tyZå©H9ìKóÝvÅI”³j+
+1 unfreed mallocs
 914 malloc'd size
 0 unfreed mallocs
-ft_substr() -> žR£jFÄDq]@ö†Þh'µ°«Ò¯&Áº|²2cP/À›®¶0ÜÂk¶Ý=ðÙòjÌUÂ@ âöv*˜¼H²ÐZi`;óg”ëîKþUÃe1•¾Ô½i÷È§\ÞUß‰{ÊëgZ†ƒÊ|·ó÷1 unfreed mallocs
+ft_strjoin() -> žR£jFÄDq]@ö†Þh'µ°«Ò¯&Áº|²2cP/À›®¶0ÜÂk¶Ý=ðÙòjÌUÂ@ âöv*˜¼H²ÐZi`;óg”ëîKþUÃe1•¾Ô½i÷È§\ÞUß‰{ÊëgZ†ƒÊ|·ó÷
+1 unfreed mallocs
 110 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Â¿;×ã 2´ŠZ„ÝÊ$¹hùSb£×µÜ	v¯ŠîÇÍý*ŒêÿL:CÚíxoTyÈiYÿ~Ã‰“}c9“í‡úw™¨oy}¼È©ºÞ¤1 unfreed mallocs
+ft_strjoin() -> Â¿;×ã 2´ŠZ„ÝÊ$¹hùSb£×µÜ	v¯ŠîÇÍý*ŒêÿL:CÚíxoTyÈiYÿ~Ã‰“}c9“í‡úw™¨oy}¼È©ºÞ¤
+1 unfreed mallocs
 80 malloc'd size
 0 unfreed mallocs
-ft_substr() -> @ú˜CéÃ×€…Û€¡	Ãe°H¼ŒõêqýTÕŽ]S|å´šÏÀMîm§'!/‰ÊúwÀ0R3§Ù)œùá•Ýˆ\‚‰I<ÓR¨:h½<$¨ÐÛxW:ûëD,×&‚iÓ‚ÌÇÒÚQì‘wcð´¯ýþ¢aQ`Jƒ7Ók†ÿ:1 unfreed mallocs
+ft_strjoin() -> @ú˜CéÃ×€…Û€¡	Ãe°H¼ŒõêqýTÕŽ]S|å´šÏÀMîm§'!/‰ÊúwÀ0R3§Ù)œùá•Ýˆ\‚‰I<ÓR¨:h½<$¨ÐÛxW:ûëD,×&‚iÓ‚ÌÇÒÚQì‘wcð´¯ýþ¢aQ`Jƒ7Ók†ÿ:
+1 unfreed mallocs
 139 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÇxToª‹¥(l­‘¤ÖDÎOe¾-X¸;BéŽct6€óµA4ŽQ¤ºß­’ÖµãŽHºkÑZÎYTP;ì	³Z†a­Ì”ƒ)¢ÎòÔ­W¢í¤”w\ì$7±]Á@:°Ûô‰_.sàôÒ7$ŒšuÌï½u]Éà]mðtß7ëàÏDŽc“:iª—©¯Â¼2U­}Ëx£œ¯cÑ¯	ô=Ï.+^œtwu¶´·H=[Ž’Ý©žB,yµdìGí.¿sjUš«V\!¤½M€ƒé˜ÿÄýt‹8J;¿p]R°ÚJ˜Ê!¿é5¿ªª‰¶YË*B seÙRE
+ft_strjoin() -> ÇxToª‹¥(l­‘¤ÖDÎOe¾-X¸;BéŽct6€óµA4ŽQ¤ºß­’ÖµãŽHºkÑZÎYTP;ì	³Z†a­Ì”ƒ)¢ÎòÔ­W¢í¤”w\ì$7±]Á@:°Ûô‰_.sàôÒ7$ŒšuÌï½u]Éà]mðtß7ëàÏDŽc“:iª—©¯Â¼2U­}Ëx£œ¯cÑ¯	ô=Ï.+^œtwu¶´·H=[Ž’Ý©žB,yµdìGí.¿sjUš«V\!¤½M€ƒé˜ÿÄýt‹8J;¿p]R°ÚJ˜Ê!¿é5¿ªª‰¶YË*B seÙRE
 ÁÜ(¸éöô~\cåñ„F,¤Í›l¯%×´ÝÒ}o¨_J–,aÇóhÂ¢|FÍoZ%Údš²SÕa™zþVHAøJi#õ[2dÅ~­C¤$5™8 §`,ÊÈ¤m!dßÌ°úS’«
-°ŒÐc­Êù7ð!§z“ïN¿®” Ûº²uà´âüÍ$ÿVW'7!+‘%1 unfreed mallocs
+°ŒÐc­Êù7ð!§z“ïN¿®” Ûº²uà´âüÍ$ÿVW'7!+‘%
+1 unfreed mallocs
 411 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Ô„%“¦¼µ…ÊF@]f[ÆÎA»¶Õô0S$¯«u|{IåmZõ²¥ËBÿP~o¢ªL¿íazàhêæ²Ã¥j±¼Wï›uóEiçZ·¨Tò¸Š¾¥û²i¡1ßÂ1—‰¨1 unfreed mallocs
+ft_strjoin() -> Ô„%“¦¼µ…ÊF@]f[ÆÎA»¶Õô0S$¯«u|{IåmZõ²¥ËBÿP~o¢ªL¿íazàhêæ²Ã¥j±¼Wï›uóEiçZ·¨Tò¸Š¾¥û²i¡1ßÂ1—‰¨
+1 unfreed mallocs
 102 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¢3Þ	¼>¢šq°6-Ê}þBÎHáF‡4¢`xê&$ƒx.s(]àlÃpŠßÑåÅôK=þÍšbuöx&iÜEÀ#v/-ç•öõ‡[›%ûâŽ›Ø²ŒYl–Ñ/@n.TÕ_ðEæo×R—Y©ß†þÌÙÚ‹TfAÁèÔ¶ï¢j4DºëâIì;ÈJò5ì¯®f[ŽùLü×
+ft_strjoin() -> ¢3Þ	¼>¢šq°6-Ê}þBÎHáF‡4¢`xê&$ƒx.s(]àlÃpŠßÑåÅôK=þÍšbuöx&iÜEÀ#v/-ç•öõ‡[›%ûâŽ›Ø²ŒYl–Ñ/@n.TÕ_ðEæo×R—Y©ß†þÌÙÚ‹TfAÁèÔ¶ï¢j4DºëâIì;ÈJò5ì¯®f[ŽùLü×
 §8Ó|¥7úê'Y±ékà†=u"o{8¹ô$8ÆXF¢Ym…ô
-XxÆ-àf˜8JT¢[¾1ŽYÆõg\ L*{#@…Xº	Æj-‹ú|&Môm’3‹ò÷\ÊšÎUCÊüþ•´¯dr)|‰>ÍH@£2å+ÅúŠ’©•gJ± àØ'ãä›ú_¸6|ÊE)rGç‚¯°òÿ‹€Ë1ÕÒ êoÐk‰¦à¦RÎ¶²5šîxø3ç[ÌXq@hE†É!H@£2å+ÅúŠ’©•gJ± àØ'ãä›ú_¸6|ÊE)rGç‚¯°òÿ‹€Ë1ÕÒ êoÐk‰¦à¦RÎ¶²5šîxø3ç[ÌXq@hE†É!1 unfreed mallocs
+XxÆ-àf˜8JT¢[¾1ŽYÆõg\ L*{#@…Xº	Æj-‹ú|&Môm’3‹ò÷\ÊšÎUCÊüþ•´¯dr)|‰>ÍH@£2å+ÅúŠ’©•gJ± àØ'ãä›ú_¸6|ÊE)rGç‚¯°òÿ‹€Ë1ÕÒ êoÐk‰¦à¦RÎ¶²5šîxø3ç[ÌXq@hE†É!H@£2å+ÅúŠ’©•gJ± àØ'ãä›ú_¸6|ÊE)rGç‚¯°òÿ‹€Ë1ÕÒ êoÐk‰¦à¦RÎ¶²5šîxø3ç[ÌXq@hE†É!
+1 unfreed mallocs
 440 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ”¹å’’+Ÿ2‡¹øÀ5UÜ™›-¿â>]$WÚþì3îg* h›\ù¥ƒ²j‡š*PcXR.±8‘0À>Ø¥Ž¸åS'G9±»Hœzýû§‰ §F°¾|a¨E¬D‹Å_²3„˜:P`œçèö©¡J°æ•Þ„í'š4ÚÆŠîœ·´fäg1 unfreed mallocs
+ft_strjoin() -> ”¹å’’+Ÿ2‡¹øÀ5UÜ™›-¿â>]$WÚþì3îg* h›\ù¥ƒ²j‡š*PcXR.±8‘0À>Ø¥Ž¸åS'G9±»Hœzýû§‰ §F°¾|a¨E¬D‹Å_²3„˜:P`œçèö©¡J°æ•Þ„í'š4ÚÆŠîœ·´fäg
+1 unfreed mallocs
 140 malloc'd size
 0 unfreed mallocs
-ft_substr() -> H‡–#ÃÜÿT ˜Ü”ã¦¨yŒ'¨–ü‘TIóóJGõ#µaƒv3å¡lò¨ûŽ³N³ØœµÔåôGú¹çÒk–SZÊé¾'+VQß"¯¢ÙÇ#y5zÄlfõKKè|Üjv%
-³\÷û:’´N“tD`‡žb`K9—3qÕx>ÞQ ³%pž¢²†®W*þÄ†¿k=m“<,aÕžP”ˆÞ½±ˆí¨‚cÙ‡p×b¹•\1 unfreed mallocs
+ft_strjoin() -> H‡–#ÃÜÿT ˜Ü”ã¦¨yŒ'¨–ü‘TIóóJGõ#µaƒv3å¡lò¨ûŽ³N³ØœµÔåôGú¹çÒk–SZÊé¾'+VQß"¯¢ÙÇ#y5zÄlfõKKè|Üjv%
+³\÷û:’´N“tD`‡žb`K9—3qÕx>ÞQ ³%pž¢²†®W*þÄ†¿k=m“<,aÕžP”ˆÞ½±ˆí¨‚cÙ‡p×b¹•\
+1 unfreed mallocs
 185 malloc'd size
 0 unfreed mallocs
-ft_substr() -> U5Q¸écIUC-»Ì+„À0"nÝÌöÓï›øë’MÕD8”@X1~ÿí 8„PÜxùdêI N¿—ëä²zÛÓÃC’GU
-mb‘zŽL~Ã±I§_2ËÓ‹B²ý/!FeF{Ü<l]G®L±b½©X ©ûxJ¼AÔÔOi©eÖB–„Ð»¥>m>–odù@­DU¤¹–ú<ø*‰Ø?4×W!l£ÌÔß]¦rEqJ¾©ÈBÌW¥öéË|ÿl]G®L±b½©X ©ûxJ¼AÔÔOi©eÖB–„Ð»¥>m>–odù@­DU¤¹–ú<ø*‰Ø?4×W!l£ÌÔß]¦rEqJ¾©ÈBÌW¥öéË|ÿ1 unfreed mallocs
+ft_strjoin() -> U5Q¸écIUC-»Ì+„À0"nÝÌöÓï›øë’MÕD8”@X1~ÿí 8„PÜxùdêI N¿—ëä²zÛÓÃC’GU
+mb‘zŽL~Ã±I§_2ËÓ‹B²ý/!FeF{Ü<l]G®L±b½©X ©ûxJ¼AÔÔOi©eÖB–„Ð»¥>m>–odù@­DU¤¹–ú<ø*‰Ø?4×W!l£ÌÔß]¦rEqJ¾©ÈBÌW¥öéË|ÿl]G®L±b½©X ©ûxJ¼AÔÔOi©eÖB–„Ð»¥>m>–odù@­DU¤¹–ú<ø*‰Ø?4×W!l£ÌÔß]¦rEqJ¾©ÈBÌW¥öéË|ÿ
+1 unfreed mallocs
 296 malloc'd size
 0 unfreed mallocs
-ft_substr() -> û±Sf-?C²bgÈŸ“}WÊF¡£	´[~çÂyÛH@W™‰ÖïÃw¿_¦Ü)Ï"–Iå›ç¨òñ®„¦äY¸1 unfreed mallocs
+ft_strjoin() -> û±Sf-?C²bgÈŸ“}WÊF¡£	´[~çÂyÛH@W™‰ÖïÃw¿_¦Ü)Ï"–Iå›ç¨òñ®„¦äY¸
+1 unfreed mallocs
 67 malloc'd size
 0 unfreed mallocs
-ft_substr() -> »¾ìÌ~Ø·éü?ÐÿýXL=K°`RÏáË£¬éb÷±Çœê¤+.­*lxºº&†°K;ˆÏø•ÀJ·›1ÿ(_´ÑÍ‰›ºÆ§§Çš"‘ØÒV©¢vÈ]K'ŠÈ†÷Qê{ˆ› [E°Y‚I­ø’Ý®YYÎ‘Û‘7~>±|ò”t¾Äkj`5§E)¥Cô°5š9ï6èâ×7“¹Bh£ÀO|K°òËQä^•”àßÒú‡7ÀRèŽœQš- ›5C©ë5Wè\±hd~¡»cÕ¹xtúÊ#M©…K¸º:¶Åv#[‘'ã°È·ÑŸÛIçBÚ=¤")¦pHaOö©=i}8õM;HÉÕ4ÙåüG+egødóuD(@¿?ÈÆ1“²Ô†F·I`b‰Œ'aâT½R³~Öì×G"­tH¥Eú½/§éðXO0f<VFÌ÷7	 ß_Y „vtóhpR:’eÅñPa\Þ¥¡N#ñLäã_„·»÷Ü“`ˆQ‹/¾«†5`¿ÌÅçÏ¸7=D§’YœYÕV´~ŸßBÊ•?CƒØ%H!ñŠ´©²jö‹Ó‘És'ò^¹r“QŒ©#Æ£à"*ðbçvos¬^³V˜üš¯Óa”|áÑÕ1 unfreed mallocs
+ft_strjoin() -> »¾ìÌ~Ø·éü?ÐÿýXL=K°`RÏáË£¬éb÷±Çœê¤+.­*lxºº&†°K;ˆÏø•ÀJ·›1ÿ(_´ÑÍ‰›ºÆ§§Çš"‘ØÒV©¢vÈ]K'ŠÈ†÷Qê{ˆ› [E°Y‚I­ø’Ý®YYÎ‘Û‘7~>±|ò”t¾Äkj`5§E)¥Cô°5š9ï6èâ×7“¹Bh£ÀO|K°òËQä^•”àßÒú‡7ÀRèŽœQš- ›5C©ë5Wè\±hd~¡»cÕ¹xtúÊ#M©…K¸º:¶Åv#[‘'ã°È·ÑŸÛIçBÚ=¤")¦pHaOö©=i}8õM;HÉÕ4ÙåüG+egødóuD(@¿?ÈÆ1“²Ô†F·I`b‰Œ'aâT½R³~Öì×G"­tH¥Eú½/§éðXO0f<VFÌ÷7	 ß_Y „vtóhpR:’eÅñPa\Þ¥¡N#ñLäã_„·»÷Ü“`ˆQ‹/¾«†5`¿ÌÅçÏ¸7=D§’YœYÕV´~ŸßBÊ•?CƒØ%H!ñŠ´©²jö‹Ó‘És'ò^¹r“QŒ©#Æ£à"*ðbçvos¬^³V˜üš¯Óa”|áÑÕ
+1 unfreed mallocs
 506 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ^Ñ7Üâ®/õÅPx'˜LZç´Á(ëôè)-VöéRTU"Ê5×Êæ÷=„ðÎ—âq<“´•\RÛ°Þx¯#ï}#d7lk(î£"ÐŽ…Wø÷WYy¼4Q‚>ñÄ½áÐ9Æse…¶þÓGr7“L‡Qõ6'ÄÕÄ¬BwrèðúÝÚl½8,÷O×ÉÏbyS˜Ð
+ft_strjoin() -> ^Ñ7Üâ®/õÅPx'˜LZç´Á(ëôè)-VöéRTU"Ê5×Êæ÷=„ðÎ—âq<“´•\RÛ°Þx¯#ï}#d7lk(î£"ÐŽ…Wø÷WYy¼4Q‚>ñÄ½áÐ9Æse…¶þÓGr7“L‡Qõ6'ÄÕÄ¬BwrèðúÝÚl½8,÷O×ÉÏbyS˜Ð
 IÈôöÚXù)Àà@c}+IP5œSL‚Þ§ïÃòãJªü£ÃvkòúžK‚å,z\"aS7Í;jI˜ž­ó½L›ï7µè­rb=S©X5:­*ýÛìà~iöôÞk>âéû¯ò—óCÆ®Eq«Ôºª~/•H€aëÿáùØÒ¡Ä&á =¬_Ê…<Bä€‰É£ÕK÷³éct›Ç}!ÇË+Šò_egÕN%¯±]ƒœwfÞtÛÓ‡HÔ#ì¤I×6'u_*=Fà¯ÐÉúýï~¥ŽˆŸÂBTKokEÑƒR™‰¡®„#¨Éµÿ	š’\9].7H2@Xb@
 ö=î)6½ÉÅ<ÎCêÄ9Ò±'°ªKV)³¢ .¯p÷ Ô,KËÙÖ³#¶¾[¿žûæ×œg^cgRˆ¤".‡â0¢ë¿Û×°µ™Aþí{˜YÝySiæ‡óº­ðHÖ|›»%8G[»—
-®þ?(öîÎQÛÔôFæ”­Ž¬UäÑÎ”Óó,ªü‚ý­4”åº)ã—å)ºAÃ^÷épšòêÛn ;—ƒH.¬p1õFÜ1 unfreed mallocs
+®þ?(öîÎQÛÔôFæ”­Ž¬UäÑÎ”Óó,ªü‚ý­4”åº)ã—å)ºAÃ^÷épšòêÛn ;—ƒH.¬p1õFÜ
+1 unfreed mallocs
 607 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 4GÂ4Ä,›Ö’äªÉøå2·=ÊÞ÷UŒ}ìè¯ÓHf
-«Ÿ¬P´½$Ó©£±¼ÏÕVEÊ}‹bbk_`Ÿq»¨-Ûôˆcž˜e)(Õ•¼áhË¸UâŽmÓË»sÓþ1íþ@f†p8¼Ï‡O»1‘e§&}4³€{+U#º=Ø&y_Þ³Ù°ëEŒfŽL'É®<¹¨À¡ÙV²wí¦–qæ¥.ˆìn„®×Û£Î|æ¾ˆ»Â ©E¹Øl.Ä r6ì‘ƒ×c	aX2êÀ­+ÕVÃš¥Ë;båÕ=Õ„ÆÄQ*	»…ëô|lÂµp•Î¸Å¯&©×?d^(;Ô¢gÍí¬sEìïÑÖ¬åXù£&švšrJ*}¼Sö~3Âªv=¶@µ×Ë]>°}ûk/Í^Uù‘Nõ+V˜/Ÿº9'í¯ØfiÕ‘@ÃÞÎ0?ØXù£&švšrJ*}¼Sö~3Âªv=¶@µ×Ë]>°}ûk/Í^Uù‘Nõ+V˜/Ÿº9'í¯ØfiÕ‘@ÃÞÎ0?Ø1 unfreed mallocs
+ft_strjoin() -> 4GÂ4Ä,›Ö’äªÉøå2·=ÊÞ÷UŒ}ìè¯ÓHf
+«Ÿ¬P´½$Ó©£±¼ÏÕVEÊ}‹bbk_`Ÿq»¨-Ûôˆcž˜e)(Õ•¼áhË¸UâŽmÓË»sÓþ1íþ@f†p8¼Ï‡O»1‘e§&}4³€{+U#º=Ø&y_Þ³Ù°ëEŒfŽL'É®<¹¨À¡ÙV²wí¦–qæ¥.ˆìn„®×Û£Î|æ¾ˆ»Â ©E¹Øl.Ä r6ì‘ƒ×c	aX2êÀ­+ÕVÃš¥Ë;båÕ=Õ„ÆÄQ*	»…ëô|lÂµp•Î¸Å¯&©×?d^(;Ô¢gÍí¬sEìïÑÖ¬åXù£&švšrJ*}¼Sö~3Âªv=¶@µ×Ë]>°}ûk/Í^Uù‘Nõ+V˜/Ÿº9'í¯ØfiÕ‘@ÃÞÎ0?ØXù£&švšrJ*}¼Sö~3Âªv=¶@µ×Ë]>°}ûk/Í^Uù‘Nõ+V˜/Ÿº9'í¯ØfiÕ‘@ÃÞÎ0?Ø
+1 unfreed mallocs
 408 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ò`ç“_Éµ‚0³{4š„_‘ôÅ}GÂoÒ–ã7 òÍr$<8Ý	¸Žd`WIOáÁ	,ß$xz¿Þó-ƒv®rÈnjÇ % Ò“ñ}0XÝ,‚1 unfreed mallocs
+ft_strjoin() -> ò`ç“_Éµ‚0³{4š„_‘ôÅ}GÂoÒ–ã7 òÍr$<8Ý	¸Žd`WIOáÁ	,ß$xz¿Þó-ƒv®rÈnjÇ % Ò“ñ}0XÝ,‚
+1 unfreed mallocs
 83 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ‡rK)ÊÐ÷;Y“sà%’×w´ðÉÓ¥ÿæ-¤K§É€‹ˆŽ+·½;*$L`3XÏ!±™g7VŸj1UUõ´ÞÓIº% Â½Ü‚}y+6Ë×IÝÄ{qzy¥ü~vbx‘öR½zF4G¢}[‘°ÎAÁWî`vˆTôþ@‹æÐ¯Hp(Ë6ÏôÍÝD­åÃ J16~ûz5|œHco‚à™ˆÙsä+!–™7Bw=èJ/—€Löí‡,t¦×ôã%öq~ÆlŠ¨—ÅcÝÖd5Y/ëŠ²2}6–úl°Ã,±;iÖ"ŽÆS!‘ºÙûoÂGX¤žûÁq/µ¸J¸úƒõ:¾éøl³ÃwRžvªòQ°ë	•’±=o¤$øf+ÕzÙhýÚ²à‘P`ñ¿æI«–¯RutÈ.a3hJ§.³e'ã_ý¥c°UfÀa°A×yÕZwI¬êÉ!.ü+=û4Ežõ¦oÄýü¸««ÄË`_ÖÛêüQ_¢Ž13Eô¬$“L2;©%ÊGX8á«IŒÎšºþb°DK| >#óÀÌdÄR>}Ÿ{DÜoÀpØ$ˆÀ‹²[|ÉøbˆBD¦Òü<Üt5ô°ÿ“âÏõJÄ9û·Ì:8kH# ˜ó¶ÐU}K–þøÿ¢ež„žž¹¡ó¢¯Žo|ý4ËGf*Rþ|iÈA_JŠº&;[Sâz½ïYlK1E½—Žnìí¤CQIÓq@q?×4€þÓaË±õ§ÅÚH!{O90?Á*ÿjR,‚iüŒ»-¡#+ò’b¤ÉO+ÿc‚7&	^J$‡¹ºT¤ëôD0bìºwno^d¬IÌu«5b?3µ<©\”Ùe}fdõŒRC¦GzQÝ{±ƒJÔjå>?åX°1 unfreed mallocs
+ft_strjoin() -> ‡rK)ÊÐ÷;Y“sà%’×w´ðÉÓ¥ÿæ-¤K§É€‹ˆŽ+·½;*$L`3XÏ!±™g7VŸj1UUõ´ÞÓIº% Â½Ü‚}y+6Ë×IÝÄ{qzy¥ü~vbx‘öR½zF4G¢}[‘°ÎAÁWî`vˆTôþ@‹æÐ¯Hp(Ë6ÏôÍÝD­åÃ J16~ûz5|œHco‚à™ˆÙsä+!–™7Bw=èJ/—€Löí‡,t¦×ôã%öq~ÆlŠ¨—ÅcÝÖd5Y/ëŠ²2}6–úl°Ã,±;iÖ"ŽÆS!‘ºÙûoÂGX¤žûÁq/µ¸J¸úƒõ:¾éøl³ÃwRžvªòQ°ë	•’±=o¤$øf+ÕzÙhýÚ²à‘P`ñ¿æI«–¯RutÈ.a3hJ§.³e'ã_ý¥c°UfÀa°A×yÕZwI¬êÉ!.ü+=û4Ežõ¦oÄýü¸««ÄË`_ÖÛêüQ_¢Ž13Eô¬$“L2;©%ÊGX8á«IŒÎšºþb°DK| >#óÀÌdÄR>}Ÿ{DÜoÀpØ$ˆÀ‹²[|ÉøbˆBD¦Òü<Üt5ô°ÿ“âÏõJÄ9û·Ì:8kH# ˜ó¶ÐU}K–þøÿ¢ež„žž¹¡ó¢¯Žo|ý4ËGf*Rþ|iÈA_JŠº&;[Sâz½ïYlK1E½—Žnìí¤CQIÓq@q?×4€þÓaË±õ§ÅÚH!{O90?Á*ÿjR,‚iüŒ»-¡#+ò’b¤ÉO+ÿc‚7&	^J$‡¹ºT¤ëôD0bìºwno^d¬IÌu«5b?3µ<©\”Ùe}fdõŒRC¦GzQÝ{±ƒJÔjå>?åX°
+1 unfreed mallocs
 692 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Bô$‹fÔŸw]9t|ò:ý¸Š:½˜Žì~=þã: f^):U'€%†3{Vz€SOÓOˆŸPH°²K2­€ÞÕ·ô‘Rð0”°¬›G07×ei‘v,b’Äà:¶Eôê“ÛP`× næ½e`¡ê(¥ÎÙ\¥|üã`¼Al®_–í«+[F»š®Í–ýÖJfžÎ®i^¹„b×«ARÛÀÃ~¼ˆhÆvÍÆœ	®[â0¸UQnx•½IÏŸà@{%/¨3Ó_B~4ÃV	àTr*ÿòrª­^B<œjdXø„eÝºs¨†¯X©SÈØÝïnÿ±p“µV2]ÿPsû¼®·šd¹„_KY9þ~o•fK¨ñˆRÓ¦2Ã®Ëhj{®ˆqkè…2š|ÿ€P°ÛéT–[(üÆ’.’ÐÉhôcŒøjçƒ·¶ejT„âj…
-Õmý¥{““´èûbà,žth,õ1 unfreed mallocs
+ft_strjoin() -> Bô$‹fÔŸw]9t|ò:ý¸Š:½˜Žì~=þã: f^):U'€%†3{Vz€SOÓOˆŸPH°²K2­€ÞÕ·ô‘Rð0”°¬›G07×ei‘v,b’Äà:¶Eôê“ÛP`× næ½e`¡ê(¥ÎÙ\¥|üã`¼Al®_–í«+[F»š®Í–ýÖJfžÎ®i^¹„b×«ARÛÀÃ~¼ˆhÆvÍÆœ	®[â0¸UQnx•½IÏŸà@{%/¨3Ó_B~4ÃV	àTr*ÿòrª­^B<œjdXø„eÝºs¨†¯X©SÈØÝïnÿ±p“µV2]ÿPsû¼®·šd¹„_KY9þ~o•fK¨ñˆRÓ¦2Ã®Ëhj{®ˆqkè…2š|ÿ€P°ÛéT–[(üÆ’.’ÐÉhôcŒøjçƒ·¶ejT„âj…
+Õmý¥{““´èûbà,žth,õ
+1 unfreed mallocs
 381 malloc'd size
 0 unfreed mallocs
-ft_substr() -> >S|k^©ÄD—íºõˆ8Á‘’E`\Å–·	ÿRñ“.³ÙÎêÂ¶¬Ó-<‹ñ'¡¸iÉuU…¹º>h:yzÃmaLï7=øÍð9V^ÐÔ!¤Ú0Íîo?å}A³Þk cŽzÙŒ¨	¤xõ[¿3TRÜ cJÏ®ò®„„6ÚŽÊì÷qø10|OÐ¹ª5´:Ãöï8vÀñ_	/y;õÕéåi¸¢'ôÞQ$I€+Ü2›‚qŠSþWÚOP	óM2®L;j§Ú/d 'Ú«¦ç:u*”CA,®=¡a)^sú ç!ü„€1 unfreed mallocs
+ft_strjoin() -> >S|k^©ÄD—íºõˆ8Á‘’E`\Å–·	ÿRñ“.³ÙÎêÂ¶¬Ó-<‹ñ'¡¸iÉuU…¹º>h:yzÃmaLï7=øÍð9V^ÐÔ!¤Ú0Íîo?å}A³Þk cŽzÙŒ¨	¤xõ[¿3TRÜ cJÏ®ò®„„6ÚŽÊì÷qø10|OÐ¹ª5´:Ãöï8vÀñ_	/y;õÕéåi¸¢'ôÞQ$I€+Ü2›‚qŠSþWÚOP	óM2®L;j§Ú/d 'Ú«¦ç:u*”CA,®=¡a)^sú ç!ü„€
+1 unfreed mallocs
 242 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 8™¥ûtúÉç»”®NFá‹ÂÜÈªù˜u2†“ž¢Álì-ìÇ‘¹Ø‚ÚpÛjæÔ’:'\«¼QÈ«.¤|q˜¿—gƒÏ6ÊF‰Â0ã6RdRN™±#Ð;åGó{ÀZãO¡«5}ä§²ËÞ]Œ“E“•	CšYŸ¨‰Ñ¸tå]#L$§L9³È$&ÃÒ×Ù+ƒP2íWÈ| ?_-û±iÎ†~AÚõ'Ô!rñõNœÐPyÎVÓ™+#ôð¬¦ßv?ºxJñí0´ÙFåswÇáµëúë‡éçôË»¦Êb^¾diýõ	"*NeN1 unfreed mallocs
+ft_strjoin() -> 8™¥ûtúÉç»”®NFá‹ÂÜÈªù˜u2†“ž¢Álì-ìÇ‘¹Ø‚ÚpÛjæÔ’:'\«¼QÈ«.¤|q˜¿—gƒÏ6ÊF‰Â0ã6RdRN™±#Ð;åGó{ÀZãO¡«5}ä§²ËÞ]Œ“E“•	CšYŸ¨‰Ñ¸tå]#L$§L9³È$&ÃÒ×Ù+ƒP2íWÈ| ?_-û±iÎ†~AÚõ'Ô!rñõNœÐPyÎVÓ™+#ôð¬¦ßv?ºxJñí0´ÙFåswÇáµëúë‡éçôË»¦Êb^¾diýõ	"*NeN
+1 unfreed mallocs
 243 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ½®âÒ;ÌÆù`²üÆ¶,¼•Á$mt»‡¡+JÈf_ ù OÓkÝoóÌñõB*•ÄáÏÇî‚_”ÍƒKÎ<êÕ˜½ôÈ8üëã!m»Þ…–h
-è3ýN¨!«È¡)£]‹¹Â9$U”†8þë(tKy—Êfý;˜y{ñ–:9ß,ƒßµÛª%ºx1>ˆbÛû4x	ÙØëì÷‡ÒìI°~w>G^²ñðÿ¤ÅLã1½„ã¿Ûü°¶™Â‹º)ï	 µRûJ§Üuãû)€£‚qD!€âŸVaòvÅþ´77…wš¾^ŽîýüµàqÉpåèj<ß1ÜOgN„tèJR±¿6rE„€|d`°yw6Ýê¯×Èë²ÙÆ–º}WŠVB”©Ýp	7w±ë­øƒ6Ä•ä\Ž»9~uÕ»öpÔØGòèÌ¬Õ[Ñ®ðÒUÿ°á»î*tl¼PŒoéƒÎùT©4üR{šÞÀ".„;4»&(fÅ†¾‹ÚñºãœèGç««MºÌòlt%+únÖÚ——Ø}¾sâEz-+g1 unfreed mallocs
+ft_strjoin() -> ½®âÒ;ÌÆù`²üÆ¶,¼•Á$mt»‡¡+JÈf_ ù OÓkÝoóÌñõB*•ÄáÏÇî‚_”ÍƒKÎ<êÕ˜½ôÈ8üëã!m»Þ…–h
+è3ýN¨!«È¡)£]‹¹Â9$U”†8þë(tKy—Êfý;˜y{ñ–:9ß,ƒßµÛª%ºx1>ˆbÛû4x	ÙØëì÷‡ÒìI°~w>G^²ñðÿ¤ÅLã1½„ã¿Ûü°¶™Â‹º)ï	 µRûJ§Üuãû)€£‚qD!€âŸVaòvÅþ´77…wš¾^ŽîýüµàqÉpåèj<ß1ÜOgN„tèJR±¿6rE„€|d`°yw6Ýê¯×Èë²ÙÆ–º}WŠVB”©Ýp	7w±ë­øƒ6Ä•ä\Ž»9~uÕ»öpÔØGòèÌ¬Õ[Ñ®ðÒUÿ°á»î*tl¼PŒoéƒÎùT©4üR{šÞÀ".„;4»&(fÅ†¾‹ÚñºãœèGç««MºÌòlt%+únÖÚ——Ø}¾sâEz-+g
+1 unfreed mallocs
 428 malloc'd size
 0 unfreed mallocs
-ft_substr() -> N”Æ+›,:=âÀùiqÈ0ý·E4#¯Ø‰‚{¼2¥Œt©¼cƒ8d|—ú`¡Ò†JË
+ft_strjoin() -> N”Æ+›,:=âÀùiqÈ0ý·E4#¯Ø‰‚{¼2¥Œt©¼cƒ8d|—ú`¡Ò†JË
 *ˆn|‚/c	\>/†èq¸¶5¤" ÂnÈ\rÀdYxúe&ƒ?\_<Þ}u<8‹Àø×'6‚r5•‰ÝÕ™%ÜÛÈÿlo] ¿@Wžø4P¤…-×‹K*œÃÒÈ–Ÿ!rÙHWMÅa)mëA>ªù°ê|ó]/>N*þåfý0$,†þä½ñ»ƒaø)p•ý@Î’‚J¶´2ªè´÷¾Œ!`ºÉúG·QðqyàÝh3æ³œÅ†3H]|ß³&9Õ“Ç¾â´Â'òÕ™ôÜŸ1Õ(´ý¾võ!ý`¯…K÷%Þ+)Úåìlb/Å†ê¥Lïuª½²%XÎË\)þ¼fïy±TbÀù|šO'„pX²S6ªß¼jl¿‡œWç/‡Ž•;CWÅ_-—òQ–¬l.Yß/ Ý”I"0xPg"¬¨?l}SªatU9ž5Ò÷‡NŠ.£±Ø´ú•	­ß8ª?gŠÂwÒÉ{JüQÐâ×ÓÊiÑ‹0YóÖtòªE²Q¨Ë7j=—Ì>zKü´	ISÛœ«w›iHõ47ñå×L1<¤tÉ¶uÄ!K°‹M˜™<![Xš»×§‡Û0uü	"1QÇ•¿ø™B	e_€BƒÓ;Üèq&e34~VÜ#b.*ÓŸÄ½¦ËµâE‰8»F	œ©HšÎF]‹(tÛBâÂnfÛÌ‰–ÊÞëãQòT.)Æî»¼FK{„º !¯Ãº=§f¦ €u¤a+töxíðu¼bÿÔ¥M˜ixÞˆ[%ìþ†Uè1£hœjLìýõGr	ƒr.øÑ&Pd†¼ˆ<·_ EhòBhhÇCÖ²ô*Då«‹
 ^øÂé¾ŠÐ´ Bú»} új"Þjd³èr†¿‚âÞeáÀÂ½'`,)£trh`Nç]ù®Z$Ÿd¬çKÏ,wç± z{}{ÆÂüÎ2ûÐÕ„ÞiÀ!g~¿k`*tµ¶˜0†èq¸¶5¤" ÂnÈ\rÀdYxúe&ƒ?\_<Þ}u<8‹Àø×'6‚r5•‰ÝÕ™%ÜÛÈÿlo] ¿@Wžø4P¤…-×‹K*œÃÒÈ–Ÿ!rÙHWMÅa)mëA>ªù°ê|ó]/>N*þåfý0$,†þä½ñ»ƒaø)p•ý@Î’‚J¶´2ªè´÷¾Œ!`ºÉúG·QðqyàÝh3æ³œÅ†3H]|ß³&9Õ“Ç¾â´Â'òÕ™ôÜŸ1Õ(´ý¾võ!ý`¯…K÷%Þ+)Úåìlb/Å†ê¥Lïuª½²%XÎË\)þ¼fïy±TbÀù|šO'„pX²S6ªß¼jl¿‡œWç/‡Ž•;CWÅ_-—òQ–¬l.Yß/ Ý”I"0xPg"¬¨?l}SªatU9ž5Ò÷‡NŠ.£±Ø´ú•	­ß8ª?gŠÂwÒÉ{JüQÐâ×ÓÊiÑ‹0YóÖtòªE²Q¨Ë7j=—Ì>zKü´	ISÛœ«w›iHõ47ñå×L1<¤tÉ¶uÄ!K°‹M˜™<![Xš»×§‡Û0uü	"1QÇ•¿ø™B	e_€BƒÓ;Üèq&e34~VÜ#b.*ÓŸÄ½¦ËµâE‰8»F	œ©HšÎF]‹(tÛBâÂnfÛÌ‰–ÊÞëãQòT.)Æî»¼FK{„º !¯Ãº=§f¦ €u¤a+töxíðu¼bÿÔ¥M˜ixÞˆ[%ìþ†Uè1£hœjLìýõGr	ƒr.øÑ&Pd†¼ˆ<·_ EhòBhhÇCÖ²ô*Då«‹
-^øÂé¾ŠÐ´ Bú»} új"Þjd³èr†¿‚âÞeáÀÂ½'`,)£trh`Nç]ù®Z$Ÿd¬çKÏ,wç± z{}{ÆÂüÎ2ûÐÕ„ÞiÀ!g~¿k`*tµ¶˜01 unfreed mallocs
+^øÂé¾ŠÐ´ Bú»} új"Þjd³èr†¿‚âÞeáÀÂ½'`,)£trh`Nç]ù®Z$Ÿd¬çKÏ,wç± z{}{ÆÂüÎ2ûÐÕ„ÞiÀ!g~¿k`*tµ¶˜0
+1 unfreed mallocs
 1566 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¢"ä®é5è`ûë¯­ì¯vàùSüÄNÛWy9póAN›ŒRUÂÞ”8æ™÷Fl{bJ¤ýË/_šü÷%™îK§u'›nÜäF„H5ÎxìÝ=ò1U“%RH^&óµiÙc›­ªyMXB%(yºi+Š>´jnXÚ·þ	ö-3ëmæcpM!F@³vþƒ»YÜU7[4=~È·è¦Êli¤IÚ€:ÛP?">§JƒÔ…<[ÂIZ1 unfreed mallocs
+ft_strjoin() -> ¢"ä®é5è`ûë¯­ì¯vàùSüÄNÛWy9póAN›ŒRUÂÞ”8æ™÷Fl{bJ¤ýË/_šü÷%™îK§u'›nÜäF„H5ÎxìÝ=ò1U“%RH^&óµiÙc›­ªyMXB%(yºi+Š>´jnXÚ·þ	ö-3ëmæcpM!F@³vþƒ»YÜU7[4=~È·è¦Êli¤IÚ€:ÛP?">§JƒÔ…<[ÂIZ
+1 unfreed mallocs
 194 malloc'd size
 0 unfreed mallocs
-ft_substr() -> YÝV:*3¢Š¸ëüÃ0eÆ_…%²Hz%âL%FÎ#(©[éæB3yàØ³jöZ1Äjón[å™ç'dHhšÿJI§R-0	–	è{f]õO¨…¦Ç°ØÐ¦²5æÆnÎâöÀËq€VÃ¡=cekã^ÿØƒ¯yç¢ØPå(ãƒöä§¾?R²€E ÇÜhžeär5PG0ÀÎR<€¹ø'.ùÿxÈoã4ÃëW:,­O5È+ëõÃì1¦¹ÈZÖ>i¨±®¬ìn“”±eRñ·õÿŠ#ñ¯¡÷Qz»œ¼fÊ)¥ánbYÝV:*3¢Š¸ëüÃ0eÆ_…%²Hz%âL%FÎ#(©[éæB3yàØ³jöZ1Äjón[å™ç'dHhšÿJI§R-0	–	è{f]õO¨…¦Ç°ØÐ¦²5æÆnÎâöÀËq€VÃ¡=cekã^ÿØƒ¯yç¢ØPå(ã1 unfreed mallocs
+ft_strjoin() -> YÝV:*3¢Š¸ëüÃ0eÆ_…%²Hz%âL%FÎ#(©[éæB3yàØ³jöZ1Äjón[å™ç'dHhšÿJI§R-0	–	è{f]õO¨…¦Ç°ØÐ¦²5æÆnÎâöÀËq€VÃ¡=cekã^ÿØƒ¯yç¢ØPå(ãƒöä§¾?R²€E ÇÜhžeär5PG0ÀÎR<€¹ø'.ùÿxÈoã4ÃëW:,­O5È+ëõÃì1¦¹ÈZÖ>i¨±®¬ìn“”±eRñ·õÿŠ#ñ¯¡÷Qz»œ¼fÊ)¥ánbYÝV:*3¢Š¸ëüÃ0eÆ_…%²Hz%âL%FÎ#(©[éæB3yàØ³jöZ1Äjón[å™ç'dHhšÿJI§R-0	–	è{f]õO¨…¦Ç°ØÐ¦²5æÆnÎâöÀËq€VÃ¡=cekã^ÿØƒ¯yç¢ØPå(ã
+1 unfreed mallocs
 372 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ‰@–%`žuêX{=çºq«xíÉhFgÁ?a6<¾žø@Á§ÚÂ®2=²]?V“€Phø³{­IR»Þ+¬*O?Âö	?û<¥ŠyÓÃsÛ8[tæÇ§Ò@TBþœŠzö•·"ZÁ/#Èz#/e¾²Þ)Áˆê]9òè\®.¯b»1 unfreed mallocs
+ft_strjoin() -> ‰@–%`žuêX{=çºq«xíÉhFgÁ?a6<¾žø@Á§ÚÂ®2=²]?V“€Phø³{­IR»Þ+¬*O?Âö	?û<¥ŠyÓÃsÛ8[tæÇ§Ò@TBþœŠzö•·"ZÁ/#Èz#/e¾²Þ)Áˆê]9òè\®.¯b»
+1 unfreed mallocs
 136 malloc'd size
 0 unfreed mallocs
-ft_substr() -> p¤1ßË^WÓúMy¶ÑäÐT½øw=lªÛ‘Ù0mœŽŸíc„[¼eƒ¼bÜ}_„iÖž.ã€…Ä™ó(6¸á/é„Õ¿ÂßùôŠ-q3v•²Ý%ý¸×RÑÚ+`‡f
+ft_strjoin() -> p¤1ßË^WÓúMy¶ÑäÐT½øw=lªÛ‘Ù0mœŽŸíc„[¼eƒ¼bÜ}_„iÖž.ã€…Ä™ó(6¸á/é„Õ¿ÂßùôŠ-q3v•²Ý%ý¸×RÑÚ+`‡f
 MÊÓxí8Wa&°Då‡wtÐp¡nCÏ¤9M…&ÖßÖ2—¡—ìN88ÀÜ0wvµº`¤QÀ–’zÃþqÜw-[N’ãšch¯dH¢Y	ÊLešz>¿á˜+kU’Ñt”‹•}³\Ÿx¢¶‰ˆ0·(ù`Áä=VJyÄÞk–np(7·ä}Â¡õ-ã`wJ)ÈXƒ]wX0¦Âˆ^`„²ØpBü¬³àCvû(—Ûm`£þ¡1Š¬å~‡æ[@˜ˆ"ê	›Ûº}O±¾œe¶…w¦0XêšÊ7ã¥¦ØE]ºr	ÍS±>ˆê’U,Át‰Ÿ4“ÑH~M4mÙ;ÑñÛ`åfÊ5P¡U‚¼¨Š¢AÃY5ñágóÃYð>Dôéö•¶³«”?uYŸ³¿ÑR¦@ÌÆ6“ÀÇó=ðÌ…ØçHE¿/§‡mzª”•·àýp¾"žUƒ_¬(ï°Z,ÿß ˜ä‘#íØÜ#]‚^qp)nö&Ù8Áæª“'¾W–6r9¶ƒ„Òà<icß{ëá
 @Uß÷pã¿…ç´k×¥BŸ™±8<=–-³jt¥œõöZîkIÎJ÷\^)_x£üû°‡Xèµ¡È3SS×jDìÏÎÈl„^QÇÄ9n1)ß÷°L^ãð.`4¶èMg¤÷™ƒ€ð¤½VUr2!ûÏZ¢åCNvÀ¦€¾³&Ó³<öÕ*Èµ½êž#®Hu‚øÍ-nœòZ”CYvT£Aä/ˆ9ÁÒu[J¨IpÛ-`Ì Ú%—
 Wìd¢È.©œÐ¶‡0Ü’èVVõù1²sko÷•LnÐú.¦<P½ÒvxY™]ja«Ç&„ÜEˆœ5bU_ÔuöíÓEÀHÆÿª?àõ†i@‡ŸÊ°xŒÃ­¿ö/ïÎê"øˆ×Ûîêü¨­·k"üÑÓNŒÁv¹¦“z-öpÌcAŠIÜÆ¯t:˜¾5£Ã<«°±?×"º;œìŠnwt?€„è«PíB-.ü»ñ“°Ø³¾[" kCkß~<ÍOI+²ÐÉ˜{4¦øÒæé¸ÏØ{	Î.an¬¹às›ˆÐg©àœ¨@Ê+êY?G•±„¹RÑK’DÜ÷6…ÿÏCË\L3Ç
-Úº¹9ÐànÇòëIÛ[ëDœBzjÀø©Ù/Ä«ù’~Cy îí'âÏêÜ]þä²ÏðÜDÛ7œ³ÊkØ–òæU±ìsJ™öz^6Ø§)DÉV‚;¼,‘»}MX‘¥½(Êê¬â¦Åƒú1 unfreed mallocs
+Úº¹9ÐànÇòëIÛ[ëDœBzjÀø©Ù/Ä«ù’~Cy îí'âÏêÜ]þä²ÏðÜDÛ7œ³ÊkØ–òæU±ìsJ™öz^6Ø§)DÉV‚;¼,‘»}MX‘¥½(Êê¬â¦Åƒú
+1 unfreed mallocs
 1062 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Þ2¢1Rd	*¼Ç{°æÈ	VVfbMÑNÉUÒzýÀÈ#Ÿ­… ì^“7Ç³v)u'—ýI,Õ-#—X½	o½Ë/yõ®#Û£±Ô»JhAY-¤$é$ÈŽ‘/ÿRa·1Íúöì6…ƒ|êQ7"±¬—7¨éÐ±ÜÇ¸tª¢‰^Ù[\tgh\ö7âÕ*qg¨uÚ°lÑ KˆÃ=ò^…ª4Hn›çå!²NfÄùoù…±dýf5;ËŽqçÅÕüULZ{;-**Œsû&·\µ	ùh².^È	˜\âJ|8ä,ûLríómâµaD\çî•“ü/2nYnI<àþåë•ÜÄPåÒÍ´ÕÉ£¯¾ÏÂÈê^'žû@ËšùÌ‡í™ž]Ë!%iã,g¼,†„|i¦;tÏ0È$ìÅdÐkÏ1X7ìà_~}P¤SBÿŽ®¡§†¸6º%ÝIRfBm›j‘>hóÜu÷ÆK¬ç¶O	Ër71ˆÆ½j’B©·ƒ~Jä€t~É|ÒLÐáæü%KÛ €¥'M•ŽÞ»ü4‹žJŸ‰©)¶´ŸcÇþáæKºk1e8Ãøèåô —îZìV—y2ëià£-Ê+“* ÔXßÔ÷ZÀAƒ»oG×Å*[@ÕHÎ¶sÈŠýBŒöÃìÔ»{ÏSüdï¡ø@žÏ~"7!.	™Þ6Û}t3L´4:üÏ¦M:”ŸÁgo©¤€„”éEÚ¶•ß(µâ¬ˆ:ÀÖæî¡•yŠ˜ n0ü‹¼$‡W²»Ñ='©”ƒZfÅêCBKî)PÙÐ¾Ò£	œzýùo¿ÄooÁ¬Û¯NÓø8ÇaºØÝÖ‹Ác›XÔ×¶1 unfreed mallocs
+ft_strjoin() -> Þ2¢1Rd	*¼Ç{°æÈ	VVfbMÑNÉUÒzýÀÈ#Ÿ­… ì^“7Ç³v)u'—ýI,Õ-#—X½	o½Ë/yõ®#Û£±Ô»JhAY-¤$é$ÈŽ‘/ÿRa·1Íúöì6…ƒ|êQ7"±¬—7¨éÐ±ÜÇ¸tª¢‰^Ù[\tgh\ö7âÕ*qg¨uÚ°lÑ KˆÃ=ò^…ª4Hn›çå!²NfÄùoù…±dýf5;ËŽqçÅÕüULZ{;-**Œsû&·\µ	ùh².^È	˜\âJ|8ä,ûLríómâµaD\çî•“ü/2nYnI<àþåë•ÜÄPåÒÍ´ÕÉ£¯¾ÏÂÈê^'žû@ËšùÌ‡í™ž]Ë!%iã,g¼,†„|i¦;tÏ0È$ìÅdÐkÏ1X7ìà_~}P¤SBÿŽ®¡§†¸6º%ÝIRfBm›j‘>hóÜu÷ÆK¬ç¶O	Ër71ˆÆ½j’B©·ƒ~Jä€t~É|ÒLÐáæü%KÛ €¥'M•ŽÞ»ü4‹žJŸ‰©)¶´ŸcÇþáæKºk1e8Ãøèåô —îZìV—y2ëià£-Ê+“* ÔXßÔ÷ZÀAƒ»oG×Å*[@ÕHÎ¶sÈŠýBŒöÃìÔ»{ÏSüdï¡ø@žÏ~"7!.	™Þ6Û}t3L´4:üÏ¦M:”ŸÁgo©¤€„”éEÚ¶•ß(µâ¬ˆ:ÀÖæî¡•yŠ˜ n0ü‹¼$‡W²»Ñ='©”ƒZfÅêCBKî)PÙÐ¾Ò£	œzýùo¿ÄooÁ¬Û¯NÓø8ÇaºØÝÖ‹Ác›XÔ×¶
+1 unfreed mallocs
 672 malloc'd size
 0 unfreed mallocs
-ft_substr() -> -ZwÜõD­>k–šˆŸb¡.„œ{_€½›³brúü˜D0vÁP±þA>€»ð&D£î!äë!ýlz{5ï#„c})Ó QwwBWS¶föì+ÍX’¯~éE I3j×ÄûÐÆ_4»3ÖÛ@e¯G©¯b­XXQt ›Q®` )U
+ft_strjoin() -> -ZwÜõD­>k–šˆŸb¡.„œ{_€½›³brúü˜D0vÁP±þA>€»ð&D£î!äë!ýlz{5ï#„c})Ó QwwBWS¶föì+ÍX’¯~éE I3j×ÄûÐÆ_4»3ÖÛ@e¯G©¯b­XXQt ›Q®` )U
 =òûR4©bŸ0vÚ/~¹^ŒÚm¢"ÍªVbh2„€dÁ‡B4„Z7Š»·¢ÓžUÍ+ÇÝ}MJiÆ¶v`¥Ou’VBoYóµ¹%¦œ¾éÅqÞ+šEÖïˆ{BØÿV}³Auzs!…Ò7=È	­g	;éo •]–ÖeW74
-vEE-É×yO~æ \,ÊÅ ã¡@z'f9Æ¯Eê•S`T³l6¹ÑâÅ›=ŠFÊEB“÷î£Á'÷"ÐÖì-–oìo‡5q¢Ýtã’ÏÑ©)®m½MMÞÅ¾‡O`ž§æe­§¹!'È*™`6³·d1Û®6}1 unfreed mallocs
+vEE-É×yO~æ \,ÊÅ ã¡@z'f9Æ¯Eê•S`T³l6¹ÑâÅ›=ŠFÊEB“÷î£Á'÷"ÐÖì-–oìo‡5q¢Ýtã’ÏÑ©)®m½MMÞÅ¾‡O`ž§æe­§¹!'È*™`6³·d1Û®6}
+1 unfreed mallocs
 387 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 8q»œ¡kŸs.,4¤93lWõ.§kÜ7I*ùGM‡zó¤=sx>M…c	í¡_ã°‡	oOP]ÝwBÓ‡V}ï8aQ¶\^½¼ÓxÓý0­T¾½w®tBx%2ŽÜtKa²TNÌÇŒè¶bžWòèî·Ý}—ê	Ág&Æ8ÿÂjIß
+ft_strjoin() -> 8q»œ¡kŸs.,4¤93lWõ.§kÜ7I*ùGM‡zó¤=sx>M…c	í¡_ã°‡	oOP]ÝwBÓ‡V}ï8aQ¶\^½¼ÓxÓý0­T¾½w®tBx%2ŽÜtKa²TNÌÇŒè¶bžWòèî·Ý}—ê	Ág&Æ8ÿÂjIß
 -îJaÓøQ£½â=6ÀÕbèƒ°]‹Òbÿ‡ù‘u—ÝÖíB	nSCv”KlÌŸ¡Kr»óï!àÙaå	/^oÂ¦g~›WÊœ¦™|£Üôò
 ½Óbh4ÀºS²%¬¨Ü†:$÷€Á…OÖêUÜí°;fcWøÂÐáõßóå²+ëQœÇï¿¯Ÿ™÷kºF&[{ñ-Ðî_H«dðzƒçFñ™ÚÝ­(1Îß 8j5ÔÎìý÷|é;‰=-XSŠ²@&´o»Ù5dJ¸G™ÑIõ‚gaÿž`êR?&’IÒ5¦ŽO´©‘È+9t Ð‹ 8³Ú%±>BÔ¿ÞöÝ_+²ÇÍ™"î^dù_§„âÎ€X‹AR¯ª….xþëy„ËàK´›cÖñÀÁ—õz¾€í”vë^§,U‰tÉÝ‘ÞöÜj˜O5:çc,”;óŒ¹ÇíïñÃQ“]Ç—sÑ»ñå§Ä(YHÔ>$ïŸž¦ª,÷ÙfˆÚ×J€Eö{Á°9E<VÖ›¤túvG¶íQØ³±­¬¦âì{#@ƒ ñ­Ž>=?ÆŽ£åIw_¡ÿ[¥â“ó¥´Íün\£ÔÞzÞñ²zó¶íÎïÆÑhª]¹â6°ƒ÷È<
-û¾J?Ô[œ{Rò¢"jë>+ñÃsm¦Æšá®ŒÍ»÷1k9éx>Æp›.­»1užVi±„Ä–~%ëŽmÕ¢:» Ý§iKäzÓ[¤;™¼–j€Û’]Õ£¿\ål³|v>]É|aã1 unfreed mallocs
+û¾J?Ô[œ{Rò¢"jë>+ñÃsm¦Æšá®ŒÍ»÷1k9éx>Æp›.­»1užVi±„Ä–~%ëŽmÕ¢:» Ý§iKäzÓ[¤;™¼–j€Û’]Õ£¿\ål³|v>]É|aã
+1 unfreed mallocs
 734 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÓC‘y1t5¬C›yªÆÚ'uŽ7U4ä¹~vg í
+ft_strjoin() -> ÓC‘y1t5¬C›yªÆÚ'uŽ7U4ä¹~vg í
 ýA±wUÌ†D¢_ôIV–®eM3n$W¢§sÃˆÛ¥VbußÁ2‘àLì$Qý¼ñÐvüÝû¬g}¥åŽË=^¸ tÅf‚žó1pêfëM¼gŸ2íbÞK#-¥;ÑhÏ±úóGm¾½	÷Í&I[md¤JÙˆÁ"=ky
 }ª+q¾ôQ†Ž"\ë$÷Û1xäR•+>ès-lnco‹;¾~µÈâèÖ\²‡
-6UŽ´³U^ò°äSI&Aþg¥zGêq¦ j¤sØV'óÊÝA´I-˜7ˆ…x\€&û"«x¤i¸ÿÿ=IÐ:W©.t˜ÍÞ±Äü]d#;äÀÜy¿¡ï©–9ÿõÑ’ñ;­0ã©¹ØØéÛÏü^ÛÃÂ©’Ý*Î×„Â²‘¦Ïc¨ß‚äÌdâAò·5¨Ô¤8Û¤-Ðš¡}3ÍÝ—-beÆµ™8î†¡ÿÐyÅö‘îÐ¦ä1óôó8Š0$Ž1†Z6ëÿ:}Ú¹¥Äû§Å³ìHàë†D£^»ú]â›’~Öº¬¬tà6ð‰+X¯ ÅPÄ1§;«zBgh„'ÁQs‡Q“²{âÊñúŽìÒ¼2ÝÑÇÖŽz_b1 4ZJZƒ¢Ìo·¼@ƒ€ªË™â	0½¯¹S»âF/VÿƒÎîTÖébT>õí.fëSºËXaï]e\ÏfPU$¡ &€½¥@h	V%¥<ŒNË¸c“u>¹cS@_´Í_/¬¤§®Ÿê¨Usã9¯ï%QªŒ®*’™Ù3gzh´á€è³umqóŠ¶ÓÖj£ú©Ë$u¯;_?ˆ´’méuðºíeð['òÉ–2 ×Ÿ‘ã	“8„‚œK9ù·‡çZI±T=Åd%ƒŽ²S›Bv|Aœ²—Š2QY`>íäA²¬iëØôe­ÂÁË+Ž»÷Ð$•qC1 unfreed mallocs
+6UŽ´³U^ò°äSI&Aþg¥zGêq¦ j¤sØV'óÊÝA´I-˜7ˆ…x\€&û"«x¤i¸ÿÿ=IÐ:W©.t˜ÍÞ±Äü]d#;äÀÜy¿¡ï©–9ÿõÑ’ñ;­0ã©¹ØØéÛÏü^ÛÃÂ©’Ý*Î×„Â²‘¦Ïc¨ß‚äÌdâAò·5¨Ô¤8Û¤-Ðš¡}3ÍÝ—-beÆµ™8î†¡ÿÐyÅö‘îÐ¦ä1óôó8Š0$Ž1†Z6ëÿ:}Ú¹¥Äû§Å³ìHàë†D£^»ú]â›’~Öº¬¬tà6ð‰+X¯ ÅPÄ1§;«zBgh„'ÁQs‡Q“²{âÊñúŽìÒ¼2ÝÑÇÖŽz_b1 4ZJZƒ¢Ìo·¼@ƒ€ªË™â	0½¯¹S»âF/VÿƒÎîTÖébT>õí.fëSºËXaï]e\ÏfPU$¡ &€½¥@h	V%¥<ŒNË¸c“u>¹cS@_´Í_/¬¤§®Ÿê¨Usã9¯ï%QªŒ®*’™Ù3gzh´á€è³umqóŠ¶ÓÖj£ú©Ë$u¯;_?ˆ´’méuðºíeð['òÉ–2 ×Ÿ‘ã	“8„‚œK9ù·‡çZI±T=Åd%ƒŽ²S›Bv|Aœ²—Š2QY`>íäA²¬iëØôe­ÂÁË+Ž»÷Ð$•qC
+1 unfreed mallocs
 761 malloc'd size
 0 unfreed mallocs
-ft_substr() -> È:or@SH{Ú-E°WM·¸\Ov“Ñ%¨*^æ•ö¤\Kq@Lñ?€ƒìã¥³…Sµr&!cbÄãtQÄ^°ºcÝZÇPgœÔQO^Œð0úR·Ž`s§Vè¤DNëÍ¨÷:Wk¾ôSW/d`èÄTV§hq25.Ðn\¹=—…¥Ò8ö>˜$t1ð——ñ¿JE5…s™.Æ<?ÎQ¡7ÇËÿ´wÚ°y§ÊÅ„=Žx‚6_~Fd–‰,d!ÛQè~·KÇU>£Š¼iT—öpÅò90dÂ²g	ª¨glàÊ”ÄráD;ƒ©¾ñ¡Š7RúLÜ5?šžµT8ÀÐ¼!ÁÇ®Ix76°8*ä>Ÿ¹çËÂéiW¸î)ít­LwPáJV†L@	¶™yæqÒ*ÈÖ]|XÜª¢}-ÉŸÛjÇOãúÂA(3»Í¢‡ôóõ_÷qeÕÝàèïš]YàŠšÕÚÍ+deÓùµ£¸e¸í~-s«ƒÁŠˆìÿ•½¡”›bô0?¥ND?“3EÁ±P."1 unfreed mallocs
+ft_strjoin() -> È:or@SH{Ú-E°WM·¸\Ov“Ñ%¨*^æ•ö¤\Kq@Lñ?€ƒìã¥³…Sµr&!cbÄãtQÄ^°ºcÝZÇPgœÔQO^Œð0úR·Ž`s§Vè¤DNëÍ¨÷:Wk¾ôSW/d`èÄTV§hq25.Ðn\¹=—…¥Ò8ö>˜$t1ð——ñ¿JE5…s™.Æ<?ÎQ¡7ÇËÿ´wÚ°y§ÊÅ„=Žx‚6_~Fd–‰,d!ÛQè~·KÇU>£Š¼iT—öpÅò90dÂ²g	ª¨glàÊ”ÄráD;ƒ©¾ñ¡Š7RúLÜ5?šžµT8ÀÐ¼!ÁÇ®Ix76°8*ä>Ÿ¹çËÂéiW¸î)ít­LwPáJV†L@	¶™yæqÒ*ÈÖ]|XÜª¢}-ÉŸÛjÇOãúÂA(3»Í¢‡ôóõ_÷qeÕÝàèïš]YàŠšÕÚÍ+deÓùµ£¸e¸í~-s«ƒÁŠˆìÿ•½¡”›bô0?¥ND?“3EÁ±P."
+1 unfreed mallocs
 424 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 2ñ©5Nö—ÎSÕ'¿\"¬¶­œôßs?Š¼!TBŠ	3X|¡§;œ•<Y9QÉ§ÁW¸²òŽ’Ð¾òIE<ÌŒz1 unfreed mallocs
+ft_strjoin() -> 2ñ©5Nö—ÎSÕ'¿\"¬¶­œôßs?Š¼!TBŠ	3X|¡§;œ•<Y9QÉ§ÁW¸²òŽ’Ð¾òIE<ÌŒz
+1 unfreed mallocs
 77 malloc'd size
 0 unfreed mallocs
-ft_substr() -> |úü½—P@‡~‹fpÏÍ,ÞÆd÷3O+lÞïd"‹9nÐãx†b{1×MGéP0Àþo1¯k¨Üêó’ÒãÈOëW£„z÷qs“Û€¹ìÌ?ÿ*SD´ÝB²RFˆ¤`Óæ6ŸÿxÒ©Uc`Q_>H®úí.ëXätVoóŽÀ1 unfreed mallocs
+ft_strjoin() -> |úü½—P@‡~‹fpÏÍ,ÞÆd÷3O+lÞïd"‹9nÐãx†b{1×MGéP0Àþo1¯k¨Üêó’ÒãÈOëW£„z÷qs“Û€¹ìÌ?ÿ*SD´ÝB²RFˆ¤`Óæ6ŸÿxÒ©Uc`Q_>H®úí.ëXätVoóŽÀ
+1 unfreed mallocs
 136 malloc'd size
 0 unfreed mallocs
-ft_substr() -> /_Q–YP}¼Âç&t(ÅKPêœi®žqñµ§‹ºù)„Û:L¯!;:5:Ý®–+RoT[ PáST½¯ú<k$õ1)®få-W3[
+ft_strjoin() -> /_Q–YP}¼Âç&t(ÅKPêœi®žqñµ§‹ºù)„Û:L¯!;:5:Ý®–+RoT[ PáST½¯ú<k$õ1)®få-W3[
 ¡+¸PÃü¥H–†…b‘º¦ÈéW·ðiõöf^nËR’ôîŠþ5!œ]Äýä|%ß€—¬yÙ«Ä´¹[w÷L…F<póÛÞš•'‰„ßzlˆJ@&õ¢œd‡÷ÅfÀ;ìŽ”m]‚Ý¬Z­NA÷Kb,ý…xƒŠ’×ãox]ÍîmGF2-Áæ/.(ýˆ®SXè.Ìâtøü”A	JjÂKŒH¡ì3cÉí2-ÃÁÀèãÄN:º+-°X÷¨Ni¾—žô Ÿòf¢ˆ'MrÜ28P1q·«Á1Í™­”¬õÙ†ì2,—ÇØÝ±ûGd™ý/¯K¥Íª’˜æ‘jy€õÏcÿ´SÈSC
-Y¿÷²–„1 unfreed mallocs
+Y¿÷²–„
+1 unfreed mallocs
 365 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÷Usœçd7Û9gÃG¿×¹}bª¼‹Š&A_¬
-9Cû‹ÒQÿJ#JÒÁ°·‹ˆ²}¿ðœ9Ç’<¶<™‘C×ÊÜîÍ‘ïÀÆ‡€¡T wÌ¯µ3†CvšÒg)F†½3pF¢¯|ðç›8m^hñ¸=Âj—Æœ¤úÔ3R·Rgg¾Å–gruô¨Z<C7#” ýÕ))¸F/HSFÀ·‹ˆ²}¿ðœ9Ç’<¶<™‘C×ÊÜîÍ‘ïÀÆ‡€¡T wÌ¯µ3†CvšÒg)F†½3pF¢¯|ðç›8m^hñ¸=Âj—Æœ¤úÔ3R·Rgg¾Å–gruô¨Z<C7#” ýÕ))¸F/HSFÀ1 unfreed mallocs
+ft_strjoin() -> ÷Usœçd7Û9gÃG¿×¹}bª¼‹Š&A_¬
+9Cû‹ÒQÿJ#JÒÁ°·‹ˆ²}¿ðœ9Ç’<¶<™‘C×ÊÜîÍ‘ïÀÆ‡€¡T wÌ¯µ3†CvšÒg)F†½3pF¢¯|ðç›8m^hñ¸=Âj—Æœ¤úÔ3R·Rgg¾Å–gruô¨Z<C7#” ýÕ))¸F/HSFÀ·‹ˆ²}¿ðœ9Ç’<¶<™‘C×ÊÜîÍ‘ïÀÆ‡€¡T wÌ¯µ3†CvšÒg)F†½3pF¢¯|ðç›8m^hñ¸=Âj—Æœ¤úÔ3R·Rgg¾Å–gruô¨Z<C7#” ýÕ))¸F/HSFÀ
+1 unfreed mallocs
 286 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 27\a‘.âúžXê"àÝ"CJÅ„¤/³yôY÷¡î/,­ÖvñÊNIÆº·l¦å20f¬…`Æª)uê3+:-*~¼˜I\ð{ðEoEÒTmK5?ƒ÷±õT!Y±áï'q’âÃb:,è
+ft_strjoin() -> 27\a‘.âúžXê"àÝ"CJÅ„¤/³yôY÷¡î/,­ÖvñÊNIÆº·l¦å20f¬…`Æª)uê3+:-*~¼˜I\ð{ðEoEÒTmK5?ƒ÷±õT!Y±áï'q’âÃb:,è
 Îµw7åìX«ïN„5·3m”kV‡ùä›Y–éüò’oHC„±‚nz”ÔzC« ªYÎ¬ðï„ÿ;­HÆç¬ÉZKYûËp¤hß‡˜ÚG07Ù2î®Wtá•Ò‚ðë%gž¢ÙG0¼uºeïÙûhNÃ³J&´¡…éV»/öÙÂ#±Š|Àô?ˆup?{ø»—16—º‰uÕ5\Œk3U˜É?Tcw¹¸í¼ ózu>'ù/æööpÔ
-ªh!¦Þ`‘*5-÷öõ“ÏzðÕ@öLè$÷i^özþêŒñ€e	ò‰f´7C€‡9×?w”™á‚ôÕz´õ“ý\‚­}ãbeuÏ/7#syé©ß¡cðåÐ&¸î:«¥2Åb“WØk`¾õ×`«ì^qPþDåŸ®Lb:¨‰_T¹Â­È´¼®Û¯2Þ)ÍÊ“2"¦:œV‘ØY*1±¨jP0¸@à¢qêŽî’˜ç‹ÁlK’˜w^ßí’RaqL³÷EòŽtô·W!XŠ5¢fŸŒª1 unfreed mallocs
+ªh!¦Þ`‘*5-÷öõ“ÏzðÕ@öLè$÷i^özþêŒñ€e	ò‰f´7C€‡9×?w”™á‚ôÕz´õ“ý\‚­}ãbeuÏ/7#syé©ß¡cðåÐ&¸î:«¥2Åb“WØk`¾õ×`«ì^qPþDåŸ®Lb:¨‰_T¹Â­È´¼®Û¯2Þ)ÍÊ“2"¦:œV‘ØY*1±¨jP0¸@à¢qêŽî’˜ç‹ÁlK’˜w^ßí’RaqL³÷EòŽtô·W!XŠ5¢fŸŒª
+1 unfreed mallocs
 522 malloc'd size
 0 unfreed mallocs
-ft_substr() -> +	v)²—¥Ú4²š–{dÎ÷LØæLto›—¤m8¸ ‡œqnûø6Z#Ý“JÀå˜öÊˆ
-Èè˜®ý¾ûO;	úBeÎt(/,„ Wa|Àç¢u•'W±¥X©BF[óëA–c"‚Îz@ü¢ÀÕ}n™º€ð?X¦›º½¬#4ù`[µë†zãëÔ¨æ‹7ÒJ§Ò?GSþ«!ÊûÖ¥kaP­žfüvýÃ!‡§^^Š‚óØ¹EÛQÎ‡Èå8ÎC·57"æ›ÿr³ä}•ûá=òîäj°WR’@%Ñ²¹0? 8Ùh`[W_»êÛ~Õú~ÛwÆé‰HÆ“-›ê¹5?è‚s{Éºb4i1Dø{É–NžÚÉ–^­	+Lœtµf´äŸUEg¿s*ìûMMávÎGŒ ²%ÄRj˜ÍÚb1 unfreed mallocs
+ft_strjoin() -> +	v)²—¥Ú4²š–{dÎ÷LØæLto›—¤m8¸ ‡œqnûø6Z#Ý“JÀå˜öÊˆ
+Èè˜®ý¾ûO;	úBeÎt(/,„ Wa|Àç¢u•'W±¥X©BF[óëA–c"‚Îz@ü¢ÀÕ}n™º€ð?X¦›º½¬#4ù`[µë†zãëÔ¨æ‹7ÒJ§Ò?GSþ«!ÊûÖ¥kaP­žfüvýÃ!‡§^^Š‚óØ¹EÛQÎ‡Èå8ÎC·57"æ›ÿr³ä}•ûá=òîäj°WR’@%Ñ²¹0? 8Ùh`[W_»êÛ~Õú~ÛwÆé‰HÆ“-›ê¹5?è‚s{Éºb4i1Dø{É–NžÚÉ–^­	+Lœtµf´äŸUEg¿s*ìûMMávÎGŒ ²%ÄRj˜ÍÚb
+1 unfreed mallocs
 347 malloc'd size
 0 unfreed mallocs
-ft_substr() -> áÍ¹šx‡_‡™³[ÚzixM·&UØÝjÐªµ0åPu×Aa¯Ú„bé»§šÝj5•ªBª
-¬SN–zIrÉ<±Õêâ6—¢rO9U‘§W¶çâ¡;ç‰û‹oÏÿwgå$Å”-¶l†[ÛII™lîYGÝ‚ùHò=‡4{™4áŸmghaƒg÷¸ŠýŠóÍae?oMý;iñòûxÂë—ERïðK˜{';žl¾áÐ.Û6ivÚòMä\7=BpÆ¿fïŸ	Ò¬¢›÷5•4‰[µQ™›W»·ù@N¥ª2AcÚ$ò£uGmûó‡U³eû¢“°ðWQ'MMŠ*ñ›­açMUIµw—3q×°:ŠÌÅtÀ%61¤Š½Š\Ø9¡äÔ#ý—V'WƒLºu	RQ¥PlÃQˆ9Í™ŠøsõóÛ´‚^±sð!’½‹tú!qb¿:o—bà¾«“^j¡þ×CÇ…†F?!iÞŽ}­ÝãQØ9'¸†Èî7E*û•z¸'{©:´ÖLHåàá“81 unfreed mallocs
+ft_strjoin() -> áÍ¹šx‡_‡™³[ÚzixM·&UØÝjÐªµ0åPu×Aa¯Ú„bé»§šÝj5•ªBª
+¬SN–zIrÉ<±Õêâ6—¢rO9U‘§W¶çâ¡;ç‰û‹oÏÿwgå$Å”-¶l†[ÛII™lîYGÝ‚ùHò=‡4{™4áŸmghaƒg÷¸ŠýŠóÍae?oMý;iñòûxÂë—ERïðK˜{';žl¾áÐ.Û6ivÚòMä\7=BpÆ¿fïŸ	Ò¬¢›÷5•4‰[µQ™›W»·ù@N¥ª2AcÚ$ò£uGmûó‡U³eû¢“°ðWQ'MMŠ*ñ›­açMUIµw—3q×°:ŠÌÅtÀ%61¤Š½Š\Ø9¡äÔ#ý—V'WƒLºu	RQ¥PlÃQˆ9Í™ŠøsõóÛ´‚^±sð!’½‹tú!qb¿:o—bà¾«“^j¡þ×CÇ…†F?!iÞŽ}­ÝãQØ9'¸†Èî7E*û•z¸'{©:´ÖLHåàá“8
+1 unfreed mallocs
 424 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Il(d(Ä—(TóSÓ‡™èæŠ0hOG†.]âã@ödO6ø3JÜr×›ÚãÒ&›þ®-õ—sÛ²H57D[{„nH¬ËÅáÍ?ÁÞ%Éã1}çª SÜÏç/K—Â_nkÃ•¬1Ú…lA£AÌjœ¼”´ŽÕŽy$(BÊçñÛWéfS#˜ÃŽÒ’c€·ñfôí5,Y7ðO™4åõ³¼±ñàÝ,<+v³kêœ]œ;I}þLWršÍÃù8Os e×Š4ÅÖQ¬J°a…±tÞû¯¹Jb}#éÕÁg†Rà©Äk³·Çg£­XR6s6â•ƒ`PQ$šÞhÙÂlðˆ€ímì»¹|3
+ft_strjoin() -> Il(d(Ä—(TóSÓ‡™èæŠ0hOG†.]âã@ödO6ø3JÜr×›ÚãÒ&›þ®-õ—sÛ²H57D[{„nH¬ËÅáÍ?ÁÞ%Éã1}çª SÜÏç/K—Â_nkÃ•¬1Ú…lA£AÌjœ¼”´ŽÕŽy$(BÊçñÛWéfS#˜ÃŽÒ’c€·ñfôí5,Y7ðO™4åõ³¼±ñàÝ,<+v³kêœ]œ;I}þLWršÍÃù8Os e×Š4ÅÖQ¬J°a…±tÞû¯¹Jb}#éÕÁg†Rà©Äk³·Çg£­XR6s6â•ƒ`PQ$šÞhÙÂlðˆ€ímì»¹|3
 KÛ’°o
 gÄûå5™7f¥:—¨ŒgšüÔ“Í+‡44m—ßZÒ#­‘×¯:1íž74ä(­‘YSQ’ô	ÖNt{«ÌEô¡ìYæ.æa6J®Ã…É&Z>{ð`{	}ÇÆÇÏœ³½ûÕÔµšŒCøGSÝxÚü!b–Ô‹žíÂ–¦Myý>dËáõ‘+BßÜ7\ïVíÎf·é³Û¢Å?üp»÷áø<Nžæ<Ñ÷gs1(ØŠÜ{4§ó)ŠÔL¡ŽØ­f#9
 Ê O\~.ä‹Xûéšû——jíœ€WhéhC…]By-L“§`ñÃ—.B-Ë–W;Èö#ÁŸ‰+A
-Õ0È_æ	ÓÄÆ¼g¹c^JÜÑé4»JÑÓÆ|aCJÅ†Ýø>H‹CÃ(a™&_?cŸÈk1 unfreed mallocs
+Õ0È_æ	ÓÄÆ¼g¹c^JÜÑé4»JÑÓÆ|aCJÅ†Ýø>H‹CÃ(a™&_?cŸÈk
+1 unfreed mallocs
 592 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÅEfl’8œzEc}'™û‚ì9Ñ	QåTUØ'¨nÂá"‰¢‹4FeV#ý™ÐÓþÁ¿Í0Õ2«TÙt[^”çåaY_|I¯Ë‰©ÃÜÙÁ®<4	x>dí½æ'0‘@´3ÁzîƒZZŸŠ_{‰¼	¦pšªuõwÙ…Keòèí}ÜW…Ê`]œÙÄgí!@„ÀæC#šƒj†¿Ruì¶Ö«!ÁŒó°0-ëF‡ùk'mãáÃ6ÄãCÜóƒ×2G÷pRÈfh[&|Ñ¤%‘xc1—Y ÷ë¨ç¾uÂÄ2„ÕýðfNÐÊuöÖ+	—ï]ŒÎó¥™ãr|zo-\±ÞÙ|Ì 
+ft_strjoin() -> ÅEfl’8œzEc}'™û‚ì9Ñ	QåTUØ'¨nÂá"‰¢‹4FeV#ý™ÐÓþÁ¿Í0Õ2«TÙt[^”çåaY_|I¯Ë‰©ÃÜÙÁ®<4	x>dí½æ'0‘@´3ÁzîƒZZŸŠ_{‰¼	¦pšªuõwÙ…Keòèí}ÜW…Ê`]œÙÄgí!@„ÀæC#šƒj†¿Ruì¶Ö«!ÁŒó°0-ëF‡ùk'mãáÃ6ÄãCÜóƒ×2G÷pRÈfh[&|Ñ¤%‘xc1—Y ÷ë¨ç¾uÂÄ2„ÕýðfNÐÊuöÖ+	—ï]ŒÎó¥™ãr|zo-\±ÞÙ|Ì 
 Õ¡3´Ï­bšƒiˆKà‹¡þ‘ÏCM‚-8¯BÃ)å¬—~ÑM¶ÜpåûžÅFë
-ç4úÞi:p|‹,ò[å°lM¾0{VwŒË¯gÉUQwyYD|è¥W]xÏ)Ÿ3)GTuëLrÀßgJëÝ²ŽÏhÿÕˆÙøú=¡lÀë˜áÖòÍ6/¡%ýXŠ1LŸ$Dÿq¼ÔÔÿ'3Ý´N¬UIå1 unfreed mallocs
+ç4úÞi:p|‹,ò[å°lM¾0{VwŒË¯gÉUQwyYD|è¥W]xÏ)Ÿ3)GTuëLrÀßgJëÝ²ŽÏhÿÕˆÙøú=¡lÀë˜áÖòÍ6/¡%ýXŠ1LŸ$Dÿq¼ÔÔÿ'3Ý´N¬UIå
+1 unfreed mallocs
 438 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÈH¹-¾6}vÜÀ×³¬®xûVƒ`MßY×ˆ§ï
+ft_strjoin() -> ÈH¹-¾6}vÜÀ×³¬®xûVƒ`MßY×ˆ§ï
 H0ÖÁýAî6… ù²P
-2g¾!…3š½âb†Ø=Z FxøÔ×I /éx¤f‚nl`Vêþë¯L¢›Š“tdRªü~s¦îš¯»~ÖÉ¿@UwcŒ÷.­”Æ¡ñ)g§ð9êÝ»K#^i~¤µFå›Hòc˜CÞ/À6¶œÓÐíBÑµv›aèzÀÞEj®Ë›u‡‘ÂÕº7ÇVu0­ÚU0Mœôb×“a… £ùõbª€”¶JvRtrO‚¹õœgQ”sç„Í *Ù¯sÉ™´øYÕêN´<˜?Ä¨:ï“þŒe¸C‘TÓý#ÿßD3¾¸be§Üj¥p¥5(ÎHN)åÅµö'cºŽœ	08@÷U_,t˜0aŽ‚0Ã ³ª£Äš1 unfreed mallocs
+2g¾!…3š½âb†Ø=Z FxøÔ×I /éx¤f‚nl`Vêþë¯L¢›Š“tdRªü~s¦îš¯»~ÖÉ¿@UwcŒ÷.­”Æ¡ñ)g§ð9êÝ»K#^i~¤µFå›Hòc˜CÞ/À6¶œÓÐíBÑµv›aèzÀÞEj®Ë›u‡‘ÂÕº7ÇVu0­ÚU0Mœôb×“a… £ùõbª€”¶JvRtrO‚¹õœgQ”sç„Í *Ù¯sÉ™´øYÕêN´<˜?Ä¨:ï“þŒe¸C‘TÓý#ÿßD3¾¸be§Üj¥p¥5(ÎHN)åÅµö'cºŽœ	08@÷U_,t˜0aŽ‚0Ã ³ª£Äš
+1 unfreed mallocs
 333 malloc'd size
 0 unfreed mallocs
-ft_substr() -> C¦ŠôšhÉ¤¡T­%A)?q#B.³ønzÏ¶Ÿ;c6ƒÏ9“Àeq_¨F³1HãuÕg\	,p1—oËkÜD÷Œ¥ƒl7	Å2Ÿi°A±)—+fvè5´.]*LO^8¦/vª´âh1ëpd/Çû©œ˜û8'L¼zši¥ÆEwÈ#äØEu¨æZw1 unfreed mallocs
+ft_strjoin() -> C¦ŠôšhÉ¤¡T­%A)?q#B.³ønzÏ¶Ÿ;c6ƒÏ9“Àeq_¨F³1HãuÕg\	,p1—oËkÜD÷Œ¥ƒl7	Å2Ÿi°A±)—+fvè5´.]*LO^8¦/vª´âh1ëpd/Çû©œ˜û8'L¼zši¥ÆEwÈ#äØEu¨æZw
+1 unfreed mallocs
 139 malloc'd size
 0 unfreed mallocs
-ft_substr() -> –ž¤™ë4zËíûÄVšä8ÿR:/æW;ƒh±‚6¡jÑ„jë¡¯»“O;ûQvGYÆ»ª?¥ù
-1ðí©ÌF”–‚ïB—¨‚ÒÊ0±=}YËB)NTñ†‹@^ÞÊûSgåP_ïDØéƒG&¦WËr"=óŠ*ûÕ‘tvÁOsŒ‰ñ-ê		Uôž1'ŽÂÝ¦Ò²Z!e#ÜÐ=‚	iøA‚¯ªÿ€E‹ÓG+ö1 unfreed mallocs
+ft_strjoin() -> –ž¤™ë4zËíûÄVšä8ÿR:/æW;ƒh±‚6¡jÑ„jë¡¯»“O;ûQvGYÆ»ª?¥ù
+1ðí©ÌF”–‚ïB—¨‚ÒÊ0±=}YËB)NTñ†‹@^ÞÊûSgåP_ïDØéƒG&¦WËr"=óŠ*ûÕ‘tvÁOsŒ‰ñ-ê		Uôž1'ŽÂÝ¦Ò²Z!e#ÜÐ=‚	iøA‚¯ªÿ€E‹ÓG+ö
+1 unfreed mallocs
 173 malloc'd size
 0 unfreed mallocs
-ft_substr() -> kˆÎˆ$ÃÿbØ×ZÅÛk2Ðøƒ…¸g^®´T«`Òp>¬þ×½-¡¡N©ˆ¿»d€A8õ3K%Z;T+…:š®—)]ïRJšÆôØ?*ÞÈ<µ%³çZñe&¨_ÙZª nò-5(X©é‚ýCëH¸ÿ’D¿idY1 unfreed mallocs
+ft_strjoin() -> kˆÎˆ$ÃÿbØ×ZÅÛk2Ðøƒ…¸g^®´T«`Òp>¬þ×½-¡¡N©ˆ¿»d€A8õ3K%Z;T+…:š®—)]ïRJšÆôØ?*ÞÈ<µ%³çZñe&¨_ÙZª nò-5(X©é‚ýCëH¸ÿ’D¿idY
+1 unfreed mallocs
 129 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¦ÍOó×J€G.Ë×úÜK”÷nð©ÚNjgˆ4™b@ª­5ý»Ínµ(wc£	³!XR];z>Ï
+ft_strjoin() -> ¦ÍOó×J€G.Ë×úÜK”÷nð©ÚNjgˆ4™b@ª­5ý»Ínµ(wc£	³!XR];z>Ï
 Èw5ÆþXš'”öÿÀ–™¹R–½	ì—%­´Qùê2^õWä«¡v(hµêË"›º¸þÛ¨%u$S€Ï`éxŒ…|êô^¡}ÑHÇôµ!S±;9ƒ|üN£3üÖ9ì&¡wÅ(ò¶¦Ð×æGÊÛ¾ÛAn¸Ü#1lâ5¦jw=÷ñÃì™À7`ŠøJ¤Êõ¬·ÿ'·WiG¼p`7 ²&aåè7´–ãušnPd”N«é‰%õDZ¹®b$6®´H<:"€‰BÊ–ÀC1×ÎsrËÀ“~ÅýS­x¢ÂDÕ|¢Bé›Ô6Z·^¶Š‡5`…D)‡kAlx(Îþ¬Q!·æÛÚb%ó\‰U?5ÿŽÓ0"…ºqÜ:øº’ÒÁ[‘ï;(2ƒCðÐqfÒ ÔÊlDV²&„'$Ò±ê?'ùÒ$ÿu<Ê=hS6.?Ÿ¯}LÁlIZÎ%³ÚÆ×œÉåÏ³eö"Œ½–rŽ[‰¦iñ%öM'ÉÁzë³8ÚîµL/•©ÆÍ{8Ý
 òŠõ»‡°ë1W.°6£RÞ¾Ýaß±TlúŽNX
 IRÜ•ÊR+†™¬ù'=ØrT9þ€ç	D-ãÛØ½c¼‡EkT—•&±»“›e¨`
 26_Ñ#çSRÂöa±àx0°êÔÒ¦rküTw‘°€*«1å…è]_â®oœÖfÎkgj
-j,Ž-œ&2Îƒ…a¸• Ñ¿ëÈ*5T€È˜€0lnÿ´ä—žÄ#ÎZj1 unfreed mallocs
+j,Ž-œ&2Îƒ…a¸• Ñ¿ëÈ*5T€È˜€0lnÿ´ä—žÄ#ÎZj
+1 unfreed mallocs
 650 malloc'd size
 0 unfreed mallocs
-ft_substr() -> TÒØ’Læ Nƒþî´^Oºî‘ÑRÜ¤q
-p°ÚKú-™¼'>+{>˜ÿ»FO½†èŠyàs!‚§T)Íb¬°_ÛBÂ——©V;Þaâ“´Ÿ–Ãlì©Mô×ÝiÏlBYãºïm5z¬þ5ÚqÀv2Æ	ïæØ(`Á*n›V;¬X0BÃÆf>á±qþ;fm„Ð²§ÕýþMŒé’N€ïDoÑ›PZE«³?-¢­³ûÚ=fT„1 unfreed mallocs
+ft_strjoin() -> TÒØ’Læ Nƒþî´^Oºî‘ÑRÜ¤q
+p°ÚKú-™¼'>+{>˜ÿ»FO½†èŠyàs!‚§T)Íb¬°_ÛBÂ——©V;Þaâ“´Ÿ–Ãlì©Mô×ÝiÏlBYãºïm5z¬þ5ÚqÀv2Æ	ïæØ(`Á*n›V;¬X0BÃÆf>á±qþ;fm„Ð²§ÕýþMŒé’N€ïDoÑ›PZE«³?-¢­³ûÚ=fT„
+1 unfreed mallocs
 198 malloc'd size
 0 unfreed mallocs
-ft_substr() -> wK’f¶‹ŸXHT‹Uç2›‡wúh<´º[º`æÆU-‡óð×~«IÿÃ[ä.Â÷™‰ŸC‘Á[ØØØºQO¦Á9#Z—*âÎŠ’ýq±=~FŠçødQÝ†åK NÕ}ŠIB»X>Žû¶…Í¸Þ3ì~á›A,×È¯|[h°ÁbÎŽ(±ÄË‘ä¦ƒn’¤õ£ Dy³øŒL[`¥Õ4ñÊr^[røÃ|FŽ6Œym0D‘ñQ_%ðLA²º·÷i HWÁì#k£7žOP§Ü;P¢y‰¶:Ð¯»£(Ñõ…œø:×h{ã¦<ßT¶äÐ Î¯¤\n†¤µ&%³Vd¼\Av²Ò†AIê;ÊáÍÜµð;7Â²Tt_@åÉ4Uc<þ1 unfreed mallocs
+ft_strjoin() -> wK’f¶‹ŸXHT‹Uç2›‡wúh<´º[º`æÆU-‡óð×~«IÿÃ[ä.Â÷™‰ŸC‘Á[ØØØºQO¦Á9#Z—*âÎŠ’ýq±=~FŠçødQÝ†åK NÕ}ŠIB»X>Žû¶…Í¸Þ3ì~á›A,×È¯|[h°ÁbÎŽ(±ÄË‘ä¦ƒn’¤õ£ Dy³øŒL[`¥Õ4ñÊr^[røÃ|FŽ6Œym0D‘ñQ_%ðLA²º·÷i HWÁì#k£7žOP§Ü;P¢y‰¶:Ð¯»£(Ñõ…œø:×h{ã¦<ßT¶äÐ Î¯¤\n†¤µ&%³Vd¼\Av²Ò†AIê;ÊáÍÜµð;7Â²Tt_@åÉ4Uc<þ
+1 unfreed mallocs
 316 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¼ ´ ¿–g@´!iÅop
+ft_strjoin() -> ¼ ´ ¿–g@´!iÅop
 ådÞ/ôoýºJØÿÉþ÷ñ]D±½äâ¡G#’"µ¸´Ž¨;ÈÒ¼·©bÚ.+ÜÜKÃCÛcqàõ¡ƒb8Î‘k`äCo bj„n£«ô]7÷c¾‡€Äk§˜ìÎ†[ì‰Ñø¾ªc9gv\.“Î•+ãÒ>@ÉDŠ|xˆÊW™dH¯Æ›ùÑuœ‹šHÝ9õÀÞf±îÁñdõ§©…?E®
 ð»>ÎoÍÆ¿ß4Î{õ`s³Çêf€Ïr!dyë:0é^U)Éêž¢}êÚšèè9ÂÞ[5ƒò(?´à„B¡bIA²ZMŒÅ{Gç`Ðs-—ÂØ2ˆÜˆ?öïç½:=êXÒMAAR3
-g`?Ç~1 unfreed mallocs
+g`?Ç~
+1 unfreed mallocs
 304 malloc'd size
 0 unfreed mallocs
-ft_substr() -> r®PeÏŠÒ¤‚È”n¿	‚F××$’øVñ¶°ÇdòåT$TÌ¡„ŽnŠ¦>)…Ã	à`äeŠ‹Îøó“êÆÀ’ú"1 unfreed mallocs
+ft_strjoin() -> r®PeÏŠÒ¤‚È”n¿	‚F××$’øVñ¶°ÇdòåT$TÌ¡„ŽnŠ¦>)…Ã	à`äeŠ‹Îøó“êÆÀ’ú"
+1 unfreed mallocs
 69 malloc'd size
 0 unfreed mallocs
-ft_substr() -> J»÷•(W!¯#ÇßÛfvK¨«ÐŸÈ·CëÖQ<Y¢ëÌJ¢¨•áp"5‘×íjÏ&L Ï{NêÂòv‡ÑOÈ3DŸ–ÙzJo—±±iTÈ‹Ð&Ä`>—Òe,cžo%g·nÿÁ½I’lôa ·7“
+ft_strjoin() -> J»÷•(W!¯#ÇßÛfvK¨«ÐŸÈ·CëÖQ<Y¢ëÌJ¢¨•áp"5‘×íjÏ&L Ï{NêÂòv‡ÑOÈ3DŸ–ÙzJo—±±iTÈ‹Ð&Ä`>—Òe,cžo%g·nÿÁ½I’lôa ·7“
 üN\_&²ÜC¡5we-wŒÎäƒŸsÂ­+u¯®Xo6ê¸ËÆºñjB¨‘þ:L]÷gèûHÃí+ÈzÞTv;‡A%8xÓú,×ëÅJ³,—f‘9Wf'mñ‹È•Éµ¨º…!K¦Q9È'0ˆaÞ.Tx.[‘7¦pc´ üÇ=B…oÂa~[qN®ŽP³ñÿ±¹8þ­÷ŸJ§I2i[àŠ63(leewõNw„ð-|„gÁéh8K¬.âë¹RÝ¼•x‘»•ëÃoÁÉº•.=–m*÷ñ«Iô3kÄè›Ïdi³Ui'y¸ž-<–¼Šò}	äu¹ý‰}ÔhôžG’W2Ï¦ÞJ$(üß½¾KzÁ'¥€‡4n£“x©À¯ÊÚ$ÿx
 ©|N¾ë„‘†¸ 3ÍÝ»½‹B¿jÁ3¥Vg?Öe_Z©ÂY6
-h<.àÌÏÃ_¬M@¸¡àƒîÃßŒxÈÇœÍü†=­+—è{à‡ñ¹£Q¢ÉÍ?÷kÆ…QÒ¿9\—Ð¿kµAø—}±hÐ»uGÂÑ”­f[Î•”É8Î›¤™JFÅ\û~ÆFþž+{zÓ—Q0©Y£p©I ¯sÕ ã."ßÞzç6;áfõnf_0Üm“Ý}ˆÊê¥‰$»?‘}¢F— DÏdÛ|r©–h‰[¢‰çé{Ú<h)1 unfreed mallocs
+h<.àÌÏÃ_¬M@¸¡àƒîÃßŒxÈÇœÍü†=­+—è{à‡ñ¹£Q¢ÉÍ?÷kÆ…QÒ¿9\—Ð¿kµAø—}±hÐ»uGÂÑ”­f[Î•”É8Î›¤™JFÅ\û~ÆFþž+{zÓ—Q0©Y£p©I ¯sÕ ã."ßÞzç6;áfõnf_0Üm“Ý}ˆÊê¥‰$»?‘}¢F— DÏdÛ|r©–h‰[¢‰çé{Ú<h)
+1 unfreed mallocs
 655 malloc'd size
 0 unfreed mallocs
-ft_substr() -> xžqÎ›h¡>¡,9|M— Ï$žŽ©ƒoŠm}+vú‹ì‰<y/Gžá_ž|oã¬ºt‹	þlË²lœN¸1Ë„üºûˆ"•2úDªšY;ë©c=®ªbŒ= H¸­ïÝHå8'WñBm´‰€ÎëhZÈfY¥ž<¤¼4ý¦ôþW¦W´m6úýç‰èÏ£î§¼BCï5*A4fò¦”9Ýžs³Ê]1r> œL¦õ±uÉ&ã‰œ§°¸c˜è“­VnI‡¾˜ê9ká>Ø×MS[‹»Y¸õO;l<)fŠËsÑ@ŽÚÅRý;A+l·¨a]ðæöó¥¥R<uZ¸\€ùôYmžÑžJ9WŠ'õÅ´rmM1 unfreed mallocs
+ft_strjoin() -> xžqÎ›h¡>¡,9|M— Ï$žŽ©ƒoŠm}+vú‹ì‰<y/Gžá_ž|oã¬ºt‹	þlË²lœN¸1Ë„üºûˆ"•2úDªšY;ë©c=®ªbŒ= H¸­ïÝHå8'WñBm´‰€ÎëhZÈfY¥ž<¤¼4ý¦ôþW¦W´m6úýç‰èÏ£î§¼BCï5*A4fò¦”9Ýžs³Ê]1r> œL¦õ±uÉ&ã‰œ§°¸c˜è“­VnI‡¾˜ê9ká>Ø×MS[‹»Y¸õO;l<)fŠËsÑ@ŽÚÅRý;A+l·¨a]ðæöó¥¥R<uZ¸\€ùôYmžÑžJ9WŠ'õÅ´rmM
+1 unfreed mallocs
 285 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ^Q
+ft_strjoin() -> ^Q
 ™òÅvgà:†«^É îš»k+®O\ÏÈÙY’ûNYT±YßFè—²mQ³Á“.—¹ÐþHö…}’©¹¿ûTéj“‰—Ey2øÖrÓ±Ú.¤…)Ð{ÍüªU¯zžÿŒØXðÌ¶žcäî7ð¥)µæYUá#ËuÿÑ°Ô‚YÐ½9!›S‡"d%aÐ_üOMd<dQóõ<ßPEûœ&ä}m‡9*,{—ÝŒˆaéîey§_æ/!\z¹£7‰[»jìnôÝñÔV¿è/TœO]P‚EzœAÉ=¸üØ¸y?#Ž«Ë]—5¸…MÌçòyÔÍPð#)¨œ59°]Ûb37zk€”³Ø9ô„ä!Ÿ½“0/”{8;È’[CT„RF@š•øÿCV' (”sÜPÍßõ¾°Ö#¨"=£iæQwŽÈ~“	sÙzºÞ\–±–5j7mâ\"p5ÍGéïé¥ÚÑó‚^õ½ãŽÝùêîxëÈß—ìOs:æp•µ×¿*®¦#Ò7»@ã"[§'ÄÀZsb¬º™Lr!&£€ï»Ûæ—ÞvâØžvê›šž’vÃQçïß„`
 cú£¤p%é=köæÔTîç•PfuÕøzŒ%NB÷Ž}A^‘@®¢kÐÇ…ÿp!ÉÓO¬(5ßgn?ÂŸŒ£µè·kœF˜aÙø=¯(¥ªÇÀMQ0/òOól~×‹Ñ†‡ø#~´ùc”Go8K=:à÷þÜæ™e;…OÖAŒH&ÂêFžaÅ¨r•6cT¨9ûç’¶Ô¯â
 !T.–Í¡é5ðvê°’Øá:¯¯Ü4C*ÙøšåFé¤©Û²kä¼þîÛæÞ\~kV”fvD™«\¨âW›îµ‹–û>sùrë`ã¦îÏîÃ¹ÿ6æ"¦"·àz§åýf˜ÌŒÌa$êâ²÷<¸³==„FÈþn§ß¹YëR¦Y­ÌºÃ|`j“´ÝÅaC…‚X“ ”Yƒ½‡ì…pMö¸µ™®þ@úéÞ°ø2l¸>
 Ê\J ‡r‰–ÚÁ¹'[ÿ„½ÇSëÀ_w={SÞú†œòî*ƒÁìÏY$Ê@é#D{Érù%\ —Lä˜äpFèÝQhË¡®Þ/ªÏ]¿˜A9¨…¥)i{¨ÝÜáÈÏœü#™ªðè"LþBÍiß×"ö4¨’"‘ý"&&úÂ«í¿8MvBÐÒpçÀ'öä]ŸW´ÝÅaC…‚X“ ”Yƒ½‡ì…pMö¸µ™®þ@úéÞ°ø2l¸>
-Ê\J ‡r‰–ÚÁ¹'[ÿ„½ÇSëÀ_w={SÞú†œòî*ƒÁìÏY$Ê@é#D{Érù%\ —Lä˜äpFèÝQhË¡®Þ/ªÏ]¿˜A9¨…¥)i{¨ÝÜáÈÏœü#™ªðè"LþBÍiß×"ö4¨’"‘ý"&&úÂ«í¿8MvBÐÒpçÀ'öä]ŸW1 unfreed mallocs
+Ê\J ‡r‰–ÚÁ¹'[ÿ„½ÇSëÀ_w={SÞú†œòî*ƒÁìÏY$Ê@é#D{Érù%\ —Lä˜äpFèÝQhË¡®Þ/ªÏ]¿˜A9¨…¥)i{¨ÝÜáÈÏœü#™ªðè"LþBÍiß×"ö4¨’"‘ý"&&úÂ«í¿8MvBÐÒpçÀ'öä]ŸW
+1 unfreed mallocs
 1128 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¨½EùÖËY«¡¿Í±¯ló[kzÚøÚÍ!þÓ0Þ¶øœ‚
+ft_strjoin() -> ¨½EùÖËY«¡¿Í±¯ló[kzÚøÚÍ!þÓ0Þ¶øœ‚
 —`8É¥ô7Ø?jUçÁ2kX²’	[Œƒ c7‚.0ÂÙd‰‘ÙXûx¶w$ð^ü>ðêQËp™2J§Ar£Ó¾pÂ	d×LX ™_uXM–’BÜv©¸QÃ ]ºî«#Øüêz—>C¦
 ™§ècµâÍ*ÍpopÓ^0{~cÛÄéqÔÿTM"˜„#ûkýÍá“»(’ðôÿÎ[²%‰Öe&?I¾<²ž~Ïr€vÄ{O«–ëMºã¼‰óFÉv„30R{½hZ>)žâ€%½°}_W˜}%D¸\‹.½,¸‚ÁaˆÞHã9ö5ÛÐ
 ˆÔ»£Õìåì1!«&ÔÅµD ~¦ŠÑ_J¡cbd›*„˜/ÜíGò6œuYëT”ÂQ½´˜Þüº/Ài²©VXÃ|y‡Ó'Ge€#PC…È‡ âÔ™%1ŽðªÖ»²õ0üìÕzÙfÅV¨e>5	NßDë¹ ãç0Üçüi¦šƒª-$-¢µ¾ºÎx‹Wï7´íVÎ"ÁQ?Úyýxã+ßt¤‡FÕšê#zìÙë¨Y%Y¯OmrßEö/Ë8\»UkºŽ¸œ¬¦'ã¿	G—°%eßÃ´ûÜÉÍ–-œÅ¨«aôd˜÷­=S²$pní•œ¹ƒ(×¾uJÖŠË\*</<OGÚ	§ÕPž]‘dSJXM–’BÜv©¸QÃ ]ºî«#Øüêz—>C¦
 ™§ècµâÍ*ÍpopÓ^0{~cÛÄéqÔÿTM"˜„#ûkýÍá“»(’ðôÿÎ[²%‰Öe&?I¾<²ž~Ïr€vÄ{O«–ëMºã¼‰óFÉv„30R{½hZ>)žâ€%½°}_W˜}%D¸\‹.½,¸‚ÁaˆÞHã9ö5ÛÐ
-ˆÔ»£Õìåì1!«&ÔÅµD ~¦ŠÑ_J¡cbd›*„˜/ÜíGò6œuYëT”ÂQ½´˜Þüº/Ài²©VXÃ|y‡Ó'Ge€#PC…È‡ âÔ™%1ŽðªÖ»²õ0üìÕzÙfÅV¨e>5	NßDë¹ ãç0Üçüi¦šƒª-$-¢µ¾ºÎx‹Wï7´íVÎ"ÁQ?Úyýxã+ßt¤‡FÕšê#zìÙë¨Y%Y¯OmrßEö/Ë8\»UkºŽ¸œ¬¦'ã¿	G—°%eßÃ´ûÜÉÍ–-œÅ¨«aôd˜÷­=S²$pní•œ¹ƒ(×¾uJÖŠË\*</<OGÚ	§ÕPž]‘dSJ1 unfreed mallocs
+ˆÔ»£Õìåì1!«&ÔÅµD ~¦ŠÑ_J¡cbd›*„˜/ÜíGò6œuYëT”ÂQ½´˜Þüº/Ài²©VXÃ|y‡Ó'Ge€#PC…È‡ âÔ™%1ŽðªÖ»²õ0üìÕzÙfÅV¨e>5	NßDë¹ ãç0Üçüi¦šƒª-$-¢µ¾ºÎx‹Wï7´íVÎ"ÁQ?Úyýxã+ßt¤‡FÕšê#zìÙë¨Y%Y¯OmrßEö/Ë8\»UkºŽ¸œ¬¦'ã¿	G—°%eßÃ´ûÜÉÍ–-œÅ¨«aôd˜÷­=S²$pní•œ¹ƒ(×¾uJÖŠË\*</<OGÚ	§ÕPž]‘dSJ
+1 unfreed mallocs
 1022 malloc'd size
 0 unfreed mallocs
-ft_substr() -> €!Mé’P?‚!b¸×½T'~°ƒèRŒœ¸l=¸K0+FÂ¶ì/¡ê@†Ô]—©Ÿ:N5<¬p‰‚Óðýš„8#"0Í%Ðð©#õì?ƒº¼YBA©ƒW¦÷fè¶õå/rÅù+BëMù˜˜IŒ´¾Â’®¦1{Ùµàù®—ZÂ’ßfº˜¦óWšjÆåiLãŸ²·Ýg*èÏr.Ô|­w²nô&õ§By‘vn	& Í•ècŸwºÌdkLiÙLòq‚9v¶øÑ$Õ:óì\ûíéî¼Æ„-=›ºì4éü@D
-îîõ‡¿•w!J›žîÙ}T.«wäµ",@&d:½–yc»ŒîÈhB]7Ü[ÙIeŠùÁØþU>ÇÜ™apíc:¹ä¡uìo¨D2Ü—†6×v&Vu`5ã8îÇl²¬ŽøO´•^ÈÅdzW÷€ŒÎ¿pÂY³æ¿æðüÂ)„ ï¢uhŽ7Æ9¯ym;„ð/á/Ï¾â(?v¤9”±Ã†f£|öõ1HÀŸ²‘A2IÙ¼ñ«Òh¹B¿ðœúZ1 unfreed mallocs
+ft_strjoin() -> €!Mé’P?‚!b¸×½T'~°ƒèRŒœ¸l=¸K0+FÂ¶ì/¡ê@†Ô]—©Ÿ:N5<¬p‰‚Óðýš„8#"0Í%Ðð©#õì?ƒº¼YBA©ƒW¦÷fè¶õå/rÅù+BëMù˜˜IŒ´¾Â’®¦1{Ùµàù®—ZÂ’ßfº˜¦óWšjÆåiLãŸ²·Ýg*èÏr.Ô|­w²nô&õ§By‘vn	& Í•ècŸwºÌdkLiÙLòq‚9v¶øÑ$Õ:óì\ûíéî¼Æ„-=›ºì4éü@D
+îîõ‡¿•w!J›žîÙ}T.«wäµ",@&d:½–yc»ŒîÈhB]7Ü[ÙIeŠùÁØþU>ÇÜ™apíc:¹ä¡uìo¨D2Ü—†6×v&Vu`5ã8îÇl²¬ŽøO´•^ÈÅdzW÷€ŒÎ¿pÂY³æ¿æðüÂ)„ ï¢uhŽ7Æ9¯ym;„ð/á/Ï¾â(?v¤9”±Ã†f£|öõ1HÀŸ²‘A2IÙ¼ñ«Òh¹B¿ðœúZ
+1 unfreed mallocs
 420 malloc'd size
 0 unfreed mallocs
-ft_substr() -> û	£ªsG†;W^ÊNT¾î¥æzæ(2—x)®‡Œ-þË¾­V…;2kHÏEN†º1s˜*xˆv.?xñt›R|q@7€Ì´|AŒî|ÍÏ–OGÆRJOåqGfú‹_°ùÌ|¸ÐÊç1bÃÃQÔé6‘TÉÁy#}”E&=qÇÿpÃ®Ëj¢D
-Áœ}7@ç2æfÁwÃâ=s:ÎÍé¬“Ç!g£s§ßøÄÂyƒ*f×Á˜ÄýV¹GRáç5ë7!ü;*&…ç½k„âolÕ1Ñž•Gý¾í§oë…•øI"¡£ûÎ,¼c¿nâÚüQíÐÞ+Ç•v¬ð[¤2éšé ±¡!ú+]DÆiSÖ!k¯¬Nö9¯.(ÑòÂ„ˆ>fÝkÁã»,ùÇDRÅàÂ(™Qg‘ÝûBØö2ø™<TSô5‰Ð÷œ¡o(~áIcí5yj5t…Ú€ý.ß“œ¥³ª¡M&"4à,ÂŠ7„¹çRnÓ¬Rr#?Öà¤´àômKÈDÁÆ¾£"$-œ=š'`ÀðlvÁ°ýK÷çâ@ò´Å’Lpd9ýüEDµ´­c¤1 unfreed mallocs
+ft_strjoin() -> û	£ªsG†;W^ÊNT¾î¥æzæ(2—x)®‡Œ-þË¾­V…;2kHÏEN†º1s˜*xˆv.?xñt›R|q@7€Ì´|AŒî|ÍÏ–OGÆRJOåqGfú‹_°ùÌ|¸ÐÊç1bÃÃQÔé6‘TÉÁy#}”E&=qÇÿpÃ®Ëj¢D
+Áœ}7@ç2æfÁwÃâ=s:ÎÍé¬“Ç!g£s§ßøÄÂyƒ*f×Á˜ÄýV¹GRáç5ë7!ü;*&…ç½k„âolÕ1Ñž•Gý¾í§oë…•øI"¡£ûÎ,¼c¿nâÚüQíÐÞ+Ç•v¬ð[¤2éšé ±¡!ú+]DÆiSÖ!k¯¬Nö9¯.(ÑòÂ„ˆ>fÝkÁã»,ùÇDRÅàÂ(™Qg‘ÝûBØö2ø™<TSô5‰Ð÷œ¡o(~áIcí5yj5t…Ú€ý.ß“œ¥³ª¡M&"4à,ÂŠ7„¹çRnÓ¬Rr#?Öà¤´àômKÈDÁÆ¾£"$-œ=š'`ÀðlvÁ°ýK÷çâ@ò´Å’Lpd9ýüEDµ´­c¤
+1 unfreed mallocs
 459 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÏØßì‡øþí1}Ã¶íîýJ½çõuê®úÿÿÚÈ+».³ç¹©ãåÇQ€ºLŽâïšPê‘ºŒ«©ãMàÒ‰~&t6{Ä«wôZªú~Ø@5V¬$bŠ'2¸»ñÅˆˆ¹SIGF‰Ã@jÒñfå	/óí—¥æ¥µ\Òý¿ÌB1í;u¬ùÌ(Þ¿ 9-ì”,mé'2)ƒÙi‘^E´±73uqìËh,
--öŽðš1 unfreed mallocs
+ft_strjoin() -> ÏØßì‡øþí1}Ã¶íîýJ½çõuê®úÿÿÚÈ+».³ç¹©ãåÇQ€ºLŽâïšPê‘ºŒ«©ãMàÒ‰~&t6{Ä«wôZªú~Ø@5V¬$bŠ'2¸»ñÅˆˆ¹SIGF‰Ã@jÒñfå	/óí—¥æ¥µ\Òý¿ÌB1í;u¬ùÌ(Þ¿ 9-ì”,mé'2)ƒÙi‘^E´±73uqìËh,
+-öŽðš
+1 unfreed mallocs
 195 malloc'd size
 0 unfreed mallocs
-ft_substr() -> tOùLû£n>DÆ­èVGó$L»rÅDÕï;)-ÛçÜ&íÙy¡€9ØžÉŠ«Ÿ_Žº€ÝÔô’~\UüQfX\¤¡BÞùbe-vN—­	íÆrCfÎ·CDò¬ž]#o:v¤ýšmT‘ò»À”×V›4¤îW’nSùvÖššù¦ûã-Tt~W@‰.H^)_¤÷þ}ÒÊÒ¡l™"½@3ê¬ºÕCEýbôýªÚ{¢*˜Ë+€c{!Oþ@5ÃeG·ö-
+ft_strjoin() -> tOùLû£n>DÆ­èVGó$L»rÅDÕï;)-ÛçÜ&íÙy¡€9ØžÉŠ«Ÿ_Žº€ÝÔô’~\UüQfX\¤¡BÞùbe-vN—­	íÆrCfÎ·CDò¬ž]#o:v¤ýšmT‘ò»À”×V›4¤îW’nSùvÖššù¦ûã-Tt~W@‰.H^)_¤÷þ}ÒÊÒ¡l™"½@3ê¬ºÕCEýbôýªÚ{¢*˜Ë+€c{!Oþ@5ÃeG·ö-
 ì¶r±¦‡+[‚¶[
 ¢(G½«8ØÒ+V±”;Î@£Ï'Žƒ€•×l]PšéJþÅ®öàëuz¢üXJ^
-õOã@@Ý QcY¢¡OÃæâzsLŒÌCI¾Õß†¦€üäüÕ„ŠŽÒÌ$Ã€AD(¹3Ù¯o{Åjo;W`f!oÒ²9@ï”™£S}¼`dH,¢ó¤±…ÍIc 0èÞ”gï­%Õn(Âš‘§r({Ÿ@í)–È3~iÓé‡÷b¨¨ÕÄ||ûÖrp/üæ1Þ‰k«ã4_×npÇîÛÁŒT8·Ò…Ã²Ð½(xrjwx°RçÛ¬„LPŽ1 unfreed mallocs
+õOã@@Ý QcY¢¡OÃæâzsLŒÌCI¾Õß†¦€üäüÕ„ŠŽÒÌ$Ã€AD(¹3Ù¯o{Åjo;W`f!oÒ²9@ï”™£S}¼`dH,¢ó¤±…ÍIc 0èÞ”gï­%Õn(Âš‘§r({Ÿ@í)–È3~iÓé‡÷b¨¨ÕÄ||ûÖrp/üæ1Þ‰k«ã4_×npÇîÛÁŒT8·Ò…Ã²Ð½(xrjwx°RçÛ¬„LPŽ
+1 unfreed mallocs
 467 malloc'd size
 0 unfreed mallocs
-ft_substr() -> òØããã_ýâÕh¢<ªF(His|YÌ*…»‡ÆYlZØ"šÖÏáî¹zAEIœà1Oó…’a.ÐVº^;Ç‘Ñ›7|°ºó®@Ív0‹ýP5Âáb'¨þ»}Q)2zGñY^Xˆ^½¬vÔ	ÛPWn'Ã–ªÿïµÝ)Õ½UÇsGDº¹ãõY%v¥‚{ÝePïÛ~õÂJk!šIM©ò—Ÿg¥ˆëöSë
-Oˆ"Ð->³žbLqLÕÕA1 unfreed mallocs
+ft_strjoin() -> òØããã_ýâÕh¢<ªF(His|YÌ*…»‡ÆYlZØ"šÖÏáî¹zAEIœà1Oó…’a.ÐVº^;Ç‘Ñ›7|°ºó®@Ív0‹ýP5Âáb'¨þ»}Q)2zGñY^Xˆ^½¬vÔ	ÛPWn'Ã–ªÿïµÝ)Õ½UÇsGDº¹ãõY%v¥‚{ÝePïÛ~õÂJk!šIM©ò—Ÿg¥ˆëöSë
+Oˆ"Ð->³žbLqLÕÕA
+1 unfreed mallocs
 188 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÒÇu~å†g«Ô­3K<?eäC¬F(ëñH~}ºÒ‡Ù£ÐVÝz²{i¯úŽö©kÚ mpa¹‡vâ~Ï±í†µ=:­åÔËÁ_K'<ñOé+¾DQÓZ`ñga‹TØ„¤GW˜è¥!wô³ÐwÅ±ØŠ³i]‰)+Í·$zå’ÒÇu~å†g«Ô­3K<?eäC¬F(ëñH~}ºÒ‡Ù£ÐVÝz²{i¯úŽö©kÚ mpa¹‡vâ~Ï±í†µ=:­åÔËÁ_K'<ñOé+¾DQÓZ`ñga‹TØ„¤GW˜è¥!wô³ÐwÅ±1 unfreed mallocs
+ft_strjoin() -> ÒÇu~å†g«Ô­3K<?eäC¬F(ëñH~}ºÒ‡Ù£ÐVÝz²{i¯úŽö©kÚ mpa¹‡vâ~Ï±í†µ=:­åÔËÁ_K'<ñOé+¾DQÓZ`ñga‹TØ„¤GW˜è¥!wô³ÐwÅ±ØŠ³i]‰)+Í·$zå’ÒÇu~å†g«Ô­3K<?eäC¬F(ëñH~}ºÒ‡Ù£ÐVÝz²{i¯úŽö©kÚ mpa¹‡vâ~Ï±í†µ=:­åÔËÁ_K'<ñOé+¾DQÓZ`ñga‹TØ„¤GW˜è¥!wô³ÐwÅ±
+1 unfreed mallocs
 248 malloc'd size
 0 unfreed mallocs
-ft_substr() -> µn°‰ÀùŽÃÐv²<#èø—‹\m¸Œ[àZrÖ`Û.ÐzÎôÉ/?—î·ÄŸøH0
-Å—š»×©¿¤Œ®(aÝæé1ý*µ+°¤1”‚œBµÑ€ÔÊù²Ï¤ÈlHe«/¢…Š‡‹³CßYÝV=›ÆZÿâÜ‰r.64LëJËx1 unfreed mallocs
+ft_strjoin() -> µn°‰ÀùŽÃÐv²<#èø—‹\m¸Œ[àZrÖ`Û.ÐzÎôÉ/?—î·ÄŸøH0
+Å—š»×©¿¤Œ®(aÝæé1ý*µ+°¤1”‚œBµÑ€ÔÊù²Ï¤ÈlHe«/¢…Š‡‹³CßYÝV=›ÆZÿâÜ‰r.64LëJËx
+1 unfreed mallocs
 126 malloc'd size
 0 unfreed mallocs
-ft_substr() -> #€Ã<þ6¾ï/ƒ,ª&*/ŽTÆ­ÀÏæÛÇÅjIøâ^6æPöb>ïÀ³PÛnÁ+„FË×¼ÏˆðêÉLVt‘´Ó-sˆxÙÅ…Ý÷×tìStl«p/¾µI0;Ó®AÙQ“(ÿÄ(íÊ/§Ó–¢ÕÂ*”'`…•O\ý'íL†ûºZ[Â£žeÿ]¥eY‰5"†)£gÇcx}1 unfreed mallocs
+ft_strjoin() -> #€Ã<þ6¾ï/ƒ,ª&*/ŽTÆ­ÀÏæÛÇÅjIøâ^6æPöb>ïÀ³PÛnÁ+„FË×¼ÏˆðêÉLVt‘´Ó-sˆxÙÅ…Ý÷×tìStl«p/¾µI0;Ó®AÙQ“(ÿÄ(íÊ/§Ó–¢ÕÂ*”'`…•O\ý'íL†ûºZ[Â£žeÿ]¥eY‰5"†)£gÇcx}
+1 unfreed mallocs
 172 malloc'd size
 0 unfreed mallocs
-ft_substr() -> á|
-'3•CÐäcÑáÎž„:fÊ*øe×øøŸfGr/Ò‡ÿ/ÚÃ&cÿ6“#‡C>ÃtÃýôÿè¹¿Œ|^xO^äÊå'	LMµ-×§±NÎ“˜õw¨PBxÚ\ýD|V½,)ê¥·tûÆ´ò»o,¿.J:Ÿ5©Ÿ @üÔŸõlÞâõ<*«ð@¬›bGÎîº_-Åÿ\îÊ÷^3gâe*£<éïr(üè=Ýš2elÞâõ<*«ð@¬›bGÎîº_-Åÿ\îÊ÷^3gâe*£<éïr(üè=Ýš2e1 unfreed mallocs
+ft_strjoin() -> á|
+'3•CÐäcÑáÎž„:fÊ*øe×øøŸfGr/Ò‡ÿ/ÚÃ&cÿ6“#‡C>ÃtÃýôÿè¹¿Œ|^xO^äÊå'	LMµ-×§±NÎ“˜õw¨PBxÚ\ýD|V½,)ê¥·tûÆ´ò»o,¿.J:Ÿ5©Ÿ @üÔŸõlÞâõ<*«ð@¬›bGÎîº_-Åÿ\îÊ÷^3gâe*£<éïr(üè=Ýš2elÞâõ<*«ð@¬›bGÎîº_-Åÿ\îÊ÷^3gâe*£<éïr(üè=Ýš2e
+1 unfreed mallocs
 230 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÷TÙP­ã…'(€//ûLj$\KÁß;q4qTŠ&£ÊUµ4XÇ^³Í˜C&”_ÒÎ[ÍAëó@pE| ðåA“E Ó;{¡ÍÌÐèör²õöR*5.õ¾,7–âh¡‹^â¸fòñdÜÆ¤1 unfreed mallocs
+ft_strjoin() -> ÷TÙP­ã…'(€//ûLj$\KÁß;q4qTŠ&£ÊUµ4XÇ^³Í˜C&”_ÒÎ[ÍAëó@pE| ðåA“E Ó;{¡ÍÌÐèör²õöR*5.õ¾,7–âh¡‹^â¸fòñdÜÆ¤
+1 unfreed mallocs
 114 malloc'd size
 0 unfreed mallocs
-ft_substr() -> µ@VÜ%™¿½õÆÛì¿Ÿß¤x?”òãy¶—'þž]8Ü<¯ò7ÒmRXEMóA>y5m/µÈ-†>å¤DïEK¿=‹NÐ^©rË§sÍ¿ÜB6s~Jl"Ø»öÈšFN^ºÖJ5E÷Åä3QIYÝ\€®Vñ;Is;ž¡óèlÄ•¿‰á`“é@mZeãøŽQ*èÚ§ö¨È‘gu¬Äå¸Ø95(…¥=œ|¼—±‡*Ø ›NÜÂµYîÊYá¯ž´ÉÓ¶½¥]¿PD§å6žíCe=i@¯¸²ˆÙ³ôl‰úONÿˆžÒÍØë—ús¤tñxÂG'äË»,¤ñî­¿žâiï5—8 “~µ…inäÛèÝ£
+ft_strjoin() -> µ@VÜ%™¿½õÆÛì¿Ÿß¤x?”òãy¶—'þž]8Ü<¯ò7ÒmRXEMóA>y5m/µÈ-†>å¤DïEK¿=‹NÐ^©rË§sÍ¿ÜB6s~Jl"Ø»öÈšFN^ºÖJ5E÷Åä3QIYÝ\€®Vñ;Is;ž¡óèlÄ•¿‰á`“é@mZeãøŽQ*èÚ§ö¨È‘gu¬Äå¸Ø95(…¥=œ|¼—±‡*Ø ›NÜÂµYîÊYá¯ž´ÉÓ¶½¥]¿PD§å6žíCe=i@¯¸²ˆÙ³ôl‰úONÿˆžÒÍØë—ús¤tñxÂG'äË»,¤ñî­¿žâiï5—8 “~µ…inäÛèÝ£
 o†×Wv'ð…`Ç¤€Ö‰¨@Ð
 ·}cHyWÃI}z¤¡Ü½E¿U3‘ÙÄð÷˜b›
 ƒÂ¸Ø+‡³
-æ«À~ß):«æÁD(²Ge[ÐÊ@2ÈÒŽ³C}×ÿ¸É»šòÁ'°ôû]	' þÇ¿zžfë8£4A(TÖÄÈ’×å©	ò2-ÏQ‰”4ÿÓ‡Yó+LæS_1ÁYmXàÀFî~**¥P¡íæH¹ý™&åÙG	m]xœ.ËÎÿÞwZÒÖ|`¿©ÿöÇ#èîÌõk½éœo™ªÊZàXúÈ·M?øÖ…ä“¡éûN­,Šº”2¬ñ\?ê6p¶nG—ZS4Ú"rp§mEÅè"£Jøí¬j¢ûdxF¸õö\Cù"EðF‡ù,|ë:ÒžÎA®Gû:è$1 unfreed mallocs
+æ«À~ß):«æÁD(²Ge[ÐÊ@2ÈÒŽ³C}×ÿ¸É»šòÁ'°ôû]	' þÇ¿zžfë8£4A(TÖÄÈ’×å©	ò2-ÏQ‰”4ÿÓ‡Yó+LæS_1ÁYmXàÀFî~**¥P¡íæH¹ý™&åÙG	m]xœ.ËÎÿÞwZÒÖ|`¿©ÿöÇ#èîÌõk½éœo™ªÊZàXúÈ·M?øÖ…ä“¡éûN­,Šº”2¬ñ\?ê6p¶nG—ZS4Ú"rp§mEÅè"£Jøí¬j¢ûdxF¸õö\Cù"EðF‡ù,|ë:ÒžÎA®Gû:è$
+1 unfreed mallocs
 605 malloc'd size
 0 unfreed mallocs
-ft_substr() -> g	_ä2OÓÉz)k®D×­éKRò¢‚wr+ÁÁ>pÙ_Æ¡áŽ&üFÎd¯£·)¾©˜Šª{³u"•ç‚¢B(«8œŽ¼bVâ{˜ßw^½–Ç¦ßleÁÆ±|>x[¸>PùiŒàÆ	àÝ¼L¢³mÐÂ9=3)xÛ•EzUñs’Bp¹Y@kbgó“ŠIoÑ¨ûÀ±“«º?ˆ!—eDÏˆ)q
+ft_strjoin() -> g	_ä2OÓÉz)k®D×­éKRò¢‚wr+ÁÁ>pÙ_Æ¡áŽ&üFÎd¯£·)¾©˜Šª{³u"•ç‚¢B(«8œŽ¼bVâ{˜ßw^½–Ç¦ßleÁÆ±|>x[¸>PùiŒàÆ	àÝ¼L¢³mÐÂ9=3)xÛ•EzUñs’Bp¹Y@kbgó“ŠIoÑ¨ûÀ±“«º?ˆ!—eDÏˆ)q
 p Æ²õ¬­áÞh´sÔaóuÉoGï¨h©)M2ÑfzT#2,¸¨Mkô(1içÛ^`…Z$‘½’2[ë˜uÛ­±ž¼mD|A¡ƒ)wAúÄÉ>ÿHU±ã)hA©ð…Ü“×zi×`¶iS`l¿o¬¥ÆËhx$z¦æU
 „!•tè#¤|÷3£uHéaÒüÀý¬ø\.“è²OžLr] Oum¡{mtâóÏ,y-U’sÊÏ7¡‡^V–Æä-ô®2D„;'N”ùâµ„ûÅ0Qõàêè¬‹ë÷/Ûä Äf*R†‘4Û <ßxÊz^ˆ|(Áxûª`â
 §ð«PˆGÛ°ï?kylÀÝñM‚ÙYõ¼žY'Z—ST‹¢Ì‰ÒÃê‘{swÏ<Ç»YA›Ìäô- ñ0[Øiž·¦ëé™E77dž3FxQZµx»ùZ„ø!eRfê:ãÀ›—ÑºÄ‘÷©Lr×†k©Ï{)šòšš+¤@Û÷GËÐÉï‰Ÿ™Š²Û-éWcæ‰ÀœÞ}äAÇ£íƒfÉjƒ?Ã·àJÛ:¡ÅlT;÷Þl
-[8âˆq0/#«i;1 unfreed mallocs
+[8âˆq0/#«i;
+1 unfreed mallocs
 626 malloc'd size
 0 unfreed mallocs
-ft_substr() -> æCÚ4å•jàŽŠñ
+ft_strjoin() -> æCÚ4å•jàŽŠñ
 uª6ºã
 ¸robñ'Ge\Ô¬|±ÛÖ\˜lŒH'Á²|B(™òY·àŸùíd²ê§nO@< Z’SŸ]nŒ÷«Ky¸«ÛŒÅd†ÈúBÈO§Y*§¶£Œ]×}µ-Y
-á3{ºwcúê¸Vwí²t¨á¯â"V¢Ñ`LGÓþGVçüMQ‘´aòþÕ2b+0;ù	‡È/—á1 unfreed mallocs
+á3{ºwcúê¸Vwí²t¨á¯â"V¢Ñ`LGÓþGVçüMQ‘´aòþÕ2b+0;ù	‡È/—á
+1 unfreed mallocs
 179 malloc'd size
 0 unfreed mallocs
-ft_substr() -> t<ñ DÃòÚOãNìDÄ
+ft_strjoin() -> t<ñ DÃòÚOãNìDÄ
 ¾Åû~aPUÔ×‚@¨¡ý&Ë{Š?©wˆÐ”üðþäe»MÙä˜TŸ`âBÔöz¿¼'ƒgˆÈ…#°üŠÏŸ¬ðzR†jÆ]¼I¾ü¤TÅ¦ü™Ë&2]'þþ™¢Ä¡…¡ïå}nP‚ÍÇRgšè'¥+³ F8ôì¯Q‘ƒEVêÐµYå`‹‘‚CÝ=f’AYåNÐR67?¹Gv÷µŒ¯&CŒDÒã±¨èø5‘zH\W,i¼â9„’½‹5PŸÈS]'CÍ)˜Ñv	ˆÿ“ÖM&E'Ðù-×i›ùøýMð˜!Ä1¸cçmrt5Lû¿âA‡ÈØÉ½¥´SÔÅ~–œE@—"-}uÆÖðcnpH5ƒô›ÞÁõÕàç2w36êXyH‹E˜)2V1#›qã/³ÉäÂÍÜH°Ä¦K‰ñ“sr«Éq+à+@!;QÜ=<’4¢›3„	qpsµ·Lëƒ¼MÇð*2ììGg—Kœ|ÕzïÕÿÆGŽ°óÍÌæUøAÀì. lë‚‚?å$ÍÍæ«
 ÿÛ%ÌÏ3ÿOâ8<'vZs”Ñ‡*¦lhDÂ[—o€ŠZþ@­ñ·=i™‹ÅSÛÎñ&¢²Àma«‚ÎGr;EÂ‹È”IoHŒ)úôG°ÚÒjwçãÝsFG»BÑLå¢†LZ&D*QXø³Ç…oŸ<Â†@rŠ«Hû¼ÒÍh¼|À³§$Cáºª0ÀòüË¥±"“gé‚¤&UÂr `·´˜JÞX;é3(ˆ·þ´ß©PŽ”E¨@6©O{ghH/µ¬Ûî£¬š¡â-n¤¨èŒ¶°Z©Û6Ëü(Í‹([û@‡ÅøåýåV×GÌ›™Â[ô®S`©óTŽlýÇX—Ž?£ŽB¿ßôª>,E>5žwx5î®¯ðDüŽˆuç.[z£€©ñ¤¨0Sšhúdt”BòðJû>Zñºþ‚ÀÄÆi²äüšÇ¸×+Gˆr×é(ˆ=–`ó	Úcm]kñ*ãý}=5ß
 ]—˜ud€hÌóèBçéàÓVÅ4ñPLíGÛs2=’»uIùb'û¡M>Çÿ°g‘ƒûž¥n‚Ìé^4JŒH«ã%~AôÂîoµP08ò¿½,¢øñ•Ý<„2_yúâƒ|¥]dÏc`'¶GòùU&ç¿jG¹¥ž¸R‚¼
-ŽhêÇ–²ùwêÙ€ÉpüVé“haúQŸ­Zî/T37«0“à/üÏw.¥Í5×-=T`”ÄÅ‚Œ	[¢ç½úý€¸³9~O_ì«¬…¡kƒupHëðjªrˆ(£Åš†èl…ËÚ.›	¾{üšv ê´Ïo45P¬¥þër\1 unfreed mallocs
+ŽhêÇ–²ùwêÙ€ÉpüVé“haúQŸ­Zî/T37«0“à/üÏw.¥Í5×-=T`”ÄÅ‚Œ	[¢ç½úý€¸³9~O_ì«¬…¡kƒupHëðjªrˆ(£Åš†èl…ËÚ.›	¾{üšv ê´Ïo45P¬¥þër\
+1 unfreed mallocs
 1088 malloc'd size
 0 unfreed mallocs
-ft_substr() -> –ˆ¥L 8µ®¸Ž1(+ÙÙ¯\oý,“Ü×Ï~æ?ˆqwX‡ô×ýYMaDÜÒ¥Ò6¼<r¢6Ðæ&Iïî8¤ÀTt3B}3Uý³ÐÁÙîuáŠø¯/âÌQ‰ö¶Ü+šË±¶=&|>›v/ò(Š‘ò7@¾ðÒ_æ
-WdT‚Jµ|iN¯í¢©×‰öSÖ´+¹žøB9¸£é$d´EŠ	sè§éÞ±@œ{ ­ª@Çñx€ð*W:„ûdª¢ÒëBåg6ô×âCîÉh†l;[ð!*¼ôG?{ìLÌ8VOê–A_–¢Ï7˜‰''Õý^[gæîW3]A2¾”CªYü÷‡“ÊÑŸñ´±‚'›ÞHqø„7t wü5‡33îBÜ´Ÿ|¥“Ó§^Z w7“JÝUì¸Ý$m¦%¤¬¹©(ÎÈXËÅM÷©vZMò©¤~‘ÆÀ{]T¢´D_s!Jðí?…207$|}j	ýýš_©$ Õ(üe•mlÖÏŽk:¸ƒ¶~yóîI_YKªeJâC5õ6ô¥O÷ºnðE• ÀÑ®t ™¬;Ä¨3­Pc—ÀvkVµE³	€Ÿ›á¤’`x	´cèS•ßC‹ibš†ßÄ_f3ua¡âkPÙpuö€.¿ž#ÿõ¯ý°¸ú/­s&†^³-,&^ûhëN¬{Ó¶¢ŽÇîiZ¨þL™Tì´0WÆCqn´Ì(qúåñ@°MØKDŽÌ§èç5¤ó_¶îçi0,²eÙ‘Iÿ},×ìÁÚ t&l›áûâSŸ›Ÿbù|™µM7šÂ,¬Oò­Šuª\XÍÀäCÞF¥¬ÍÍGÝæZhYw½ìÉÆ'=—Öxìz{Š(s)íö¥ðÍÌJŸæêçŽŒp³ò<a6mÈpE~V’ƒÂ4yþµxå	0âÂ™of@	£2ƒgfÿwK½£÷«™Ø|~K¯Åþ ´ÛÁÉô¿¶bgÃÏzvkzËÍgDJ)}|®18ª•¶×1 unfreed mallocs
+ft_strjoin() -> –ˆ¥L 8µ®¸Ž1(+ÙÙ¯\oý,“Ü×Ï~æ?ˆqwX‡ô×ýYMaDÜÒ¥Ò6¼<r¢6Ðæ&Iïî8¤ÀTt3B}3Uý³ÐÁÙîuáŠø¯/âÌQ‰ö¶Ü+šË±¶=&|>›v/ò(Š‘ò7@¾ðÒ_æ
+WdT‚Jµ|iN¯í¢©×‰öSÖ´+¹žøB9¸£é$d´EŠ	sè§éÞ±@œ{ ­ª@Çñx€ð*W:„ûdª¢ÒëBåg6ô×âCîÉh†l;[ð!*¼ôG?{ìLÌ8VOê–A_–¢Ï7˜‰''Õý^[gæîW3]A2¾”CªYü÷‡“ÊÑŸñ´±‚'›ÞHqø„7t wü5‡33îBÜ´Ÿ|¥“Ó§^Z w7“JÝUì¸Ý$m¦%¤¬¹©(ÎÈXËÅM÷©vZMò©¤~‘ÆÀ{]T¢´D_s!Jðí?…207$|}j	ýýš_©$ Õ(üe•mlÖÏŽk:¸ƒ¶~yóîI_YKªeJâC5õ6ô¥O÷ºnðE• ÀÑ®t ™¬;Ä¨3­Pc—ÀvkVµE³	€Ÿ›á¤’`x	´cèS•ßC‹ibš†ßÄ_f3ua¡âkPÙpuö€.¿ž#ÿõ¯ý°¸ú/­s&†^³-,&^ûhëN¬{Ó¶¢ŽÇîiZ¨þL™Tì´0WÆCqn´Ì(qúåñ@°MØKDŽÌ§èç5¤ó_¶îçi0,²eÙ‘Iÿ},×ìÁÚ t&l›áûâSŸ›Ÿbù|™µM7šÂ,¬Oò­Šuª\XÍÀäCÞF¥¬ÍÍGÝæZhYw½ìÉÆ'=—Öxìz{Š(s)íö¥ðÍÌJŸæêçŽŒp³ò<a6mÈpE~V’ƒÂ4yþµxå	0âÂ™of@	£2ƒgfÿwK½£÷«™Ø|~K¯Åþ ´ÛÁÉô¿¶bgÃÏzvkzËÍgDJ)}|®18ª•¶×
+1 unfreed mallocs
 798 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÙPM–8q¡]vCÁn÷§	3Ï.îj¢Sðÿs?ºCò+T«‰zM%’ Å~3ÜÃEmïåp¿#ÝJÌjMCœÓF§j1ê®ƒ­÷=ÃYmô%\‡ðÅ;	 Îo;½}”ùiÉ©–ÉÐÿü&¨çàOV,Í¹ƒ#b>æ)±*«€cä\-ABùîáòl*Fá}gN!·	Ü7zÙ5M·`Ô8ÛÄ~0iøÃ ^•X«™=qÇHŸ(ƒ‰ü¡YîuC–ø®Û~]”«-Œ*›ˆÖL^NqCŸUøgƒáœ~¢1 unfreed mallocs
+ft_strjoin() -> ÙPM–8q¡]vCÁn÷§	3Ï.îj¢Sðÿs?ºCò+T«‰zM%’ Å~3ÜÃEmïåp¿#ÝJÌjMCœÓF§j1ê®ƒ­÷=ÃYmô%\‡ðÅ;	 Îo;½}”ùiÉ©–ÉÐÿü&¨çàOV,Í¹ƒ#b>æ)±*«€cä\-ABùîáòl*Fá}gN!·	Ü7zÙ5M·`Ô8ÛÄ~0iøÃ ^•X«™=qÇHŸ(ƒ‰ü¡YîuC–ø®Û~]”«-Œ*›ˆÖL^NqCŸUøgƒáœ~¢
+1 unfreed mallocs
 237 malloc'd size
 0 unfreed mallocs
-ft_substr() -> +‘Î´wôÊ×ö*Õ‘€l\½PWs’‹°¬¬]=£$^ÿ9È
+ft_strjoin() -> +‘Î´wôÊ×ö*Õ‘€l\½PWs’‹°¬¬]=£$^ÿ9È
  žéj£•”h¯H÷
-os[÷lõ/`±èNb:E{P‚×ÀáKyànv‹¥¡˜ÆÙN ¥Ÿsÿ¤ÿQH˜ô!«ùaüâòX÷EÍÄ?mf	Š¾7Áq‘:Î[šV§îI‰W!˜|Ã€÷È4¾Îd÷Æ‘’Mxn'ó{ïi´ißC¢ÓôA§¤åái™Ø(El!žùŠãk}ÕÔ²&‰Óñy{…@üÝÖZý É–BËWbÚÔjüåCD;Nv!0?,©Ü*œÜ±–Q»ÏªÌ·ûzØÛ_«¸KÁ>xQ¿°lŸ"áš`×ë2YGh(›úÛí€s²þR]²ŠjgÛgîPá‚ÿ”á¶˜RmJº£xûÚå{[K~£;¦ò…å>ÕÒ{[ôÑi.1 unfreed mallocs
+os[÷lõ/`±èNb:E{P‚×ÀáKyànv‹¥¡˜ÆÙN ¥Ÿsÿ¤ÿQH˜ô!«ùaüâòX÷EÍÄ?mf	Š¾7Áq‘:Î[šV§îI‰W!˜|Ã€÷È4¾Îd÷Æ‘’Mxn'ó{ïi´ißC¢ÓôA§¤åái™Ø(El!žùŠãk}ÕÔ²&‰Óñy{…@üÝÖZý É–BËWbÚÔjüåCD;Nv!0?,©Ü*œÜ±–Q»ÏªÌ·ûzØÛ_«¸KÁ>xQ¿°lŸ"áš`×ë2YGh(›úÛí€s²þR]²ŠjgÛgîPá‚ÿ”á¶˜RmJº£xûÚå{[K~£;¦ò…å>ÕÒ{[ôÑi.
+1 unfreed mallocs
 348 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Þ"šÒ[‘§ÔR“Ø<þCT±dq4{¢0ŽY²%éÛêQg«»óØÓa …^tÁUÿøH’£ß Ž~H$tvus™£ç½üUÇv¹ãÅˆJ4´º€
+ft_strjoin() -> Þ"šÒ[‘§ÔR“Ø<þCT±dq4{¢0ŽY²%éÛêQg«»óØÓa …^tÁUÿøH’£ß Ž~H$tvus™£ç½üUÇv¹ãÅˆJ4´º€
 âÞ?9½ü¬Ãøzíj9ª™hM„˜¾³{©TÓN‰¾+Ý¸k&’òÎõ‰ÈØ@vFfô¢X¦9ƒ3©Ûàì>ÔBBÑÜ%ü~Õ,<uíÿ}šÌ•ø¬¡YÈ/l§ƒ½>Y‰ç­†?*ˆxïwõÐ÷ä·Y¯½UZ¹h3ËöoÄÉ4}dúk]ÚƒÇ»ø»ö2gÉVNæ¡Ò$Ã}.ìÛ‰ªy=9uñŒùKTO½æön	‰:J¶ÄîòË‘dÛ7†I:ý*JÂ}XŠ¦VNCçg®ƒmP,­´SX$)QhS®]É¢,—î£‘Ÿî>s5Á¶Fši]f§àãªÀœµ[Çƒ£S„€–€"¸mlëF‹l6¨;t1sûêÈˆI×Ú8K/“nŒÞŠ›s—šd‡[€dË9¥|/ïB«èÃL
 ]¼†Â-µÈ<kDšm0{=šøÚïÖlÂJü1*ÑCÇHS8tôâ–€)Å™Q8á¯Bž×ÜeâúÂªóh•a Å¾¡ˆe,å@·WýÈß±È¬›ž>¡ÊöH‡º]ê/`-†3TÍ¡ï§]o£áÉ¾¾×<£CÉ8³†ELQ‰UÅ·i4Å¨¤Œé%˜š.zÇF–4„Yw		JEpBEOÄ’IK”@¯“t(ïaxq/ô%Y©¼n÷«¹p	IUQØÀýXÑd¯D¥Þ.•¨ŒN»/ñÉDÑ©M­Í
 ˆ“2VÚÕì%6ôxÖ¡ºÉ˜ˆ¡8(VöëÉÈ3ð‰"œcò]Dš)Øóë¬N©] ÷÷ºÛ¦´ç==TÌšb6qtÏ§så£RYgç‹Û6;+CÆ>ÇE•T¦…b¿­†°“¤—7Í9 .4›[¯JS**û“WØà¹í˜&(˜Á“;Dõ+fº/l ð1©h1)¡:0˜IA™:WGk³BÄzR1Vúv·2Ð Cø!}Ž:#–öDSÏøíJ™Æ½ yµ° ˜=÷b,¸Œ
 5V‡ÒZCr®©uø}é~¤RŽÙ0Îç£‹:
 ¬gÕE¯È6F
-öNpûôcD#¶SÚª™75ç !oøUæ@©Æç¡?ØÞ¯˜ÂR6$:çVœèÌ…1 unfreed mallocs
+öNpûôcD#¶SÚª™75ç !oøUæ@©Æç¡?ØÞ¯˜ÂR6$:çVœèÌ…
+1 unfreed mallocs
 960 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Fgé¯r’`°¿¯ª…Z 0ÚÔ¤!kƒð”’/ª/©Nêix~z1^ÉãÓ©úâß¿Ck” )PÛÎ?q“q›(féÚMÎœ—,¸ALÿê…k½|<TÆ”ã:ô@,ˆ:_B”mädhlæ±cj;­[±?a|kÝ7âDáÞ²W„aÊû“ö/¦¯/ÐpÉ÷ÜÈp®›ËäòõÖ«¸I‰J´M?pô¶¸ŸæëgŒ…ÈÂ]´‹@ª¸k™cé›CA‰ÆˆNæ*½öªõ&úÚŒóD±P+®ýtX?® ñ$ GŒp(ÉÀ“àHÛœ2JI.'¿DíÀ*¤ª#[$bo kNÿ¶,„H6F©¯ªf¿&Î%Ê¥¯ZÔsWó”TP5q†£À¿éiÓ—å¯”Ð¯­ø#é5ìWø•:³CÄDDÞWÄ´×î°?¡‘'_©M}‘mƒ@nñó6sZŒ ¯&¬J
+ft_strjoin() -> Fgé¯r’`°¿¯ª…Z 0ÚÔ¤!kƒð”’/ª/©Nêix~z1^ÉãÓ©úâß¿Ck” )PÛÎ?q“q›(féÚMÎœ—,¸ALÿê…k½|<TÆ”ã:ô@,ˆ:_B”mädhlæ±cj;­[±?a|kÝ7âDáÞ²W„aÊû“ö/¦¯/ÐpÉ÷ÜÈp®›ËäòõÖ«¸I‰J´M?pô¶¸ŸæëgŒ…ÈÂ]´‹@ª¸k™cé›CA‰ÆˆNæ*½öªõ&úÚŒóD±P+®ýtX?® ñ$ GŒp(ÉÀ“àHÛœ2JI.'¿DíÀ*¤ª#[$bo kNÿ¶,„H6F©¯ªf¿&Î%Ê¥¯ZÔsWó”TP5q†£À¿éiÓ—å¯”Ð¯­ø#é5ìWø•:³CÄDDÞWÄ´×î°?¡‘'_©M}‘mƒ@nñó6sZŒ ¯&¬J
 å+¸‹À™ÈM9&i
 ¢D›ŽñÌÝ$Äô#uºr`Ü¾¤ÐgúIà˜AgöCleV’ïA9—ƒÉö7(¨F^Xn‚ÁéYTDžÈ—À¨+-em8¸žÏB+dEñ@Bžð¼2Œ3MG|”àHë—Ä­»¦üe›¿OŸbÑë"Ca#óª±åVþ×-xçZ…¨×0z¯¾ÀysÑé>´œ/+LËF½8½§Þq®ùŸÌmß=ø75ðaöÊÿišÈþ
-©1 unfreed mallocs
+©
+1 unfreed mallocs
 576 malloc'd size
 0 unfreed mallocs
-ft_substr() -> j×«àÈQÍÈeŸÇ
+ft_strjoin() -> j×«àÈQÍÈeŸÇ
 ¶¦#«¯"gQ«eÈøœjy¤HVßtL:je÷ä_X¡}•N‚…ÀÆÝ’|ÚêÈ„)!—8ÊGe´XáÛ‚ÀN‰´8L¾jüî?C³a.þ¤Â~4ÿl(èˆ§Û9á-Óèé9]¥)`}qmœØBýðícÛ«
 ¤ãDËóD°RcxY­„Qü[§¼Š¯7f[[M+2ÁCôúØ+(¢÷U.ji?[%3(ê<ÅÁ´#@H'åõ•ŽY Êå¬¥i·0ÑË›ß/–œ\«Þl?_5¥×ï9‘jÂcm
 ÍïÃuIÕK!Ú-m†F­Ùú_4D@†Æ³’-@+døtÞR¿\Ñ8zžzikp¬ù×Õ­â«Z©ž½1ûFÇjå}¬ôIrì}deÚþ71…ÿÜ5ÿ/ÅV$)±Fþé
 Æöêx
 ½EtŽ†ÿï5êÙhèkwÞæÞü4WjG¿áóï‘
 Kÿ„Pq
-ƒl¦ý¥=a½²­1 unfreed mallocs
+ƒl¦ý¥=a½²­
+1 unfreed mallocs
 398 malloc'd size
 0 unfreed mallocs
-ft_substr() -> o¥doõà¥‚#’Ànm^Yk¼ff.°¢g¾mœƒhìÆÝ> ö[»²Wµ%ÎàM‹O°µ]J*?¯ÿAáh©Ýˆ°_jäèì'†agÛùù79ÃõÒµI…"†ì°~ßõóÜî!¨óWÔú’Ì”ž$ç‡‹êL1 unfreed mallocs
+ft_strjoin() -> o¥doõà¥‚#’Ànm^Yk¼ff.°¢g¾mœƒhìÆÝ> ö[»²Wµ%ÎàM‹O°µ]J*?¯ÿAáh©Ýˆ°_jäèì'†agÛùù79ÃõÒµI…"†ì°~ßõóÜî!¨óWÔú’Ì”ž$ç‡‹êL
+1 unfreed mallocs
 124 malloc'd size
 0 unfreed mallocs
-ft_substr() -> +S‰wë!³ÉŠrÎh<Ì[¶½âTÙ›Œ-Î	×àƒÓjf*Þ?t½ÓŽ"–ª.w
-˜_~TM)J Pù™y¸<Ý3c èÐ,’LÍAW÷½½£ÀAñ°ˆõRWD‹1ÜYb2*gü³åôÚ/µÓ^®[iNh‚[wÒú}ÿ‡ëä8Tj¾CS#¼<zWÎ#‚»ƒz×Ùä0:X¶ÅBÍþÂAHšŠ]Tˆ£wØü6ä`’¥ÛôùÝ†æJåVòœÕj;ŽŒ#î×ãƒòA ¹eýDUÎväš²ôÆ‡=pÓy÷S©‡Á´$>^‰ÎÉ	FÓ£ˆ®c;¶rÖôßX”mÙ0 ™›ÍsÍ,•  màLögñ¸¸VÔ'¤šce<™ÇÔÉ¸‡?´Ô(…¾ZÛï&7Ðg°¦v#!o4Œdžê¡/ú•tÐ åV¨»R%…¯ØXÀrË¦YKG¤ùáp¸ß)>f¬^™‚Nîî2¼*@3›˜’’òwÑ¿Òè]z7¶?>¢—ý¬ëídši {\ŒÃ½¢Ärù'yÐ~úÒ •ðê£¼ÛuY.±‚ÓïÂœÏ6[VJúN9OkP"†„ê!MWF†Ç*Ça ½Ö,}ZpÍ!Á¢\A×Ä²'u¶	‘Zg&7•©¦&Ï/BFìG]]ÙlFõ«(§ QÈ°ñÏÂ”œÐ1 unfreed mallocs
+ft_strjoin() -> +S‰wë!³ÉŠrÎh<Ì[¶½âTÙ›Œ-Î	×àƒÓjf*Þ?t½ÓŽ"–ª.w
+˜_~TM)J Pù™y¸<Ý3c èÐ,’LÍAW÷½½£ÀAñ°ˆõRWD‹1ÜYb2*gü³åôÚ/µÓ^®[iNh‚[wÒú}ÿ‡ëä8Tj¾CS#¼<zWÎ#‚»ƒz×Ùä0:X¶ÅBÍþÂAHšŠ]Tˆ£wØü6ä`’¥ÛôùÝ†æJåVòœÕj;ŽŒ#î×ãƒòA ¹eýDUÎväš²ôÆ‡=pÓy÷S©‡Á´$>^‰ÎÉ	FÓ£ˆ®c;¶rÖôßX”mÙ0 ™›ÍsÍ,•  màLögñ¸¸VÔ'¤šce<™ÇÔÉ¸‡?´Ô(…¾ZÛï&7Ðg°¦v#!o4Œdžê¡/ú•tÐ åV¨»R%…¯ØXÀrË¦YKG¤ùáp¸ß)>f¬^™‚Nîî2¼*@3›˜’’òwÑ¿Òè]z7¶?>¢—ý¬ëídši {\ŒÃ½¢Ärù'yÐ~úÒ •ðê£¼ÛuY.±‚ÓïÂœÏ6[VJúN9OkP"†„ê!MWF†Ç*Ça ½Ö,}ZpÍ!Á¢\A×Ä²'u¶	‘Zg&7•©¦&Ï/BFìG]]ÙlFõ«(§ QÈ°ñÏÂ”œÐ
+1 unfreed mallocs
 544 malloc'd size
 0 unfreed mallocs
-ft_substr() -> üm%zòGÌÍ—SÖQ'¬[d'M¤Ø?fÕœòwN~E²§¼Þ‡ÇH[4÷O»Üw©ûl×©N„¼ár[:'þ
+ft_strjoin() -> üm%zòGÌÍ—SÖQ'¬[d'M¤Ø?fÕœòwN~E²§¼Þ‡ÇH[4÷O»Üw©ûl×©N„¼ár[:'þ
 ˆT!Ða½it<z‚% žÝõ0» ¢â{ÿà[ÍŸD±›À°rÅ›T1J))à
-Õ[}‰*íé8^žH:Ží$aëlžHQ¸ßÀqºœ^ñV=òotË@OV`ýi«†úÓ9(}Àhî_òçeèkÙ`Ä&‚þ	¬Ëº:KTÕ–uâ¼	Ã™P¿œ×[Û…ß$lR3F`läžé®gJB1p`:éœ5šõÈ­s'ñ ¬%1ýÌäÃk•þ1 unfreed mallocs
+Õ[}‰*íé8^žH:Ží$aëlžHQ¸ßÀqºœ^ñV=òotË@OV`ýi«†úÓ9(}Àhî_òçeèkÙ`Ä&‚þ	¬Ëº:KTÕ–uâ¼	Ã™P¿œ×[Û…ß$lR3F`läžé®gJB1p`:éœ5šõÈ­s'ñ ¬%1ýÌäÃk•þ
+1 unfreed mallocs
 264 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ‘Ü²´ÖÝ’ŽÞõ»>¢Û‘ìfÞC³ÄÕ3ë¸Ø6½´§ÃÈ•@«S´åˆ\]9y¿zÅªóÚº|	²çãû3€•)"•q;Ç«ù.Ã›Ôáï4]L¹*è&Â{ÔY¡ä£ô—¾&½„eé,®4jÞò8T‚¡O‘'G:¸{Gt®É¸±?ó‡R=ãQ	ùú¾MSµÂ`Bl ÅBy;õÔ±v¥#›Œ©¡žŠøJ¦¾;ã’NÇÝNÁÐò²£óÃ¸ ˜µ§—,4µ&>’$ØYå›^]ÐrV˜PuùÇÎr}ÁÞå š,~ô{$Wm?dñ¬Îãô‰:Þ£c›†!§ªke! ¦þÌÉˆ¼wˆêpx$UV›ü¾ ‘“ÜNüŠTÖ“‡Îô¤ Ä—ì]w—ž´z®'¥lU1 unfreed mallocs
+ft_strjoin() -> ‘Ü²´ÖÝ’ŽÞõ»>¢Û‘ìfÞC³ÄÕ3ë¸Ø6½´§ÃÈ•@«S´åˆ\]9y¿zÅªóÚº|	²çãû3€•)"•q;Ç«ù.Ã›Ôáï4]L¹*è&Â{ÔY¡ä£ô—¾&½„eé,®4jÞò8T‚¡O‘'G:¸{Gt®É¸±?ó‡R=ãQ	ùú¾MSµÂ`Bl ÅBy;õÔ±v¥#›Œ©¡žŠøJ¦¾;ã’NÇÝNÁÐò²£óÃ¸ ˜µ§—,4µ&>’$ØYå›^]ÐrV˜PuùÇÎr}ÁÞå š,~ô{$Wm?dñ¬Îãô‰:Þ£c›†!§ªke! ¦þÌÉˆ¼wˆêpx$UV›ü¾ ‘“ÜNüŠTÖ“‡Îô¤ Ä—ì]w—ž´z®'¥lU
+1 unfreed mallocs
 321 malloc'd size
 0 unfreed mallocs
-ft_substr() -> zB)9çïL<&4°:šÄ—q¸Y^“jÃ©ß2$º®µPôAãÞÔÒ0TH\E©Ü¾ÿòýÇ6¼ÂtÛÂ^hÂg®Ù¨d¤nAéÑäFŸGëàIjv1@bY—%ô˜*Àôö)*(vbpµ¤Ã†DË"G}rBîŸ,?Æ×¼èðÊUÑ‰a—–è@Ú@xpˆ¼†k¸´‚61 unfreed mallocs
+ft_strjoin() -> zB)9çïL<&4°:šÄ—q¸Y^“jÃ©ß2$º®µPôAãÞÔÒ0TH\E©Ü¾ÿòýÇ6¼ÂtÛÂ^hÂg®Ù¨d¤nAéÑäFŸGëàIjv1@bY—%ô˜*Àôö)*(vbpµ¤Ã†DË"G}rBîŸ,?Æ×¼èðÊUÑ‰a—–è@Ú@xpˆ¼†k¸´‚6
+1 unfreed mallocs
 166 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÜRjêZ&y\ Úh¯æoƒx…óH„¥kêƒz^ítA„ÐùÕªvâSY·™oìª%sH$ûH#9xÀqíÖÝ×)~0Ô{ò®‘4äsæ»ƒåZ'66û¤ësaAùÙAÔO³Lvd¬ž¢BÅE5©‡/«uÜŠ#âÉc ö¹‘ÃùØ&\w…Ct‘_¾árTäêm—dº´g¾/O”åÃÄ\¿£T¶‚L
+ft_strjoin() -> ÜRjêZ&y\ Úh¯æoƒx…óH„¥kêƒz^ítA„ÐùÕªvâSY·™oìª%sH$ûH#9xÀqíÖÝ×)~0Ô{ò®‘4äsæ»ƒåZ'66û¤ësaAùÙAÔO³Lvd¬ž¢BÅE5©‡/«uÜŠ#âÉc ö¹‘ÃùØ&\w…Ct‘_¾árTäêm—dº´g¾/O”åÃÄ\¿£T¶‚L
 ¼Í™‰¼Ò„Vq@ÆW[Þú¤†à
 WÑa/0¤?Þ@à~“+ô	h[”qéxC¦K{óí«¢Œ‡(/é²cqr*¨£Æ3†{-ÌWíjìžyvBx…“;âqk…¯\ºÛß‘|8¼h(ƒðØ“Y„ôq(L«v³ýùó6 s¹Q#ü›Ç¹ô£A´…&¥Ý §ýu&œgû¿Ö¡˜ì“Œ}•vFY‰IòòÏc„‰	5w'eW«}¤7Õ’Fë©žX×í§D›:wŠ#uLqÎÉ
-‚’yLÍ®žÙŽZX¤´f‹á!¶Åáƒ1 unfreed mallocs
+‚’yLÍ®žÙŽZX¤´f‹á!¶Åáƒ
+1 unfreed mallocs
 413 malloc'd size
 0 unfreed mallocs
-ft_substr() -> íÅl0æ~ÿ%£ÅúN›Õ¹+`W…Híf¢NeÒ_ ˜Þ·Å#£¾ØEßíÂôz%QÅãPG)—÷Âir mb¸íiãuù}*aðWÖÇÚDÆí³¹f®øè,cXE€<¾À@þ”«°¦RºK(å¥°°V\þý{Ããl<'ý.êÎ(=m0é2³Ìø{UXÞ‡ÝÌ;ã2{'¥â¹ÎëÎjÊªË>Ž~nÝCœêí«É«`º¦ß‘“ßÀÇ!fã¶LôÙØ/IµË3Òâ›ÿ«Ïö.kt[-Ñ^|\ŒEä½ä¶‡Ö=yHdÞT~ÿ¼\õ²ã»êÄÙ
-eöu,Í2Š“~z Aúy52³|w™©kë›p„h9ÐHJíäöÑ)#4ú@šLR‡^Þ¦æ…!2ª0„û)ïi-W†û¦§xL}&hÔdš²“ã¬¨;–Lê¯ÂY±¯.T1ý†›/¢Îò^*,®“,ò	SM¤‚+S†öy“Y•Óô~M~ÞŒ:>M‚ñ>kÓÎÎ3ëa¦ÛLØóø±!É2\N\5¯f9BQ\ÊÊ–	©Ï¬ë¥û‹Ÿ•}š ß§"½ÆHtÜwÊØqÓ<<ûý™Åœý$ÿô:@Ð.†©ýýgfñV(…6%ã“•6”ªVÍ›N…8/è.Á«s\U€xltÅÝuî¾í!ÕðÑA‚Ð‚…¿Š££‹=€UÀì}î¨KÒR–ã—.ÌÊÎ-g/÷RºV1 unfreed mallocs
+ft_strjoin() -> íÅl0æ~ÿ%£ÅúN›Õ¹+`W…Híf¢NeÒ_ ˜Þ·Å#£¾ØEßíÂôz%QÅãPG)—÷Âir mb¸íiãuù}*aðWÖÇÚDÆí³¹f®øè,cXE€<¾À@þ”«°¦RºK(å¥°°V\þý{Ããl<'ý.êÎ(=m0é2³Ìø{UXÞ‡ÝÌ;ã2{'¥â¹ÎëÎjÊªË>Ž~nÝCœêí«É«`º¦ß‘“ßÀÇ!fã¶LôÙØ/IµË3Òâ›ÿ«Ïö.kt[-Ñ^|\ŒEä½ä¶‡Ö=yHdÞT~ÿ¼\õ²ã»êÄÙ
+eöu,Í2Š“~z Aúy52³|w™©kë›p„h9ÐHJíäöÑ)#4ú@šLR‡^Þ¦æ…!2ª0„û)ïi-W†û¦§xL}&hÔdš²“ã¬¨;–Lê¯ÂY±¯.T1ý†›/¢Îò^*,®“,ò	SM¤‚+S†öy“Y•Óô~M~ÞŒ:>M‚ñ>kÓÎÎ3ëa¦ÛLØóø±!É2\N\5¯f9BQ\ÊÊ–	©Ï¬ë¥û‹Ÿ•}š ß§"½ÆHtÜwÊØqÓ<<ûý™Åœý$ÿô:@Ð.†©ýýgfñV(…6%ã“•6”ªVÍ›N…8/è.Á«s\U€xltÅÝuî¾í!ÕðÑA‚Ð‚…¿Š££‹=€UÀì}î¨KÒR–ã—.ÌÊÎ-g/÷RºV
+1 unfreed mallocs
 574 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ]wˆð(üY!¡xã37òY'M+«í,´º£"éÿ_1
+ft_strjoin() -> ]wˆð(üY!¡xã37òY'M+«í,´º£"éÿ_1
 ÿ¶¯¥E
-žÄ!—É×#=£`Vßa=Î…à}±hŠˆ÷rÊ!›wéy(¸:§Õ9õ!h%|§¤Ú±gÐxZ2aQ{bN(a"¸œ<êº?Š[™‹¯¨é3âWrògÛ»ÌÒËª‘ÜE sY7‘@’PÓ”Ý+&f~»»#ðYN9€+#b¨RÁ±,×q]öSuP²`	o)Ã¨_UÉ½k¶žÒ±Œ·@n©öäZªœ× Èb£tôŒ¤MÈºZÇþývG£kæCb“ZHþ0Lüý”xÛÀ,Ç¶$]¤’‹ü!«4©¨Ðvv§LO Ê^uüQ|1 unfreed mallocs
+žÄ!—É×#=£`Vßa=Î…à}±hŠˆ÷rÊ!›wéy(¸:§Õ9õ!h%|§¤Ú±gÐxZ2aQ{bN(a"¸œ<êº?Š[™‹¯¨é3âWrògÛ»ÌÒËª‘ÜE sY7‘@’PÓ”Ý+&f~»»#ðYN9€+#b¨RÁ±,×q]öSuP²`	o)Ã¨_UÉ½k¶žÒ±Œ·@n©öäZªœ× Èb£tôŒ¤MÈºZÇþývG£kæCb“ZHþ0Lüý”xÛÀ,Ç¶$]¤’‹ü!«4©¨Ðvv§LO Ê^uüQ|
+1 unfreed mallocs
 285 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ‚Öªõô<@º°Ÿœnß˜ôQÓ÷`Fá¤9ñg*Î¶£M#Næ»ÊŸ3Òù‘Rf¾ðïS=0¤WÁ~-RÏúªpgKëQ®9ÚüõLŸÂ.í±@"Sw5 rN.Þ«©ûó¬gãqI­`‚]&$!O‘‰Ž¨”M°Ts€R°åÀCèr0žV™8ÔžÄþ~Šì§ä¦NL›GÁLØþ/²½pOx#é–V^ì-Óf¿ç«q9È5%'HöÑ–ÞK¨ÉÂnÓ“s¤h€uN†ÆÍ­5ê9xú2/=ÎœÝ\ÅY€‹¡mørÙ¡„4P ¶jj@¶ùè¼äÜÒtc|§¥RÜ*EÌÙd£®SLt»wíF¡iLâ¥[ùË‡ëaÔGD5¥Ûbæû20²†'€¥-÷ÝÆò°g{b_ŽÖÔ­ÚÇ–ù(„F)"Läsí¸°gÜ(ÐÎm¯ÑpvW
+ft_strjoin() -> ‚Öªõô<@º°Ÿœnß˜ôQÓ÷`Fá¤9ñg*Î¶£M#Næ»ÊŸ3Òù‘Rf¾ðïS=0¤WÁ~-RÏúªpgKëQ®9ÚüõLŸÂ.í±@"Sw5 rN.Þ«©ûó¬gãqI­`‚]&$!O‘‰Ž¨”M°Ts€R°åÀCèr0žV™8ÔžÄþ~Šì§ä¦NL›GÁLØþ/²½pOx#é–V^ì-Óf¿ç«q9È5%'HöÑ–ÞK¨ÉÂnÓ“s¤h€uN†ÆÍ­5ê9xú2/=ÎœÝ\ÅY€‹¡mørÙ¡„4P ¶jj@¶ùè¼äÜÒtc|§¥RÜ*EÌÙd£®SLt»wíF¡iLâ¥[ùË‡ëaÔGD5¥Ûbæû20²†'€¥-÷ÝÆò°g{b_ŽÖÔ­ÚÇ–ù(„F)"Läsí¸°gÜ(ÐÎm¯ÑpvW
 ×œtõùÃ»µÖðª›²W‡×ž	L€±\]µë²„°J |?ùŒêõvlÄ3áAÉ¶ï'®`ÝZ+@“OÖpã—¾£Y1Ž -l‘H{Øö´zZÐ|ðU”ÁÔá\íþìŠ<}ŸÚVRlƒ;òÚìzÚ°#-¾»­×+Í¢mÜ|Û i\iØÈP«ó#¡ŽÍve†‘í­KÃûrT	:=¼˜÷2×7ÉbæÏ´o2Ì…y×6~íP—ÍÑOÔ3¦/€"˜Ê–õð6ì‘†GöÁtf†õ¨Uðù+C)¿¿Fn.Ï4›wô7ŽF¦GÏÿ2+°£5TxšÚoö?úèÈ¼
 ,áœìXnú²¤„‰ª$e`­[*g
-ZxHóvp(ŸÞ\¢$ë*\éÈ¤ÌÿXu¶#¬a4ŸˆvÝ9=)íÎâUÎ¦nÜ_¬ ÞÜ1 unfreed mallocs
+ZxHóvp(ŸÞ\¢$ë*\éÈ¤ÌÿXu¶#¬a4ŸˆvÝ9=)íÎâUÎ¦nÜ_¬ ÞÜ
+1 unfreed mallocs
 706 malloc'd size
 0 unfreed mallocs
-ft_substr() -> qBa¡\Ï3¦nJR« ãÞÖ_Hër#œE=¸_c+Y|éÿü€ <ºÉë"ámonço#kã¿H´¦ çPá3¯‚í]kŽ«vGL¶Ân¿`r®¬{wuÍ[»§!´‰f±Äxÿº©†²n³uI]]y"Z¹N×WÎóäCe‹<$þ¨* ³‡*wÕ‡aP5-d¯Ôxüý>dÇp‡=:¤iqÔbŽÁðùÓžÂÄ|eWC¦EÝÿ™v®c#ß
+ft_strjoin() -> qBa¡\Ï3¦nJR« ãÞÖ_Hër#œE=¸_c+Y|éÿü€ <ºÉë"ámonço#kã¿H´¦ çPá3¯‚í]kŽ«vGL¶Ân¿`r®¬{wuÍ[»§!´‰f±Äxÿº©†²n³uI]]y"Z¹N×WÎóäCe‹<$þ¨* ³‡*wÕ‡aP5-d¯Ôxüý>dÇp‡=:¤iqÔbŽÁðùÓžÂÄ|eWC¦EÝÿ™v®c#ß
 ÈòÀq²ª
 XÕœÂ¢Á8¸WbÃ1×0¹%UÈ»ñ
-÷”¥±“·.³ÝŠuxç…<•C­Í1 unfreed mallocs
+÷”¥±“·.³ÝŠuxç…<•C­Í
+1 unfreed mallocs
 248 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÚÛ+|†¡ö	Ñ³>´{N¶‹	Ÿ\¸ë´Z÷È‘" ¨;ÞuÌ’µ£éfnx¡“0žÃ’Á;tÂ„‹r¾¦Ÿ&|Øk&#!¸˜òp^äýÜ‹Û½Ù	¥\¤÷dYJ¯ÎûtDªjYqsbu°ûûI’älXx•kÕ]§2á{Hî‚³žcFq8+QÐUL(?¨nI¶§ÃùÍÎ]‰+¡R±S¹ÍOH.#c
+ft_strjoin() -> ÚÛ+|†¡ö	Ñ³>´{N¶‹	Ÿ\¸ë´Z÷È‘" ¨;ÞuÌ’µ£éfnx¡“0žÃ’Á;tÂ„‹r¾¦Ÿ&|Øk&#!¸˜òp^äýÜ‹Û½Ù	¥\¤÷dYJ¯ÎûtDªjYqsbu°ûûI’älXx•kÕ]§2á{Hî‚³žcFq8+QÐUL(?¨nI¶§ÃùÍÎ]‰+¡R±S¹ÍOH.#c
 ÒYDn=½†%Äá.ç^axú=f Úu¹ù1Qº'µÆÕèuûó'Ëô°oÙ¥¹òô//^`kèÍ™qw5b~lVá‰bû(fK`œªÚÛ+|†¡ö	Ñ³>´{N¶‹	Ÿ\¸ë´Z÷È‘" ¨;ÞuÌ’µ£éfnx¡“0žÃ’Á;tÂ„‹r¾¦Ÿ&|Øk&#!¸˜òp^äýÜ‹Û½Ù	¥\¤÷dYJ¯ÎûtDªjYqsbu°ûûI’älXx•kÕ]§2á{Hî‚³žcFq8+QÐUL(?¨nI¶§ÃùÍÎ]‰+¡R±S¹ÍOH.#c
-ÒYDn=½†%Äá.ç^axú=f Úu¹ù1Qº'µÆÕèuûó'Ëô°oÙ¥¹òô//^`kèÍ™qw5b~lVá‰1 unfreed mallocs
+ÒYDn=½†%Äá.ç^axú=f Úu¹ù1Qº'µÆÕèuûó'Ëô°oÙ¥¹òô//^`kèÍ™qw5b~lVá‰
+1 unfreed mallocs
 482 malloc'd size
 0 unfreed mallocs
-ft_substr() -> “Ì¨ qÊì'ö‚Ô¬ê¢ƒÂ³BÆ9-O‰PVÜ†gvm™¹•!bÏ{P SªÏjm¼Â+§	¸kK!lÍ÷ämm›
+ft_strjoin() -> “Ì¨ qÊì'ö‚Ô¬ê¢ƒÂ³BÆ9-O‰PVÜ†gvm™¹•!bÏ{P SªÏjm¼Â+§	¸kK!lÍ÷ämm›
 ûï
 Mi(ÚB]›º’õ6È|±jì‡Ñrã•ç0¿?ÑÄiH£Þb 	boÐ0Ê›`£F
 @ò‰^kcÓª
@@ -586,268 +713,322 @@ ft_substr() -> “Ì¨ qÊì'ö‚Ô¬ê¢ƒÂ³BÆ9-O‰PVÜ†gvm™¹•!bÏ{P SªÏjm¼Â+§	¸kK!lÍ÷äm
 ]ŸÏûþÌÊÑy¤UÇâ6ˆ¼ÄœµS„˜9îäš6Rqº’~A?žÈX©éÅzŒìC‰
 Ñúòy+Y3B‹ßÚ*Ò•jÉël¦HÀÂÍõ
 Ú"H~¤ƒN¬oc´àRE”3Ä×
- £—oÏBP·…0ý}SëÃ¹e)W#MƒUáþ¹:Å;‡øµ‡c\éK;MÖìï('2íKY²'_ÿ×iSò(om¬s§2’+ká"„GÈ†Ÿgð(‹ð‚Ð"9sÔúÄÊÙ‡¹÷3CøÛÔ1 unfreed mallocs
+ £—oÏBP·…0ý}SëÃ¹e)W#MƒUáþ¹:Å;‡øµ‡c\éK;MÖìï('2íKY²'_ÿ×iSò(om¬s§2’+ká"„GÈ†Ÿgð(‹ð‚Ð"9sÔúÄÊÙ‡¹÷3CøÛÔ
+1 unfreed mallocs
 494 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¦‡³mÚþã6îðçŠ'l¸ÑPëv±Äý—fIÐIþ=ƒP³Ò[X$Áëûcz9.sq)ÃÑNÈ`´LqêaªÅKO®bz4þ™‰¤ñ~€ÝnŒZ*¸/†*Fã?©-åÀ²óÒ¸]}F•óÙ#›˜¤aÆy¤Ü™ügÚNÌg>c7]†"áªX1*%Ûö'_Ád±¹\
-ˆµzÍÆ<}ÿ&£cüUÓèôo^BÐ}™F)ÎCg¨ÍdÿÐü¬ìX‡Û¸†‡>QHH¤bJ¢5P¤‚ÉÐ¨®	¦ì¹0',3Ï=Õ©yt~8(‡º/œr™ñ™iJõ·ÙªB©Í:ax1 unfreed mallocs
+ft_strjoin() -> ¦‡³mÚþã6îðçŠ'l¸ÑPëv±Äý—fIÐIþ=ƒP³Ò[X$Áëûcz9.sq)ÃÑNÈ`´LqêaªÅKO®bz4þ™‰¤ñ~€ÝnŒZ*¸/†*Fã?©-åÀ²óÒ¸]}F•óÙ#›˜¤aÆy¤Ü™ügÚNÌg>c7]†"áªX1*%Ûö'_Ád±¹\
+ˆµzÍÆ<}ÿ&£cüUÓèôo^BÐ}™F)ÎCg¨ÍdÿÐü¬ìX‡Û¸†‡>QHH¤bJ¢5P¤‚ÉÐ¨®	¦ì¹0',3Ï=Õ©yt~8(‡º/œr™ñ™iJõ·ÙªB©Í:ax
+1 unfreed mallocs
 274 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ð$Ûð= ¶™ŒoCÞáÙK2},^À§iZÊÜQ•ß§FY„™²€ë d(ŠÙÔï•Œ:1àðÂº[Ñ½ÕØbeû·´™Ý›U1Lbò<B.#$2«ó‘˜ßkñ+àŒ†Ä”æ{iŸ×‰ÉCˆÿ[NÓ(B.#$2«ó‘˜ßkñ+àŒ†Ä”æ{iŸ×‰ÉCˆÿ[NÓ(1 unfreed mallocs
+ft_strjoin() -> ð$Ûð= ¶™ŒoCÞáÙK2},^À§iZÊÜQ•ß§FY„™²€ë d(ŠÙÔï•Œ:1àðÂº[Ñ½ÕØbeû·´™Ý›U1Lbò<B.#$2«ó‘˜ßkñ+àŒ†Ä”æ{iŸ×‰ÉCˆÿ[NÓ(B.#$2«ó‘˜ßkñ+àŒ†Ä”æ{iŸ×‰ÉCˆÿ[NÓ(
+1 unfreed mallocs
 146 malloc'd size
 0 unfreed mallocs
-ft_substr() -> vC\uÝJý^€º'ÿhð™öEí&_øö ÍÞëƒÝhá‚1¢ôí—±oIÒ›#Kèo•q–ÝàæÑítÈô¢(dŒËZR~<P´ÔË×‡O|Èò«a2×¢_l3Ž¼ÏÁ`ÅÎ;Ò¯?¡ˆ7Îüìum72Å@WÝcx
-Ë\‹ƒÒwÑ„„K¼}®a†O1«5Òö/CóP§ë™‹ÈˆÚ¤O¬àÌÐÿ™›>Þ"9¯ñ]Ä;ÀyMOCšp›F’xÒbê/!‚ŠEç«M9”`[?¾`çŠã&GÚý8W¾bA4ƒö;ÿÌCqû~n¼¯:ÿïY?RAUaÞ¥HÈCènŒjVkfh&ù’â‘×d]; ÊØ>—UŒ”ÆjDr©]³»…˜‡f<«¦Wìõ¯ç$çHú#© î¢Ó?/Z£R>¦òÝ1Þê³‡%Í@­Ë&Š ;øôÇÅ„¤2$˜ÔëL}«bÑÂþ‚™<,!m»—IÕfŽÄVT±º)ZŠ5>G¾ûÍðj§BÎƒýO_»ó„÷«¸€ì™[êjãù	öð»ó„÷«¸€ì™[êjãù	öð1 unfreed mallocs
+ft_strjoin() -> vC\uÝJý^€º'ÿhð™öEí&_øö ÍÞëƒÝhá‚1¢ôí—±oIÒ›#Kèo•q–ÝàæÑítÈô¢(dŒËZR~<P´ÔË×‡O|Èò«a2×¢_l3Ž¼ÏÁ`ÅÎ;Ò¯?¡ˆ7Îüìum72Å@WÝcx
+Ë\‹ƒÒwÑ„„K¼}®a†O1«5Òö/CóP§ë™‹ÈˆÚ¤O¬àÌÐÿ™›>Þ"9¯ñ]Ä;ÀyMOCšp›F’xÒbê/!‚ŠEç«M9”`[?¾`çŠã&GÚý8W¾bA4ƒö;ÿÌCqû~n¼¯:ÿïY?RAUaÞ¥HÈCènŒjVkfh&ù’â‘×d]; ÊØ>—UŒ”ÆjDr©]³»…˜‡f<«¦Wìõ¯ç$çHú#© î¢Ó?/Z£R>¦òÝ1Þê³‡%Í@­Ë&Š ;øôÇÅ„¤2$˜ÔëL}«bÑÂþ‚™<,!m»—IÕfŽÄVT±º)ZŠ5>G¾ûÍðj§BÎƒýO_»ó„÷«¸€ì™[êjãù	öð»ó„÷«¸€ì™[êjãù	öð
+1 unfreed mallocs
 448 malloc'd size
 0 unfreed mallocs
-ft_substr() -> _^\s–œ›î]K¥ _3Úô}tÇÍ×t¢r”¼¾Ž÷¥t¢r”¼¾Ž÷¥1 unfreed mallocs
+ft_strjoin() -> _^\s–œ›î]K¥ _3Úô}tÇÍ×t¢r”¼¾Ž÷¥t¢r”¼¾Ž÷¥
+1 unfreed mallocs
 48 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Õ/"à~24±†);ú¶mV;}•ÝÀÕ`;eö[þ4`ÃY«%ú^íÖˆÂÝe.Öƒ†:/i»ŽZÉ˜¼wþŸNÔdü÷þ¨¹UT5Dh÷û¤Ù"®òç	‘Iç˜¶¿»MÍŽ©»åÚ™ªµ+P•W—&’Ûddã1"»úû„Ð,Ñ·¤h½ª”OV)
+ft_strjoin() -> Õ/"à~24±†);ú¶mV;}•ÝÀÕ`;eö[þ4`ÃY«%ú^íÖˆÂÝe.Öƒ†:/i»ŽZÉ˜¼wþŸNÔdü÷þ¨¹UT5Dh÷û¤Ù"®òç	‘Iç˜¶¿»MÍŽ©»åÚ™ªµ+P•W—&’Ûddã1"»úû„Ð,Ñ·¤h½ª”OV)
 ñnmF>Sç–¹±ùíÈJzE.ÚZ|ÓŸýÂ1g¯*Õµ–:´6üÌÞÚdþ«m2m×éîÆÂƒ¤PS˜`·ÙUh˜£)<Ì^ìNt1ÌÉšüc +À3dqäF›°Ž«³|’°@‚^áŸD
-!ç’#ŽÇ7ÛÉ Æ¾SŽb~`UðEBè–ä'BÍæ}¼‰nB¤×Ý¢×z,¤R7‰âP{¨K“4ý™…3^Æ…Iîä¿ˆ[·¶>¡!³zL<ßbaè¸ñ´G;ü°È<l„DïÙŠÿ2î|] |UdVZõƒäÊ²ïÂ/×­ô€ÅífgP°Ð²Sú³à.‚eël&íñYn;V¢'#h’ÑËâ¡ÊljàƒÉq×FÄ—¹%ØY –¢ÌÄÍY…Ö%88vú­1À×•vƒP\%.Û)þtÉv]nH?B©&½ÏD3¨Ù§#¾óõ…†ŒqguzKBŸ¤#sÈÖÙu˜÷iýð‚Ló/àÐ¼sRŠ½sµÔÚ¾F]1 unfreed mallocs
+!ç’#ŽÇ7ÛÉ Æ¾SŽb~`UðEBè–ä'BÍæ}¼‰nB¤×Ý¢×z,¤R7‰âP{¨K“4ý™…3^Æ…Iîä¿ˆ[·¶>¡!³zL<ßbaè¸ñ´G;ü°È<l„DïÙŠÿ2î|] |UdVZõƒäÊ²ïÂ/×­ô€ÅífgP°Ð²Sú³à.‚eël&íñYn;V¢'#h’ÑËâ¡ÊljàƒÉq×FÄ—¹%ØY –¢ÌÄÍY…Ö%88vú­1À×•vƒP\%.Û)þtÉv]nH?B©&½ÏD3¨Ù§#¾óõ…†ŒqguzKBŸ¤#sÈÖÙu˜÷iýð‚Ló/àÐ¼sRŠ½sµÔÚ¾F]
+1 unfreed mallocs
 545 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ´Phˆb<@ŸBÕ9–Ô§œ$àód'¨ËàkôÞŽYYÓ@þrl‰õ­¡roÓ+¥=«_ŠÛ»™Õ¾{“'5<ÉU§‹Œ©éa—Â·6÷˜ÿÛº‚ïšzüg"õMˆ_Ý­Ç«€âôkqÒˆ—Ø/REMï^'-&JÈh×”×Š§RŽuu&Bä€ø'åN#ðr_–‰î1$a»¨Zvymóp4T—µÇ;/
+ft_strjoin() -> ´Phˆb<@ŸBÕ9–Ô§œ$àód'¨ËàkôÞŽYYÓ@þrl‰õ­¡roÓ+¥=«_ŠÛ»™Õ¾{“'5<ÉU§‹Œ©éa—Â·6÷˜ÿÛº‚ïšzüg"õMˆ_Ý­Ç«€âôkqÒˆ—Ø/REMï^'-&JÈh×”×Š§RŽuu&Bä€ø'åN#ðr_–‰î1$a»¨Zvymóp4T—µÇ;/
 «|“ÉAÌ×U›óÂ£RJ€©´³8 JYúQÄý*k‡ŸÈŒdVZþÊ¸hÙU²6
-Z‘*øûé+ÈÿŠÙe%œ«ñ½¨¬{ÇDg.4ãÃr¢ÖóÈ‹šÃAõŒ…@³vž¼Â.îQ‡LFòLìßöúìþÞ¢ÅÜ'5$[A’md×›¾ Uj©æ$eÂ1q<I.+ý}ÏÝø1 unfreed mallocs
+Z‘*øûé+ÈÿŠÙe%œ«ñ½¨¬{ÇDg.4ãÃr¢ÖóÈ‹šÃAõŒ…@³vž¼Â.îQ‡LFòLìßöúìþÞ¢ÅÜ'5$[A’md×›¾ Uj©æ$eÂ1q<I.+ý}ÏÝø
+1 unfreed mallocs
 341 malloc'd size
 0 unfreed mallocs
-ft_substr() -> mA‹îÂm~'`Žò'~à)þDv÷ÜH‚vžÂa|-vs‘£w²1,‘Ý™}0"Í#€DœõžI‰ÇRë?Òª$£›¾õqi÷&“ÉÓ¼¦êfž^UOSßŒR9nN‡3É§.x¨U,¸x‰("ÛóÔû]ÛÙ@ºý>ÂŸºñ¼¥~§‰]ÞÅ£u}ÜÓ£ÛP«	ŽkþÀwr\óE£é€L’SÂû!í¸œÛ.0Æªr1 unfreed mallocs
+ft_strjoin() -> mA‹îÂm~'`Žò'~à)þDv÷ÜH‚vžÂa|-vs‘£w²1,‘Ý™}0"Í#€DœõžI‰ÇRë?Òª$£›¾õqi÷&“ÉÓ¼¦êfž^UOSßŒR9nN‡3É§.x¨U,¸x‰("ÛóÔû]ÛÙ@ºý>ÂŸºñ¼¥~§‰]ÞÅ£u}ÜÓ£ÛP«	ŽkþÀwr\óE£é€L’SÂû!í¸œÛ.0Æªr
+1 unfreed mallocs
 190 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ê×
+ft_strjoin() -> ê×
 ‘Í	²*b!Âõ;ü]é‚å_u0‡Š…³õPÒbÚ;™¦Ô+qÿ«‡MtöU¹º·…­VëSBÝ°©¥Ë%6‡L:äËz¹f)›v{
 <c%ÄÒH©‡CÞuðCøÜrqH2ÔÚ½JÎ¤¸<T%¨f”eóÛxÿÍ{üäþMøho tXW‘Þ?ù[(ì†f°ëÀî‘îÃù¨€ÅÕ/›3-»\û8Ç·o¡›U^žÚC¼ðs_ðÒ‡ÿ-¢ùÊ*ÓmèØnïÙÖ~kgg–?è^þÝíaéM¤ ¦=tƒ¦á¥
 3²?™aÕÚÚ× Ð“4˜¢¤ ¯*ê#Ð=_ó›¹4[ÝP³gÑ×TË¨»zéXwZm [ûe×•u>WàuËm·hEåY)mÉØƒ‹(ß[#ËÖ…ŒGÓ[00m2IÃS`^
 ‡4Ætx„Ô ©±²}ß«dç¼6€O›³Ý_.(áÊÃ}û´•k3q+ŒQ.ö*,¡#)IÖq®¶ÓŽÿ\Éyï~ã	?¢¶Ç¹¹ùHø¾†˜dŽà§•HC2NÇlãlèN#Í6¿ yßˆP¯©·Ì%Ë1úêèîÚõƒ¸
-(’©Æ*UºæA1 unfreed mallocs
+(’©Æ*UºæA
+1 unfreed mallocs
 477 malloc'd size
 0 unfreed mallocs
-ft_substr() -> %3Æf%ä¶áqŒ½ˆ…R/•…³o¶-h½èÃ¸‡³Â]’ÆCqûæ†@(‘’ÞC«Ñ+‹˜®k³$Y–'+°*³Û2–$
+ft_strjoin() -> %3Æf%ä¶áqŒ½ˆ…R/•…³o¶-h½èÃ¸‡³Â]’ÆCqûæ†@(‘’ÞC«Ñ+‹˜®k³$Y–'+°*³Û2–$
 IO­­¯ÑêÜs¡2ª“Ö&KrW4ØéiiPÒK4q<èË>°×3Þ9€‚tç°E!¿.œÁ[·~¶(4Þè;Ì¤[·q#L€¤+bÚ-ï¢íZ%Ùg
 EF¹'7ði†N6Ï3<%þ%Ñb¦B¦»¹ô%5V|^æî~»÷Ä5Š"ÚÇ»Mi”WæT×^”Ž;UÓæ¾ÞËeÝ–]Ú/ìq$]ÅB…¯h)¥¿Úª\f|-fÄˆÝeiS»ÖÎ<@«;ÓßäZ„’Øm½z	šøSðÝÓk”¹	çø˜”™Oz¤[«x9$Ýeü\	´A¦”ò°ÊúÏÄçÀÞQ›Y^¨¡·$¼ôõN:Mr1Hƒi33\9-¥.dÖŸ-êð6tc4Ôßþ–`~¹´Î	ç¹–ûHjepùº <­¹0&ôjs©—*Z¾jÑ}‘‡œ} ºò[_ÚMô(¡™2Y¦`NêÏÄ/(´ðq0;eÈC
 É]C¿a¦æ†ÍQû\bi¬ñ} ‹xyœ t” Jº®ìn/Ùn¦SÆ—p}YqÈxeŽ²½Ÿ×E7¯Á°€o <0ÂÀLC?*œÜ°]ˆ_—~ºh@Å@qøjµ…r¾)Â–Ñ ož“Í¡ñà'ËÜÜyŒÔªt/æÒä£ŒlyÉø1Æ7;µÍ“c‚/eDÖ(	
 öÄÆ‹Ì#æ´+3L¢ïblÔîa³Á?qIÑû.µR-å*JUÄy¥x“ÙQêWu=[OÐº¥Œ° ?¿!½®‚»_&–ÉÓsÿiEð$©ô0ñ0§ñRÁm5Ôn¢è/C¦8“¹-€?Ûü v<íÇá/Á
 ’	ç%-(ÿ/©S#j³ùÌý)&Séxt¢>œ"ÀþUë)]Aé¼œ‰
 ÄOî‘Zsš«ê™Øbv¡¢·Ò0é¡¦¬=WV.eÐu¡Û:¢ÂüÁƒ††G}”"+d3…Ê	
-ÞvÎ²-)¦éu³‰cõ'Bˆï9ÖvßGmïƒ…“vYeÑŸ„ùšÔ‡ì8ž]+oª€n'Ï1 unfreed mallocs
+ÞvÎ²-)¦éu³‰cõ'Bˆï9ÖvßGmïƒ…“vYeÑŸ„ùšÔ‡ì8ž]+oª€n'Ï
+1 unfreed mallocs
 913 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Öv6´ê¢ U9èåÐõôª1¿ûºq2Œ~¬òá †ûõTŸ1˜ùÅI`ˆÏ]ˆjÙñ‘›õ››F>ˆn}¾Éô rÑÃ²ª/åBÌHþb”²¾ÕˆQrFnH­É7…”Ö,s#o1y¤†‡´v‰b˜@mœÅ^x5Z‚ìnG{ÉvG¸×Íq÷çOùÑ™òß>D1 unfreed mallocs
+ft_strjoin() -> Öv6´ê¢ U9èåÐõôª1¿ûºq2Œ~¬òá †ûõTŸ1˜ùÅI`ˆÏ]ˆjÙñ‘›õ››F>ˆn}¾Éô rÑÃ²ª/åBÌHþb”²¾ÕˆQrFnH­É7…”Ö,s#o1y¤†‡´v‰b˜@mœÅ^x5Z‚ìnG{ÉvG¸×Íq÷çOùÑ™òß>D
+1 unfreed mallocs
 151 malloc'd size
 0 unfreed mallocs
-ft_substr() -> g‡h™ÄJ\ÜJ'úuw›B¾#’&c(s¼c^æ[5bëzÍíÅO¢S*á%ÉÁ3ÕÞqø›wz¯/+ob_¿ûa”RÒy".æÃº`À¥‘œØÉc¥Eñ…®.)¸C·ÔueâìÞÔóçõ›t€2ª!ñYñž©yð"ú7„¤xk(9îµ» =ë+èQüŠðëbÈÏ:µ?»«ö?Z5½eéíE•Á`dHì÷qû¢Ã4ˆ§õV! =ˆâsR¦cäÍW³à˜5öôZê üMåB]ãháÁœt8§Äõ\;¥Ô}µ;è‰ùòB½>hÚ/fÖ º·žŒ#¦pf‡ŒN‹¨H×ÉÜÑDLèàþ.‘Þ3Š‘/*£WBhÔ‚Z…<Ë%–Ñ“9‡Š`c%Ó¸†IÆá€é±=¤ºÛwg Ò9“þÕñâ"£ÆààòãÞìta‚Ü$F=]’Ó‡QcD.~¼ç±íÙSvÍŽ¶{†ÝºâÙÙrgÓë#|e…“æÌ%RÂÍNfµiìf»‚|B]ãháÁœt8§Äõ\;¥Ô}µ;è‰ùòB½>hÚ/fÖ º·žŒ#¦pf‡ŒN‹¨H×ÉÜÑDLèàþ.‘Þ3Š‘/*£WBhÔ‚Z…<Ë%–Ñ“9‡Š`c%Ó¸†IÆá€é±=¤ºÛwg Ò9“þÕñâ"£ÆààòãÞìta‚Ü$F=]’Ó‡QcD.~¼ç±íÙSvÍŽ¶{†ÝºâÙÙrgÓë#|e…“æÌ%RÂÍNfµiìf»‚|1 unfreed mallocs
+ft_strjoin() -> g‡h™ÄJ\ÜJ'úuw›B¾#’&c(s¼c^æ[5bëzÍíÅO¢S*á%ÉÁ3ÕÞqø›wz¯/+ob_¿ûa”RÒy".æÃº`À¥‘œØÉc¥Eñ…®.)¸C·ÔueâìÞÔóçõ›t€2ª!ñYñž©yð"ú7„¤xk(9îµ» =ë+èQüŠðëbÈÏ:µ?»«ö?Z5½eéíE•Á`dHì÷qû¢Ã4ˆ§õV! =ˆâsR¦cäÍW³à˜5öôZê üMåB]ãháÁœt8§Äõ\;¥Ô}µ;è‰ùòB½>hÚ/fÖ º·žŒ#¦pf‡ŒN‹¨H×ÉÜÑDLèàþ.‘Þ3Š‘/*£WBhÔ‚Z…<Ë%–Ñ“9‡Š`c%Ó¸†IÆá€é±=¤ºÛwg Ò9“þÕñâ"£ÆààòãÞìta‚Ü$F=]’Ó‡QcD.~¼ç±íÙSvÍŽ¶{†ÝºâÙÙrgÓë#|e…“æÌ%RÂÍNfµiìf»‚|B]ãháÁœt8§Äõ\;¥Ô}µ;è‰ùòB½>hÚ/fÖ º·žŒ#¦pf‡ŒN‹¨H×ÉÜÑDLèàþ.‘Þ3Š‘/*£WBhÔ‚Z…<Ë%–Ñ“9‡Š`c%Ó¸†IÆá€é±=¤ºÛwg Ò9“þÕñâ"£ÆààòãÞìta‚Ü$F=]’Ó‡QcD.~¼ç±íÙSvÍŽ¶{†ÝºâÙÙrgÓë#|e…“æÌ%RÂÍNfµiìf»‚|
+1 unfreed mallocs
 610 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ’à­tª&ëyæÈ"wl„_GSíYpÖóRÖ¼gß™T£ Ê\;û,çÌZÅ`:žu{f×:×÷öÄÅP’4öyµAÒ²gvMÜg=ß–—÷ƒ-×j×3ðéš}Áé!7Ó›P±·iŠœ‰EéÛÜ¦bÃêª[@3ßX–¦£ŒØÅ­.ƒÄÿˆÆ–  m¬ZÅ-²h,µWc_µÚ¤'-þžØÝ£T³€‰î<HÙ÷¬Ÿ˜´©jÿ¯Z¢µ½}\À>Y²œ|+Ê<–:ã	@ß(ÜOïßv¸>E…õ7ëÓb²Õ™~aßà	ˆ©ûÇÌÕù½ú’‚¨×ŒúOÕ•üuÀMø§W€½ýÄ;ä‘Tp9ckT)žÕ‹ö9 zN_=ô)!É4×2ÍÏ\’E‘Í.W÷Ô&5gØÙÑ6fÖvÎÊî2­ë*¶ºKwúðg±ÛQýíñN7:¹ú“p%¸{`îõÏë2'©æut‹P¥§_,Í Fû^_wn=^çëðuL3åÚ]³âN«ýûŽ¨#Î­	4]¿¿ËK6Æè¥Ë'nPÛ…föÍ0QÐFm®œÉûv>ïj7ÒÛv|	¼±[#€üãÿFBÿ*ñÁ9k16£Mƒ\À¹&Ê#çSTûÀ½Å<Ä/3åHTÉÙ÷”¥ñ>9×ÂŸ­¹ãB&/&Góx~À^3BÆÚu-G+þL˜²Å?º\ÐÀEk×SÜQH3o#†8ÈVrÒ‘e¶
+ft_strjoin() -> ’à­tª&ëyæÈ"wl„_GSíYpÖóRÖ¼gß™T£ Ê\;û,çÌZÅ`:žu{f×:×÷öÄÅP’4öyµAÒ²gvMÜg=ß–—÷ƒ-×j×3ðéš}Áé!7Ó›P±·iŠœ‰EéÛÜ¦bÃêª[@3ßX–¦£ŒØÅ­.ƒÄÿˆÆ–  m¬ZÅ-²h,µWc_µÚ¤'-þžØÝ£T³€‰î<HÙ÷¬Ÿ˜´©jÿ¯Z¢µ½}\À>Y²œ|+Ê<–:ã	@ß(ÜOïßv¸>E…õ7ëÓb²Õ™~aßà	ˆ©ûÇÌÕù½ú’‚¨×ŒúOÕ•üuÀMø§W€½ýÄ;ä‘Tp9ckT)žÕ‹ö9 zN_=ô)!É4×2ÍÏ\’E‘Í.W÷Ô&5gØÙÑ6fÖvÎÊî2­ë*¶ºKwúðg±ÛQýíñN7:¹ú“p%¸{`îõÏë2'©æut‹P¥§_,Í Fû^_wn=^çëðuL3åÚ]³âN«ýûŽ¨#Î­	4]¿¿ËK6Æè¥Ë'nPÛ…föÍ0QÐFm®œÉûv>ïj7ÒÛv|	¼±[#€üãÿFBÿ*ñÁ9k16£Mƒ\À¹&Ê#çSTûÀ½Å<Ä/3åHTÉÙ÷”¥ñ>9×ÂŸ­¹ãB&/&Góx~À^3BÆÚu-G+þL˜²Å?º\ÐÀEk×SÜQH3o#†8ÈVrÒ‘e¶
 ‹šþÜ¬3
-[îz/Äz8¿?®¬b'â„Ê^_‘‡>˜Ò«]¥³§/‚¥U£Ê0gœ¤ËLüOö'ï-<¶¶Àô¹4­²{ò»©íxrý¾™Ë%÷7’¿1wŸ³N¼Ë^J$…Òð^á(’œX_\ÚÉ·¹'ëÖä-‡æ®4‚*.óý¿Ç\HÊ@ô™ðšž×’„_´Ì>f’°Œšr¹2¥)‚[v˜øWj"­ƒ.ã¼@1²ã^œ3¯§?e²C/…ê’FRõØR´ì ¿Æ/ô&²Læ[1 unfreed mallocs
+[îz/Äz8¿?®¬b'â„Ê^_‘‡>˜Ò«]¥³§/‚¥U£Ê0gœ¤ËLüOö'ï-<¶¶Àô¹4­²{ò»©íxrý¾™Ë%÷7’¿1wŸ³N¼Ë^J$…Òð^á(’œX_\ÚÉ·¹'ëÖä-‡æ®4‚*.óý¿Ç\HÊ@ô™ðšž×’„_´Ì>f’°Œšr¹2¥)‚[v˜øWj"­ƒ.ã¼@1²ã^œ3¯§?e²C/…ê’FRõØR´ì ¿Æ/ô&²Læ[
+1 unfreed mallocs
 816 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Ö¶­éKnQåÃH¹1Íüp˜ÝÃö|äQJÞ}ñzÜÆ wS…ÔrÉ%Ë~™NJž5Ž&³ GwžnY`S<øX×ßýûD7VÐØ­¢“‹ ‡ÔÎjúµ8uÂèFcežßk.]íW´KXõ‘,z©8<bnfª¶W5­Fh:¸:£2j†ÿâ‡u_ßz» .1ž˜ºõ‘3ˆ?I÷Âú9Gó0ãH0Q4O^¤%Ú49öPñ._ECRU…é~:‡¸®aÑ7{—™C¨»'qF§.8Da'IVã”ôˆŠ%g¨šhò¢vBÄŸßÝÑ{24n4d]¯¾š…W†ûVŸ´åŸ¬ôzÚt²0RÚÌðfjdiïÐÏáÎ¯4«,tsÚèµŸŒÉDb¶l÷ëÀÌ4Œó8>ŸCîZ!ö.ÃüõÜÆœ®÷Ó|E
+ft_strjoin() -> Ö¶­éKnQåÃH¹1Íüp˜ÝÃö|äQJÞ}ñzÜÆ wS…ÔrÉ%Ë~™NJž5Ž&³ GwžnY`S<øX×ßýûD7VÐØ­¢“‹ ‡ÔÎjúµ8uÂèFcežßk.]íW´KXõ‘,z©8<bnfª¶W5­Fh:¸:£2j†ÿâ‡u_ßz» .1ž˜ºõ‘3ˆ?I÷Âú9Gó0ãH0Q4O^¤%Ú49öPñ._ECRU…é~:‡¸®aÑ7{—™C¨»'qF§.8Da'IVã”ôˆŠ%g¨šhò¢vBÄŸßÝÑ{24n4d]¯¾š…W†ûVŸ´åŸ¬ôzÚt²0RÚÌðfjdiïÐÏáÎ¯4«,tsÚèµŸŒÉDb¶l÷ëÀÌ4Œó8>ŸCîZ!ö.ÃüõÜÆœ®÷Ó|E
 •ÆêWZæ¶ÑµHK!aWKÅÕ.‡ùÛÝ[ë¦àuAG„Ý±H\@¨4È@ñÜG™†¨v›ŠèˆxQø4tù‘_šÍmãí6qP{Ö—c(hG7Vo™UíöOÜº|¤†'ja1<[ÍH•SJ«á‹-_ü_õu®·»A½¦?0@úìz}¿Ìôä§ Â0úÝì@-¬Rf°b´>&lúhÄ‡h ™0ë Þ=:¸=æqrÝ{ ´—yÕ›ˆßF%ü(ÃQ¶+œ²ÌÍú£ëÝ¤äÊ€.ïïBà¶¹;ÓNöÅeF`“®›mKÔ¶üRx*K°Ö`½PöT—oš§™rªN—Ã7„}îFÈ:‰ÌÃ<÷ÉýàâéÔ% õ-CnRG…Ñƒ`¯e¨ôO‡Ö©4_g|m†ýG;;Þ-«„`…ÇÝp¢FõÐÝÈLGÊ‡#¦2ÙX?ZŠ|¸1í
 "Ð,y°q®¯ýô©Òmýèîò˜„5U°Læ„àY~E+Ô¨ò<ßnÓ#CŠnÍ„â=qsÚèµŸŒÉDb¶l÷ëÀÌ4Œó8>ŸCîZ!ö.ÃüõÜÆœ®÷Ó|E
 •ÆêWZæ¶ÑµHK!aWKÅÕ.‡ùÛÝ[ë¦àuAG„Ý±H\@¨4È@ñÜG™†¨v›ŠèˆxQø4tù‘_šÍmãí6qP{Ö—c(hG7Vo™UíöOÜº|¤†'ja1<[ÍH•SJ«á‹-_ü_õu®·»A½¦?0@úìz}¿Ìôä§ Â0úÝì@-¬Rf°b´>&lúhÄ‡h ™0ë Þ=:¸=æqrÝ{ ´—yÕ›ˆßF%ü(ÃQ¶+œ²ÌÍú£ëÝ¤äÊ€.ïïBà¶¹;ÓNöÅeF`“®›mKÔ¶üRx*K°Ö`½PöT—oš§™rªN—Ã7„}îFÈ:‰ÌÃ<÷ÉýàâéÔ% õ-CnRG…Ñƒ`¯e¨ôO‡Ö©4_g|m†ýG;;Þ-«„`…ÇÝp¢FõÐÝÈLGÊ‡#¦2ÙX?ZŠ|¸1í
-"Ð,y°q®¯ýô©Òmýèîò˜„5U°Læ„àY~E+Ô¨ò<ßnÓ#CŠnÍ„â=q1 unfreed mallocs
+"Ð,y°q®¯ýô©Òmýèîò˜„5U°Læ„àY~E+Ô¨ò<ßnÓ#CŠnÍ„â=q
+1 unfreed mallocs
 1188 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ˜Aš/caâmh@«#1„f’8[×¤ßßH°e”ÛD6÷~â›FOðº€¬vú(¥-fwtb—Š	Ëp¾ƒæ1¦~ÍgJ÷ñyKÀü)˜ÅwÈ…Nýq¶ë#ï3D
+ft_strjoin() -> ˜Aš/caâmh@«#1„f’8[×¤ßßH°e”ÛD6÷~â›FOðº€¬vú(¥-fwtb—Š	Ëp¾ƒæ1¦~ÍgJ÷ñyKÀü)˜ÅwÈ…Nýq¶ë#ï3D
 ¶9ãú/™p¬C¾ß›â}ã‡«aÂwÅZ±Q	¡é›™@=ÿá×
 â2ë™rè»ˆ…#†îèÍÚ,ŽØ…¢PpˆµÀüÓ~½>È&{ÿ{—b+›½F\×þ¥h›ÌÄÒ
 vyx±î,4ÅN– àÕîsnŒìv‚¦mÈëÉAsô·Gç¶âN´aèA†Ò$“·³Q2è{E~Ó0h´Ç³yš˜-™ï"æ£@\÷f®ú#.ˆí©¾ÈxBÕÁ"ö<lÈ=k‰íKí5ƒiÚ­}hº‹e8óÀ›KùPn§4ÑÜÎ°¡)N‡ê"&W.ßÂ“fñ† ¬(N¼ü`ÿ¯çÐ1ÐAšôe¬àÁ›7ÆPZí_Ö“¾_¢×ÔDÒ^´CØÓó±å‘»ßŽÔý+!çÿõ5–è±òÅË>Ñß_A¿~òûð´ãv—úLj….'uCZÿ¢5w\×åÄbTŒjX¥hŽ"Š7óìrÞÙ6oÀdeéü'cjvóÓShÕ:ò®£®ShßËû˜»ÃÖ	¥¾&Õg£7éžå<(«bG…‡ãÀ´´-.2‰Ò@Âw“›Ûãu4Þ44À7ï_Nã©Ká‡Ka	¢cBzŸ“‰ÈŒ‚#þ@K-÷ªÞö{©UÍ¥-ù§Xðå—£ç\ñë\Ò!ÔÒP!åôaøPr¬K!E»°nmæ1±³–è².ÿ¹/;R¸lÂ-u<Óü”'v-z¸BpÔ±`
 ÄAGýZ&jxšÍdvÙÅöÃ¯£åyþ0»ÿÃ¤H”Ù»SF¦ÏèDûµÁÀÒpoÒ>lŠjh(+hÁøKŽµ@ÑJ·TÄ€.tJ|È³œÆ„ûD³ ×Hƒu¦nèÑç,wJbIðK^
 ÷ÛøÄç
-¿Ôá½7Ø×âð„p¥Ég=°WrˆÚ¨Áwb™`PI`dÃŽMöFMµÇÂ1 unfreed mallocs
+¿Ôá½7Ø×âð„p¥Ég=°WrˆÚ¨Áwb™`PI`dÃŽMöFMµÇÂ
+1 unfreed mallocs
 827 malloc'd size
 0 unfreed mallocs
-ft_substr() -> *Iž(ß±9ï‡â0 ³öž„¢J†HU1®çFÁÝ†ÌlPe2x#¬aûÕ,>±'în86xî#¯;IÒNeY5>\/m™›¢9»ÞúQ¡!^9X¯ù+ŒË—ƒS>!lÈyc•“ãº1P€#WhW^[Y;êobw¨›R|‘-Ø¾ô_/[@Ñ˜|Xb¤ÇÖX%7-	KŽX¦±v†ö^µP‡H”|ÖMù—;2™È–ŒuË› HW:	•H¨´
+ft_strjoin() -> *Iž(ß±9ï‡â0 ³öž„¢J†HU1®çFÁÝ†ÌlPe2x#¬aûÕ,>±'în86xî#¯;IÒNeY5>\/m™›¢9»ÞúQ¡!^9X¯ù+ŒË—ƒS>!lÈyc•“ãº1P€#WhW^[Y;êobw¨›R|‘-Ø¾ô_/[@Ñ˜|Xb¤ÇÖX%7-	KŽX¦±v†ö^µP‡H”|ÖMù—;2™È–ŒuË› HW:	•H¨´
 ]¯”–ð£x ,íÂÐ.!g¯viyøÝm1çýZwÁI*;ß±MJð›œšüÐžÖžÇÝ¯
 ¬£\b<]/7E¨&xú…Ì¿¯’ë‚ð1»&Šè£Ï“‘2yWÒïÙaÝñùÐv™ráÖ…WIs6:ã˜Õ‹?Ûw’Ò÷ûOÿîÍ¬îyIê¶« ò…j\x½Î^=úš8€•r­ 7ºÑ~Ù4ÆŒ³D[ê¢Ù'do/ÞZ„Ï_ÊS@6¶ú©á?._L®Rº*)Écþ²ò½føS“÷D1=Æ¾È2Meæ•‘ª
 $	3Ðj(Y“ðZsÌk½Ý.¥ Ê‚,¼ÎB¼4*ølN×T›ïQšØ(„£HL|ëŸãúÈ”2ÈD-E\}<¨7[€‰Çv<G_3F^2âxUŸp@Ñãn`$|±*Ð«›4›óä·ÔG¢eöi»ÊRÕ±0Þý¬†ôJ=ü•Ñ<ðä)k³trÞ-Cœ OC˜¿MÆ«(úSVŠ×.s¢Ä4ËÂ
 ·¡ºù òÜW*Iž(ß±9ï‡â0 ³öž„¢J†HU1®çFÁÝ†ÌlPe2x#¬aûÕ,>±'în86xî#¯;IÒNeY5>\/m™›¢9»ÞúQ¡!^9X¯ù+ŒË—ƒS>!lÈyc•“ãº1P€#WhW^[Y;êobw¨›R|‘-Ø¾ô_/[@Ñ˜|Xb¤ÇÖX%7-	KŽX¦±v†ö^µP‡H”|ÖMù—;2™È–ŒuË› HW:	•H¨´
-]¯”–ð£x ,íÂÐ.!g¯viyøÝ1 unfreed mallocs
+]¯”–ð£x ,íÂÐ.!g¯viyøÝ
+1 unfreed mallocs
 836 malloc'd size
 0 unfreed mallocs
-ft_substr() -> '<wè•ËÊ ¤q"´å¢v,*íAÁ­sÆ.Þmz]º7R¤ùdðc¡@Ý¦Óî”VÀFC–®Lq¡wÐ`+ª&U¾Âb&Mb®=@»]K¥¶Ç^+€¬~1±P”‰P¬úøM'<wè•ËÊ ¤q"´å¢v,*íAÁ­sÆ.Þmz]º7R¤ùdðc¡@Ý¦Óî”VÀFC–®Lq¡wÐ`+ª&U¾Âb&Mb®=@»]K¥¶Ç^+€¬~1±P”‰P¬1 unfreed mallocs
+ft_strjoin() -> '<wè•ËÊ ¤q"´å¢v,*íAÁ­sÆ.Þmz]º7R¤ùdðc¡@Ý¦Óî”VÀFC–®Lq¡wÐ`+ª&U¾Âb&Mb®=@»]K¥¶Ç^+€¬~1±P”‰P¬úøM'<wè•ËÊ ¤q"´å¢v,*íAÁ­sÆ.Þmz]º7R¤ùdðc¡@Ý¦Óî”VÀFC–®Lq¡wÐ`+ª&U¾Âb&Mb®=@»]K¥¶Ç^+€¬~1±P”‰P¬
+1 unfreed mallocs
 216 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 	O«Q÷zf”RÙk¯šBÐâïó!¦ù·ÒÃ42T7…Òtô½ÉvFá•øÝeQ+m’,½ÄMãˆ#>$Q'¥
+ft_strjoin() -> 	O«Q÷zf”RÙk¯šBÐâïó!¦ù·ÒÃ42T7…Òtô½ÉvFá•øÝeQ+m’,½ÄMãˆ#>$Q'¥
 cøJ’ß¤3XÐÃ…½´³âIiõÒE£ò03pÌxÎÔ†v}å	ÚJŠî~žhNÞ89Ô¡èüÎQ*ßŒ1¯IÍ¸Äkgw`oBøø8j8 ÒŸ®7CGt˜`&
 ¨+§ÍÁ˜oåƒs[L‚@,ÔÔï\°-cÕ ×æžð3HÉøKßfüZk‡å*Lû†_Ez.g¡ïT¿˜hÁBîH«›2n[Œì4‘øüdøIû×'Ö7^I2ïôŒ*Ó÷<}((é‰åNò.in‘×Î@t†È²Úñ±¡<¥XyV6ÿž¸6/ëHÔå«¤ê+³Þ³Gä®›S}ÍgÇ¯‘Ê¢³lÔ2Ìö¤œy‡uN#G`øg‰éý3Ù°ˆÆ±Àë×Næã!1 „ih§ÝE•Kª…ë­PÏ-£Koã4ýRX^åãØÊ˜WŸ×²ÇvÕì‡»
 Š¸­{LA—Ý;âëÓmäf¢nFÈÎËE‚û]‚Q¦10&Ç’"ƒR>U)M~÷®sÔï\°-cÕ ×æžð3HÉøKßfüZk‡å*Lû†_Ez.g¡ïT¿˜hÁBîH«›2n[Œì4‘øüdøIû×'Ö7^I2ïôŒ*Ó÷<}((é‰åNò.in‘×Î@t†È²Úñ±¡<¥XyV6ÿž¸6/ëHÔå«¤ê+³Þ³Gä®›S}ÍgÇ¯‘Ê¢³lÔ2Ìö¤œy‡uN#G`øg‰éý3Ù°ˆÆ±Àë×Næã!1 „ih§ÝE•Kª…ë­PÏ-£Koã4ýRX^åãØÊ˜WŸ×²ÇvÕì‡»
-Š¸­{LA—Ý;âëÓmäf¢nFÈÎËE‚û]‚Q¦10&Ç’"ƒR>U)M~÷®s1 unfreed mallocs
+Š¸­{LA—Ý;âëÓmäf¢nFÈÎËE‚û]‚Q¦10&Ç’"ƒR>U)M~÷®s
+1 unfreed mallocs
 778 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Šî²^Â½VêÑÙá}Ìüï†,Ð@®§e¥Œ¼Ó I®Ì‚ÈlöYxrP]©Ð¡¸ñœôÐÌ«5£­Ñá@¾>?X´¤àœ`€oçj×©¦Ç÷¼hŠ•W½´Õ
+ft_strjoin() -> Šî²^Â½VêÑÙá}Ìüï†,Ð@®§e¥Œ¼Ó I®Ì‚ÈlöYxrP]©Ð¡¸ñœôÐÌ«5£­Ñá@¾>?X´¤àœ`€oçj×©¦Ç÷¼hŠ•W½´Õ
 …\G-Áš3”+í§¸Ž•#bR@æ*â†$ô(Uµ^ŸE´Ålj§ÁN^%&>yDR<è?–>%¯77üëx X2éÁåô1ï¬ôÑ€ÓÌMÃÐ'þýkÚ˜¸#¼ŸÍ˜Çê7ó2±Ê<þ*qs?ÓµÿD“ŸÑ³å.Ø¶1bÝÝí1…ýM<!A;ZGnhûª§ê0êòºâ$³‡æ(þXh-¿‘ÕižQøÑVÕ·´*ë[ZïvžEWÓKQ§^ƒÚRp1)©P
 3º—³ü)zíP Û¹·=É°f3¹U0âÛ4W:ÀîÇó‡’¤Iå·;xø[©÷ËMt¨~ï’!1­eÝÅ©©#WtÆ(T9„“©Žæ/ª¨Ô&¿°Â³6V6kš/¿
-©[p¹ðùXþ¥ò‘Ã»§-$‹(íFÒ5Pzz»©+1ªrÓµx˜qãýÝÐs¬-òÊ/\èÈ×ùÿ#ð–‚´âQÉ’“*Ÿ‡|lo,”±Ûgl(ôùªžvb‡	»-‰œåÝÒ±ã)k²;¨‚Ü1Nå™«.X¢ÏxyœbÜS0lÄÇ3<Šùw÷{‡é(Í2¡}*ÍmüÌ,lE_ñA›]ÊJ¦¹0wÖÂ\”¤"¿a•­])¯ÎËîsjñraÿ¨š\‚Ÿ´CD©GÎ$6ááZ‘Þß®G<½EñÑn.¾£ìµ"óMa}Gþ£+l÷D°sô'Î§^<¬}÷Mþ³9,¾ÌOF·¯… Ïþr’7âF”†ðË„[ÊOÚ×‰éäSõlü•Wâ¥ŽcÑ?Ø¡zÀ”bÞRŽ›ÿøåÑ=¢wPX<nÑ}…aƒåf™qÏµíÑÿZýjjãZOšI•lkCGŠb`YâcQæ‚åÃ0Ø,Iƒmãq–T”ŒdÑã=ÊÈŽÄåç$)“ˆfB“%<«î3æPbB§º¿I1 unfreed mallocs
+©[p¹ðùXþ¥ò‘Ã»§-$‹(íFÒ5Pzz»©+1ªrÓµx˜qãýÝÐs¬-òÊ/\èÈ×ùÿ#ð–‚´âQÉ’“*Ÿ‡|lo,”±Ûgl(ôùªžvb‡	»-‰œåÝÒ±ã)k²;¨‚Ü1Nå™«.X¢ÏxyœbÜS0lÄÇ3<Šùw÷{‡é(Í2¡}*ÍmüÌ,lE_ñA›]ÊJ¦¹0wÖÂ\”¤"¿a•­])¯ÎËîsjñraÿ¨š\‚Ÿ´CD©GÎ$6ááZ‘Þß®G<½EñÑn.¾£ìµ"óMa}Gþ£+l÷D°sô'Î§^<¬}÷Mþ³9,¾ÌOF·¯… Ïþr’7âF”†ðË„[ÊOÚ×‰éäSõlü•Wâ¥ŽcÑ?Ø¡zÀ”bÞRŽ›ÿøåÑ=¢wPX<nÑ}…aƒåf™qÏµíÑÿZýjjãZOšI•lkCGŠb`YâcQæ‚åÃ0Ø,Iƒmãq–T”ŒdÑã=ÊÈŽÄåç$)“ˆfB“%<«î3æPbB§º¿I
+1 unfreed mallocs
 845 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¤*¼]›-]•Ë,Ñ0´.]i÷ÑGhÇ~ñ°Ó÷Ï;ùx»Åö²†aAOïíQuñÐ ÿm>Ò§ XqõŠ2]ˆ\"zo?wH~]Ï±âM|×7X¾þù¯e»µ„aM„÷ºÞtvÚl³ÿò‘KÊâôG‘x†Hz@¼ê¡ÁDÖV[‹[¤	o¦ÃÂ"¼¾E“?õ/K³0´þÈ²žúÝÄÿ»þÝ¾u¾‚.þOª™¦ƒdwD<…ö°íÓwâ<8>Q”±UÎÀ‡«?]Ï¥KÄX‹€¿¾šG0éˆ…üüFß)ö:¯´¢
+ft_strjoin() -> ¤*¼]›-]•Ë,Ñ0´.]i÷ÑGhÇ~ñ°Ó÷Ï;ùx»Åö²†aAOïíQuñÐ ÿm>Ò§ XqõŠ2]ˆ\"zo?wH~]Ï±âM|×7X¾þù¯e»µ„aM„÷ºÞtvÚl³ÿò‘KÊâôG‘x†Hz@¼ê¡ÁDÖV[‹[¤	o¦ÃÂ"¼¾E“?õ/K³0´þÈ²žúÝÄÿ»þÝ¾u¾‚.þOª™¦ƒdwD<…ö°íÓwâ<8>Q”±UÎÀ‡«?]Ï¥KÄX‹€¿¾šG0éˆ…üüFß)ö:¯´¢
 2Ù‡ˆ¹g=!m ÊÄµÄÍ—EÀæAé˜^Õ"Ôµ¶á'êåÄx‚ü]X±hÇ~ñ°Ó÷Ï;ùx»Åö²†aAOïíQuñÐ ÿm>Ò§ XqõŠ2]ˆ\"zo?wH~]Ï±âM|×7X¾þù¯e»µ„aM„÷ºÞtvÚl³ÿò‘KÊâôG‘x†Hz@¼ê¡ÁDÖV[‹[¤	o¦ÃÂ"¼¾E“?õ/K³0´þÈ²žúÝÄÿ»þÝ¾u¾‚.þOª™¦ƒdwD<…ö°íÓwâ<8>Q”±UÎÀ‡«?]Ï¥KÄX‹€¿¾šG0éˆ…üüFß)ö:¯´¢
-2Ù‡ˆ¹g=!m ÊÄµÄÍ—EÀæAé˜^Õ"Ôµ¶á'êåÄx‚ü]X±1 unfreed mallocs
+2Ù‡ˆ¹g=!m ÊÄµÄÍ—EÀæAé˜^Õ"Ôµ¶á'êåÄx‚ü]X±
+1 unfreed mallocs
 560 malloc'd size
 0 unfreed mallocs
-ft_substr() -> UæcädTbÎ•™šV~EN¬j¸K‰14CûJ/á…ä
+ft_strjoin() -> UæcädTbÎ•™šV~EN¬j¸K‰14CûJ/á…ä
 û*Çä­õ|ë€ùW½Ÿ¤G‡^d@ÊïµªŒOWtrL
-E»-|+ãáQW­’š¾±Å_aÏ9o¾ë;ÿSÀ\ŒFßˆ³˜m“žxþ£)4.³Ûá2Nô¾\½güh	ð_û…|‘j=RE'vt_%¿ˆýßmÓ!À•XÏî¶K4=ÚwÿoÉ;XÈ+¼jI¢Ø#ÚèaŒùk†” m*¡í{Ç¤t¤b4³ŽuÖo~î„7‚Cêèjz?§}î”dÿ-‚nª‘+ëÏ9GIDö˜ÖÛ¬Ë|]Ñ@™6£™žá,iöIc¥Ž’YI»ýë|ä×äÂç2ãò¾,™À±'í2þG‡P¹<âÏzëFª~ì|ð‡’ÌÃÿÀKŸûÆµF˜òéˆÅ¥Füùi–ÚÂÃ‰’?ðFCWRávÉ˜‡§á„k oµd$Í.RŠŸS¼+çÉèùß7†éî°Uk_µžMNpN”sI	ã²ä‚%ÈS9­>ÁêXYíûÜB˜÷”\M-«m¹húÑ+:^Ã5‡¬ž³5JÀ¿õJ;R‡§F}„ý{ÕÙì9iµáÍ¥Pâÿ×ŠÆ05Û”þâ<™…õîFŠì”N'‹Þª@®6ìóíuëá¼‰bÁVÌ?Vxh¹Q¢¾àl«‡ÖÂ-ÎƒFöàÛ/mûa?ûÎð&^E‹I]š×Œ1 unfreed mallocs
+E»-|+ãáQW­’š¾±Å_aÏ9o¾ë;ÿSÀ\ŒFßˆ³˜m“žxþ£)4.³Ûá2Nô¾\½güh	ð_û…|‘j=RE'vt_%¿ˆýßmÓ!À•XÏî¶K4=ÚwÿoÉ;XÈ+¼jI¢Ø#ÚèaŒùk†” m*¡í{Ç¤t¤b4³ŽuÖo~î„7‚Cêèjz?§}î”dÿ-‚nª‘+ëÏ9GIDö˜ÖÛ¬Ë|]Ñ@™6£™žá,iöIc¥Ž’YI»ýë|ä×äÂç2ãò¾,™À±'í2þG‡P¹<âÏzëFª~ì|ð‡’ÌÃÿÀKŸûÆµF˜òéˆÅ¥Füùi–ÚÂÃ‰’?ðFCWRávÉ˜‡§á„k oµd$Í.RŠŸS¼+çÉèùß7†éî°Uk_µžMNpN”sI	ã²ä‚%ÈS9­>ÁêXYíûÜB˜÷”\M-«m¹húÑ+:^Ã5‡¬ž³5JÀ¿õJ;R‡§F}„ý{ÕÙì9iµáÍ¥Pâÿ×ŠÆ05Û”þâ<™…õîFŠì”N'‹Þª@®6ìóíuëá¼‰bÁVÌ?Vxh¹Q¢¾àl«‡ÖÂ-ÎƒFöàÛ/mûa?ûÎð&^E‹I]š×Œ
+1 unfreed mallocs
 588 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¨µ,­oØËáL˜’Sš78Yk£<ˆ¦–+ŽÿÄ~ýmë•ôíGã ÀCiÌ¢+ûi ´´Ý6Ê`¤Ê®=Jó—±¨M®Þz‡á½žà9m‹®Âç‘êww
+ft_strjoin() -> ¨µ,­oØËáL˜’Sš78Yk£<ˆ¦–+ŽÿÄ~ýmë•ôíGã ÀCiÌ¢+ûi ´´Ý6Ê`¤Ê®=Jó—±¨M®Þz‡á½žà9m‹®Âç‘êww
 í³®q–þ€y+YÅOªÔ²(ü™Êëø+lŠŠ¥nŸ*fUÐìÞÌíñ'n½”dK#	‘¥C¦—YF‚õ1§ÂÆ‘­Z²8€Wû.Q”ûõnº9B~¸—œL(’ ñò"”Ž…õsáou’†Çª±"‰Ø´<×pI„¨àíÎ¤(i7UÿÔœùìÈm’K-Mù+½¢ŒDDŠÛÆIp†Ù?ƒ(±r_5°@ðSùsb–OÏÜ sÙz{3Úíþïþ?ÈÉ£Ó€eÖö|7/Ì›F#ƒ¹ŽË88¨÷º`EA­ÏÚ8mÑ3sÒHŽqä|2Ôb‘0]ßò—Nì,ß”§•†rÏ†<PW;ï|y3÷ÝSø"½Þî?qÿ0#j§ƒ!ù­ýHåfu_¯
-©¡ Æ29— (|”•èVšàÉ¤c%íÌÓ†Ð¢(ƒ¶PÐú€ü(m;kšïo=aš™ØÃN‹Žï]f“»ø	æ£-r Ý¢Û‡õÃEò‹;réÇÑn“dO6É©0¹þDODBîU‹gÉ;Êµ¸Sa+]Q7k£÷¡E~B"ö-Îñ=G~VôÆõúVEñ$;ôãT?ÏàyþóˆñøwÁÐýé¤kÔ u$MÁQÞ‘œÚ‡uÂ¡Eê—iú	†ìøkT~xæ>œt»Ž–½oá@ï1 unfreed mallocs
+©¡ Æ29— (|”•èVšàÉ¤c%íÌÓ†Ð¢(ƒ¶PÐú€ü(m;kšïo=aš™ØÃN‹Žï]f“»ø	æ£-r Ý¢Û‡õÃEò‹;réÇÑn“dO6É©0¹þDODBîU‹gÉ;Êµ¸Sa+]Q7k£÷¡E~B"ö-Îñ=G~VôÆõúVEñ$;ôãT?ÏàyþóˆñøwÁÐýé¤kÔ u$MÁQÞ‘œÚ‡uÂ¡Eê—iú	†ìøkT~xæ>œt»Ž–½oá@ï
+1 unfreed mallocs
 611 malloc'd size
 0 unfreed mallocs
-ft_substr() -> l¼jç!2 ùƒ_ÒLXÊ&Uð€ýœÕá1j¥:doEJ$ôÂ`Öë
-<M¶ŠÏ6#†vùíXC ®ŽUòâÆÅ€õ/ì£iUr¨Øõö‚²?Q_W¯æ·êN#k³8wš¦8èëßâlNãÁ.Õ œê!ßŸŸjöt/þýHûÓw˜ýCâK¹‡ŒáõáiËú8-“Õ[~—5xà9]>®m/~róÁZ©‘–+w6År‰ô°ÒZJ8Ž«½t!•šÉä0„¾øg\îþxJ™5å5]>Z1 unfreed mallocs
+ft_strjoin() -> l¼jç!2 ùƒ_ÒLXÊ&Uð€ýœÕá1j¥:doEJ$ôÂ`Öë
+<M¶ŠÏ6#†vùíXC ®ŽUòâÆÅ€õ/ì£iUr¨Øõö‚²?Q_W¯æ·êN#k³8wš¦8èëßâlNãÁ.Õ œê!ßŸŸjöt/þýHûÓw˜ýCâK¹‡ŒáõáiËú8-“Õ[~—5xà9]>®m/~róÁZ©‘–+w6År‰ô°ÒZJ8Ž«½t!•šÉä0„¾øg\îþxJ™5å5]>Z
+1 unfreed mallocs
 216 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÜJmÏ?ÑzÉ¨òGE÷y®¼GnÒ5]éD´‰s_9òˆ™BÍjçÒ{½†@m†ûî…5Në!g°¿è"hP´~·Ä¸áÆLÔNñx£	hB¶Üø¸²Á^¼OvÅ’÷ç¾*$\.wbáÌ—{‘@Ï…(fê‡½4–+plO™%þ·Üú.îÕä¾÷J'.HƒË¶¤¿ÿMÎÊ¥‰ô5nw}:G2ž+OvbÒ§æì‚ç6ôxÔiñm_\él¡^b=Ñsc„7¨ÏôT´c`Cua—I¬ßõ9*ƒ_iñGÓR# „SZ´~ô·+J{NKHfÎ´ËÐËcˆ<¾âpp‡§Õ ¨¸†AÜ·ð¾ý¯Ì©Ž©þÕ¦×'³ W'Ï#Jq|Eýå¦qÊÊK)^SREB«ŒÚÛ—;¡ÈâP}àïm)¬Ôî^xíôäQó	0uHã´BwMËs¡’÷ÜIÕP	ßÞ·£FŸÂM‹La9¦³¬Ã¯)~%žztK’t_W½ÍõÁ§n¾1åÞn;0UÈ9Ç¸F`^OÆjh†?ëiþµ£ó_ý\ûÙ¶í©¯3ôŒiìãp¹(˜"pšÂð³CLôÇÃ¶â@Í#M¾þ{Ù¶Oï°È)É•ù†Wç8„ŽNû59áð¥/KúC†—>#ÃFD0»›TGÁdœ•FÖøæÃ–¸^ÜÉk¦‡!a»¥ŠðÆˆhN¦w{ˆs8ôeßÛ•1 unfreed mallocs
+ft_strjoin() -> ÜJmÏ?ÑzÉ¨òGE÷y®¼GnÒ5]éD´‰s_9òˆ™BÍjçÒ{½†@m†ûî…5Në!g°¿è"hP´~·Ä¸áÆLÔNñx£	hB¶Üø¸²Á^¼OvÅ’÷ç¾*$\.wbáÌ—{‘@Ï…(fê‡½4–+plO™%þ·Üú.îÕä¾÷J'.HƒË¶¤¿ÿMÎÊ¥‰ô5nw}:G2ž+OvbÒ§æì‚ç6ôxÔiñm_\él¡^b=Ñsc„7¨ÏôT´c`Cua—I¬ßõ9*ƒ_iñGÓR# „SZ´~ô·+J{NKHfÎ´ËÐËcˆ<¾âpp‡§Õ ¨¸†AÜ·ð¾ý¯Ì©Ž©þÕ¦×'³ W'Ï#Jq|Eýå¦qÊÊK)^SREB«ŒÚÛ—;¡ÈâP}àïm)¬Ôî^xíôäQó	0uHã´BwMËs¡’÷ÜIÕP	ßÞ·£FŸÂM‹La9¦³¬Ã¯)~%žztK’t_W½ÍõÁ§n¾1åÞn;0UÈ9Ç¸F`^OÆjh†?ëiþµ£ó_ý\ûÙ¶í©¯3ôŒiìãp¹(˜"pšÂð³CLôÇÃ¶â@Í#M¾þ{Ù¶Oï°È)É•ù†Wç8„ŽNû59áð¥/KúC†—>#ÃFD0»›TGÁdœ•FÖøæÃ–¸^ÜÉk¦‡!a»¥ŠðÆˆhN¦w{ˆs8ôeßÛ•
+1 unfreed mallocs
 569 malloc'd size
 0 unfreed mallocs
-ft_substr() -> |ëAOÕp®ÝQåðš1‚Mª´ÓÁ–WðîTøÝÆš8^pûk#éc]ôÃ5ƒQù§ùï·ÖøQØD]€U.åäÄ¦Ð%º$•žžŒWŸ¨4×¢Ë[Ê¯ÿŽ(˜ÌËuªù×tN–KÈQ0‘xžì1FkCÚÑ&}3jî_¶òóRº¬×{÷v]Ò;/…—)l×Éê¸‚"ªd9ŠLwR”w•‹v(´Ìþ£µlUÀ™¤û1ß´†’¡×5mè§«äÐå·"—æeöh~XšˆÛšXUÅÍÂ¥]¥ÂþÖu† üÔ3›]â,äñkXT>º2”yŸË£¢`G$ Š{Ìz–r8H®  ØŒ~)-l¹@>9,Û[Y;îàõ0óBðxçÁ§àÅTtpu‹þËÜÁÂÁ×ÉGŠªÞuþìÄú‡Ýš¹`p±Bw«ÝbµyÞ8ãÀÿRx^ƒ°˜m÷Y·Ñ¸‘9®¶_fn·”zx‚¢\@œÂ’¨7Uÿ eU%ôàâåc’hƒÕÑÜÜUýµÂÿ‚Úx”i[±ªÞuþìÄú‡Ýš¹`p±Bw«ÝbµyÞ8ãÀÿRx^ƒ°˜m÷Y·Ñ¸‘9®¶_fn·”zx‚¢\@œÂ’¨7Uÿ eU%ôàâåc’hƒÕÑÜÜUýµÂÿ‚Úx”i[±1 unfreed mallocs
+ft_strjoin() -> |ëAOÕp®ÝQåðš1‚Mª´ÓÁ–WðîTøÝÆš8^pûk#éc]ôÃ5ƒQù§ùï·ÖøQØD]€U.åäÄ¦Ð%º$•žžŒWŸ¨4×¢Ë[Ê¯ÿŽ(˜ÌËuªù×tN–KÈQ0‘xžì1FkCÚÑ&}3jî_¶òóRº¬×{÷v]Ò;/…—)l×Éê¸‚"ªd9ŠLwR”w•‹v(´Ìþ£µlUÀ™¤û1ß´†’¡×5mè§«äÐå·"—æeöh~XšˆÛšXUÅÍÂ¥]¥ÂþÖu† üÔ3›]â,äñkXT>º2”yŸË£¢`G$ Š{Ìz–r8H®  ØŒ~)-l¹@>9,Û[Y;îàõ0óBðxçÁ§àÅTtpu‹þËÜÁÂÁ×ÉGŠªÞuþìÄú‡Ýš¹`p±Bw«ÝbµyÞ8ãÀÿRx^ƒ°˜m÷Y·Ñ¸‘9®¶_fn·”zx‚¢\@œÂ’¨7Uÿ eU%ôàâåc’hƒÕÑÜÜUýµÂÿ‚Úx”i[±ªÞuþìÄú‡Ýš¹`p±Bw«ÝbµyÞ8ãÀÿRx^ƒ°˜m÷Y·Ñ¸‘9®¶_fn·”zx‚¢\@œÂ’¨7Uÿ eU%ôàâåc’hƒÕÑÜÜUýµÂÿ‚Úx”i[±
+1 unfreed mallocs
 528 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÄüR1“1õÉ-ÔÑ…P#/âƒ¬@Ÿñ›ÒµU÷]„jŠÆÄŒ%M+àœ´±Íî&Ú™K¥‰Ý@6ò2`	Ðpft<““õÉÌá§w•¡áò$¿ÿ°M7[WU„é?×¹Þ©N ¿cmlO÷7IGðu°ðÄHxTL$¡Ä<NÚŒå˜tŸþ8ÊhB·ÚÀîVˆ2©1 unfreed mallocs
+ft_strjoin() -> ÄüR1“1õÉ-ÔÑ…P#/âƒ¬@Ÿñ›ÒµU÷]„jŠÆÄŒ%M+àœ´±Íî&Ú™K¥‰Ý@6ò2`	Ðpft<““õÉÌá§w•¡áò$¿ÿ°M7[WU„é?×¹Þ©N ¿cmlO÷7IGðu°ðÄHxTL$¡Ä<NÚŒå˜tŸþ8ÊhB·ÚÀîVˆ2©
+1 unfreed mallocs
 149 malloc'd size
 0 unfreed mallocs
-ft_substr() -> WM-0
-Ö´j$u¨ìñOµbiœ¯Ý‚gÎ¶D|»×ˆ5¾õ+;gJÄž~S<~JÃ¡ïæÊ”£µÁ/ÑÃµ kúÈÏñÒÄ0¤Ê¨ìñOµbiœ¯Ý‚gÎ¶D|»×ˆ5¾õ+;gJÄž~S<~JÃ¡ïæÊ”£µÁ/ÑÃµ kúÈÏñÒÄ0¤Ê1 unfreed mallocs
+ft_strjoin() -> WM-0
+Ö´j$u¨ìñOµbiœ¯Ý‚gÎ¶D|»×ˆ5¾õ+;gJÄž~S<~JÃ¡ïæÊ”£µÁ/ÑÃµ kúÈÏñÒÄ0¤Ê¨ìñOµbiœ¯Ý‚gÎ¶D|»×ˆ5¾õ+;gJÄž~S<~JÃ¡ïæÊ”£µÁ/ÑÃµ kúÈÏñÒÄ0¤Ê
+1 unfreed mallocs
 150 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ƒÍ„•%](9ÖÒ}Òh¯KiÕžíÚ™Þq–a~™¤\y»×w1 unfreed mallocs
+ft_strjoin() -> ƒÍ„•%](9ÖÒ}Òh¯KiÕžíÚ™Þq–a~™¤\y»×w
+1 unfreed mallocs
 38 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ‡h_x¥5ÅÀ„ú\}›ºþÍÖyg A£+½àÄÅšqrÓ[É‹çmyûŠ»§kUaùÆ®:î‘§Š®ƒ~o4àýÌÉ­GB»[´É<‡vn{„‡$	ó)YC°‰nÔÞiZï.YÜ“+U³ÊÌ`–¶c€ˆfì}Ù#©¼J¥£r»…:²Ždäy¹Û¤x­&LŸêtn_œ6ûƒø¯Â4"5/R×Xí@šìDÜî5Ý+ómâ í* D‡ùÎªK+f–ÝdHìûáŽZ5Œ­EkÁPtÞôDõ™Ñ2P¶ÑÙ™SgÛ[hàIk±k.Sö™MJ›ÄûnBI"Ú()‹…ÅO’3½¯Y¦õ´÷±Þ¬å1q
+ft_strjoin() -> ‡h_x¥5ÅÀ„ú\}›ºþÍÖyg A£+½àÄÅšqrÓ[É‹çmyûŠ»§kUaùÆ®:î‘§Š®ƒ~o4àýÌÉ­GB»[´É<‡vn{„‡$	ó)YC°‰nÔÞiZï.YÜ“+U³ÊÌ`–¶c€ˆfì}Ù#©¼J¥£r»…:²Ždäy¹Û¤x­&LŸêtn_œ6ûƒø¯Â4"5/R×Xí@šìDÜî5Ý+ómâ í* D‡ùÎªK+f–ÝdHìûáŽZ5Œ­EkÁPtÞôDõ™Ñ2P¶ÑÙ™SgÛ[hàIk±k.Sö™MJ›ÄûnBI"Ú()‹…ÅO’3½¯Y¦õ´÷±Þ¬å1q
 L	ÿ¥’ÕÛk'ÛÚ2a°‰<ª1Œÿ	ŒëÈäD¹öÕ/tdL
 -4}ß¨ðœeó¹½;¹Ù¼
-æ°Và¼÷,?â²îuü¾‹"YÙ£Š%—n›8@¼Z½€<~ Y«V¾¡¿#ÆWÉ/—ÇàÛ¥! ô#jDÆA‹’Æbä÷5'åí¿m*1 unfreed mallocs
+æ°Và¼÷,?â²îuü¾‹"YÙ£Š%—n›8@¼Z½€<~ Y«V¾¡¿#ÆWÉ/—ÇàÛ¥! ô#jDÆA‹’Æbä÷5'åí¿m*
+1 unfreed mallocs
 412 malloc'd size
 0 unfreed mallocs
-ft_substr() -> –’­ÀŸbâÕ•²Ñ¯ÀŸúùÖF½sx ”)½ž"Þ‹+‡—µ	ôM°Ã¦ßH„²Ú´|[§˜‰4Âd†*} ÕìNùwü}î
+ft_strjoin() -> –’­ÀŸbâÕ•²Ñ¯ÀŸúùÖF½sx ”)½ž"Þ‹+‡—µ	ôM°Ã¦ßH„²Ú´|[§˜‰4Âd†*} ÕìNùwü}î
 Ñg­Úâ[1 ÅL³¬%3?©M&ÿ¿£¹õÊ¶XÐ[¯Ô›_„çAÈö“Èˆ·IŠÀ¬ÿ¾à˜¯\ñbø“>ÝKÕœå»³!@Ã)…¡-.µã$½m h«{Z%mè-…s¼4O0&—}ùÒß#Jë¢¶–løµUdñi—y‰9~UÞº5#Õd“î]d
 ÝÏ)ñÕll•ë
 –’­ÀŸbâÕ•²Ñ¯ÀŸúùÖF½sx ”)½ž"Þ‹+‡—µ	ôM°Ã¦ßH„²Ú´|[§˜‰4Âd†*} ÕìNùwü}î
-Ñg­Úâ[1 ÅL³¬%3?©M&ÿ¿£¹õÊ¶XÐ[¯Ô›_„çAÈö“Èˆ·IŠÀ¬ÿ¾à˜¯\ñbø“>ÝKÕœå»1 unfreed mallocs
+Ñg­Úâ[1 ÅL³¬%3?©M&ÿ¿£¹õÊ¶XÐ[¯Ô›_„çAÈö“Èˆ·IŠÀ¬ÿ¾à˜¯\ñbø“>ÝKÕœå»
+1 unfreed mallocs
 390 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Ù–d¿™ŽÏÔ²Gr}%Âä\_8ƒÛ¹w´`ùîŸ²×rwUu4¿šm”:UÑnJØÆm“ŸL²ùœŒ‚`1MZ~nío?„&}Mß{öÓÍ9Ïº®‰°¢÷•@ª÷bäŸ© ¸fUr
+ft_strjoin() -> Ù–d¿™ŽÏÔ²Gr}%Âä\_8ƒÛ¹w´`ùîŸ²×rwUu4¿šm”:UÑnJØÆm“ŸL²ùœŒ‚`1MZ~nío?„&}Mß{öÓÍ9Ïº®‰°¢÷•@ª÷bäŸ© ¸fUr
 [ï>{TYÞv Iúdøô%6}„{S¼‹7[5{ð€l~"–1@ÐR ŒË7¨Çôä©˜6ÜA±Óñ„²†Ü£úò/Šo5»í§ÎýÐ%Ä¤£’_ˆ©ä¸cÛÎ"è­»±rË„[Ç¼"e1ÅGÝ Å˜.@j|ß‹^¿ÞÒ‰¡
-’äñó]ÿÆÕ‰Q³ó‘s›sÒ”©öPÛ¿%šÑî™m|•†ËT,D™1ôTƒ U:„\®¾ïgIg<ìÿ¹“Øª.2Oõÿ>lDV³_Mƒ]þ+Þl ¦©Ž:,e¼Qïsrÿ·÷P7½w°ï&‹«±¤ió£ò'59Œ	ÝÊ1 unfreed mallocs
+’äñó]ÿÆÕ‰Q³ó‘s›sÒ”©öPÛ¿%šÑî™m|•†ËT,D™1ôTƒ U:„\®¾ïgIg<ìÿ¹“Øª.2Oõÿ>lDV³_Mƒ]þ+Þl ¦©Ž:,e¼Qïsrÿ·÷P7½w°ï&‹«±¤ió£ò'59Œ	ÝÊ
+1 unfreed mallocs
 369 malloc'd size
 0 unfreed mallocs
-ft_substr() -> †ÔüPq·|tbØ.ªNl“˜'r}µlª”rø«–˜­ªÞAÉ:<ñeTõ.E]k$f›­Höopj…ÃªÐM­H4ÞXJŽ³Eó“ºqô6cŽÎ³=¹.ß“	Øº8¬I!‰¿„·ì¸¯ÒõUR:HÅ%öŸÊ•`õ¬XÉZ†VxÀ8F²µøä›_¼#Ÿ1²æ¦ûOÒ·µ‡ÅÝŽÊdæQy<\aÎaðÅËß®1ÐôÕþù9¤Š–Âÿ¨*ïõí´>Au­“fÉä©°Øhß¥ÆÅ»²ÿj+KcîÓ‘œ"¯¡Þpt7$¹²°‡½Šè^”>{®IÂ
-wú©ãÅÐ±S2ë¾´ûÇ¦IïQ·ÂŽµÃ®	×²5Ì¬Ÿî1Çùˆ'ÖÀni°è­àBHÜ§ª.1Û‹>«Š¶CLÓQb[{ÀgTRcè†´¨µ›ÞÂ›Ú,y§»(xRîÎùô­F°û¯osržpTö¢ˆ:„ã‚¤~¡Ÿ~BÞ^ç, |nE\ßø8pmšG¯¨Òí¶©ÞEã¿ÙÂþ_5oœÅ”»—ÃB·ø5sÿ:»®wñÙg’¹˜EÁ C-ÂƒÞ&ãùü†í>¡Bæ(iÉg®ñd¡É'Èv¯ìomL&Z}éKª~)¯þR¿Òð×zCø;"…8GŠ‰Ä{fN)·yæ£Î#kˆ;É1 unfreed mallocs
+ft_strjoin() -> †ÔüPq·|tbØ.ªNl“˜'r}µlª”rø«–˜­ªÞAÉ:<ñeTõ.E]k$f›­Höopj…ÃªÐM­H4ÞXJŽ³Eó“ºqô6cŽÎ³=¹.ß“	Øº8¬I!‰¿„·ì¸¯ÒõUR:HÅ%öŸÊ•`õ¬XÉZ†VxÀ8F²µøä›_¼#Ÿ1²æ¦ûOÒ·µ‡ÅÝŽÊdæQy<\aÎaðÅËß®1ÐôÕþù9¤Š–Âÿ¨*ïõí´>Au­“fÉä©°Øhß¥ÆÅ»²ÿj+KcîÓ‘œ"¯¡Þpt7$¹²°‡½Šè^”>{®IÂ
+wú©ãÅÐ±S2ë¾´ûÇ¦IïQ·ÂŽµÃ®	×²5Ì¬Ÿî1Çùˆ'ÖÀni°è­àBHÜ§ª.1Û‹>«Š¶CLÓQb[{ÀgTRcè†´¨µ›ÞÂ›Ú,y§»(xRîÎùô­F°û¯osržpTö¢ˆ:„ã‚¤~¡Ÿ~BÞ^ç, |nE\ßø8pmšG¯¨Òí¶©ÞEã¿ÙÂþ_5oœÅ”»—ÃB·ø5sÿ:»®wñÙg’¹˜EÁ C-ÂƒÞ&ãùü†í>¡Bæ(iÉg®ñd¡É'Èv¯ìomL&Z}éKª~)¯þR¿Òð×zCø;"…8GŠ‰Ä{fN)·yæ£Î#kˆ;É
+1 unfreed mallocs
 545 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ~ÛGÉ¾AEÛ§É•úÂ‘Ö)!ø€¦'8Ó—<9žáü|`.š¨8->¾×›²Æ•¼°#?Øn ™ƒúY0æi™5µ°Äî¶ÐÏ"oiwQè‹¡&ÌÕ*~Ô:¤^Àoâ¦¿`à…Ç€™‘¤^·O2ÌUò~Ÿíë–³í°*¬§ÞYþ‡SxÔ™yvB¸0äñ3'&É#¸ëðSn)DNŽáTNid¬Ä1‘Bê]âÃ`þòù1Kß¹é¾pvõŒƒ±PkWFTÈ„E×4¿iªˆ1dÌp¦¤ZYÕ¹Œ©3¨9ZÏà©Äo$šo9¾È¹#„>, Œ_œ®³C¾s=†ÓÃŠ†	ÔkBˆO×ÆD¶òÿDkÙö@ fZÉa»ÚWƒ2ÿ×›QÔêrËCº^äy|¨—­€Ÿ‰úy°’ŽíÂÛ`Róÿ™jzšPÇû´€}ögØ×—4ÞÑr7mÁ}å«NÙ‰öñ›&.Xÿ“sOTm&¨üMQ{>ºÒÃÐw¬“ÆÔNTo;—ÄªY>©5fÚ*ÿ„ ‘ ë
+ft_strjoin() -> ~ÛGÉ¾AEÛ§É•úÂ‘Ö)!ø€¦'8Ó—<9žáü|`.š¨8->¾×›²Æ•¼°#?Øn ™ƒúY0æi™5µ°Äî¶ÐÏ"oiwQè‹¡&ÌÕ*~Ô:¤^Àoâ¦¿`à…Ç€™‘¤^·O2ÌUò~Ÿíë–³í°*¬§ÞYþ‡SxÔ™yvB¸0äñ3'&É#¸ëðSn)DNŽáTNid¬Ä1‘Bê]âÃ`þòù1Kß¹é¾pvõŒƒ±PkWFTÈ„E×4¿iªˆ1dÌp¦¤ZYÕ¹Œ©3¨9ZÏà©Äo$šo9¾È¹#„>, Œ_œ®³C¾s=†ÓÃŠ†	ÔkBˆO×ÆD¶òÿDkÙö@ fZÉa»ÚWƒ2ÿ×›QÔêrËCº^äy|¨—­€Ÿ‰úy°’ŽíÂÛ`Róÿ™jzšPÇû´€}ögØ×—4ÞÑr7mÁ}å«NÙ‰öñ›&.Xÿ“sOTm&¨üMQ{>ºÒÃÐw¬“ÆÔNTo;—ÄªY>©5fÚ*ÿ„ ‘ ë
 l@ûŒpL9mM=Bc”4âßw#¦y	e‚šE,ÿ+80ñ0j™¾·+çŽíµpC+8-{ôUù—âÉK=Q¨äVâz\¥‰m¥>›£E1Š¢ÍÿË¼[2£.M‘Oo’ªßNuSëi*þä+û
-¡î%ôsp ©â82í*¥å ×]SöLsïjáÀjö]…Š¬ëGØU>\[ƒØ|*²ƒj©îãò÷S„7ñ7Ëó,Î£ÌÕŸ¾·e©	1 unfreed mallocs
+¡î%ôsp ©â82í*¥å ×]SöLsïjáÀjö]…Š¬ëGØU>\[ƒØ|*²ƒj©îãò÷S„7ñ7Ëó,Î£ÌÕŸ¾·e©	
+1 unfreed mallocs
 625 malloc'd size
 0 unfreed mallocs
-ft_substr() -> x4°áÒ•.ÓOZÆ˜’8„Ùê`®3¦>Äs«8äxÕí’3îrd—ûÐ#{•dÿ:Þ}×‘×¾]g˜<÷!I½³ÀŸ_ðùcqà”%¬ 3ÖèìLÜfÜSž_¤‰‡>`õÕnQÂ§ÑY<Ó	AdÉE•ò$§96çJÃºÐìO÷—X"îÑ¹¢™f:ŠøÝëìôÜ—ÅæA*;þXÀ³žbH©Þ”c}â£Þ×Õô¬;:P‘G”0íQâ®TH`ˆØbMAœhh÷
-ŠùÚ1õñûÖêà!¨Ú2†%Vì@x4°áÒ•.ÓOZÆ˜’8„Ùê`®3¦>Äs«8äxÕí’3îrd—ûÐ#{•d1 unfreed mallocs
+ft_strjoin() -> x4°áÒ•.ÓOZÆ˜’8„Ùê`®3¦>Äs«8äxÕí’3îrd—ûÐ#{•dÿ:Þ}×‘×¾]g˜<÷!I½³ÀŸ_ðùcqà”%¬ 3ÖèìLÜfÜSž_¤‰‡>`õÕnQÂ§ÑY<Ó	AdÉE•ò$§96çJÃºÐìO÷—X"îÑ¹¢™f:ŠøÝëìôÜ—ÅæA*;þXÀ³žbH©Þ”c}â£Þ×Õô¬;:P‘G”0íQâ®TH`ˆØbMAœhh÷
+ŠùÚ1õñûÖêà!¨Ú2†%Vì@x4°áÒ•.ÓOZÆ˜’8„Ùê`®3¦>Äs«8äxÕí’3îrd—ûÐ#{•d
+1 unfreed mallocs
 284 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Ñ­Ïñàqm´ÑéÝlÀ:¬ãŒë^œøŒ;>Ÿìí‹bKÄ[¼ÓDœïÜ“…Ø!	ˆ	ŽûÌ¦÷ˆ.©½Áš+P¤;3ø&;\äŸRTÛºv¼‘Ï8·3Ž'<u¯ÌoÏž~Ñè¼ŠJ}÷€ù‡žUðHw[±Ÿálê%©ö¨e‰,&ò>siK`:'ü’¦ªsæ<&
-·5ýª¤;‘Á½š£¢›ºÅªZR”éüoÌÑJ–³7åL¤ø¥÷óE˜°u‰¹‘}ÆZ-.¬}Ý2÷	+ÄËþ2UÇ3•êJ5ð·:µë¿ó{CÄnÔÛ1 unfreed mallocs
+ft_strjoin() -> Ñ­Ïñàqm´ÑéÝlÀ:¬ãŒë^œøŒ;>Ÿìí‹bKÄ[¼ÓDœïÜ“…Ø!	ˆ	ŽûÌ¦÷ˆ.©½Áš+P¤;3ø&;\äŸRTÛºv¼‘Ï8·3Ž'<u¯ÌoÏž~Ñè¼ŠJ}÷€ù‡žUðHw[±Ÿálê%©ö¨e‰,&ò>siK`:'ü’¦ªsæ<&
+·5ýª¤;‘Á½š£¢›ºÅªZR”éüoÌÑJ–³7åL¤ø¥÷óE˜°u‰¹‘}ÆZ-.¬}Ý2÷	+ÄËþ2UÇ3•êJ5ð·:µë¿ó{CÄnÔÛ
+1 unfreed mallocs
 242 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Lgúÿ}²¯CãÌè‚Õ&Ì\þdctû—&ßñ@sÊ˜÷ÐUYÓD?/N H:û–,¨ôÈ†LÉíkh4ÛÞÛ#]B³ÊŒsWý‹ªk3#Û®bù}ÕK¤>Ô6…×R‹èÖ”¢	›êéùS5Á§^$É?©xÃÒº°`/_îÖ	Oª…Â¾…Ì[ò²}g¹Lº·J±Ú²®1 unfreed mallocs
+ft_strjoin() -> Lgúÿ}²¯CãÌè‚Õ&Ì\þdctû—&ßñ@sÊ˜÷ÐUYÓD?/N H:û–,¨ôÈ†LÉíkh4ÛÞÛ#]B³ÊŒsWý‹ªk3#Û®bù}ÕK¤>Ô6…×R‹èÖ”¢	›êéùS5Á§^$É?©xÃÒº°`/_îÖ	Oª…Â¾…Ì[ò²}g¹Lº·J±Ú²®
+1 unfreed mallocs
 160 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Jm¿š1›.¯9LÄR„“Ö¬åVÁÚÊaKˆ#J”’U©ÿK¡5$GÎ\¯x=Q-D8&‹êß	‚‚ÐäÊ+ÜŸœV==ò‚'8œöç¸sD¼EÃgó©<°©Ô¤Õ	’(ªÄ‹¹MÀ„š»€[ª/QÀq>:³í´¡Â,½Ñ€à=O…JŠ*P­øò)bÏW82Š°™,T¸4~ó+·»¿a¤’c6¢æCù î!ò”îáÉ„ÿÌ¼ …ë×Pt"þ$÷\ñdJyÚ‰à‡
+ft_strjoin() -> Jm¿š1›.¯9LÄR„“Ö¬åVÁÚÊaKˆ#J”’U©ÿK¡5$GÎ\¯x=Q-D8&‹êß	‚‚ÐäÊ+ÜŸœV==ò‚'8œöç¸sD¼EÃgó©<°©Ô¤Õ	’(ªÄ‹¹MÀ„š»€[ª/QÀq>:³í´¡Â,½Ñ€à=O…JŠ*P­øò)bÏW82Š°™,T¸4~ó+·»¿a¤’c6¢æCù î!ò”îáÉ„ÿÌ¼ …ë×Pt"þ$÷\ñdJyÚ‰à‡
 €ögxƒH‘+ÝçÃ§+‡Ç{Ž²²k®»aG¾Ê	ÐÅ,n»™Íý¶
-—;Ÿ‘QýsŠúØƒrGÚ×ªÉ!òé*ï”¤ØPDUjGã6lÈþÿ²Æå:^$½Q8/`!ÀÿÙŒï”sG>ë2‡‘Ö€-s	fÆ0þT˜HÀà2X0gUy.œt‚¬·Q_eYëŸ¼4¼Sz¸Èn´M}â­ÝN%Ò ¾*©¹sàÏ~Ã'gQX‡F;ÓoØ:óŠ~³gG`´CvP<1 unfreed mallocs
+—;Ÿ‘QýsŠúØƒrGÚ×ªÉ!òé*ï”¤ØPDUjGã6lÈþÿ²Æå:^$½Q8/`!ÀÿÙŒï”sG>ë2‡‘Ö€-s	fÆ0þT˜HÀà2X0gUy.œt‚¬·Q_eYëŸ¼4¼Sz¸Èn´M}â­ÝN%Ò ¾*©¹sàÏ~Ã'gQX‡F;ÓoØ:óŠ~³gG`´CvP<
+1 unfreed mallocs
 424 malloc'd size
 0 unfreed mallocs
-ft_substr() -> éõÌ„vsjÝÙ ´œþiCÚAT_cÀ×.–»Gªx=6}_»ûh{!ÉK|þcWÁÝ>e–²ìÇW¦ôð­¢oã‡b]Ú¦ßÁ°ÚÇs!ÌäÐ
+ft_strjoin() -> éõÌ„vsjÝÙ ´œþiCÚAT_cÀ×.–»Gªx=6}_»ûh{!ÉK|þcWÁÝ>e–²ìÇW¦ôð­¢oã‡b]Ú¦ßÁ°ÚÇs!ÌäÐ
 y‰‚â»éÜzehÆi¡K¬òÅ×®„”à›õÃïªÀ`øÃ¥ýôlß
-¼€…æw÷$Ártíß{ÄU¥Îb+ÂGÿÅ®ÇYö³y‰0B«å`ºi®¼‘r/€Õrå¬æ%­m#$4ã¼íÑ}?æ•$ñ,?ÜDõ7)ÿêJ®ëKÔ¸8ŒiÇµ{	c7ùÉBs!K)¶›¾^C†ß2Ôp¨óÍñ6%ušÏ¾$nûàÎy£O€ž{º½ºÌ1 unfreed mallocs
+¼€…æw÷$Ártíß{ÄU¥Îb+ÂGÿÅ®ÇYö³y‰0B«å`ºi®¼‘r/€Õrå¬æ%­m#$4ã¼íÑ}?æ•$ñ,?ÜDõ7)ÿêJ®ëKÔ¸8ŒiÇµ{	c7ùÉBs!K)¶›¾^C†ß2Ôp¨óÍñ6%ušÏ¾$nûàÎy£O€ž{º½ºÌ
+1 unfreed mallocs
 290 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¨å;Ì¬Ëý‰Z»)	"ï•*bÄÎ™¥ONóø8õ¯Á–¤xØ©ÿ€„´Y0>³>7-$¦@„]'+ì#XsUÒñïõ)­JçÏ¯Š‰Ø±ÅïŽÉ~Â®¢j•–Ó·Uz#©ŽúeOFlnz ×„|K
+ft_strjoin() -> ¨å;Ì¬Ëý‰Z»)	"ï•*bÄÎ™¥ONóø8õ¯Á–¤xØ©ÿ€„´Y0>³>7-$¦@„]'+ì#XsUÒñïõ)­JçÏ¯Š‰Ø±ÅïŽÉ~Â®¢j•–Ó·Uz#©ŽúeOFlnz ×„|K
 W•À<I
 ~R"¯'wÝ€µIn}»V)ž3æ+¤;¸W9€ëÏ|r}­©¬B„X™¢„\º/ò)…é–#•Š‡¡ê˜Ò°	uËœÜ‚HØs	¡?«¦U-V4VaEÌŒ0_ÜÝ
-a…£ÉÚÞÓ|³Á;â»òI½+¬N“ë–Á¯ñ—ÙE>~Áš,NlrAûÍì¡ØL5ê©å‡ä/ç?˜‘õ„|ÉüËqâÚ˜Ôo¬`ïïBäÄƒ¹™uÍÕå‰Èù„\Myƒ×k+ÓAÐbBÐ>¤&Ž,Ö÷ÄäYIÑj%ÊÜ¨7=ä‡P«Tl}±¾äÎÅíLJ<g4-<õ<Zs¤¥±KOWeªÖEG¼azøIð£^ìzXo±N›˜ÄMwÔcrC»¦£ùÞ»¦!°ÓùS Ú3_Þ ]‰ã8CI~íkË·¹^‹°‚ÂÂ¶˜àÖ—9þ¢Áž­1 unfreed mallocs
+a…£ÉÚÞÓ|³Á;â»òI½+¬N“ë–Á¯ñ—ÙE>~Áš,NlrAûÍì¡ØL5ê©å‡ä/ç?˜‘õ„|ÉüËqâÚ˜Ôo¬`ïïBäÄƒ¹™uÍÕå‰Èù„\Myƒ×k+ÓAÐbBÐ>¤&Ž,Ö÷ÄäYIÑj%ÊÜ¨7=ä‡P«Tl}±¾äÎÅíLJ<g4-<õ<Zs¤¥±KOWeªÖEG¼azøIð£^ìzXo±N›˜ÄMwÔcrC»¦£ùÞ»¦!°ÓùS Ú3_Þ ]‰ã8CI~íkË·¹^‹°‚ÂÂ¶˜àÖ—9þ¢Áž­
+1 unfreed mallocs
 506 malloc'd size
 0 unfreed mallocs
-ft_substr() -> á&ˆ“R?’î‡ÿ&Üß@šŒø9‹ýjtøÜfN»‚µ; NânºÍR¾j7é„²§¼à¿Ù#Hsn‚²RFÞTñŸjû”„­FÌKâ”Kh¨IŒë2Y.1ÃæQ©ŽE?½oŒhŸb\:±I,½H­€'™°x¤¤³Dn1¤‚û
+ft_strjoin() -> á&ˆ“R?’î‡ÿ&Üß@šŒø9‹ýjtøÜfN»‚µ; NânºÍR¾j7é„²§¼à¿Ù#Hsn‚²RFÞTñŸjû”„­FÌKâ”Kh¨IŒë2Y.1ÃæQ©ŽE?½oŒhŸb\:±I,½H­€'™°x¤¤³Dn1¤‚û
 ZæÒ[×ÐŒ3r•GÝ[ÐŒ•¼"ÈðÜ~T×«ì;WÝeƒìè­—_j„Ï×¸ûù®‰­áeÀ¢ZË›¯-%d TlA¾[›JMëÕPœçUPÍHµd¸NQ’ñz?Ôk¤ÚIãbàÙ{q­ð_²ák¾?¿m—¹ÎÈ¶c¨Š«mMÄ‚ìËÄ4Œ‹Y¼ÁÞè’e­L…ÌÔ”%Ð*ie?L5÷èI ±Au4i…!z8’-àÝŒˆ_à ’,M•2¤0—·ôÏÃpŒªñ
-A3E¬DNôÓÇ‡×ïi±»f’A]xAª[ÔµzéDL¡òÔ7Vç±c†1«ªiW†aOqÌ¯uv’¤˜íkåj‰A'7(ïÇAÚàkÍT¼¶lí±OœÔþ>>Ž¼IuÝö ÜÃñl(?Ú,ã,A;Õ­‰Â	2ÆóEqçŒPóú­óQKwQTÍâgfÖ\5ë]E$f-ôiB!ÌûxU2¸`%1 unfreed mallocs
+A3E¬DNôÓÇ‡×ïi±»f’A]xAª[ÔµzéDL¡òÔ7Vç±c†1«ªiW†aOqÌ¯uv’¤˜íkåj‰A'7(ïÇAÚàkÍT¼¶lí±OœÔþ>>Ž¼IuÝö ÜÃñl(?Ú,ã,A;Õ­‰Â	2ÆóEqçŒPóú­óQKwQTÍâgfÖ\5ë]E$f-ôiB!ÌûxU2¸`%
+1 unfreed mallocs
 518 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ùžär	$dTûu%A˜mÄ^ã¸¨Õ<j$³NE$f,» µ	õº¬½ŸšNøz
+ft_strjoin() -> ùžär	$dTûu%A˜mÄ^ã¸¨Õ<j$³NE$f,» µ	õº¬½ŸšNøz
 úDŸÐ™¼”ÏŽÜY2Žag”´òÀ5—)§ÒY¬ÝÔj™beû¶|ÏËpBâ‘¬[ÒÛƒ-ñ„¦¡a8©A›ã‹÷Œƒ¥g<~
- ¿ºO[bÎßÊ"ÓGn‹ˆpa®;î‹V¹>Váp"3Y‘1£Ä‘ë7æ?Ìä`êïÖ‘vq•™Øë^VqrÆÔU¹ù²iîŠ*¾¢ÆGïý@ƒuÅ[:•ó#î¦áOøX,õHÜä<LÏË#¤öb÷–oÅåGÁ€ìõº%ƒð:ø¢	ÆÇ}•ËOôôÏA1 unfreed mallocs
+ ¿ºO[bÎßÊ"ÓGn‹ˆpa®;î‹V¹>Váp"3Y‘1£Ä‘ë7æ?Ìä`êïÖ‘vq•™Øë^VqrÆÔU¹ù²iîŠ*¾¢ÆGïý@ƒuÅ[:•ó#î¦áOøX,õHÜä<LÏË#¤öb÷–oÅåGÁ€ìõº%ƒð:ø¢	ÆÇ}•ËOôôÏA
+1 unfreed mallocs
 285 malloc'd size
 0 unfreed mallocs
-ft_substr() -> !7Ô×J?¢U~ÜâÈŒßºb'üŸtkÇ„UCRÍs‘7ú;ï@„—äý¢Ê˜t®â•F0³¯„r}†!iò§b¹íªã.zAkÕ¦M{7@‰`FXVxD°î¥`!6@é¬Ï((?Ù2ŒˆUæXävÎãÑpûó'
+ft_strjoin() -> !7Ô×J?¢U~ÜâÈŒßºb'üŸtkÇ„UCRÍs‘7ú;ï@„—äý¢Ê˜t®â•F0³¯„r}†!iò§b¹íªã.zAkÕ¦M{7@‰`FXVxD°î¥`!6@é¬Ï((?Ù2ŒˆUæXävÎãÑpûó'
 ž2ègQé–žùmTvF¤d#Û”“Ë¦„éV|„t0³a“ÚR*÷æjh°Gúz¯×áË€”â`BØà…Mh’Þ8tÐÚn|ÙÞRmú4ëK´5¶s5ÕçåÇù4Þ °,dÐx{Òó”¹G©0ª:ÍD´WuAå>M\˜Ñû¥¤2•ñ
-”ÓU°ÀñÑ_è…ÞÈƒå2_ò&üuØ-Åb5!	Ü¬m¤fÀƒò´ªt:YS^|]‰ÕRr¼’ê`ÒIt–ˆhÚ£,Q¿–O_¯ðÂº™Cu"®øë¢žlË‚ä’j\ «åyÚ´Ý£…wSSÖ-Ò4‚ø2æÝwU"ä#BíëpSe•iEF6„zzB}ÀP(Ö±mCA´:_;fJzx?„­OÇ½™€F­œÝì”½|vÕœÎRo|è~‘½J’¯)ttzÝK5è1q©ôXìA‹Á‰}NŽe³ø‘¹º2ø8·>A*µCr™õIZH„±ÜíF·àG«Øïxüð‘(ChxæJ	­£?ž™Îg<Éë#pü´ýÂÑ­1 unfreed mallocs
+”ÓU°ÀñÑ_è…ÞÈƒå2_ò&üuØ-Åb5!	Ü¬m¤fÀƒò´ªt:YS^|]‰ÕRr¼’ê`ÒIt–ˆhÚ£,Q¿–O_¯ðÂº™Cu"®øë¢žlË‚ä’j\ «åyÚ´Ý£…wSSÖ-Ò4‚ø2æÝwU"ä#BíëpSe•iEF6„zzB}ÀP(Ö±mCA´:_;fJzx?„­OÇ½™€F­œÝì”½|vÕœÎRo|è~‘½J’¯)ttzÝK5è1q©ôXìA‹Á‰}NŽe³ø‘¹º2ø8·>A*µCr™õIZH„±ÜíF·àG«Øïxüð‘(ChxæJ	­£?ž™Îg<Éë#pü´ýÂÑ­
+1 unfreed mallocs
 553 malloc'd size
 0 unfreed mallocs
-ft_substr() -> è'†«	³½,ö-þ·¹ã'ÍµÄí¶‘$ Æp§ÞZF Â’Þ+ÉË§	ˆãB>,Ìl,ëíš´SµáV3D%+‡Ü·‹ÅãRÁÕ>46ik €„ÎÃD™ïmÆí¼·îgÙ6é)ðû|¦ƒhÙI¥kæeHþïÎº/xÿ£A-²xßÿÍ1íé¢®°ãÚÚñ¼×=Aÿ•r×Â`Dâ\ÙÈ{ãÊ6Ml©‹îálb‰x|qîÓ«·)Y®FcBn7îo)#&Éùa#j¶¬†`TX¸«l[,U\0žŸ@¹ôÀ>tè¯JÊBF•ùHèŸ~fißË²órlÈZfP2ú.M^$×ê®`”¸RGq žØns:¹\¥è|øj/ëT„Ð&²½—×üzKoŽZì(G9«ÈôÇz˜«AOiôA°,8¸Pèªßm­VWÒI3*0³åyvb·;xûÌ<¯<Öréfð‡™ËÞÙMÄÃI‡s3†7Ë:­ÑDºÝùÒLÕíÃµOù¬?<sm	G@`Ø&H›Ñfš’Ç¤áa²¬™q©e(Âåø¤Zqz…"0˜ò2/FÅguoÓº9°ù_ÃÙë"$¼p“3-à¬ËµKSTfB
+ft_strjoin() -> è'†«	³½,ö-þ·¹ã'ÍµÄí¶‘$ Æp§ÞZF Â’Þ+ÉË§	ˆãB>,Ìl,ëíš´SµáV3D%+‡Ü·‹ÅãRÁÕ>46ik €„ÎÃD™ïmÆí¼·îgÙ6é)ðû|¦ƒhÙI¥kæeHþïÎº/xÿ£A-²xßÿÍ1íé¢®°ãÚÚñ¼×=Aÿ•r×Â`Dâ\ÙÈ{ãÊ6Ml©‹îálb‰x|qîÓ«·)Y®FcBn7îo)#&Éùa#j¶¬†`TX¸«l[,U\0žŸ@¹ôÀ>tè¯JÊBF•ùHèŸ~fißË²órlÈZfP2ú.M^$×ê®`”¸RGq žØns:¹\¥è|øj/ëT„Ð&²½—×üzKoŽZì(G9«ÈôÇz˜«AOiôA°,8¸Pèªßm­VWÒI3*0³åyvb·;xûÌ<¯<Öréfð‡™ËÞÙMÄÃI‡s3†7Ë:­ÑDºÝùÒLÕíÃµOù¬?<sm	G@`Ø&H›Ñfš’Ç¤áa²¬™q©e(Âåø¤Zqz…"0˜ò2/FÅguoÓº9°ù_ÃÙë"$¼p“3-à¬ËµKSTfB
 ŒÀlk~$ò­¬H
 ¢¤*?¹!Mo'‹L£ÉêyÕGêÈaƒËIZþ£.–6gÜg¶
 ¯¼µV@“¤Œ</±ƒpb¬ãa^nÌ ô*,A¿ß2ÙÛd[ªlˆ>Ï$2Ï!B.ñ&Ñ;ÉP½L-úáÊ D%á‡Èý¶ËšCpÕì»óQ§.´Ÿ)ôaãÄ¹Æ³‘“Úö¿à
-U²)U±õF|þ%$³ÞÒ¢ü°“Ê#A9‚‰{8à€.¥÷d\‡‚ó:<#aa#´nì˜ÏÚƒLYMZm…Ÿ1AÑ^Ôª¢º¬›ñÞ±Ïr	ƒtfÂ._|1³Ar q£bUS£Ò³ºly)vÒÓ³ƒcU%UÊõó0Œøã'{µ¯',A;—;ÑPìs¬Œ@A«YÝÏiµ7 ¨+š`/hëÕ€bbñùD	­ ó-1 unfreed mallocs
+U²)U±õF|þ%$³ÞÒ¢ü°“Ê#A9‚‰{8à€.¥÷d\‡‚ó:<#aa#´nì˜ÏÚƒLYMZm…Ÿ1AÑ^Ôª¢º¬›ñÞ±Ïr	ƒtfÂ._|1³Ar q£bUS£Ò³ºly)vÒÓ³ƒcU%UÊõó0Œøã'{µ¯',A;—;ÑPìs¬Œ@A«YÝÏiµ7 ¨+š`/hëÕ€bbñùD	­ ó-
+1 unfreed mallocs
 834 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÎÝ³2»Öž‡k&«ÓÓzÊom.¾áSZhcoLÐçWOŠ+VBÑÜë;;‹ÍFÓŒ¼\l£éSÇF‘%öö¯ÑºU¢‡2B-Ô~\¸».‰ÝÈ)"ŸŽnÈÕ"1)Â·<ã½Ä¨GuCöéûé;ç>ú9îkHyÝ\õÄ]î«Ž]‚&ÌGŽñ–nP…3áî'm!OðâJ“c…£iÿò†Õp‘Èi°vqUiˆÂ”Á„mzgõ¨‡’^Øuû9VØ6ð®{(,ù3U¥»Î'%IPX/ýÎºI“MN”¥E8vŒ¼‰~qê¿²Öj4ÊVKß»¸€cÍw·*…á}Ù¢„™-ç?ÿn>
+ft_strjoin() -> ÎÝ³2»Öž‡k&«ÓÓzÊom.¾áSZhcoLÐçWOŠ+VBÑÜë;;‹ÍFÓŒ¼\l£éSÇF‘%öö¯ÑºU¢‡2B-Ô~\¸».‰ÝÈ)"ŸŽnÈÕ"1)Â·<ã½Ä¨GuCöéûé;ç>ú9îkHyÝ\õÄ]î«Ž]‚&ÌGŽñ–nP…3áî'm!OðâJ“c…£iÿò†Õp‘Èi°vqUiˆÂ”Á„mzgõ¨‡’^Øuû9VØ6ð®{(,ù3U¥»Î'%IPX/ýÎºI“MN”¥E8vŒ¼‰~qê¿²Öj4ÊVKß»¸€cÍw·*…á}Ù¢„™-ç?ÿn>
 N¼,ä˜È‡÷ô¯nî}÷îî rt|u_¥ª*TÅ°ÏT?vY›,€n'Ì•á?^ò¿Š¯Ôã}ÇYŠ!­t
 2­æ™!B	Ÿ‹†EAˆ¹šý”¨dÙâ®ü¤ÜØþD!øsúê‡¥þÒ’J¡ê6J*dÛNq0=IêU_S<Ü‹›ÄùVðÀ¤l	í|NfW< ŸPIcÖŽ‡—ýzí¨l¸d•ÔÈ“‰ÕvW{FnotèrLNRƒP!;
-®iÃ®-,*8¢µ’±@Ã@,¤ŒøÌ,ïGïv„m2w"TÉËŒ+oô!FëÝÕf+væ—ƒDYõ}¢këàTà!PŽ7¨÷3‹_²sx#öDËèD¤x”	,ïUŽÙÍK	ZgbyG—•ÎÇm¾_3æ,lCß+íñ˜Ù}ÚùÆ>''Ùe4¿ãÔjØÍ<".¥ßv<ž'ÉÄ%Tw1 unfreed mallocs
+®iÃ®-,*8¢µ’±@Ã@,¤ŒøÌ,ïGïv„m2w"TÉËŒ+oô!FëÝÕf+væ—ƒDYõ}¢këàTà!PŽ7¨÷3‹_²sx#öDËèD¤x”	,ïUŽÙÍK	ZgbyG—•ÎÇm¾_3æ,lCß+íñ˜Ù}ÚùÆ>''Ùe4¿ãÔjØÍ<".¥ßv<ž'ÉÄ%Tw
+1 unfreed mallocs
 653 malloc'd size
 0 unfreed mallocs
-ft_substr() -> }ï›E%~1·å~KwÖò"@Ë6"’¥d}Œ:à{âãÒÿdÕqŸ8°Å(´…ÑÎ<‰NJ(°Étù¦Ž)NoFZã*ø<×ê@©íœ‘iý§úŒ_1‡™*€MçÃŽLº^Ä)X'{ûÞ4n€z9¾DWvÑf»ùü'Ï½!1ÑysSWœtSK¦xÙš]¡‡ºöTC•ˆ}ˆMo3üOe—g æÉsà…Þ#-]ÐŠ7žÔîü{:Ÿ ©6Ò™•l@g=~M»Ôžï{:mv}úœ°õ@¶ÀcÞ×¤àÛØ­"¨Ôë1 unfreed mallocs
+ft_strjoin() -> }ï›E%~1·å~KwÖò"@Ë6"’¥d}Œ:à{âãÒÿdÕqŸ8°Å(´…ÑÎ<‰NJ(°Étù¦Ž)NoFZã*ø<×ê@©íœ‘iý§úŒ_1‡™*€MçÃŽLº^Ä)X'{ûÞ4n€z9¾DWvÑf»ùü'Ï½!1ÑysSWœtSK¦xÙš]¡‡ºöTC•ˆ}ˆMo3üOe—g æÉsà…Þ#-]ÐŠ7žÔîü{:Ÿ ©6Ò™•l@g=~M»Ôžï{:mv}úœ°õ@¶ÀcÞ×¤àÛØ­"¨Ôë
+1 unfreed mallocs
 238 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ö˜àúÛëD9Ãµò—Z^gk,aÏW\/ÏáFF:8(GVOZ„1ãàe"A‰¬]l.žÔLK·÷kŒÆGR»Wºì5'oø‘á„tnxÇA±1 unfreed mallocs
+ft_strjoin() -> ö˜àúÛëD9Ãµò—Z^gk,aÏW\/ÏáFF:8(GVOZ„1ãàe"A‰¬]l.žÔLK·÷kŒÆGR»Wºì5'oø‘á„tnxÇA±
+1 unfreed mallocs
 85 malloc'd size
 0 unfreed mallocs
-ft_substr() -> JZÞ?ÖBé p-i\âªøcALÎû‚ívˆÎßçkü<‘Y±ˆe×fV¢ºÖì:ŠFjýfp€:‚Ì˜…
+ft_strjoin() -> JZÞ?ÖBé p-i\âªøcALÎû‚ívˆÎßçkü<‘Y±ˆe×fV¢ºÖì:ŠFjýfp€:‚Ì˜…
 ]¶^øá–õkšÐ^…RÍØXàL,Ë’gS2¢zó<ÚÙðÌœ5H—›ô”e-¥¿3ƒÜÀXÚÐÜžèíÄH×ýà—f·Æšœ·Iæ¨gý³èdmº¡5q~ÉÞU*eU´›‹ÅgËƒæ
 Þ:rÛà’—ÑàM+Ð;Ãh¶¶Ùg%\¢]Ò™#ç99ó¯^Iöø °î–yã`R¼æ’³aä`<‘Ç¤ipšah,ž²˜Ê-uÂ«S¶á&Ýó4é˜Eòä†áz¨n‡&ˆ+=V'cõ‡¨¯ÉA½îÞûÕt5W¯T¬"Bøá!Âö:Ã”I¹L&uÒòLJZÞ?ÖBé p-i\âªøcALÎû‚ívˆÎßçkü<‘Y±ˆe×fV¢ºÖì:ŠFjýfp€:‚Ì˜…
-]¶^øá–õkšÐ^…RÍØXàL,Ë’gS2¢zó<ÚÙð1 unfreed mallocs
+]¶^øá–õkšÐ^…RÍØXàL,Ë’gS2¢zó<ÚÙð
+1 unfreed mallocs
 432 malloc'd size
 0 unfreed mallocs
-ft_substr() -> î{GóÏšl`Ææ IÆp”É™?ý.ƒñh¥â«ÖJó‰	ÜíØqõ6Z„'¨6lfzé äÚg¬p3nòƒJs!	Nwïq¥¶pHç â1Òµ«
+ft_strjoin() -> î{GóÏšl`Ææ IÆp”É™?ý.ƒñh¥â«ÖJó‰	ÜíØqõ6Z„'¨6lfzé äÚg¬p3nòƒJs!	Nwïq¥¶pHç â1Òµ«
 8˜Î»×0“ŠéÒ¤*¯|,Þoªô¸‰ïyWU‘—´QB6™
 TØkÁ		Ä­Ä¢ü–xÃy3Ñ»E%ª&ptŽÜ…càdˆ0‰œ$£·×û·ýýC\Nùò8†€æGsÊPí)Ma\àðh5µÉ¦ó;IÑ×Ü¬_¨Ö‡†áèöÁB¥³¶ˆ²ºî¡(N3ûåÝèz¯vWž-	Y7$Å&#ò{°<Û¦üðÛÉîuHØ~AÚ¥¯ûž1P²#Ô)•9[¸=÷C÷{k^j–ÈÖ¦ ijq³ÁÃ´iÓÐfG[†–_¿X8¥´u¯’°Åz¡o®UQnVÐûÇBãÚÜEƒv@º"R™m¤}°Ey
-Ò~”>»oj¶9™TÓØÓ/bëè<-CK<y-œ»ú_esËªé	ÓbDÞGáæ¼¾åGò?†lò²78¬	zx¨.f¬æ«Ú–v„ÖT^Qoâ}óÂez\¥…üŒí+æwÎÅZEÓwe—B1 unfreed mallocs
+Ò~”>»oj¶9™TÓØÓ/bëè<-CK<y-œ»ú_esËªé	ÓbDÞGáæ¼¾åGò?†lò²78¬	zx¨.f¬æ«Ú–v„ÖT^Qoâ}óÂez\¥…üŒí+æwÎÅZEÓwe—B
+1 unfreed mallocs
 478 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ì6Ÿžƒ”^Ÿã«l§\MEO…¬”¸±öé} ±ÈIù¿x1{»p¦(»<Êã³½›…m9;“¬¬Ô.»oŽCE%èUQé¤HþU%èÞD¦d	\Ò²áòÚ_µœ ”6kœgãCÕm¿t¥‘ÂfPÿÀ„[ dËMØ}BÓÄ‰‹ºeèÆMuøŽ‚ìóã˜ü¡ë¬D[ŸØ¯X½ˆÈ½ß4³Ò -QúÙû¥Bp7Â(+›ù?h}–ÇíJ³5•žÒ§Hp˜ùÿK†{¾tÖlª3Ä»»À0	Mf×îýUñ°ÈÀÎŸR[Ÿð‘–\<–rxñøÿÓ)EpÑÜ3¥Jó¡êârP&bcýk•¯g¦<ŒýG(à\a>Òö"˜îhÖó'F™v‡ÝÂ©Ëÿ%ß¾ô3÷?ÙGýû"ítE…‰ô6ä;BÕ]›Ã‚hÍ¿^k‡$²ä¿f#NkWæI¡]vìr€G…´¦»ÁäÝI¨EÄmÊk=xò)ˆ³ß…ýMƒŒˆm‹$zý4-ÊDrØå¼žá9²ÞŒ€ SaÌJ¦W›¡=‹ŠÅú»R{ÕüîçëbAûT&Eé_y‚³ya{ðœ½&ºñJs_8¸†ìÝ	 Äå1 unfreed mallocs
+ft_strjoin() -> ì6Ÿžƒ”^Ÿã«l§\MEO…¬”¸±öé} ±ÈIù¿x1{»p¦(»<Êã³½›…m9;“¬¬Ô.»oŽCE%èUQé¤HþU%èÞD¦d	\Ò²áòÚ_µœ ”6kœgãCÕm¿t¥‘ÂfPÿÀ„[ dËMØ}BÓÄ‰‹ºeèÆMuøŽ‚ìóã˜ü¡ë¬D[ŸØ¯X½ˆÈ½ß4³Ò -QúÙû¥Bp7Â(+›ù?h}–ÇíJ³5•žÒ§Hp˜ùÿK†{¾tÖlª3Ä»»À0	Mf×îýUñ°ÈÀÎŸR[Ÿð‘–\<–rxñøÿÓ)EpÑÜ3¥Jó¡êârP&bcýk•¯g¦<ŒýG(à\a>Òö"˜îhÖó'F™v‡ÝÂ©Ëÿ%ß¾ô3÷?ÙGýû"ítE…‰ô6ä;BÕ]›Ã‚hÍ¿^k‡$²ä¿f#NkWæI¡]vìr€G…´¦»ÁäÝI¨EÄmÊk=xò)ˆ³ß…ýMƒŒˆm‹$zý4-ÊDrØå¼žá9²ÞŒ€ SaÌJ¦W›¡=‹ŠÅú»R{ÕüîçëbAûT&Eé_y‚³ya{ðœ½&ºñJs_8¸†ìÝ	 Äå
+1 unfreed mallocs
 488 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ó4`‹–qé°Ò*{!ÊID4•Êïªà‚_¬¯Á] 
+ft_strjoin() -> ó4`‹–qé°Ò*{!ÊID4•Êïªà‚_¬¯Á] 
 iPö¡­K©Þ2áŸš467­
 åð¼‡H5of¢M)˜p/e.j^™ 	ƒ^ùÀôCù(°ÓYœflçuÛúOŒ0^ £pè9VèÛ9A9ué	\p+“œÛ`ñ™Z??LÆq¦ãÛ~ÈNA)I§$ß(KÏÍûe ùÛJÚÑx ³R ³”™BÎgª~YuzîhQÐè“IZ{†Aw2]¥@	¹™ÜD?õ´ë@Ûé©°Ô¶7yœ^ÌÆÆd¦Í@K…‚1»È$ÞW”./®÷ŠÙ5|+¾ËÓþb¯
-IW‹Úå’O~bA±±·WZ<,‘Xþ™˜Š0UBaq–S—ý÷‰T•ïe/»ó^ù­r7©ùMR	è;Á„Ãû8”ÆðÝI¦lThŸ)íŸX"í”…Õ¦Ji¹qxÔhôÞòA‘>Ôì’ñ&_É©PØsçÁæ¿bnc6k-l”ë	dÍ6t”øP§,=+K'¹üb¿ŸžûÄé£“š„á4L@ò_ëñ'ÙUQñŸÊX-çá+B–veb@åg–>ìÏ‘•^¹1†¸Ôôu’`z¨¿Iý Âø€y×øKù!#	Á8¾ù;„†"ÈÍÃ?i”~®˜2™™Kaf¾‚B[o²(Rªl§åCá—Íæq‰„—;…25Þû®%Íå‡ËP„Î›¦”âÍü¶Å²<Ú‚ZÂo)äø¬Zà„OKf1˜óžíÎ©¶™ša²!øN¨â@ñzÃð‡-³fôìû*3£‹RîÃ—óáªÇ½RGz™Jú«_sÿ+"Ø¦˜ôLã¤EøC‚1 unfreed mallocs
+IW‹Úå’O~bA±±·WZ<,‘Xþ™˜Š0UBaq–S—ý÷‰T•ïe/»ó^ù­r7©ùMR	è;Á„Ãû8”ÆðÝI¦lThŸ)íŸX"í”…Õ¦Ji¹qxÔhôÞòA‘>Ôì’ñ&_É©PØsçÁæ¿bnc6k-l”ë	dÍ6t”øP§,=+K'¹üb¿ŸžûÄé£“š„á4L@ò_ëñ'ÙUQñŸÊX-çá+B–veb@åg–>ìÏ‘•^¹1†¸Ôôu’`z¨¿Iý Âø€y×øKù!#	Á8¾ù;„†"ÈÍÃ?i”~®˜2™™Kaf¾‚B[o²(Rªl§åCá—Íæq‰„—;…25Þû®%Íå‡ËP„Î›¦”âÍü¶Å²<Ú‚ZÂo)äø¬Zà„OKf1˜óžíÎ©¶™ša²!øN¨â@ñzÃð‡-³fôìû*3£‹RîÃ—óáªÇ½RGz™Jú«_sÿ+"Ø¦˜ôLã¤EøC‚
+1 unfreed mallocs
 678 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ´@` ‘Íèq‘æ2¼)BZÝ'²!PFì_@›'AX'…q	Æñþ÷þlj;íNæØ[Y]Æ<”¦*ì³ÙyƒJ‹Åœçy£X*r n`€$È·cªÂuÉ†ð+Ð§€·.›:‚¾ìIY/bÉoûÉÕ«Ì6Ô¨PÔƒÿ>p”´* ~H<	AŸÆÁÎB¸„í¾Rèð/â³r¼;š“³M³˜ò3+Ö2¯®ÂEÉ‹ôƒÿ7ýŒÍ ÆÞ]M­»-â2åïCcPwN!mi<=ÈBoâÛjˆá›@ñÙ¾ÞñôX•_4ÔÜ_¸tº‘P'S—ž³yÜRGUIz}SÄ||ÿG( T
+ft_strjoin() -> ´@` ‘Íèq‘æ2¼)BZÝ'²!PFì_@›'AX'…q	Æñþ÷þlj;íNæØ[Y]Æ<”¦*ì³ÙyƒJ‹Åœçy£X*r n`€$È·cªÂuÉ†ð+Ð§€·.›:‚¾ìIY/bÉoûÉÕ«Ì6Ô¨PÔƒÿ>p”´* ~H<	AŸÆÁÎB¸„í¾Rèð/â³r¼;š“³M³˜ò3+Ö2¯®ÂEÉ‹ôƒÿ7ýŒÍ ÆÞ]M­»-â2åïCcPwN!mi<=ÈBoâÛjˆá›@ñÙ¾ÞñôX•_4ÔÜ_¸tº‘P'S—ž³yÜRGUIz}SÄ||ÿG( T
 ¼¨I¹?z9!Åü‡ káH³V°Ô£4ÔQ¥MœÙ–úc€Ãbi¶*·‡ÎÁ„{ðb•Ñ'}tLió§¤œ8¯+%†ÈùÆ*„BÉ¡i¡º~¼®¸–ó&b©,yÂÔî	*¯©äœ‰wfœ‚b"ëÖã"²òÌíF=ºÖ–&ð²u)°Q3²ÝÚÚ;]¯OÏˆ¥ïb´@` ‘Íèq‘æ2¼)BZÝ'²!PFì_@›'AX'…q	Æñþ÷þlj;íNæØ[Y]Æ<”¦*ì³ÙyƒJ‹Åœçy£X*r n`€$È·cªÂuÉ†ð+Ð§€·.›:‚¾ìIY/bÉoûÉÕ«Ì6Ô¨PÔƒÿ>p”´* ~H<	AŸÆÁÎB¸„í¾Rèð/â³r¼;š“³M³˜ò3+Ö2¯®ÂEÉ‹ôƒÿ7ýŒÍ ÆÞ]M­»-â2åïCcPwN!mi<=ÈBoâÛjˆá›@ñÙ¾ÞñôX•_4ÔÜ_¸tº‘P'S—ž³yÜRGUIz}SÄ||ÿG( T
-¼¨I¹?z9!Åü‡ káH³V°Ô£4ÔQ¥MœÙ–úc€Ãbi¶*·‡ÎÁ„{ðb•Ñ'}tLió§¤œ8¯+%†ÈùÆ*„BÉ¡i¡º~¼®¸–ó&b©,yÂÔî	*¯©1 unfreed mallocs
+¼¨I¹?z9!Åü‡ káH³V°Ô£4ÔQ¥MœÙ–úc€Ãbi¶*·‡ÎÁ„{ðb•Ñ'}tLió§¤œ8¯+%†ÈùÆ*„BÉ¡i¡º~¼®¸–ó&b©,yÂÔî	*¯©
+1 unfreed mallocs
 804 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 3^?úõ8
+ft_strjoin() -> 3^?úõ8
 ~F­<Ò‚)b&©¾"$ê¾šñô™âüƒ€þŒ4ö8 Oi$Éº”Y,È8Œv«­‘SQ·9J)Æ8âôòE¸Ñ\r{‰Qá'wÑ7n*$¸x²½«JÚqËìf¡+ãnƒ™%…‹ÂŠhEŒ&ç;r]ü=´°b+. @GøW´Æ¾˜ë:Çiê%óö#¯(á£ÓfæsµÝØõ‡Ì	QÎ«°ç4PPôÒ*Ô~©vTÄ"Yœr´$Æ ~ú½*üUQ“Íh¼{ÈöWÏ|ô&ÆYG˜‰ÐÎ¿'^ó¨&ÆŠa_¶xÊq`Q;¹ÐnuØµÔJéðÄÞ!·af†ÞÁ#VÍ\¤ '–Ë	’F8ÖaîÃ.ë<Žk‡Ì']‘Þ¼ÖëœG5âlBoNÙ*ânA¶Ú€DÔß#çhÄmŒÄqÌ’åkÌs(Ž£w´	Úck$¡•ñ·êËÁP¥Ë±4ÔË
 #ëJÀBcë³¯Ø )Ú º†=È¾ÿØÊÝN`†ÞÆVL.gY†EXÃÄá]q ²RRÇ°»,A1ž¬íõ¥í]9’žHÁát|^¸¢®ÇŒ1“zZ³íå`]‘eQø.Ž)ŒžäÇÏø–úKÝ0–>‰ÐÓŸœ<ã‹ÆË°fÒoAC•5Ÿ¦œj´GÍ_*Â¦*JUÂAÜågÇ/¡ÞÓô¤Ù‡ÿN	_ˆ±,&V”‰j1{àÿ!'¼–¾ò„=Hr$œ†bˆ½¦QÖŸÙny«Í¢Î# 55ž™•ål7Ø'—x«×ØÏÀÈRQt&ö‹–]ƒßž2nüz¡Ž u‹®ªÌÓ‚ƒ%>i"ÙXŠú¥…-Oø4×|o§ ŸƒR[ÆTØlÿ{ÁƒZ(£}0õÈ¥ç‰cÄ•d+ƒz¾úuTÏÄ×Ý‘ô®x²±:	ˆÀ;4runfÎ!„¯ùøRL°°ÕL­|¶ÇM„£pS5`bé•Y*nûc·o¬ÑVûE÷_‘}Ó2}cvÉ—Kmò“Í6û¨‰aŠ’µjí¢:¾µØÆð‹X—.óVØ™°þ|ûÕ66@H´¾…]h§»¸v¾l¾˜xDÈ¶Š2[N[ýæ
+
 1 unfreed mallocs
 870 malloc'd size
 0 unfreed mallocs
-ft_substr() -> @õq.þwû^C%Õñ·÷6¶Í¢ˆ3¾tžn¹ªh‰Ÿí(‰Mq(
-¡¦3eX±ÛX¤›ˆöïa%hšóÔ‰RœÓˆ2k’sUÜiR‘ë¯ÿŠü)kF¼ËÂDv«:ýÚh?¹ŒS!Ì³~“@õq.þwû^C%Õ1 unfreed mallocs
+ft_strjoin() -> @õq.þwû^C%Õñ·÷6¶Í¢ˆ3¾tžn¹ªh‰Ÿí(‰Mq(
+¡¦3eX±ÛX¤›ˆöïa%hšóÔ‰RœÓˆ2k’sUÜiR‘ë¯ÿŠü)kF¼ËÂDv«:ýÚh?¹ŒS!Ì³~“@õq.þwû^C%Õ
+1 unfreed mallocs
 124 malloc'd size
 0 unfreed mallocs
-ft_substr() -> tÓ“²?¨ÛGòŠ`ø2=.ü]‚óèãQPfy¹Úi>¾5¯5w6HkÅ`½¯cÿý²B¤iÑ ¯Cjâ±\ÌsÊ¹ÊŸM]î#à¾ªY\Eš™â½9DnÈµÈ^ˆô¡úÐ¶@,‰8'Ææ[AÒ­¶NGüås Ã_Å*Õ©arà6S	 5smï*1 unfreed mallocs
+ft_strjoin() -> tÓ“²?¨ÛGòŠ`ø2=.ü]‚óèãQPfy¹Úi>¾5¯5w6HkÅ`½¯cÿý²B¤iÑ ¯Cjâ±\ÌsÊ¹ÊŸM]î#à¾ªY\Eš™â½9DnÈµÈ^ˆô¡úÐ¶@,‰8'Ææ[AÒ­¶NGüås Ã_Å*Õ©arà6S	 5smï*
+1 unfreed mallocs
 147 malloc'd size
 0 unfreed mallocs
-ft_substr() -> qÝTUÿ¯¥ÿ9×H÷`ll®
+ft_strjoin() -> qÝTUÿ¯¥ÿ9×H÷`ll®
 ‚Ù\kø²ß)kgï¤'.¹Ñ”ÀüdMj{¹üäÀÜxäõ°FuÜZÛƒg°Ž&__¯Þjs)YÞÎm&ÊØƒ¿ý¥Ó©N·OW^9» B±_r7è#(èMê	ƒ:¨¸­[¾éed<÷™u×$†H©­Ð «•eqò.P¬gá™ÚÙ:âËµ#\™À!ñPõŸ2f8D†µ”KPÃÓíìßŽh@Û©ž}f÷:u¤º~Xóò5'¨»ô@£<àòs°	D
 ÉœíA
 h†';
@@ -855,319 +1036,390 @@ ft_substr() -> qÝTUÿ¯¥ÿ9×H÷`ll®
 ÈHÒL•ûûVÁÏ•™w=?ZÒTmdDo´©ÁNü™9Ü lÒ¥íNRSÇ†>ßiƒñsÚ«~!.ãKF‚Þj¼µ'¶Ãæì²­²!K*ïe—n˜-íÊlÚžÃ$È±ì…eÖÔ¡küßU"âä¸W­ CŠ.&sÌæ!Àû£u&Ž¾. aô,gAŠç7Ó†•§äÂ¼ŸÄ,T ’#ðN8ã„FÓÆa
 ±Ç·€ÿ˜IÛŸáÖ¢P†ô·úK¶gX‰sÏgÔ¸hR‚p,=ùrØx¿üÃŽpÃo\"è&å“4ôyr&¾§‚˜ªâýsâ„'çžÓû'+è½†—úé]BïèÓÀçø…2R(x%›Þ­, )Î5WcÀü~f9\j+«{ÄÐd·kgO¯‘ÒQ¤IH8à÷!õ%„á“‚£‰•…¦Ä±E—×O+EÀ…úE?É å¨©úúÚàÏŽ¤½‰*×[Sw÷oL]¬Y—ž$©›¨Ú–Øž\Í['&þs!ñ6Ø`¾ý˜%¦/Å`^›à¥Œ]ðÍûÒƒB _Þaò²¼Ò‘s j …^ô88ŽÜ³¶8Ùº£%7´§ÖhÁE`âìÙüÇ`XTÇÅ©¶é¤J8WK}t¥°ÕW^£Ä‚ >ƒŸgPrŸÝR(esãŒ'W¨$]Ã?„¬Åí(4Bå£+êÃôS±¶xå†¿ž4v?ÀºÊfË?ŒKûI\´„i3'ë6ki­
  	[öÄ?·æ”¬Àirð@s;¨‚ÛÈgò¬m˜ßí7ñlÎJÇ˜JÜ rúüvhBþG?éãj²¨å/X¨¹·ØK.&sÊ­XdÂwc×Ó–6úI54¯xò–¾Ø,Äåç2„ŽÏíjLËk:^òÁ#²Å¸ç®
-â'àêýÊÌžJû$|\È>ñc|6<6½ãï"d{'t†ÈÉ‚õ„Úcœˆœ‹M,õÌv0Iª¢ßrì«›ì„„8´_Q5Ó¢~~èaqâpT1žsÔv`w¾'Rkbdt¢ë¾e÷hÃ«xF”à'8™\TóÚ§mPoP+EP{0	0€~äQê“i ¤ÓH¼†%ö¡'óÒŸ?Ç€8Jƒ‚À²Ùzª5@»¾Õd$û|ZGÌÛ@ÓqKþ”1­ë³ã@³9É='Ð3ø‰ºÊC±1 unfreed mallocs
+â'àêýÊÌžJû$|\È>ñc|6<6½ãï"d{'t†ÈÉ‚õ„Úcœˆœ‹M,õÌv0Iª¢ßrì«›ì„„8´_Q5Ó¢~~èaqâpT1žsÔv`w¾'Rkbdt¢ë¾e÷hÃ«xF”à'8™\TóÚ§mPoP+EP{0	0€~äQê“i ¤ÓH¼†%ö¡'óÒŸ?Ç€8Jƒ‚À²Ùzª5@»¾Õd$û|ZGÌÛ@ÓqKþ”1­ë³ã@³9É='Ð3ø‰ºÊC±
+1 unfreed mallocs
 1147 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 'm_‚»Ž£TœfD`®e¦»…¿Oª—å¤]ÏÛ¨®FÛ2N¹ÃNs¡·Hä4Šx}»b›Ù¿~æ‹íñÇa`d{%>Žr©ÕâE‰¢ QK<‘Kê»ÛÞ—Ã»É¯	WÿWøZ?oÔÐéÍG}+RJüJ
-ŸþãÜ“SÜÚŸæc—ˆFÝÿ–èM»~	Ã”¥*¿ÑŸx‡_Hï2²Ë¸Ñ‚¬I\F‘;^qÓê`oÈÏ^ÎœMµ8É›ùp*ˆŸ¸ó³ŒÛm‚;f}kØ|ÕÜsëõí|¯QkïyìN¦/y«=Ï°SwítÖŸ§aJ%bú”¿jƒó”þ<"ÅÛè(£cµ««(†•Ù£êrä$¿ã\|1ÄOh÷v	õ¹r¼zêº1 unfreed mallocs
+ft_strjoin() -> 'm_‚»Ž£TœfD`®e¦»…¿Oª—å¤]ÏÛ¨®FÛ2N¹ÃNs¡·Hä4Šx}»b›Ù¿~æ‹íñÇa`d{%>Žr©ÕâE‰¢ QK<‘Kê»ÛÞ—Ã»É¯	WÿWøZ?oÔÐéÍG}+RJüJ
+ŸþãÜ“SÜÚŸæc—ˆFÝÿ–èM»~	Ã”¥*¿ÑŸx‡_Hï2²Ë¸Ñ‚¬I\F‘;^qÓê`oÈÏ^ÎœMµ8É›ùp*ˆŸ¸ó³ŒÛm‚;f}kØ|ÕÜsëõí|¯QkïyìN¦/y«=Ï°SwítÖŸ§aJ%bú”¿jƒó”þ<"ÅÛè(£cµ««(†•Ù£êrä$¿ã\|1ÄOh÷v	õ¹r¼zêº
+1 unfreed mallocs
 308 malloc'd size
 0 unfreed mallocs
-ft_substr() -> gúxhêÔE(ûìëy$ùøy×º\é®û×¿˜eM>£íS¢†˜6W–~ÛH}Š'd¶]³ÓhÖÕ;wŒ"µ‰åÈÊ>ÙsÓŽÒt'·kÛòRÓDó·Ï)nrV„9OŽiaþÜçuU‰ŸDµI1n ¿rƒ3/í}a3É:u™Ã(=ô—ø‘ê‚¬ÞÝiÑ£Ôì¿¡,Ù/1 unfreed mallocs
+ft_strjoin() -> gúxhêÔE(ûìëy$ùøy×º\é®û×¿˜eM>£íS¢†˜6W–~ÛH}Š'd¶]³ÓhÖÕ;wŒ"µ‰åÈÊ>ÙsÓŽÒt'·kÛòRÓDó·Ï)nrV„9OŽiaþÜçuU‰ŸDµI1n ¿rƒ3/í}a3É:u™Ã(=ô—ø‘ê‚¬ÞÝiÑ£Ôì¿¡,Ù/
+1 unfreed mallocs
 159 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ŠCøÎ*ûÑqŒ·“”Pn7'vÓ0—0tÅ})¢R`qFèƒŒl¦z\CA‰Ž¿ò­þ«¨ï?ŽsáýÃ“\ƒ>°}þõ#{/~ŠÖÿ¨~Ìwª}ÕÓ´^R/*¥ŽÓû±u@Á¨ü#ÚÐ˜‚–‹âDÓt_·Êo)Áá¦9Ád~
+ft_strjoin() -> ŠCøÎ*ûÑqŒ·“”Pn7'vÓ0—0tÅ})¢R`qFèƒŒl¦z\CA‰Ž¿ò­þ«¨ï?ŽsáýÃ“\ƒ>°}þõ#{/~ŠÖÿ¨~Ìwª}ÕÓ´^R/*¥ŽÓû±u@Á¨ü#ÚÐ˜‚–‹âDÓt_·Êo)Áá¦9Ád~
 ¬.„àz©ŠÑûú¾£eá;d­«;»ÝÍü¹=&¼½.© ê,#MxÃ@¯É4Mì¾S«>ž1cƒ^ï†‚àãj”.†üÿ#3åõ
-	Žœ¿’·ë™ºP‘¾Ï»0ôäÛÙÞƒ.Ìs€òÛ@@**ãÁ!p`¥’1#aç¾™Ø’ŠG»¢Ñ–ëºsÂ¢··º»¦£Ypû/ÞznBéÔWß£|düA èàµ‰H‡mIG×T1 unfreed mallocs
+	Žœ¿’·ë™ºP‘¾Ï»0ôäÛÙÞƒ.Ìs€òÛ@@**ãÁ!p`¥’1#aç¾™Ø’ŠG»¢Ñ–ëºsÂ¢··º»¦£Ypû/ÞznBéÔWß£|düA èàµ‰H‡mIG×T
+1 unfreed mallocs
 326 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ²pÓ^ ˆ¼Wâ®Ð&•ÔÅ!¾S©Æ*SH‰Ô+Ú¯ô¢–G¨œéàßÅ-Ò˜{Žò±ÆÉçŽw{L=—TNšÉGðÔ¿ÊÂ¤¤¡q;øm7´¡>ºIyï·7?¯ªmyš¬bÒÌ8ôÈ›»—ÝÍñC’ÉßÁ&l÷÷1ÏöÉt’u«q
-oåÌ×ÁXB:ˆ³e8ZÔ|½ÅÒ~S™â"R¡zä*ÊÃWoª("J$'¾lquäˆ@ìNâ(C_U^:dNÖ<y’O6—Ž¡$4Á¹Y[ÀR`½&UHA÷hèŽ‘ÑZT1«rûpz·Ü°N£Y‰o‘HâÈÑÔÅÒÖ6Þ–†©x_j¯Ž†"ÉÉR¬±#'‰ú¼.iw7yšá•ošQW‹´†Ó);tÒe!ílú‰JükëŒ'?Ç˜ åÁŠsÝ•;»G¥á£Ò› ãˆÄ,Ùÿ<ž¥£%¦©+{õõî-«>1x„ž1B;å©x‘Ò<ï"S_ÕÝÇÉ“²Ô„îµ4P:ÑrÉx¨©Ç ñ>š]{ëÅ¸¨Ek„f@±m»øœ-1½1 unfreed mallocs
+ft_strjoin() -> ²pÓ^ ˆ¼Wâ®Ð&•ÔÅ!¾S©Æ*SH‰Ô+Ú¯ô¢–G¨œéàßÅ-Ò˜{Žò±ÆÉçŽw{L=—TNšÉGðÔ¿ÊÂ¤¤¡q;øm7´¡>ºIyï·7?¯ªmyš¬bÒÌ8ôÈ›»—ÝÍñC’ÉßÁ&l÷÷1ÏöÉt’u«q
+oåÌ×ÁXB:ˆ³e8ZÔ|½ÅÒ~S™â"R¡zä*ÊÃWoª("J$'¾lquäˆ@ìNâ(C_U^:dNÖ<y’O6—Ž¡$4Á¹Y[ÀR`½&UHA÷hèŽ‘ÑZT1«rûpz·Ü°N£Y‰o‘HâÈÑÔÅÒÖ6Þ–†©x_j¯Ž†"ÉÉR¬±#'‰ú¼.iw7yšá•ošQW‹´†Ó);tÒe!ílú‰JükëŒ'?Ç˜ åÁŠsÝ•;»G¥á£Ò› ãˆÄ,Ùÿ<ž¥£%¦©+{õõî-«>1x„ž1B;å©x‘Ò<ï"S_ÕÝÇÉ“²Ô„îµ4P:ÑrÉx¨©Ç ñ>š]{ëÅ¸¨Ek„f@±m»øœ-1½
+1 unfreed mallocs
 452 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ó¯KE^ÜïÐ€«í )™3>;®BÃ¼^É¾€hôé%¤
+ft_strjoin() -> ó¯KE^ÜïÐ€«í )™3>;®BÃ¼^É¾€hôé%¤
 0<…Û}-x;P4†©«ZæÏÙ¿JÞÄºÆóÀ<œžì?-ªœT)ˆ,×c¶bþ\Üqí£SÅ'§–y®épã¥jß
-^­ä×ŒcWz±¡µä¢hC[)b1…êIF›‚Œ¾>æ²~þ¿’†DàÉJ(å¦«©A²ŒÇ ÌZH…®kZŽEˆ#b„H("<;°NHBWœ_ àŸÍIË§jÏ‡›ÓEiøxÀý„‘´ý1×IÖV˜¾iÚÑÅ—Ú†þm¸³%\~–De£›\†Oò@^«|l•¤ÛTRn‡,[ÅÑpk"BQ#„2»Ê#­x2O’|aÀær¯ù~™–³­bÊ“…ÄîtO¹£±½Uø7Šë‘øOÏ­õßl»ÿ#ñ”Jµ¸|·?{×Ý’5«Ý†ÙÙâ”¶z4¥¼˜÷øee"ÝË”&õ¿ÁUP^VqtÿxåQ¾hXñÕ´Õ¤Sß@vv*7u¥X;%,4.O 9ömâz7Wñ¹#’åÀu¥ÔÝz±ÚA²sæGâEÐA>·¦í›©"Â;	\4¯%VöLÝQ¬…m3<Xùú6=3ˆŠ&¡ªÀýWàØL5ìá®ã[ùŽXN)_ë&ÀU®NE§‰œGdl­ï'(0µýyüMÈD!Ñé(GšõÜà!-üëi»R%ƒwü‡Ü`|[ðÁáàù®Þ1 unfreed mallocs
+^­ä×ŒcWz±¡µä¢hC[)b1…êIF›‚Œ¾>æ²~þ¿’†DàÉJ(å¦«©A²ŒÇ ÌZH…®kZŽEˆ#b„H("<;°NHBWœ_ àŸÍIË§jÏ‡›ÓEiøxÀý„‘´ý1×IÖV˜¾iÚÑÅ—Ú†þm¸³%\~–De£›\†Oò@^«|l•¤ÛTRn‡,[ÅÑpk"BQ#„2»Ê#­x2O’|aÀær¯ù~™–³­bÊ“…ÄîtO¹£±½Uø7Šë‘øOÏ­õßl»ÿ#ñ”Jµ¸|·?{×Ý’5«Ý†ÙÙâ”¶z4¥¼˜÷øee"ÝË”&õ¿ÁUP^VqtÿxåQ¾hXñÕ´Õ¤Sß@vv*7u¥X;%,4.O 9ömâz7Wñ¹#’åÀu¥ÔÝz±ÚA²sæGâEÐA>·¦í›©"Â;	\4¯%VöLÝQ¬…m3<Xùú6=3ˆŠ&¡ªÀýWàØL5ìá®ã[ùŽXN)_ë&ÀU®NE§‰œGdl­ï'(0µýyüMÈD!Ñé(GšõÜà!-üëi»R%ƒwü‡Ü`|[ðÁáàù®Þ
+1 unfreed mallocs
 576 malloc'd size
 0 unfreed mallocs
-ft_substr() -> rwÂ.¤È\W¯Gÿ;pH‰!´ø•Ì¾+ð&òÚ\“û0)T&RnàVVYôƒØnæö¼<i‘kõaõÃC*äNÀn0*ÙÄâOÌD&]=fQ ñU¢¨¸p÷ƒ©ÁgÝž½U£!>Ò6ªAA~¡’o	›&¨.K–ˆ]áÙ…4¢ÁÂÿsËÞ"§€Ð0+BPIé\ßñ% h%Ù~µ¹ýâÉög°Œ¢ÿ„æÒ•k]%óVHtï®;ã^ªèÂh®kÕðð‹Å©’~‹ß>Ã
-@°¢®ìÜæ€ŠÞ]ë(¥KÖ_2;¤›’b!cÄ‹Ú+Å%v;YÂ’?³PpA†³º“?»U_Z¸Ì­Û$¯%Þ¤[dLtU˜±¹,ª5bÈMœ—g´”yœ“ÇXïÙã…¿ïwi§8CçúÿÛ‰¿ä©1 unfreed mallocs
+ft_strjoin() -> rwÂ.¤È\W¯Gÿ;pH‰!´ø•Ì¾+ð&òÚ\“û0)T&RnàVVYôƒØnæö¼<i‘kõaõÃC*äNÀn0*ÙÄâOÌD&]=fQ ñU¢¨¸p÷ƒ©ÁgÝž½U£!>Ò6ªAA~¡’o	›&¨.K–ˆ]áÙ…4¢ÁÂÿsËÞ"§€Ð0+BPIé\ßñ% h%Ù~µ¹ýâÉög°Œ¢ÿ„æÒ•k]%óVHtï®;ã^ªèÂh®kÕðð‹Å©’~‹ß>Ã
+@°¢®ìÜæ€ŠÞ]ë(¥KÖ_2;¤›’b!cÄ‹Ú+Å%v;YÂ’?³PpA†³º“?»U_Z¸Ì­Û$¯%Þ¤[dLtU˜±¹,ª5bÈMœ—g´”yœ“ÇXïÙã…¿ïwi§8CçúÿÛ‰¿ä©
+1 unfreed mallocs
 330 malloc'd size
 0 unfreed mallocs
-ft_substr() -> nÌ¶‰WltV¬"+ù”UÅ1…Ê¶‹Ãm¬O<ŒaÏPäùáz†FÃ„„ìûCpGn¸uÛj“Úk–é§ûn°?sw¢É‚†Ü˜µHÆÄï¦óª:zBÇá"U»°â¸»
+ft_strjoin() -> nÌ¶‰WltV¬"+ù”UÅ1…Ê¶‹Ãm¬O<ŒaÏPäùáz†FÃ„„ìûCpGn¸uÛj“Úk–é§ûn°?sw¢É‚†Ü˜µHÆÄï¦óª:zBÇá"U»°â¸»
 uG:Át¡‚rá¥ƒ_Ì¯_
-È“±—U¡ßz®©S@$—±”›Úâ×Ï÷Y†MÁ_±²*™]xJ‹J6ËãI1 unfreed mallocs
+È“±—U¡ßz®©S@$—±”›Úâ×Ï÷Y†MÁ_±²*™]xJ‹J6ËãI
+1 unfreed mallocs
 162 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ê¯×Zõa<LÐ`ƒi†Ñ4tM-þ‘¼ˆ¢Óõ{Í9IÊ
-%*~ÂÈ¿©ö7-³=$eÑAÅÖ*äU&ÿùý¸ëƒ™$‰üUBÚœ°Ä]¦@F,R)Õ{[ÑùŠ§,ÿúv%è?dÀdq[7³û¿ð¾Ø_ü,5]D1J±;9QŠ>"$M>¦Á}è]ÃÝÿ–ãâU‚ŽZÌÚÖõ­·¥ÅrÜZý[ÃO6&"5–mOGÁ(¡Q×›¨$7°bjNZ^+vN;)ÒæÐ×ÊTÂ4Ì#TÌ ±qœö©‡-qs¶õ¿¤hY¯Bôç"Ïãs«Õe 1ãsª’1 unfreed mallocs
+ft_strjoin() -> ê¯×Zõa<LÐ`ƒi†Ñ4tM-þ‘¼ˆ¢Óõ{Í9IÊ
+%*~ÂÈ¿©ö7-³=$eÑAÅÖ*äU&ÿùý¸ëƒ™$‰üUBÚœ°Ä]¦@F,R)Õ{[ÑùŠ§,ÿúv%è?dÀdq[7³û¿ð¾Ø_ü,5]D1J±;9QŠ>"$M>¦Á}è]ÃÝÿ–ãâU‚ŽZÌÚÖõ­·¥ÅrÜZý[ÃO6&"5–mOGÁ(¡Q×›¨$7°bjNZ^+vN;)ÒæÐ×ÊTÂ4Ì#TÌ ±qœö©‡-qs¶õ¿¤hY¯Bôç"Ïãs«Õe 1ãsª’
+1 unfreed mallocs
 265 malloc'd size
 0 unfreed mallocs
-ft_substr() -> b=}ùYãëO
+ft_strjoin() -> b=}ùYãëO
 ‘Úoz¡ö5Î!þ|ËNe@£IO½k‘Rr.³,Õ—g;(µª$Lš…Ý’ß[GC²UˆPÕ³$ÿÞn£"Œ¡g¯ /ÆÁåé»ãÐ\ÈóPÉ8ÏÙR—[â©â6øëÞ•@§¾Îìô{`NA¡Ûj{ÞJ|tÙŠ›sÖDæ0jB¦[m§oŒv»ûívÆ©àÎi
-À·— ™a­!©ÏC¤‘—,A"¸n3"êR@$Z€¾™	”?ÒU·JBæÒøì¬ÜOšä^‰$Ý–y-*€ôb¥”>1 unfreed mallocs
+À·— ™a­!©ÏC¤‘—,A"¸n3"êR@$Z€¾™	”?ÒU·JBæÒøì¬ÜOšä^‰$Ý–y-*€ôb¥”>
+1 unfreed mallocs
 235 malloc'd size
 0 unfreed mallocs
-ft_substr() -> iênn§ÈUŒnâ¢¨ˆqm`ù|·Óý2çVäRÛìÕL‹_I»Oø­^½ÀSŠx~«ðù?gº¸¶±D?I44HGÝy×ÊböFtÏiJô}×„­EÙW•+þÅÀÁÒw«ô
+ft_strjoin() -> iênn§ÈUŒnâ¢¨ˆqm`ù|·Óý2çVäRÛìÕL‹_I»Oø­^½ÀSŠx~«ðù?gº¸¶±D?I44HGÝy×ÊböFtÏiJô}×„­EÙW•+þÅÀÁÒw«ô
 ðUCò™§”ÅÝ§­¢4&µæ»Ø¿kQG¦q¤íJ¤NWÇ$EeŸ‹Ô7H>³“îØÅ|Z#zÓúí<[Ð½ÑhÏ­‰`ûg˜lböuŒ)þ1©ä(”ržÞL€	_9	ðkv}\Ž>¡^%3Èžï^áóÀGs ï¹»%È@¦Ÿd©rG„Bû%ž<ØV;);ƒ³ú››EþòÅnü0ý~’­mmÈ'ÂMÅ’e÷í]âë†X	WkÕP|À.Ñ‚ÒÕf²Ú$«u¡ÎŠõ}0g·úÔž'Ehs™‰ÌµRH_ƒë­²Rðu)‚šÍ=©c$æëîb£!Xí–à¸¨4Nµ´ÈÉÈ&Uu“12J^^·”Á§äœ>EGhÞ¼Œ
 ~·wAhñu!YágÀAqúâ)cSùþ©H_×Ã†Ü„1â¤+3PìBê›:ØÒÿ˜ÿ¹ÚE*(§G‡þ,Þ¢~Yâ5Žy¿oÓ5 Y
 Í
 a}XÅbßöÈ6"õ(ö¬O4ÚEJÌª}Tn«ƒÄüÉáÊiênn§ÈUŒnâ¢¨ˆqm`ù|·Óý2çVäRÛìÕL‹_I»Oø­^½ÀSŠx~«ðù?gº¸¶±D?I44HGÝy×ÊböFtÏiJô}×„­EÙW•+þÅÀÁÒw«ô
-ðUCò™§”ÅÝ§­¢4&µæ»Ø¿kQG¦q¤íJ¤NWÇ$EeŸ‹Ô7H>³“îØÅ|Z#zÓúí<[Ð½ÑhÏ­‰`ûg˜lböuŒ)þ1©ä(”ržÞL€	_9	ðkv}\Ž>¡^%3Èžï^áóÀGs ï¹»%È@¦Ÿd©rG„Bû%ž<ØV;);ƒ³ú››EþòÅnü0ý~’­mmÈ'ÂMÅ’e÷í]âë†X	WkÕP|À.Ñ‚ÒÕf²Ú$«u¡ÎŠõ}0g·úÔž'Ehs™‰ÌµRH_ƒë­²Rðu)‚šÍ=©c$æëîb£!Xí–à¸¨4Nµ´ÈÉÈ&Uu“12J^^·”Á§äœ>E1 unfreed mallocs
+ðUCò™§”ÅÝ§­¢4&µæ»Ø¿kQG¦q¤íJ¤NWÇ$EeŸ‹Ô7H>³“îØÅ|Z#zÓúí<[Ð½ÑhÏ­‰`ûg˜lböuŒ)þ1©ä(”ržÞL€	_9	ðkv}\Ž>¡^%3Èžï^áóÀGs ï¹»%È@¦Ÿd©rG„Bû%ž<ØV;);ƒ³ú››EþòÅnü0ý~’­mmÈ'ÂMÅ’e÷í]âë†X	WkÕP|À.Ñ‚ÒÕf²Ú$«u¡ÎŠõ}0g·úÔž'Ehs™‰ÌµRH_ƒë­²Rðu)‚šÍ=©c$æëîb£!Xí–à¸¨4Nµ´ÈÉÈ&Uu“12J^^·”Á§äœ>E
+1 unfreed mallocs
 924 malloc'd size
 0 unfreed mallocs
-ft_substr() -> zPâøéL•ÕmŒ)sa Ÿ{´5¾Ÿ([ŽÑH€Å¨ßO¸¢3fÜ¼ÍŽ’f·†öû4ªû{¿9ÅhZ´òôBÑÙüî*Ôx^„Œ@´†’[›ˆ½kXÊùAêèËÄ',ô#ƒb>~QkU¹Õ±xG[˜+!y;3J4ÀìÑ‰Â(§7¦hŸ~";q¾5@$s9A-'ÍÚõüF¨¯i4ºÞ*Ö:qi,pbXB
+ft_strjoin() -> zPâøéL•ÕmŒ)sa Ÿ{´5¾Ÿ([ŽÑH€Å¨ßO¸¢3fÜ¼ÍŽ’f·†öû4ªû{¿9ÅhZ´òôBÑÙüî*Ôx^„Œ@´†’[›ˆ½kXÊùAêèËÄ',ô#ƒb>~QkU¹Õ±xG[˜+!y;3J4ÀìÑ‰Â(§7¦hŸ~";q¾5@$s9A-'ÍÚõüF¨¯i4ºÞ*Ö:qi,pbXB
 ±½„€@mG2$Ç‚wŒv›Tz°Èþý<ŠÐµ\|é«µç“S–%xA¶ƒ«š$—£é—óñ6`rDRò÷–ŠÝ´:=\)…“„H@6·8™Üµ´2g„_
- ßŽCð,ªSìñ>‰*ë±ne(¾Ó7Œ÷„Á¨¾+jF:Ú¯aY<cÜ^3sŒUº–îD#º‡xÆs«¤ÓÂ!8)  YVád®ÀžHß}2l†²«Ð.¸+‹^™PTxù(ôvDÕ=OLÇ¹™=¥X©ELÜM"ØìŠ>L¡§T4°ç)‘Ýû1 unfreed mallocs
+ ßŽCð,ªSìñ>‰*ë±ne(¾Ó7Œ÷„Á¨¾+jF:Ú¯aY<cÜ^3sŒUº–îD#º‡xÆs«¤ÓÂ!8)  YVád®ÀžHß}2l†²«Ð.¸+‹^™PTxù(ôvDÕ=OLÇ¹™=¥X©ELÜM"ØìŠ>L¡§T4°ç)‘Ýû
+1 unfreed mallocs
 445 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÆB¡>sÜ@/jõQÔÜÇÇ[éxKâÜfU¸ÐjÇÓE/Í§º—Ø®~ê6€—ÂE3Òç^–pÐ¹×KKÈÓÑÕzçÁƒÇ*è´óéýÞÿŸ^µùv¥ØðµöyTú.®n})J	©õ:-Ú ­«™:ÿüÆÑ‚Ådcðž£Q?
+ft_strjoin() -> ÆB¡>sÜ@/jõQÔÜÇÇ[éxKâÜfU¸ÐjÇÓE/Í§º—Ø®~ê6€—ÂE3Òç^–pÐ¹×KKÈÓÑÕzçÁƒÇ*è´óéýÞÿŸ^µùv¥ØðµöyTú.®n})J	©õ:-Ú ­«™:ÿüÆÑ‚Ådcðž£Q?
 ý–É‡Z³ÇVå^
-¬éÓúsˆtÒ€vö<!ë+¸‹€îG¤*dÑ1 unfreed mallocs
+¬éÓúsˆtÒ€vö<!ë+¸‹€îG¤*dÑ
+1 unfreed mallocs
 167 malloc'd size
 0 unfreed mallocs
-ft_substr() -> …™bV¯ni6ôw˜/|Áò‘AžÄFéÑØÁ²»ä!ÅGe²ßµl·D¯¶Ý<²f:@6ÏYç°Q•3ƒt¶ëÆƒþi¼¥4×’;$Q‚ÆLDÞñòâZJ®ÒlýÂ}éÍIIQç¯:«Kåãî4|¡4ÿìj–AÿˆÇÒÚ^IÄ9†:µg/£ƒXgŒÁPBÑÆùå	‘ã³€¤²:0OájûÁì“˜…HŽV‡­0cïÙ\³cùYßw^»×G:ŽzÌH¯)\IÑHEÉ+¦þ€2å…Q¥«ùt‚<Šo.¡«g¶#‘A.YõqÀGt\)¨¬Ã2‹™3@ÚÝö’@6´ÃN²L8ñóQÌ€½æÞ§8•I—K
+ft_strjoin() -> …™bV¯ni6ôw˜/|Áò‘AžÄFéÑØÁ²»ä!ÅGe²ßµl·D¯¶Ý<²f:@6ÏYç°Q•3ƒt¶ëÆƒþi¼¥4×’;$Q‚ÆLDÞñòâZJ®ÒlýÂ}éÍIIQç¯:«Kåãî4|¡4ÿìj–AÿˆÇÒÚ^IÄ9†:µg/£ƒXgŒÁPBÑÆùå	‘ã³€¤²:0OájûÁì“˜…HŽV‡­0cïÙ\³cùYßw^»×G:ŽzÌH¯)\IÑHEÉ+¦þ€2å…Q¥«ùt‚<Šo.¡«g¶#‘A.YõqÀGt\)¨¬Ã2‹™3@ÚÝö’@6´ÃN²L8ñóQÌ€½æÞ§8•I—K
 s&i›Xš1» Ð1M#Ç{)»Ñ×_—ÿÍE>â|AÐj+0R–Sµ·LíSLuõy«àÊVSò]ÊÞ)&ô%|ÁÃÊŠ²ÃLäÓëãÕTo<–ŒTN c+Zz±C£ÃTŽíÿS¸¡6™:ÜáOª4<ý˜$©ŸXÐóCÈ4ÄœQ¿¨[P¹RL¯vÛÌ’‘‘Œ¡bSˆcÌVØíMžî¿$ÛË¬mî´»4‰ÉÔ“æ‡0Gû0j+ýEg˜éYI+ð÷¤ÓžÌ¿CÂX¦6¢)`àôz¶"ªéV½M¢öˆå#¹Wð½µ
-y\rMµov#ÔÉHí¥^U”J"s“eÈ£ÆeÓ!ñf`i¢Y9Pšâ¤Áúã7¤á3ø$Å!y^©y& r*†zæ]Ÿ)´ˆ‚Í·«QêiVWÓ]€1 unfreed mallocs
+y\rMµov#ÔÉHí¥^U”J"s“eÈ£ÆeÓ!ñf`i¢Y9Pšâ¤Áúã7¤á3ø$Å!y^©y& r*†zæ]Ÿ)´ˆ‚Í·«QêiVWÓ]€
+1 unfreed mallocs
 641 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 5|"ÁÌšÁF„;‡Yþc†MW´y¨5‰´¢“ÒÍ[M²àjÚ„Ü-£&ÚîIÎI»"o,Œô”wùbuÉ½ï)?Æ7UÐÔ=qê"3{é^cÒ–+_LœÎvp÷O\dì9C)×¢„¼óRÕ~ô'L}Šxã¤	UKð·/€"ë§—S¾‡È,BEW‚X‰©>?…cJl-L/Zë»Mw{–½[aü×.(ÆêK)ŽÙ#_ª«ñÛõdPAAŒðÜÃ!zôä{÷šs¡’ók¶Ç”´°³“t¯ãÕð²\(qhôë"±”³Á¸\¤KüŸ!"àA­3+=”–«¯¥ÌÝLŠ¨E;½ßøºÆz”ùËLòU/hppdËãq&(ê%iQÏqg<o+_ßU¾éé‡­ƒ],{óÃÂ·Ï+¨?ò°Ÿ¬(©q©Æý?|¯W1&už¼ø/‹ø¤h~ló1ŠÒqˆó/DœálKo¾ãõ£ÚÖ@D›üF´!¤À´tds»ÇÅÉP™øìé$k2ö†Æ9+ÙàuÊT3É$Ë%ÑŒ-&Ó×PŒd’v.Ú¢Âuì÷LðÇQùèžÈÑ €Ç_šð‡"×²ÉLÏßU§Bå(Éäç XìYmÿ[]¸/á–u™`híó0ï»lÝÌ	äí
-™„Ò•]æ…Õb(*,Æ´Ü3XpéØMOG“Úš“_»ñL-¾d€¦11añƒÀíÆvjX®d™ïÑ`ôÎ2^ÃYŸ³¿ÒTyøØ…Nv_]¤›Â¸jtà—9eNI	«#ÍÈ!§KZSZhd¨, ƒadÇ@Âù½íÈ~ÈÓÝF}©Oƒ¹]ûÜ,)½‘±ÛÉï=~|EÈWóFªÊ¥¼ðBœýèá–TH´úzù{òXé¥ÊÀ˜Œ‚þ(ÙZý¾F-M¼ø°Âu€4šÅ2xdüfó(ðÆFƒ<€xØó¢yÒÕàöºƒ(ík"ÎÓÅŸ9Ÿê<–ì¢ÓŸhCFðøÓ`P/ŽÁ½ÿ^I«Z¸™8ßÔÅ›%§|q²xrE#7 A* ÷r¿r²½qJÏÇÕìÒYr»(ŠæÉØ×frÓÈ2ç#ŸÛžÿ–1 unfreed mallocs
+ft_strjoin() -> 5|"ÁÌšÁF„;‡Yþc†MW´y¨5‰´¢“ÒÍ[M²àjÚ„Ü-£&ÚîIÎI»"o,Œô”wùbuÉ½ï)?Æ7UÐÔ=qê"3{é^cÒ–+_LœÎvp÷O\dì9C)×¢„¼óRÕ~ô'L}Šxã¤	UKð·/€"ë§—S¾‡È,BEW‚X‰©>?…cJl-L/Zë»Mw{–½[aü×.(ÆêK)ŽÙ#_ª«ñÛõdPAAŒðÜÃ!zôä{÷šs¡’ók¶Ç”´°³“t¯ãÕð²\(qhôë"±”³Á¸\¤KüŸ!"àA­3+=”–«¯¥ÌÝLŠ¨E;½ßøºÆz”ùËLòU/hppdËãq&(ê%iQÏqg<o+_ßU¾éé‡­ƒ],{óÃÂ·Ï+¨?ò°Ÿ¬(©q©Æý?|¯W1&už¼ø/‹ø¤h~ló1ŠÒqˆó/DœálKo¾ãõ£ÚÖ@D›üF´!¤À´tds»ÇÅÉP™øìé$k2ö†Æ9+ÙàuÊT3É$Ë%ÑŒ-&Ó×PŒd’v.Ú¢Âuì÷LðÇQùèžÈÑ €Ç_šð‡"×²ÉLÏßU§Bå(Éäç XìYmÿ[]¸/á–u™`híó0ï»lÝÌ	äí
+™„Ò•]æ…Õb(*,Æ´Ü3XpéØMOG“Úš“_»ñL-¾d€¦11añƒÀíÆvjX®d™ïÑ`ôÎ2^ÃYŸ³¿ÒTyøØ…Nv_]¤›Â¸jtà—9eNI	«#ÍÈ!§KZSZhd¨, ƒadÇ@Âù½íÈ~ÈÓÝF}©Oƒ¹]ûÜ,)½‘±ÛÉï=~|EÈWóFªÊ¥¼ðBœýèá–TH´úzù{òXé¥ÊÀ˜Œ‚þ(ÙZý¾F-M¼ø°Âu€4šÅ2xdüfó(ðÆFƒ<€xØó¢yÒÕàöºƒ(ík"ÎÓÅŸ9Ÿê<–ì¢ÓŸhCFðøÓ`P/ŽÁ½ÿ^I«Z¸™8ßÔÅ›%§|q²xrE#7 A* ÷r¿r²½qJÏÇÕìÒYr»(ŠæÉØ×frÓÈ2ç#ŸÛžÿ–
+1 unfreed mallocs
 858 malloc'd size
 0 unfreed mallocs
-ft_substr() -> j­`óÇ-E]zËúïÆ½7ðe]Fîný{ÞØcK!“U½þxcz:j­`óÇ-E]zËúïÆ½71 unfreed mallocs
+ft_strjoin() -> j­`óÇ-E]zËúïÆ½7ðe]Fîný{ÞØcK!“U½þxcz:j­`óÇ-E]zËúïÆ½7
+1 unfreed mallocs
 58 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Šn.Í¾`bn5æÈã
+ft_strjoin() -> Šn.Í¾`bn5æÈã
 ÷|ÂtEâòÒ^™-z…!6ANFÙÊüT§›ùn±Üøz³“È²µ¡á#ãYuèáI$éiEûYrÇ{Õ!j/÷ü}°gUÖ­¥‰ÐàõDàj=@»›¾]Û]‰Ø²Q_(&ÝÓŽ­øócdõìX“” æ.%ÊÕ§¸=0ƒkä(ÒãaÆÝcôÑlxíÇTŸé.ê¯ñ¦€¤šWó.Bp5û•ñ­°Y’ñW·
 =ÃqˆñˆH¦×J÷9F?è§bCø!EÄÞêjäõ˜d8Ž†Ÿ£è40ˆ'~	ßé®úaÐ§ÈãËJÁOKêá5…È|já7ñ€\¾I€±uß;Z;¾Y$‹CŠwÍôì›6eÈÓIÅZiç¡ÍE»ÈÓˆ²@ˆ…’·@«Ü°ˆ1`Ç7‹=t#h¬îU
 «éLð¯n»šÊ#R”Ârž)&!)¥4r^Y6ä=zž¹Ôï(Ñ#‚WÈÓ2åwLþÓ„–Øž^%ƒ_*†p¬ìpÊ%¨ŽX8¼]²ØÑ‡g<ìñ]4ãY,
-ª—¨p:‰FëåÕÖ5Ò /£ªrmÜ§æ'=$?ÄÄ‘0,ê¦H‚S…N×å¬Ù·/w&ì0„›àF<é½¿G³Ó†‡üádº2?¤69Î(b¿80ç7Û›?x0Ü×<gN-&ÓÕÂYJ‹Kì*…ò1 unfreed mallocs
+ª—¨p:‰FëåÕÖ5Ò /£ªrmÜ§æ'=$?ÄÄ‘0,ê¦H‚S…N×å¬Ù·/w&ì0„›àF<é½¿G³Ó†‡üádº2?¤69Î(b¿80ç7Û›?x0Ü×<gN-&ÓÕÂYJ‹Kì*…ò
+1 unfreed mallocs
 552 malloc'd size
 0 unfreed mallocs
-ft_substr() -> YƒøáÀyÒ&$^íŠ°X‡{l9gÞ_UîsýSV(TP+ò,]:ÍÚo|ÛÉ2`þšoÊÍ w½ihhs¦7A0ÛŸP?)e_°ŒÓ£ÛNs?22Ò­(·iÄ‰Þ\­¶í¿u@Ù‹TJr^»›Lö…qkˆzÈ0ØgCÈÜØÌHÉíBMBHµážœRÌÔ™.™02¨ˆJ¢«„¨7:«PÂ Ø9À-1 unfreed mallocs
+ft_strjoin() -> YƒøáÀyÒ&$^íŠ°X‡{l9gÞ_UîsýSV(TP+ò,]:ÍÚo|ÛÉ2`þšoÊÍ w½ihhs¦7A0ÛŸP?)e_°ŒÓ£ÛNs?22Ò­(·iÄ‰Þ\­¶í¿u@Ù‹TJr^»›Lö…qkˆzÈ0ØgCÈÜØÌHÉíBMBHµážœRÌÔ™.™02¨ˆJ¢«„¨7:«PÂ Ø9À-
+1 unfreed mallocs
 175 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ä­G8·ûŸê8$  “Êg(“uÓ6Ç>—Ÿ+­|E]1e[©‹®"3ZG“V8xòõ¨_èÞ†‰¯¤À\&OþØdè¢& Ã\¯ý›!»Ò6±©¼WRß#é¤þ\}aÛ?ën7ìt­›)Æ6&w{W±ìHAM${83•MwÜÞ0.rZ
-OŒå¾1 unfreed mallocs
+ft_strjoin() -> ä­G8·ûŸê8$  “Êg(“uÓ6Ç>—Ÿ+­|E]1e[©‹®"3ZG“V8xòõ¨_èÞ†‰¯¤À\&OþØdè¢& Ã\¯ý›!»Ò6±©¼WRß#é¤þ\}aÛ?ën7ìt­›)Æ6&w{W±ìHAM${83•MwÜÞ0.rZ
+OŒå¾
+1 unfreed mallocs
 147 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÿÿ•ðˆï×‘¢å¦6S1šSýÑÞ—ÍHôgÍQ>ÛsTÏ€\=·U&I—dé@á43#³ìcÒ¡¡j_È¬ƒùsC‘þææ_}`~ejÝ“è—9@þyŸ±¸È“Yû»ÒŒ…pw¹Ò	ÃJ1 unfreed mallocs
+ft_strjoin() -> ÿÿ•ðˆï×‘¢å¦6S1šSýÑÞ—ÍHôgÍQ>ÛsTÏ€\=·U&I—dé@á43#³ìcÒ¡¡j_È¬ƒùsC‘þææ_}`~ejÝ“è—9@þyŸ±¸È“Yû»ÒŒ…pw¹Ò	ÃJ
+1 unfreed mallocs
 109 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¬:<„êèÈNën!ÛŽÛâ"³ÿzbÁÆÇRd¨^Ó¡£ƒÞ=ªçXà$cIÅt€~$öÃàd¸¹“ýùÅÎ/b¬}dÝ˜fAAvG öÈíäš¤ö
-­òC>,½òæ:Ndˆ|eô†Ç×ç¦˜n,ZöO(–VŽ([›ösÙ«?w¬:<„êèÈNën!ÛŽÛâ1 unfreed mallocs
+ft_strjoin() -> ¬:<„êèÈNën!ÛŽÛâ"³ÿzbÁÆÇRd¨^Ó¡£ƒÞ=ªçXà$cIÅt€~$öÃàd¸¹“ýùÅÎ/b¬}dÝ˜fAAvG öÈíäš¤ö
+­òC>,½òæ:Ndˆ|eô†Ç×ç¦˜n,ZöO(–VŽ([›ösÙ«?w¬:<„êèÈNën!ÛŽÛâ
+1 unfreed mallocs
 148 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ^­µQ:rcïzL œAÏï×µ¶{4yäÌN¶à ">æ„ú²ø¨…—l‡ì*kÑ?¶Â=û Co\vð†a«ü£è$?Ð4”òhž^ <v|U…”O’KžµÝ©ª $TÆÓªlJ2ë½ºµWÛQÍ&=é2ŠÌêÄ¢ŽXýÁBãvÖ§‹Õó0fmÙ¦S?.±áC»…O!ÈgŽì˜ô°[NsÞëŽyóy<·æö/±øÕ—ßfB%oÍX
-qÈ¿’c+¡¦Mò+‘žìÃÅ'	õC•Yõi’Ñ×1¹/‘r´­Ñ— CZ©‘“»o¿ÄmâÔ‰€þŒôL¶i‘Ñ.'LE…Š¼Ù¨EÛµp)OÛœ$ÄW¤9›ùWK»äœ)*2±ó;Áÿ)ÎîÔxüÿv.#©²OÞõ¼<ÓØYÁTˆKMÕj†,ôTD5}©Ø`C›í"’•fäÄ¾ÍrhRNÎbØ"8ƒ²PBåÓñ†lkÝP©r²Ä5€ê a·÷!­|ËøÏ!lÍõ¬£¥4oø¬4Uzã}äËuh¿Í"Û³v‘È¤ªRåf°I÷õíîqøTHƒ8oðŠìïC»Õå¥–•þ¬O¨>ÆgÚi%á ½uæÚ*]’’É‹ãâA˜Ú‰"R³*<….ß5ò*þU“ß`{¾l½õéûã4õRèT¹Òw¸cÔ1 unfreed mallocs
+ft_strjoin() -> ^­µQ:rcïzL œAÏï×µ¶{4yäÌN¶à ">æ„ú²ø¨…—l‡ì*kÑ?¶Â=û Co\vð†a«ü£è$?Ð4”òhž^ <v|U…”O’KžµÝ©ª $TÆÓªlJ2ë½ºµWÛQÍ&=é2ŠÌêÄ¢ŽXýÁBãvÖ§‹Õó0fmÙ¦S?.±áC»…O!ÈgŽì˜ô°[NsÞëŽyóy<·æö/±øÕ—ßfB%oÍX
+qÈ¿’c+¡¦Mò+‘žìÃÅ'	õC•Yõi’Ñ×1¹/‘r´­Ñ— CZ©‘“»o¿ÄmâÔ‰€þŒôL¶i‘Ñ.'LE…Š¼Ù¨EÛµp)OÛœ$ÄW¤9›ùWK»äœ)*2±ó;Áÿ)ÎîÔxüÿv.#©²OÞõ¼<ÓØYÁTˆKMÕj†,ôTD5}©Ø`C›í"’•fäÄ¾ÍrhRNÎbØ"8ƒ²PBåÓñ†lkÝP©r²Ä5€ê a·÷!­|ËøÏ!lÍõ¬£¥4oø¬4Uzã}äËuh¿Í"Û³v‘È¤ªRåf°I÷õíîqøTHƒ8oðŠìïC»Õå¥–•þ¬O¨>ÆgÚi%á ½uæÚ*]’’É‹ãâA˜Ú‰"R³*<….ß5ò*þU“ß`{¾l½õéûã4õRèT¹Òw¸cÔ
+1 unfreed mallocs
 555 malloc'd size
 0 unfreed mallocs
-ft_substr() -> hþsÂà$§|¦¨…ü*jMñ3'&õué°ÈçV8+íæqÆy’wì<{7@‡'|üßð)‰ûV;øw@á­\ZUò~)£‡Æ­G¤Ìø<81ä‚Ñ¾½v²äÕÓƒ]œ¥‘bbªÊ7Ç×n~pºù6:Á½YY81ûlxU…V7` µ§Ó#‘b(ì¿·Ã&1“¶ä.4Q›LÃ%±BVþ Ý1 unfreed mallocs
+ft_strjoin() -> hþsÂà$§|¦¨…ü*jMñ3'&õué°ÈçV8+íæqÆy’wì<{7@‡'|üßð)‰ûV;øw@á­\ZUò~)£‡Æ­G¤Ìø<81ä‚Ñ¾½v²äÕÓƒ]œ¥‘bbªÊ7Ç×n~pºù6:Á½YY81ûlxU…V7` µ§Ó#‘b(ì¿·Ã&1“¶ä.4Q›LÃ%±BVþ Ý
+1 unfreed mallocs
 171 malloc'd size
 0 unfreed mallocs
-ft_substr() -> RýkÈü†§Ç^+½û–lOÞÝœ	êñcÇNé»PLÈõÓ,~¸‚±ÕßCÆ(m‰¬BS\M,8«u_BO’òžC±Vµâò¹Ìr^»˜ÜcgGê]NUØd<}p“0º*þ%ÏœŽ.€ÖÒ[õc³À®B¾=mƒ‹z¤ñ£Ï­ëä¥I¤?3ìÌê:N•Š1ðŽ›òH8Wð©ÄåÙxËxfi¡˜¤(EåM¸jPV)T‘h÷Õ*ýÑõŠd[œ·G¬‚Ó˜t‡ZülŸ<#ÐU¿0@™¥Ö$*LÇ×9• öóß¹c#‹\¢çßØ"ù¥;J”é!¿œ‘*–zC¬žrqsÅÝ5D†Þ_<y=ÂùàÅ$®ôÙâ‡	ÞÉ†øïû#Ÿ3ì;_Í±Ü'‰–ï/ó*vcÑì:Ê? |Ã[§ø‚»Üþ}áûØ7ëC‘ÌÏLpÌËl¬Á–]ŒÄ÷¦!Ñºží=‰Š‚Ä¦ösRØ‘±Î²T`¸›&Ë`.ÐáLõÉ4ëc•¹.ÇßbxÏfÒ@ôt ÊœE‹¯óêüæàÅÎ˜©ÀàÄeP]“%-ÆxáÎÄ$¦°³w!ÞÝ]­@6¨O¥ù¾Y†–¿
+ft_strjoin() -> RýkÈü†§Ç^+½û–lOÞÝœ	êñcÇNé»PLÈõÓ,~¸‚±ÕßCÆ(m‰¬BS\M,8«u_BO’òžC±Vµâò¹Ìr^»˜ÜcgGê]NUØd<}p“0º*þ%ÏœŽ.€ÖÒ[õc³À®B¾=mƒ‹z¤ñ£Ï­ëä¥I¤?3ìÌê:N•Š1ðŽ›òH8Wð©ÄåÙxËxfi¡˜¤(EåM¸jPV)T‘h÷Õ*ýÑõŠd[œ·G¬‚Ó˜t‡ZülŸ<#ÐU¿0@™¥Ö$*LÇ×9• öóß¹c#‹\¢çßØ"ù¥;J”é!¿œ‘*–zC¬žrqsÅÝ5D†Þ_<y=ÂùàÅ$®ôÙâ‡	ÞÉ†øïû#Ÿ3ì;_Í±Ü'‰–ï/ó*vcÑì:Ê? |Ã[§ø‚»Üþ}áûØ7ëC‘ÌÏLpÌËl¬Á–]ŒÄ÷¦!Ñºží=‰Š‚Ä¦ösRØ‘±Î²T`¸›&Ë`.ÐáLõÉ4ëc•¹.ÇßbxÏfÒ@ôt ÊœE‹¯óêüæàÅÎ˜©ÀàÄeP]“%-ÆxáÎÄ$¦°³w!ÞÝ]­@6¨O¥ù¾Y†–¿
 m$ò[
+
 1 unfreed mallocs
 487 malloc'd size
 0 unfreed mallocs
-ft_substr() -> n_`}™_›þ11'Bç¼0~)"…^k"v7ïäæI”šÓ1!e5<èi•(žõv«*¯á"¿ÄE|:tDlúÙíø¿àý<žy6GÍ”ƒ‹'åà	VxCgI\	\õÉèú?0÷U£#¸~7tA:]^PcÞîKä:¼»$.Ë†VÁ©	óVÎ‡‰;‘¿U«ÀdÇn9D=(§]òÇŠÞ®§H`yñåœ™ÉcåÒ$ê>Ýu¬é7Áí¹7'h±x1 unfreed mallocs
+ft_strjoin() -> n_`}™_›þ11'Bç¼0~)"…^k"v7ïäæI”šÓ1!e5<èi•(žõv«*¯á"¿ÄE|:tDlúÙíø¿àý<žy6GÍ”ƒ‹'åà	VxCgI\	\õÉèú?0÷U£#¸~7tA:]^PcÞîKä:¼»$.Ë†VÁ©	óVÎ‡‰;‘¿U«ÀdÇn9D=(§]òÇŠÞ®§H`yñåœ™ÉcåÒ$ê>Ýu¬é7Áí¹7'h±x
+1 unfreed mallocs
 210 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ^óh}}ª®ÖJ”v¾LÙ]~oÑ «áÈµ€õyŒCýë8ÉÂƒBÍvOÚå2¶È¹bñNâxa6Åáæ‡féFj8d%,Œ±k]¡þ¿`‰7±_£íðUý=ã}®Î?.Ø$–j!sƒA·:Pcoù0×RÓUÑ!·EµØ¿.9ÛDàÝYŽŠ{ö`°&7<U«')¢“B8°5V—µ'‡|ÀT[StÂÓÌ£ÕéŽjcÍûa®.Y|‡‰!³úÎ•c8A–+e—ÔJYß2Ðµ2gk‚u.ýæ¨|Pcoù0×RÓUÑ!·EµØ¿.9ÛDàÝYŽŠ{ö`°&7<U«')¢“B8°5V—µ'‡|ÀT[StÂÓÌ£ÕéŽjcÍûa®.Y|‡‰!³úÎ•c8A–+e—ÔJYß2Ðµ2gk‚u.ýæ¨|1 unfreed mallocs
+ft_strjoin() -> ^óh}}ª®ÖJ”v¾LÙ]~oÑ «áÈµ€õyŒCýë8ÉÂƒBÍvOÚå2¶È¹bñNâxa6Åáæ‡féFj8d%,Œ±k]¡þ¿`‰7±_£íðUý=ã}®Î?.Ø$–j!sƒA·:Pcoù0×RÓUÑ!·EµØ¿.9ÛDàÝYŽŠ{ö`°&7<U«')¢“B8°5V—µ'‡|ÀT[StÂÓÌ£ÕéŽjcÍûa®.Y|‡‰!³úÎ•c8A–+e—ÔJYß2Ðµ2gk‚u.ýæ¨|Pcoù0×RÓUÑ!·EµØ¿.9ÛDàÝYŽŠ{ö`°&7<U«')¢“B8°5V—µ'‡|ÀT[StÂÓÌ£ÕéŽjcÍûa®.Y|‡‰!³úÎ•c8A–+e—ÔJYß2Ðµ2gk‚u.ýæ¨|
+1 unfreed mallocs
 368 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ×EÅ“ñ6`n¦²gàšÓørèàkçoÃ`yT¤Óè3Øý Ú÷D’†ßé¯6›ŒÁD2V$vÄéDÄj	ÚçËå¦~ñjà${ìX@¬«CÝHœ“Þ+#\³Ýad¹•¾ì/wÝ†’¯~®Š†\èçœ¼	·ÚÿWõæ<#«l4-â'°&¹ø`µ||×ù—ÂWÐôB·óÞf“Nôó™šm&F·âÁW-ëüé’:ÒHÒ)-£“Ú*f./dU±'­9Š“äÑªÃC¢¡3nÝØ§^‹À·¹!—M9>J&¼C~nÅ|±mµ|›Lôå„L×#;g&gAöÊ7£‚õ¥Ä’oÙ×vU¡‹D®Î—µ6.mÐ”çÅâªÊ–Õ²kÚyå×ˆ(€±²[ñ!·u™‡ò¿–ŸÜ][õ}Ò8ë—ˆ`W
+ft_strjoin() -> ×EÅ“ñ6`n¦²gàšÓørèàkçoÃ`yT¤Óè3Øý Ú÷D’†ßé¯6›ŒÁD2V$vÄéDÄj	ÚçËå¦~ñjà${ìX@¬«CÝHœ“Þ+#\³Ýad¹•¾ì/wÝ†’¯~®Š†\èçœ¼	·ÚÿWõæ<#«l4-â'°&¹ø`µ||×ù—ÂWÐôB·óÞf“Nôó™šm&F·âÁW-ëüé’:ÒHÒ)-£“Ú*f./dU±'­9Š“äÑªÃC¢¡3nÝØ§^‹À·¹!—M9>J&¼C~nÅ|±mµ|›Lôå„L×#;g&gAöÊ7£‚õ¥Ä’oÙ×vU¡‹D®Î—µ6.mÐ”çÅâªÊ–Õ²kÚyå×ˆ(€±²[ñ!·u™‡ò¿–ŸÜ][õ}Ò8ë—ˆ`W
 6K•%›Y×£ËkeQ¦w5Éí¾TÿñÎµâ¶Â«ð5tbüDx¦ÒƒÃpJg](ÖU-þ©Ï4½SÀj½­t¨ïZç
 Õ<:šr¢J¡}Är¬p­Ô¥©'ü{þ¦ž°ç…š§Ž=ázÄ³ÓtFØý´÷XL[Ù2¾†šÞ:‡I•BCE	“L=¯r½Ñ¢Œ@¡&æô¢»™ïQ”øƒ£9k±µÎóñ²0k„6GE5æ½­	ZÔ¥WpV’+5t‚ž…@ð¬~j®0möEõzføÖù§—iiûºÇRA+^™tîˆn’+Ë-o:¯&Î+tnåvÅæÑùé;I–B¿À¹­HÇ#@›gÄ¾²'Î
 ßá+§‘ÈŒÉM`í­eÜÊR7øý…ZLWÉªpæPpÊ’c¥ÁäL9½Íð|ÉgÎæ^’¾Z¶`«8Î} 2âÚšQ”øƒ£9k±µÎóñ²0k„6GE5æ½­	ZÔ¥WpV’+5t‚ž…@ð¬~j®0möEõzføÖù§—iiûºÇRA+^™tîˆn’+Ë-o:¯&Î+tnåvÅæÑùé;I–B¿À¹­HÇ#@›gÄ¾²'Î
-ßá+§‘ÈŒÉM`í­eÜÊR7øý…ZLWÉªpæPpÊ’c¥ÁäL9½Íð|ÉgÎæ^’¾Z¶`«8Î} 2âÚš1 unfreed mallocs
+ßá+§‘ÈŒÉM`í­eÜÊR7øý…ZLWÉªpæPpÊ’c¥ÁäL9½Íð|ÉgÎæ^’¾Z¶`«8Î} 2âÚš
+1 unfreed mallocs
 890 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ‰Å¶d+cEïçvæeÄ©ãâaôÉæœ†aN¼¼q`xý+©û-ú[µÎåÆ™v*±a†îæ–H…OšòH6UŽµ¸}±–Â3þ¾«e›­“Ó‚ÃŽÝÇ,SÕW·+Ûëó3ÁÐ—©5ªéólg¤¸,s.¸»æÎ`T:»ö^Ð§Èá“eÝ8Ï.,°†7O«Y¶%Zýšñ´tOIú9âÁ4fî€‘•æÉQ¸¬ôªö)_ìQð£9³ý1 unfreed mallocs
+ft_strjoin() -> ‰Å¶d+cEïçvæeÄ©ãâaôÉæœ†aN¼¼q`xý+©û-ú[µÎåÆ™v*±a†îæ–H…OšòH6UŽµ¸}±–Â3þ¾«e›­“Ó‚ÃŽÝÇ,SÕW·+Ûëó3ÁÐ—©5ªéólg¤¸,s.¸»æÎ`T:»ö^Ð§Èá“eÝ8Ï.,°†7O«Y¶%Zýšñ´tOIú9âÁ4fî€‘•æÉQ¸¬ôªö)_ìQð£9³ý
+1 unfreed mallocs
 205 malloc'd size
 0 unfreed mallocs
-ft_substr() -> õ¨´ÖÁ˜¸ß¤£B¹§
+ft_strjoin() -> õ¨´ÖÁ˜¸ß¤£B¹§
 mÏºs¨ˆè!Œóë,ª#—×>«‰Äê—¡ìÆ£~^F—eHR,ÄGž5îpÈ”3¿z¦xË£­#ƒˆŒh$7¦Ó"ÌWs7NUCkî#—X„@„Ú¹á¾?¹te­~B.øï
-r—}'èòì·ÓäR›Ç‡R’÷dYŸ„7Éq¿aN€ˆ°ÌÈU}OE…¶-]ˆðm£ð…nl1 unfreed mallocs
+r—}'èòì·ÓäR›Ç‡R’÷dYŸ„7Éq¿aN€ˆ°ÌÈU}OE…¶-]ˆðm£ð…nl
+1 unfreed mallocs
 174 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ñrˆ~´hVñŸ	ÃGÞõ"1½…Á}†lð{¥¥Ï”;<3„ÚégY!sË®—D r™kÿ8¤ÄX}Õº×É`o˜HFDÎ4M'ÂŸ™Pñ™äŠað‡^Ð¾oåñeè[É¹x4ƒAÙµå¥+°Yÿ¬.@2,J±üÎzbØoMï’;K|EŽópd¯ô‡|x*÷mI.ø‡EÍÙ­§¼ØmG&³Ä]Eö2?ƒ†„ÑAœ)¼?ÐèynýS-á7Á@Íöü\pjþîÃAÇ÷›’ÿ_Ûù\ùÂ$³á”ß}
-Éaô5eyFùØA•¤1£g¢¨1 unfreed mallocs
+ft_strjoin() -> ñrˆ~´hVñŸ	ÃGÞõ"1½…Á}†lð{¥¥Ï”;<3„ÚégY!sË®—D r™kÿ8¤ÄX}Õº×É`o˜HFDÎ4M'ÂŸ™Pñ™äŠað‡^Ð¾oåñeè[É¹x4ƒAÙµå¥+°Yÿ¬.@2,J±üÎzbØoMï’;K|EŽópd¯ô‡|x*÷mI.ø‡EÍÙ­§¼ØmG&³Ä]Eö2?ƒ†„ÑAœ)¼?ÐèynýS-á7Á@Íöü\pjþîÃAÇ÷›’ÿ_Ûù\ùÂ$³á”ß}
+Éaô5eyFùØA•¤1£g¢¨
+1 unfreed mallocs
 253 malloc'd size
 0 unfreed mallocs
-ft_substr() -> +ÔU™
-’©2èÜûSˆ¬‹bè^Í©¿ªaû !õ/»â0)À¥jkÛjA³ÆÇ—cMº¥ìÚ~0]‹1pÚ…Uš âèË%±ëb9¹'+8HÔn·SÕŸ5§E+ÝPéa-éô¤ÎRJ,Íj&FÚºöö>ú¥­óZ‰$Ôuœ	¬ÀÅC(gÐ1 unfreed mallocs
+ft_strjoin() -> +ÔU™
+’©2èÜûSˆ¬‹bè^Í©¿ªaû !õ/»â0)À¥jkÛjA³ÆÇ—cMº¥ìÚ~0]‹1pÚ…Uš âèË%±ëb9¹'+8HÔn·SÕŸ5§E+ÝPéa-éô¤ÎRJ,Íj&FÚºöö>ú¥­óZ‰$Ôuœ	¬ÀÅC(gÐ
+1 unfreed mallocs
 145 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ob©¦à4¥PÝàI‘=u›ßN/ÄJ°¶[R7¯’¯‹U<1MäÒOD/Ñ#h%ìýs÷x°óØ¯(C%±®kE\}=Åq“M‡’Ø‚,Ô±€
+ft_strjoin() -> ob©¦à4¥PÝàI‘=u›ßN/ÄJ°¶[R7¯’¯‹U<1MäÒOD/Ñ#h%ìýs÷x°óØ¯(C%±®kE\}=Åq“M‡’Ø‚,Ô±€
 	fØëÊ4ò‹G2¶ÐÎäýÇ »cg¥èô'ô3h¨öfEQÌ—b±shO .Uý
 "FáàÖïP˜r“ë1Ç]Ë0Ì•¾(WÐŸjÞ“*z„EFgJöëôÒ¾G½cõÝºŠOŠ;HÉÓû‰ÃÊª²`ùŒ[–´onÅ‘oXµÓö¦ÑŸ!xôU]R½†‡I÷@ÉiØ,…ÜÅÖ¿a¹ÖÄ2µÕz±¤)/Ì1ýØVþö-¸†s×‹Uè.+ô¿‰DïŠ>’ÚðnÃMä]œ"*Â=s€ÅD"o¦õ½2÷Ù¥ó±þ°3T­Göq ¥©O‹ƒVÛ$[M¨ïoVDØç­þ.
 
 MûVÙt`.ÿ¢‰S¦ËR"ÉD¶~!üåN ;–p¶ãyÑ€p5‹—˜¿Y,œåLoéY>×œŽIÛˆþkícæá@Á§]GÍ³¿¾*jNœ¸iËíÉcšõOìÑ€÷äSä.(¡[Ð*Œ~6±O<RÞõ[ò¿ì1²,ånùðñ—;U°Î·½«FU£Ö j^áL¦2æÇ
-SæÓªÜy),ž¯%þ¬§2Z£ñóûº¥6œ@™5¨BúõÖˆ þ(i+ãÄ“<âs¤ãáèˆÌ*Ñ•)æŸg_Z}på”+µ!·M:<·];ãˆT1 unfreed mallocs
+SæÓªÜy),ž¯%þ¬§2Z£ñóûº¥6œ@™5¨BúõÖˆ þ(i+ãÄ“<âs¤ãáèˆÌ*Ñ•)æŸg_Z}på”+µ!·M:<·];ãˆT
+1 unfreed mallocs
 594 malloc'd size
 0 unfreed mallocs
-ft_substr() -> BÚ05W0Æ'=àB°«ŽÆËRS‡ß,È3°¢Õ³ Bº–Ô8Ò+<˜Å[Ü?»ÁÆ\¤d§Ë0H4ÛãFCeêÉ0ÿ3ø¶ÎÐÛäØP…ßÝý]üðÜ™©¦M¸l†éGxJÔñ·ìÃv:0ï•EÒ5Œs†aAM¶Ã‘Ißµjg×'±èŽËÙ£ü¶Æ­“~n¯>7=³Øå«ƒm²®‹K£†úø‰øû³Ñïg µQb9§JµÒWgß/Çv¤ˆÝñßŒÀ…×/pqÜþy§²!ñ8aä’ýc96­`lòG¶"#·Ç‚÷ì³_¢]n(<¦»ºòìkúC2ÔŸÃ_°]Š”ïG:#ûï]°%¤HbV**§ÓI”›ÎqÕ»‘þP·IÍêhô“É„çë¶~7j#zŒÊ«ü.:^a³ªdàŽ«[ð
-ƒ¸½~Ð3Xº²vîõÓ™7—hE ™’ÑsVÝB§}´¸Àp©‘‹ä»GRAòžVÛçÚ°³ü½û‘‡Q3£6}†ÁÇ=þƒùŠ±&…ó1ßÙÖb0eý\`ÒÐJ´àþ§¼ø¤O:yèz|¥Î ›BË’\C_W–yzèŠ4¼ü¶áE©$&ójh{ê~Áá™ÎgÿV3Ö/Úw],Ì	ž¿5  Ëìú›j§G&µ=	í4¦?þƒ˜?"Ùß^à5¿„:]BºÖÓYþ}£ŒÊÇƒŒ…úÀ¢¬mã}l¬ÿ…á!P;¹Î6¬||¨8›5twvÁ.ÓùF³Hí®]Í§™’ÑsVÝB§}´¸Àp©‘‹ä»GRAòžVÛçÚ°³ü½û‘‡Q3£6}†ÁÇ=þƒùŠ±&…ó1ßÙÖb0eý\`ÒÐJ´àþ§¼ø¤O:yèz|¥Î ›BË’\C_W–yzèŠ4¼ü¶áE©$&ójh{ê~Áá™ÎgÿV3Ö/Úw],Ì	ž¿5  Ëìú›j§G&µ=	í4¦?þƒ˜?"Ùß^à5¿„:]BºÖÓYþ}£ŒÊÇƒŒ…úÀ¢¬mã}l¬ÿ…á!P;¹Î6¬||¨8›5twvÁ.ÓùF³Hí®]Í§1 unfreed mallocs
+ft_strjoin() -> BÚ05W0Æ'=àB°«ŽÆËRS‡ß,È3°¢Õ³ Bº–Ô8Ò+<˜Å[Ü?»ÁÆ\¤d§Ë0H4ÛãFCeêÉ0ÿ3ø¶ÎÐÛäØP…ßÝý]üðÜ™©¦M¸l†éGxJÔñ·ìÃv:0ï•EÒ5Œs†aAM¶Ã‘Ißµjg×'±èŽËÙ£ü¶Æ­“~n¯>7=³Øå«ƒm²®‹K£†úø‰øû³Ñïg µQb9§JµÒWgß/Çv¤ˆÝñßŒÀ…×/pqÜþy§²!ñ8aä’ýc96­`lòG¶"#·Ç‚÷ì³_¢]n(<¦»ºòìkúC2ÔŸÃ_°]Š”ïG:#ûï]°%¤HbV**§ÓI”›ÎqÕ»‘þP·IÍêhô“É„çë¶~7j#zŒÊ«ü.:^a³ªdàŽ«[ð
+ƒ¸½~Ð3Xº²vîõÓ™7—hE ™’ÑsVÝB§}´¸Àp©‘‹ä»GRAòžVÛçÚ°³ü½û‘‡Q3£6}†ÁÇ=þƒùŠ±&…ó1ßÙÖb0eý\`ÒÐJ´àþ§¼ø¤O:yèz|¥Î ›BË’\C_W–yzèŠ4¼ü¶áE©$&ójh{ê~Áá™ÎgÿV3Ö/Úw],Ì	ž¿5  Ëìú›j§G&µ=	í4¦?þƒ˜?"Ùß^à5¿„:]BºÖÓYþ}£ŒÊÇƒŒ…úÀ¢¬mã}l¬ÿ…á!P;¹Î6¬||¨8›5twvÁ.ÓùF³Hí®]Í§™’ÑsVÝB§}´¸Àp©‘‹ä»GRAòžVÛçÚ°³ü½û‘‡Q3£6}†ÁÇ=þƒùŠ±&…ó1ßÙÖb0eý\`ÒÐJ´àþ§¼ø¤O:yèz|¥Î ›BË’\C_W–yzèŠ4¼ü¶áE©$&ójh{ê~Áá™ÎgÿV3Ö/Úw],Ì	ž¿5  Ëìú›j§G&µ=	í4¦?þƒ˜?"Ùß^à5¿„:]BºÖÓYþ}£ŒÊÇƒŒ…úÀ¢¬mã}l¬ÿ…á!P;¹Î6¬||¨8›5twvÁ.ÓùF³Hí®]Í§
+1 unfreed mallocs
 870 malloc'd size
 0 unfreed mallocs
-ft_substr() -> —Û”êt á«žd§ûÓ¦!'>ìäÿÏad£êJ P÷aGÞŒ*ŽxÚƒù¹=ˆš´{Ç!PüÄ@¸ŸGq¶gÂÁ"·Ñ•¡×¸³Ÿ!Ù=1€C+ïÆ¤VÝŽãD´–ÐÅ¶?µ”°IÝ0øÀgSVÓz>ÍSIòo©‚eà9Xt¿<›--úh1O-Dá2Ž;pðiL\Í×Ù¿ÝúGb{0žƒë°%rC¹nÇGÀ²©Xfû€i’¨*§Š¦ƒei¶Ç4©GHïÝÜ*!xÎÉSæsž:E)[ ä#Ë|óhN0Û¹kFÓrÆ£ZJ°ýšÙ¨º{ã°FÂœ$4·Î7VþÜé¥Â¨Äš'Eø5|\s(¥J{t˜§PnŽV<ëDá¾Zmúc²Ûƒ¾À1ãw€•!ªvüpBÍ 9ŽÌ0ó^:Lî‚ôS^1ßnW…^—Û”êt á«žd§ûÓ¦!'>ìäÿÏad£êJ P÷aGÞŒ*ŽxÚƒù¹=ˆš´{Ç!PüÄ@¸ŸGq¶gÂÁ"·Ñ•¡×¸³Ÿ!Ù=1€C+ïÆ¤VÝŽãD´–ÐÅ¶?µ”°IÝ0øÀgSVÓz>ÍSIòo©‚eà9Xt¿<›--úh1O-Dá2Ž;pðiL\Í×Ù¿ÝúGb{0žƒë°%rC¹nÇGÀ²©Xfû€i’¨*§Š¦ƒei¶Ç4©GHïÝÜ*!xÎÉSæsž:E)[ ä#Ë|óhN0Û¹kFÓrÆ£ZJ°ýšÙ¨º{ã°FÂœ$4·Î7VþÜé¥Â¨Äš1 unfreed mallocs
+ft_strjoin() -> —Û”êt á«žd§ûÓ¦!'>ìäÿÏad£êJ P÷aGÞŒ*ŽxÚƒù¹=ˆš´{Ç!PüÄ@¸ŸGq¶gÂÁ"·Ñ•¡×¸³Ÿ!Ù=1€C+ïÆ¤VÝŽãD´–ÐÅ¶?µ”°IÝ0øÀgSVÓz>ÍSIòo©‚eà9Xt¿<›--úh1O-Dá2Ž;pðiL\Í×Ù¿ÝúGb{0žƒë°%rC¹nÇGÀ²©Xfû€i’¨*§Š¦ƒei¶Ç4©GHïÝÜ*!xÎÉSæsž:E)[ ä#Ë|óhN0Û¹kFÓrÆ£ZJ°ýšÙ¨º{ã°FÂœ$4·Î7VþÜé¥Â¨Äš'Eø5|\s(¥J{t˜§PnŽV<ëDá¾Zmúc²Ûƒ¾À1ãw€•!ªvüpBÍ 9ŽÌ0ó^:Lî‚ôS^1ßnW…^—Û”êt á«žd§ûÓ¦!'>ìäÿÏad£êJ P÷aGÞŒ*ŽxÚƒù¹=ˆš´{Ç!PüÄ@¸ŸGq¶gÂÁ"·Ñ•¡×¸³Ÿ!Ù=1€C+ïÆ¤VÝŽãD´–ÐÅ¶?µ”°IÝ0øÀgSVÓz>ÍSIòo©‚eà9Xt¿<›--úh1O-Dá2Ž;pðiL\Í×Ù¿ÝúGb{0žƒë°%rC¹nÇGÀ²©Xfû€i’¨*§Š¦ƒei¶Ç4©GHïÝÜ*!xÎÉSæsž:E)[ ä#Ë|óhN0Û¹kFÓrÆ£ZJ°ýšÙ¨º{ã°FÂœ$4·Î7VþÜé¥Â¨Äš
+1 unfreed mallocs
 624 malloc'd size
 0 unfreed mallocs
-ft_substr() -> R	Û…Ó–Üsê×óæXp£Hú¡w<LZ†S'¨¶]îÏå%ÏU^!>–“¹rð­£«vŽ1 unfreed mallocs
+ft_strjoin() -> R	Û…Ó–Üsê×óæXp£Hú¡w<LZ†S'¨¶]îÏå%ÏU^!>–“¹rð­£«vŽ
+1 unfreed mallocs
 56 malloc'd size
 0 unfreed mallocs
-ft_substr() -> €Žä®8’²|ú¿ŠŠ„LåaÈS]%Í_¥dºÍJûlæk0”Ca³³ ÂÙIrûüƒ¯t^­g©áÚù€ßæüÇy;’™ä—eç(®+#ªa)…Ð·VÚn½{G° ñ†c{RMë®ÈÄÙ×iéG¦cm×ÎÔ÷áÒu‰˜°7D§0Ô†GóK8Q1 unfreed mallocs
+ft_strjoin() -> €Žä®8’²|ú¿ŠŠ„LåaÈS]%Í_¥dºÍJûlæk0”Ca³³ ÂÙIrûüƒ¯t^­g©áÚù€ßæüÇy;’™ä—eç(®+#ªa)…Ð·VÚn½{G° ñ†c{RMë®ÈÄÙ×iéG¦cm×ÎÔ÷áÒu‰˜°7D§0Ô†GóK8Q
+1 unfreed mallocs
 146 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ×uV›c.0JHªƒfÒßlíû0´]óàm\,‚â)ÞõNƒôóQiýßXº\dAh«‚LÎÈiODÐ
+ft_strjoin() -> ×uV›c.0JHªƒfÒßlíû0´]óàm\,‚â)ÞõNƒôóQiýßXº\dAh«‚LÎÈiODÐ
 á/ï‰Vi öeÏXÒ&ÁŠ¸n`ÝùdW7ýH¿Úkóe!\Òá	³áXs«±Z|WP™úe–´bk+ö˜3#ªîJ#d°—…™´ºìÅùŒÈ:(D=—]LÒ
 µáÞEœm³AÓ¤‡µD`&U†=ZË.ôvÛxeå¼«)yÙçþ£©øák¤±IÖ«m'7ÖLG©¦®ï­n:ýÞÌ¢Q‡sý+:—DÍOc…dü€0šÓ­v
 ·‹Ma(©âæã
-…ÞYÅt:O´ƒ¡Â5EŒàõ †€ôð?éþZ®ŸèèvNÐ©ˆ¼GVx¼Uñ/©é{Â[b¤¤ý#¹®þ(ƒFên £Õ@ÛöBFXÆ:r÷¢Zî´î¡½¨uÿtÕÏ˜ff:—hà­(‘ÙIŠÜ‚dá‹PtäT#ÜÝ"§¾bkñk‡å&âaý·ýœøûoæd¡Žl.‰c DgœÕÎœ4«˜²ƒ\nWˆÓ›&½³ñc¢ÂF¢Ì=&2_PúÔM Ñ²ß|žÙ³óË2šwÜöÓ…—TŒËžIÁ#WÇd1 unfreed mallocs
+…ÞYÅt:O´ƒ¡Â5EŒàõ †€ôð?éþZ®ŸèèvNÐ©ˆ¼GVx¼Uñ/©é{Â[b¤¤ý#¹®þ(ƒFên £Õ@ÛöBFXÆ:r÷¢Zî´î¡½¨uÿtÕÏ˜ff:—hà­(‘ÙIŠÜ‚dá‹PtäT#ÜÝ"§¾bkñk‡å&âaý·ýœøûoæd¡Žl.‰c DgœÕÎœ4«˜²ƒ\nWˆÓ›&½³ñc¢ÂF¢Ì=&2_PúÔM Ñ²ß|žÙ³óË2šwÜöÓ…—TŒËžIÁ#WÇd
+1 unfreed mallocs
 500 malloc'd size
 0 unfreed mallocs
-ft_substr() -> èÜ¹ œ‹r|@½ÕÁ»aœÔ"ÑàiºÛ0û™&F$[õºíÙå ]ùp)N“^ON.Ñý4€jTwT¥¹XëÃ¨„Ía~<ÃÏÚ-8Eýçá†PÌóþÁï£á)Í˜Ô˜¬m¦Š¡Õôªˆ‹õ`éi¥G¦(p[–„cÿñm·¦3Ìï½:ìÑËÖ.Ð>Ô°Z;äå.‚csŽD²r¼ãPn±0ÐTàhÐwCJz¦’|µ˜ÀÒc«%í®?‘£1Á–¡Ÿt€6¾ü£‹·üa³ÙîZF„²z©ð„ÅÐ€J€óVñwEð<Œ2~ÆlˆpÍi*±Äz¤—¤„ß¼ÿëªþ¨”6Q´:ÚN6ü‚;ÊÖ•¢Oìæï1æþV’ä	×ÓA;âÌF4×ë úã®>®¨ã®ë;ó"¾Þ-êó¨?åž%Ã¼EêñÅL*`ÊÆ#þ|€s‹3oºzÎAáC*ÀRÌ:ËKTššø©lvåÆË£»Î‡p]üÿÄNxÔ›ñê škéË¢Š
-D¾NóV—Iªâ†„RÛ¾‰|—ôˆÃ¦xš3÷ÙÉ<½Fí¥sý9	!-†M%÷ûX-Ï1 unfreed mallocs
+ft_strjoin() -> èÜ¹ œ‹r|@½ÕÁ»aœÔ"ÑàiºÛ0û™&F$[õºíÙå ]ùp)N“^ON.Ñý4€jTwT¥¹XëÃ¨„Ía~<ÃÏÚ-8Eýçá†PÌóþÁï£á)Í˜Ô˜¬m¦Š¡Õôªˆ‹õ`éi¥G¦(p[–„cÿñm·¦3Ìï½:ìÑËÖ.Ð>Ô°Z;äå.‚csŽD²r¼ãPn±0ÐTàhÐwCJz¦’|µ˜ÀÒc«%í®?‘£1Á–¡Ÿt€6¾ü£‹·üa³ÙîZF„²z©ð„ÅÐ€J€óVñwEð<Œ2~ÆlˆpÍi*±Äz¤—¤„ß¼ÿëªþ¨”6Q´:ÚN6ü‚;ÊÖ•¢Oìæï1æþV’ä	×ÓA;âÌF4×ë úã®>®¨ã®ë;ó"¾Þ-êó¨?åž%Ã¼EêñÅL*`ÊÆ#þ|€s‹3oºzÎAáC*ÀRÌ:ËKTššø©lvåÆË£»Î‡p]üÿÄNxÔ›ñê škéË¢Š
+D¾NóV—Iªâ†„RÛ¾‰|—ôˆÃ¦xš3÷ÙÉ<½Fí¥sý9	!-†M%÷ûX-Ï
+1 unfreed mallocs
 467 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ]†%U®£[ó¢ž
-úc‰óXD›ST6Ÿ©¹•ûF2›¸7Í¨Ñ÷!Åœ{þ7áxE±#¨dB€ødþ=váÏ]#•Ë)l[->K!<	´ ÃØ°aûjÃÍóÈ²"\øÒldp"4Uþy1¼ ôuÌápvøúÅÖO2ž	#°{Þéóí4ðIÿóå%Û¹ò8¥ÁäzŠ‘Mž[·­B¡ªòûœØ¹ï	9”¶fqeÐ÷Ë-é$¥ÈÛ¬²™ƒk]V$@C<­‰kÀS§,Þ1 unfreed mallocs
+ft_strjoin() -> ]†%U®£[ó¢ž
+úc‰óXD›ST6Ÿ©¹•ûF2›¸7Í¨Ñ÷!Åœ{þ7áxE±#¨dB€ødþ=váÏ]#•Ë)l[->K!<	´ ÃØ°aûjÃÍóÈ²"\øÒldp"4Uþy1¼ ôuÌápvøúÅÖO2ž	#°{Þéóí4ðIÿóå%Û¹ò8¥ÁäzŠ‘Mž[·­B¡ªòûœØ¹ï	9”¶fqeÐ÷Ë-é$¥ÈÛ¬²™ƒk]V$@C<­‰kÀS§,Þ
+1 unfreed mallocs
 209 malloc'd size
 0 unfreed mallocs
-ft_substr() -> vw±•#ý[_S{GbÂ{wÐ´Ç¼é¤cWÏ‡BMg˜…^÷è6tq¬®ÑýÓ9ÆûâhŒKG*–þ£Žâƒ«ôÚ?`‹¥Vö«#·­µ°K„*§¼¢<êÓ^˜_dú›ásÓkêËämUIåþhMq?°m<£™Û9Ï–˜ºXS»Rn*ø/SÊ¡¹ø}@¯[Þ™§Aè[êä¢æ'òvý†.$]Úæˆùcc4WtùG÷DÙñ&à§ƒwQô„7¿vø³—ÖO˜“²íer.é½gtZ!e!¤áIÝWÂ=Œê·³Ìí„­:Z„JG‚Ÿ@¼hÃ‰ž±+ÞýÝJ7Š:*¼¯=u+mÅTê)Ã{öãÕÎÕW,æbÖ?DXá1S¡Š \‹yØ°#ÍT´ˆÚwU¾Ùñ2Õ„­§·Ÿý¥e&‘z™Â)6Ý'â G¿}À4÷û uÏAåóUdÚ¹³p8Xò8x–7ÞùÕÀ!VEži…É0”°ªc~Óþ«RÖÀ”ø+ê†)­£q\3D ÐÚŸßÔÕ|»!¶VðÛ¿´–EèJ
+ft_strjoin() -> vw±•#ý[_S{GbÂ{wÐ´Ç¼é¤cWÏ‡BMg˜…^÷è6tq¬®ÑýÓ9ÆûâhŒKG*–þ£Žâƒ«ôÚ?`‹¥Vö«#·­µ°K„*§¼¢<êÓ^˜_dú›ásÓkêËämUIåþhMq?°m<£™Û9Ï–˜ºXS»Rn*ø/SÊ¡¹ø}@¯[Þ™§Aè[êä¢æ'òvý†.$]Úæˆùcc4WtùG÷DÙñ&à§ƒwQô„7¿vø³—ÖO˜“²íer.é½gtZ!e!¤áIÝWÂ=Œê·³Ìí„­:Z„JG‚Ÿ@¼hÃ‰ž±+ÞýÝJ7Š:*¼¯=u+mÅTê)Ã{öãÕÎÕW,æbÖ?DXá1S¡Š \‹yØ°#ÍT´ˆÚwU¾Ùñ2Õ„­§·Ÿý¥e&‘z™Â)6Ý'â G¿}À4÷û uÏAåóUdÚ¹³p8Xò8x–7ÞùÕÀ!VEži…É0”°ªc~Óþ«RÖÀ”ø+ê†)­£q\3D ÐÚŸßÔÕ|»!¶VðÛ¿´–EèJ
 G°Î¢¤œÿí°	iW)‡Ž–}?ÁBãà‚¡ûÆ¥µbÆtX\˜«o›8é¬´í<¯ªÏûxôè¤sØY˜†‚N™Ùç£g\SÍIõ¥?½žqùû‡²®kQŽÕ~Xã,ë'Á]äIG³¾ðKirGšq@Äj å¦rhçú’"ªÚ·æ‹ó}ìµuìu%Ìë“zÑl?Eê.ûÊˆFÃâWŒ	®~0°g{dGã»Çæü•|.c/=\«¯ä5|©”z_ŸdkaáJ™f§@f/`i{Ïg®0ÏxðzM˜;È‘_´æ<Äžd8c/%}Ž¹Œóø:-xÏÐ%Ç“_—÷çºzç"æÈ,u¿ùÝ³£A•8k•bþí«*÷y»i„ ÿT!“4±€9‘o¼Gk`jÛ´cÙ®9T†PTæu¾^ÕÍVðÛ¿´–EèJ
-G°Î¢¤œÿí°	iW)‡Ž–}?ÁBãà‚¡ûÆ¥µbÆtX\˜«o›8é¬´í<¯ªÏûxôè¤sØY˜†‚N™Ùç£g\SÍIõ¥?½žqùû‡²®kQŽÕ~Xã,ë'Á]äIG³¾ðKirGšq@Äj å¦rhçú’"ªÚ·æ‹ó}ìµuìu%Ìë“zÑl?Eê.ûÊˆFÃâWŒ	®~0°g{dGã»Çæü•|.c/=\«¯ä5|©”z_ŸdkaáJ™f§@f/`i{Ïg®0ÏxðzM˜;È‘_´æ<Äžd8c/%}Ž¹Œóø:-xÏÐ%Ç“_—÷çºzç"æÈ,u¿ùÝ³£A•8k•bþí«*÷y»i„ ÿT!“4±€9‘o¼Gk`jÛ´cÙ®9T†PTæu¾^ÕÍ1 unfreed mallocs
+G°Î¢¤œÿí°	iW)‡Ž–}?ÁBãà‚¡ûÆ¥µbÆtX\˜«o›8é¬´í<¯ªÏûxôè¤sØY˜†‚N™Ùç£g\SÍIõ¥?½žqùû‡²®kQŽÕ~Xã,ë'Á]äIG³¾ðKirGšq@Äj å¦rhçú’"ªÚ·æ‹ó}ìµuìu%Ìë“zÑl?Eê.ûÊˆFÃâWŒ	®~0°g{dGã»Çæü•|.c/=\«¯ä5|©”z_ŸdkaáJ™f§@f/`i{Ïg®0ÏxðzM˜;È‘_´æ<Äžd8c/%}Ž¹Œóø:-xÏÐ%Ç“_—÷çºzç"æÈ,u¿ùÝ³£A•8k•bþí«*÷y»i„ ÿT!“4±€9‘o¼Gk`jÛ´cÙ®9T†PTæu¾^ÕÍ
+1 unfreed mallocs
 1114 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¯´*:—´ýj]8UhÉcü{`**»æ™9%GíòÆgÄ½x%¨u{£Ê {Šø;¿ÄèF·à‡UZ˜‡¾ˆˆÊ„wÀˆVg„nñ^¶PÆó%—åï9©ü¨8©êK•Lae ¶ñWÐ=¦ÿŸ_ïûœ:<ÍQ¾fÇVËAO—BInót¥–Lß9;a„Pæ¯ú’f<$Kø’Ø$·J^8j5ÖµY0¨üŠDóÅÂ}¼I½DÍ¾T.¥b›äóG¹ÖÑâŠŸÁQö6hoÚší¼Ï?Ii©*Üþ'u
+ft_strjoin() -> ¯´*:—´ýj]8UhÉcü{`**»æ™9%GíòÆgÄ½x%¨u{£Ê {Šø;¿ÄèF·à‡UZ˜‡¾ˆˆÊ„wÀˆVg„nñ^¶PÆó%—åï9©ü¨8©êK•Lae ¶ñWÐ=¦ÿŸ_ïûœ:<ÍQ¾fÇVËAO—BInót¥–Lß9;a„Pæ¯ú’f<$Kø’Ø$·J^8j5ÖµY0¨üŠDóÅÂ}¼I½DÍ¾T.¥b›äóG¹ÖÑâŠŸÁQö6hoÚší¼Ï?Ii©*Üþ'u
 å×ÝAÌ,kæÃeöØìäÛÈ: 41X²T4r`2@­8á¢OÅ äŸ°Ë-´aKç€°lŸ ÎÇ…bóÿX!SÈš®Q5Šœ©b¶Ù²oU\|zy*[(ðÒ·†þ¼ù2)9n¥ƒŽS€y
 1’˜+"·~óY	à¹gÓÉFwiúØSìvÀ×BÉ¼ÙPúx¯à•#v†yÄ@ð¬€R3
-i˜ar p©±gMUê§š×g¬Ó¶L:	Ánê8>:ïæÀGZ=²kæêè™Ä©j¶G„<RÉ‰‘‚Ìë%aüN²ãŸ6ýš!x·"O‡ÿÃ:)Žd¸eö^‡ŠÍ@¿•búÊh£xåmãAçÔŠzYž;HQžçØdR©‘ºC˜VäØ³C÷>SmnÓìÉû/4v‡1\jR3žaÛ­äšÕr•m'µ—ÃL6ÑÏÁ(Üâ«âý?ŸÅ%‰é\Cëw@u¡`”Ü©ø¤9Ï¯xˆp…ÛÈßaÝ„eëHªXþð¦õ#ç!V¶ÈÛ"hw|Âþ>™=)\1 unfreed mallocs
+i˜ar p©±gMUê§š×g¬Ó¶L:	Ánê8>:ïæÀGZ=²kæêè™Ä©j¶G„<RÉ‰‘‚Ìë%aüN²ãŸ6ýš!x·"O‡ÿÃ:)Žd¸eö^‡ŠÍ@¿•búÊh£xåmãAçÔŠzYž;HQžçØdR©‘ºC˜VäØ³C÷>SmnÓìÉû/4v‡1\jR3žaÛ­äšÕr•m'µ—ÃL6ÑÏÁ(Üâ«âý?ŸÅ%‰é\Cëw@u¡`”Ü©ø¤9Ï¯xˆp…ÛÈßaÝ„eëHªXþð¦õ#ç!V¶ÈÛ"hw|Âþ>™=)\
+1 unfreed mallocs
 641 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ŠµÞABCŒvGÊÅT|4ª¦×W§æŠû˜[¶4Õ¥î'
-epÕ«"I$#NÙMÿ¿ê£Õ¼zÒ1¹E%»G°Êvc!-µ¾”Bnê° q¥œWy86ñvê]+HätÜH‚z zÓ\¡Ë…á¢eqÍŸ—Q«<po~¥,ByE-cÇ^ðÁ]»(Y€(à÷Ÿ1È{wL‘W0X2BÃ¡6šüìî˜Q£Šé š:Ç²¿œ¨Ñ™Ù'J}³£ùžè'kl©Cz¬ŸÓi«Ë¸?uŒTš’Z±Ý¢©‡xN…ió,1 unfreed mallocs
+ft_strjoin() -> ŠµÞABCŒvGÊÅT|4ª¦×W§æŠû˜[¶4Õ¥î'
+epÕ«"I$#NÙMÿ¿ê£Õ¼zÒ1¹E%»G°Êvc!-µ¾”Bnê° q¥œWy86ñvê]+HätÜH‚z zÓ\¡Ë…á¢eqÍŸ—Q«<po~¥,ByE-cÇ^ðÁ]»(Y€(à÷Ÿ1È{wL‘W0X2BÃ¡6šüìî˜Q£Šé š:Ç²¿œ¨Ñ™Ù'J}³£ùžè'kl©Cz¬ŸÓi«Ë¸?uŒTš’Z±Ý¢©‡xN…ió,
+1 unfreed mallocs
 240 malloc'd size
 0 unfreed mallocs
-ft_substr() -> TùÑ•BÇ¥ì×]Ëé‡{è/÷×v&T=–Ù«zŸ·B®d˜ÎfÃDå‘p´ëZöñS½~Ç„n®õ×éh/N¬·Ï3ÛÞZÌ<ÞÅàUm¿—¶Ä	GÔâ30Jx
+ft_strjoin() -> TùÑ•BÇ¥ì×]Ëé‡{è/÷×v&T=–Ù«zŸ·B®d˜ÎfÃDå‘p´ëZöñS½~Ç„n®õ×éh/N¬·Ï3ÛÞZÌ<ÞÅàUm¿—¶Ä	GÔâ30Jx
 Ì–¨gÜåŽvcMŽOŠLnU•|¥#iÙCô9AÊ†¬qÿyÆz5ì)ò„0n=Ë Éðd¨×
-î¥Rw2,o/ççcn¿/²¾n®Ç°jCA£7•hÿñxÞuèOþ~f™gÔ•O—‰/éþ;ÚY\íkZøÈÖu]^a€­WêZ#!ŒUeç'éæ½—\­­v‚ÈzV(´Œ«.>‡ÈÎl4o4¥@ú‡+Ê´Aèuëµ¯N÷õ)Š3àì¯ùCnÐûVó/°ÑQŽ#Òäh¨Ó×€P§eÃloñKÂú4âPíf~6^±?2W$´7¢‘š1 unfreed mallocs
+î¥Rw2,o/ççcn¿/²¾n®Ç°jCA£7•hÿñxÞuèOþ~f™gÔ•O—‰/éþ;ÚY\íkZøÈÖu]^a€­WêZ#!ŒUeç'éæ½—\­­v‚ÈzV(´Œ«.>‡ÈÎl4o4¥@ú‡+Ê´Aèuëµ¯N÷õ)Š3àì¯ùCnÐûVó/°ÑQŽ#Òäh¨Ó×€P§eÃloñKÂú4âPíf~6^±?2W$´7¢‘š
+1 unfreed mallocs
 352 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¬ÝY~Ìí.]îTC¹ ƒªl>h”yDçœ'’@ÎÂ¶2é3]ËÁFj!¸xL5¾‘o\ùæàdÃ/>Iñ¬œå¯‘X;ÏèN]•ÿ#‚£¢tRaá{Îñµ7^×ÉÒÕDÔÕ( ºîÚb=—ïUl;…JVj¾›r¦rÏÖö¯21ÅxŸ«Î‰3©CÖ$[šÐÈ	£nz;à¢éÑ¯ã¨ÞåQÒšÅ2¼¹´?K³V~È°Çx%åhÞíN"ò„mÑ†OÌhÙeº˜rÀ¹Ù¶8¸L`öjºÑ3û!FçrÊªå™@ªÒ‡#CpQŽxœR FÙ‚“E?»÷Š4dŽu‰YCøGUA65MtjQŠ#UmŒÙß•ÝˆÛ¤Ž,ÑíDà›„Žèüóî„]MW1SÇŒ¦tÇÜ~÷Š	ü0‘Ã{þãEØŸb‚<œHÂÝ†IýŽiæ~ù‰y„uÎp-R¶l"’ÊjlÕ2I‚>V¿VãIÝµ”ÝšU€xn¬9®¨×lq‚šýÓhÔþö2eS9€äùýÂ'-’àPœa»lc¢'=ƒš{ÙI”Ø :BU@Í¨»h³ø1Ó¤ÎäQ£f”'ÀÍÒKø;¾Šæ!"|IôP(9¼·v([HX›ž‹·¦)R6+ÍÔ-¯¼pl§#tbâh~n+àÂþƒ×®åÜ÷Œc~K{G…Ú˜ïÓ˜ýÕí2åiò_ù«…Ö@N–Äôk¡V!ç©¥ø«l“9—Yc·°ƒ©èí>®ò“lî…˜ô!SZ§ÎGs6š-­ÁØæpÈ°¬$Tß"Jç2#Z$ÀGZ?ê5C#«d N±ë®2…[)ÓE"ÌÜŒK³§:ôàà<„¶°1t]s¬»–Q!‰iDkC9ãqGä¡ðN¬çÏ0Oˆtëµi¥Â	=Ykào–qÃŒïp‡ZÎ_´ÇŒ¦tÇÜ~÷Š	ü0‘Ã{þãEØŸb‚<œHÂÝ†IýŽiæ~ù‰y„uÎp-R¶l"’ÊjlÕ2I‚>V¿VãIÝµ”ÝšU€xn¬9®¨×lq‚šýÓhÔþö2eS9€äùýÂ'-’àPœa»lc¢'=ƒš{ÙI”Ø :BU@Í¨»h³ø1Ó¤ÎäQ£f”'ÀÍÒKø;¾Šæ!"|IôP(9¼·v([HX›ž‹·¦)R6+ÍÔ-¯¼pl§#tbâh~n+àÂþƒ×®åÜ÷Œc~K{G…Ú˜ïÓ˜ýÕí2åiò_ù«…Ö@N–Äôk¡V!ç©¥ø«l“9—Yc·°ƒ©èí>®ò“lî…˜ô!SZ§ÎGs6š-­ÁØæpÈ°¬$Tß"Jç2#Z$ÀGZ?ê5C#«d N±ë®2…[)ÓE"ÌÜŒK³§:ôàà<„¶°1t]s¬»–Q!‰iDkC9ãqGä¡ðN¬çÏ0Oˆtëµi¥Â	=Ykào–qÃŒïp‡ZÎ_´1 unfreed mallocs
+ft_strjoin() -> ¬ÝY~Ìí.]îTC¹ ƒªl>h”yDçœ'’@ÎÂ¶2é3]ËÁFj!¸xL5¾‘o\ùæàdÃ/>Iñ¬œå¯‘X;ÏèN]•ÿ#‚£¢tRaá{Îñµ7^×ÉÒÕDÔÕ( ºîÚb=—ïUl;…JVj¾›r¦rÏÖö¯21ÅxŸ«Î‰3©CÖ$[šÐÈ	£nz;à¢éÑ¯ã¨ÞåQÒšÅ2¼¹´?K³V~È°Çx%åhÞíN"ò„mÑ†OÌhÙeº˜rÀ¹Ù¶8¸L`öjºÑ3û!FçrÊªå™@ªÒ‡#CpQŽxœR FÙ‚“E?»÷Š4dŽu‰YCøGUA65MtjQŠ#UmŒÙß•ÝˆÛ¤Ž,ÑíDà›„Žèüóî„]MW1SÇŒ¦tÇÜ~÷Š	ü0‘Ã{þãEØŸb‚<œHÂÝ†IýŽiæ~ù‰y„uÎp-R¶l"’ÊjlÕ2I‚>V¿VãIÝµ”ÝšU€xn¬9®¨×lq‚šýÓhÔþö2eS9€äùýÂ'-’àPœa»lc¢'=ƒš{ÙI”Ø :BU@Í¨»h³ø1Ó¤ÎäQ£f”'ÀÍÒKø;¾Šæ!"|IôP(9¼·v([HX›ž‹·¦)R6+ÍÔ-¯¼pl§#tbâh~n+àÂþƒ×®åÜ÷Œc~K{G…Ú˜ïÓ˜ýÕí2åiò_ù«…Ö@N–Äôk¡V!ç©¥ø«l“9—Yc·°ƒ©èí>®ò“lî…˜ô!SZ§ÎGs6š-­ÁØæpÈ°¬$Tß"Jç2#Z$ÀGZ?ê5C#«d N±ë®2…[)ÓE"ÌÜŒK³§:ôàà<„¶°1t]s¬»–Q!‰iDkC9ãqGä¡ðN¬çÏ0Oˆtëµi¥Â	=Ykào–qÃŒïp‡ZÎ_´ÇŒ¦tÇÜ~÷Š	ü0‘Ã{þãEØŸb‚<œHÂÝ†IýŽiæ~ù‰y„uÎp-R¶l"’ÊjlÕ2I‚>V¿VãIÝµ”ÝšU€xn¬9®¨×lq‚šýÓhÔþö2eS9€äùýÂ'-’àPœa»lc¢'=ƒš{ÙI”Ø :BU@Í¨»h³ø1Ó¤ÎäQ£f”'ÀÍÒKø;¾Šæ!"|IôP(9¼·v([HX›ž‹·¦)R6+ÍÔ-¯¼pl§#tbâh~n+àÂþƒ×®åÜ÷Œc~K{G…Ú˜ïÓ˜ýÕí2åiò_ù«…Ö@N–Äôk¡V!ç©¥ø«l“9—Yc·°ƒ©èí>®ò“lî…˜ô!SZ§ÎGs6š-­ÁØæpÈ°¬$Tß"Jç2#Z$ÀGZ?ê5C#«d N±ë®2…[)ÓE"ÌÜŒK³§:ôàà<„¶°1t]s¬»–Q!‰iDkC9ãqGä¡ðN¬çÏ0Oˆtëµi¥Â	=Ykào–qÃŒïp‡ZÎ_´
+1 unfreed mallocs
 1172 malloc'd size
 0 unfreed mallocs
-ft_substr() -> §Ë•?o“âgÇcz¶Ê š9*1,Rv2éTî£”*Sù8iŠ©7ºùr2Íb¡{–÷Þ§Ôk±JL¥ža473ÿ$¾&4v}4]ó?{7*ßëT¼F=Ò·œ«i´*r3±>¬­ÓÆT…|¾øzñwä´Ï3:ð¥\PYGâDÒyÞ­øÍ×Zˆ£´
-Ç<½¨p‚»žÏà©†ükM˜£9 ÒkR™K)w4XÉ•D`ø~“AÝÏ¦Í-L¥þà`j1 unfreed mallocs
+ft_strjoin() -> §Ë•?o“âgÇcz¶Ê š9*1,Rv2éTî£”*Sù8iŠ©7ºùr2Íb¡{–÷Þ§Ôk±JL¥ža473ÿ$¾&4v}4]ó?{7*ßëT¼F=Ò·œ«i´*r3±>¬­ÓÆT…|¾øzñwä´Ï3:ð¥\PYGâDÒyÞ­øÍ×Zˆ£´
+Ç<½¨p‚»žÏà©†ükM˜£9 ÒkR™K)w4XÉ•D`ø~“AÝÏ¦Í-L¥þà`j
+1 unfreed mallocs
 193 malloc'd size
 0 unfreed mallocs
-ft_substr() -> û”ûØÄÚ™=½¡é¿Xª	f©cÁQ–êºfûK6ôçÇJû/³]eåQÃÜæšþÛÆÂÍF(¥/©Ž•š‡@'|ŽÓóë\‹ãÄ‡-cÇyC’…£¯ÀEý"MìSŠ;K$Ë¸WXÊ¢óÕsÖpOÍùŠ-®DAâ£¥YÁ1 unfreed mallocs
+ft_strjoin() -> û”ûØÄÚ™=½¡é¿Xª	f©cÁQ–êºfûK6ôçÇJû/³]eåQÃÜæšþÛÆÂÍF(¥/©Ž•š‡@'|ŽÓóë\‹ãÄ‡-cÇyC’…£¯ÀEý"MìSŠ;K$Ë¸WXÊ¢óÕsÖpOÍùŠ-®DAâ£¥YÁ
+1 unfreed mallocs
 133 malloc'd size
 0 unfreed mallocs
-ft_substr() ->  ‹…èg™TÝÏ*J`ùByÄƒœHùžP"Q»ÕigƒH"95¥]ŒUÄ•fWÛ—ûú¶Ì9%¶Œ:¢Já±{g3‘ôI}`‹Òüø™K9Y›Ó§ïFTþWÂVÚ‰ÓÙ•m‡ÑEäÍAINñž.ÕŒŸ)ü…—êäq—Î{UnM±#ô‘^!`p'"E9è_½9LÞm
-. =Ÿ³Ô# Ö$ŒÒÝ£H8Y#;fê-+PY`ÃJVòÈKFPà%ÄÓ„ãv4{ßcœ$ß¬­êÛh+†Œ?gø¹ÈoC@£÷ëçV/àè`?¶ÜZ:	äŽö*aâ®	¨ef×A›,-ÐP‘uYo·7¢."FûûÝ™%·‹?K¦ ‹…èg™TÝÏ*J`ùByÄƒœHùžP"Q»ÕigƒH"95¥]ŒUÄ•fWÛ—ûú¶Ì91 unfreed mallocs
+ft_strjoin() ->  ‹…èg™TÝÏ*J`ùByÄƒœHùžP"Q»ÕigƒH"95¥]ŒUÄ•fWÛ—ûú¶Ì9%¶Œ:¢Já±{g3‘ôI}`‹Òüø™K9Y›Ó§ïFTþWÂVÚ‰ÓÙ•m‡ÑEäÍAINñž.ÕŒŸ)ü…—êäq—Î{UnM±#ô‘^!`p'"E9è_½9LÞm
+. =Ÿ³Ô# Ö$ŒÒÝ£H8Y#;fê-+PY`ÃJVòÈKFPà%ÄÓ„ãv4{ßcœ$ß¬­êÛh+†Œ?gø¹ÈoC@£÷ëçV/àè`?¶ÜZ:	äŽö*aâ®	¨ef×A›,-ÐP‘uYo·7¢."FûûÝ™%·‹?K¦ ‹…èg™TÝÏ*J`ùByÄƒœHùžP"Q»ÕigƒH"95¥]ŒUÄ•fWÛ—ûú¶Ì9
+1 unfreed mallocs
 340 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ”ïÿÏÛÉ¾¤.ØBt¤•/ˆu¸¦Q—3åÆÔnöÇÛýÚ5Fñ…(|K?á¾:ìB6*sÍ©m3Èæ¯º\¹B79ÜÑ.Ý®ÝS¼,!ËŽCvçó^þWR}¢C%ÕÃÔÄ+·â qÙÑ-öÌ«¤•UG[”¸%€|´ Oe}¥÷ÑiÌ~Ùó#ë0¥:sV„ æxÅjÏYOQþô·¼o~òBˆ|Æ|kqdÑðêy»ãª‘ YºœR~ÒŸÍa®ä¸¤Ã|RÁÇ•hô¾3ûÌýB-æ°&y$ßÞª÷	í•.Æ£jttÚéíièpt'¬ƒ*3ß‚&ËË­ñy•Ñ	±ó/S406…¿°1åÁâ¡Î×	!\ÇúÝÑn†÷½E™À£»S!TÇ¢w¦mKMäNŒ9ZŸ.(Æ­ØqAÙuÃò¿6m;ýNÖm{½,da‚bþÕ‹^ÌM‚þdÐ.Ùú/‡éTãp:¨5‡z n=iì¨—’hq;Ýùð"˜ðàJãâ.ü-JÎ8õA
-ð‰BÁ@G\¥¶~òÏñÈÊiUíKf`œÚ VÇ%‘HŸîÄâaÿÿç8-}j‘Š­Ú¢DñáÏÂv_Ø·?Ðì)«7mFMD_Þª”Š€ß`eS¢MõÜc:LxeÚ]a¼Êy^J	ot¢e$¹ûRvJÊYs—Ê–€œ Áx"2ú¼œåŠ€÷1é)³\î±ÚÀþxÃ…¤ÔQøÆá½A …™8±ˆ9ÂÏÈ’6òK=žÂ0øÑ„#¿rñ(Hq5y«J~%Î1 unfreed mallocs
+ft_strjoin() -> ”ïÿÏÛÉ¾¤.ØBt¤•/ˆu¸¦Q—3åÆÔnöÇÛýÚ5Fñ…(|K?á¾:ìB6*sÍ©m3Èæ¯º\¹B79ÜÑ.Ý®ÝS¼,!ËŽCvçó^þWR}¢C%ÕÃÔÄ+·â qÙÑ-öÌ«¤•UG[”¸%€|´ Oe}¥÷ÑiÌ~Ùó#ë0¥:sV„ æxÅjÏYOQþô·¼o~òBˆ|Æ|kqdÑðêy»ãª‘ YºœR~ÒŸÍa®ä¸¤Ã|RÁÇ•hô¾3ûÌýB-æ°&y$ßÞª÷	í•.Æ£jttÚéíièpt'¬ƒ*3ß‚&ËË­ñy•Ñ	±ó/S406…¿°1åÁâ¡Î×	!\ÇúÝÑn†÷½E™À£»S!TÇ¢w¦mKMäNŒ9ZŸ.(Æ­ØqAÙuÃò¿6m;ýNÖm{½,da‚bþÕ‹^ÌM‚þdÐ.Ùú/‡éTãp:¨5‡z n=iì¨—’hq;Ýùð"˜ðàJãâ.ü-JÎ8õA
+ð‰BÁ@G\¥¶~òÏñÈÊiUíKf`œÚ VÇ%‘HŸîÄâaÿÿç8-}j‘Š­Ú¢DñáÏÂv_Ø·?Ðì)«7mFMD_Þª”Š€ß`eS¢MõÜc:LxeÚ]a¼Êy^J	ot¢e$¹ûRvJÊYs—Ê–€œ Áx"2ú¼œåŠ€÷1é)³\î±ÚÀþxÃ…¤ÔQøÆá½A …™8±ˆ9ÂÏÈ’6òK=žÂ0øÑ„#¿rñ(Hq5y«J~%Î
+1 unfreed mallocs
 626 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ~QÒù“gàÉÇÝë¡pßBtG»­Tši6žc…ß\òIvþ×•kzruG†ÜùÍµÓÒ¼žŠëiR‘év9£QÐ‹3XÝËµjMÐí?V¬_#}ä0„À0ãÃ”4M3Q‰<æè&ƒ"nŸt	â9õýtÙßu…1 unfreed mallocs
+ft_strjoin() -> ~QÒù“gàÉÇÝë¡pßBtG»­Tši6žc…ß\òIvþ×•kzruG†ÜùÍµÓÒ¼žŠëiR‘év9£QÐ‹3XÝËµjMÐí?V¬_#}ä0„À0ãÃ”4M3Q‰<æè&ƒ"nŸt	â9õýtÙßu…
+1 unfreed mallocs
 134 malloc'd size
 0 unfreed mallocs
-ft_substr() -> á¼XÔ]PäÌ'7¥ŒtjáÚ)¢ä õŒSÿÇ'sXjÅ5Tœî„°XIH^n9W›Fýø¯!‚§´4jÄÍ5«ý'¤æ|±ÞˆÑ›ã¢žâ‰²Š-ÒY:gŒþðk;ÂÃ2Bò²ë`g‹mâ}(ÞŸ—z7;Ÿ æ¨‹ækÆÅNö°ò›Ë0Ê^-•zÝ¹.r˜G¨‡û*êü
+ft_strjoin() -> á¼XÔ]PäÌ'7¥ŒtjáÚ)¢ä õŒSÿÇ'sXjÅ5Tœî„°XIH^n9W›Fýø¯!‚§´4jÄÍ5«ý'¤æ|±ÞˆÑ›ã¢žâ‰²Š-ÒY:gŒþðk;ÂÃ2Bò²ë`g‹mâ}(ÞŸ—z7;Ÿ æ¨‹ækÆÅNö°ò›Ë0Ê^-•zÝ¹.r˜G¨‡û*êü
 1ÍM-Ïƒ‡Ù,àw[¥¦œ0iÊs`×qâ’o¨RÝýÝ·ñüog€$/¥¼_5}ª5ƒlPé’î¼39›7W…=¶e§H¶‰“¢ò´’G-"âô=$”,+[œÎò!÷âf¥HòqÓÓ·3 @¼±+_=*–Á°+™ÿ¥©}ßÊyP=„â$’3‹£üS$â¿¯ˆï‚yHf³vk<š>	ü¬MdÎo8GÕh÷Áô²pXú½E³`KP<þ]Ýˆ×%˜ã·oMÃ|ýéí5´+å¶nm#d¿~Ãov=ïÐòú+Œ§€|21*vÕ€¿8Ó1BhgÉ{ ,VV3fA¢È_mßñ]Lr¼0bÙ-¯÷k±Ï£}ªà•ä¯R^NÔ†ØÄ1>ž‡¶+À‚“	F¯Q€g®¶§Ï€C[t^õùb6ö$×µ©¢J`½K¥çÅšBóø]G·K)"›ÛdEý“³—’ãnÑ^ëÒP §‚©Ê"úÊÊÅ“ê|eÅü…*/ÌÂhßôƒ(IdÈç|Æn"¼êÜ–ºp•ëÓzS0›NTtìáƒ‡³Uû0($g½	¢õMé¦\à½0î˜RžáŒð¶ÅŽ{à“dØD±]×ë®¡vWïåyÂ9ç"†»îøuîú°p§èWFÔJ¼ŸL»ùâÁøo$D§;J1fDw¾ƒötÂ×'0jîÊz:%IX÷ÚPH1³¸ep†0ßŒÂ¿ÙUÖ_êô´òÙ;'¶æ/·ŸŸøð×}luÿ ðÃíŒ“O²¯÷	+È<‘Ð¤ÙzdŠžÅ¾\!VÜSå²`ÉÆàãhòrv
 V?Á—¸IéEÞî¼K§A¬dÏ¸h¶¼ñøü]í0êÏ4^B®£ÝV…FUŒ÷’:þCòn1M2­Nt3[vïJÝr’0¨¼!¥•»HÓpì¬žðboI9Š|=Í0 Mt pÞRv¸Áª–\#‘³iä+GYèÓlç[!-Úd¿Çjñ–_iF]k$b(âÇ(ß¿à«D Vq¶ÁUœx£c	d’wjõ“_ß`ö"OŠËE—zµS-J$ž³õãY+G	…D1¶0øéÃ5÷FØú@
 ¬.‚ÞÝë–;E÷Wøo®©×{[1wù.>ÿ¸®î	{ï¿‹I þÄ¬Oå<È9("ƒüÌ¸M!ÉK¸W»I¨£ÔßQ7¨L‘Ýša²Ð¯?ÒLºI“
 ¾áL:°®á¼XÔ]PäÌ'7¥ŒtjáÚ)¢ä õŒSÿÇ'sXjÅ5Tœî„°XIH^n9W›Fýø¯!‚§´4jÄÍ5«ý'¤æ|±ÞˆÑ›ã¢žâ‰²Š-ÒY:gŒþðk;ÂÃ2Bò²ë`g‹mâ}(ÞŸ—z7;Ÿ æ¨‹ækÆÅNö°ò›Ë0Ê^-•zÝ¹.r˜G¨‡û*êü
-1ÍM-Ïƒ‡Ù,àw[¥¦œ0iÊs`×qâ’o¨RÝýÝ·ñüog€$/¥¼_5}ª5ƒlPé’î¼39›7W…=¶e§H¶‰“¢ò´’G-"âô=$”,+[œÎò!÷âf¥HòqÓÓ·3 @¼±+_=*–Á°+™ÿ¥©}ßÊyP=„â$’3‹£üS$â¿¯ˆï‚yHf³vk<š>	ü¬MdÎo8GÕh÷Áô²pXú½E³`KP<þ]Ýˆ×%˜ã·oMÃ|ýéí5´+å¶nm#d¿~Ãov=ïÐòú+Œ§€|21*vÕ€¿8Ó1BhgÉ{ ,VV3fA¢È_mßñ]Lr¼0bÙ-¯÷k±Ï£}ªà•ä¯R^NÔ†ØÄ1>ž‡¶+À‚“	F¯Q€g®¶§Ï€C[t^õùb6ö$×µ©¢J`½K¥çÅšBóø]G·K)"›ÛdEý“³—’ãnÑ^ëÒP §‚©Ê"úÊÊÅ“ê|eÅü…*/ÌÂhßôƒ(IdÈç|Æn"¼êÜ–ºp•ëÓzS0›NTtìáƒ‡³Uû0($g½	¢õMé¦\à½0î˜RžáŒð¶ÅŽ{à“dØD±]×ë®¡vWïåyÂ9ç"†»îøuîú°p§èWFÔJ¼ŸL»1 unfreed mallocs
+1ÍM-Ïƒ‡Ù,àw[¥¦œ0iÊs`×qâ’o¨RÝýÝ·ñüog€$/¥¼_5}ª5ƒlPé’î¼39›7W…=¶e§H¶‰“¢ò´’G-"âô=$”,+[œÎò!÷âf¥HòqÓÓ·3 @¼±+_=*–Á°+™ÿ¥©}ßÊyP=„â$’3‹£üS$â¿¯ˆï‚yHf³vk<š>	ü¬MdÎo8GÕh÷Áô²pXú½E³`KP<þ]Ýˆ×%˜ã·oMÃ|ýéí5´+å¶nm#d¿~Ãov=ïÐòú+Œ§€|21*vÕ€¿8Ó1BhgÉ{ ,VV3fA¢È_mßñ]Lr¼0bÙ-¯÷k±Ï£}ªà•ä¯R^NÔ†ØÄ1>ž‡¶+À‚“	F¯Q€g®¶§Ï€C[t^õùb6ö$×µ©¢J`½K¥çÅšBóø]G·K)"›ÛdEý“³—’ãnÑ^ëÒP §‚©Ê"úÊÊÅ“ê|eÅü…*/ÌÂhßôƒ(IdÈç|Æn"¼êÜ–ºp•ëÓzS0›NTtìáƒ‡³Uû0($g½	¢õMé¦\à½0î˜RžáŒð¶ÅŽ{à“dØD±]×ë®¡vWïåyÂ9ç"†»îøuîú°p§èWFÔJ¼ŸL»
+1 unfreed mallocs
 1846 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Ï¼ª_¨J’êÙû+ÿø†Ãb¤±n&{ê€‚¹Ü»bÌš‘¾{W+¸Òë5xÔpÈà2õnßŠJM3<&:_ÀŸvÕjÒE@ö3@D--à’Ë*ß0y\*åßÑþ¸ ÷1ð¡ÑcïªÔ©o.g'‰9)=Z9#ê”h¦M0\f ½'ÂÉe(ÒØ½mH.·¤úÈ‘ÀýÃ_µÍwfÂËÜžé-nÊ€ÔxŽ%©äYTEÞr½ÏjÃ#ÛÈæqNŠ:£à\Äü¦	l’©&ÑòbyÓÂEL³k×™%<æy3£AÎ˜£Ó+)¡ÿ6SÚL>ˆ–	ˆ“Ø¿žþV ¿¤üÚÒ‚\]úçS Ô•Y^6Î®›`oüì×²£Âý<hö ó©ŸqùÕw}F·4ag„©¬ø£›â>dÖUJõ„Ý$c’'¢Ââå'^"îL^áºƒƒAÏ¬àlÁ%œ?5³DÃK`.µÁðìžVšuFVÕ”ŽØ±.C°rBfG¡zi²úoµÏPÉûš“È×-9¢×iÃ½ÔÀ'­ãx¸^ˆ>·AõLMrªsÚùÝ¦öbh§ësöåíô.ºb¢\NºÏËlJ?¹¼×ºW@RçòSˆ«4,ve¸RÀíà98_“TT…HQ!Ió#Ð#`èwLÛúAåœ	‡/ÚýåmƒôÛpdyf›£N/ÂY¾	QŽ@cìñ‘›¸)ãùhÇ–—N?
-aQp+±Eã<^Åc¿¤9àM‰ä¾Øjdî¥DÌ-Džl}Ž¥¥äI”Oö~#ø¸«d‹ cŸæA{ŸÔnLÖ0¨ùUë*DÃ’,~“+x_53fÑquœ^µZÁºÄÜ—IG#nLŒ’AÈuÖÝåÄ‚¼,¼ç%ù‚ÿ3MÍR²9ß¨ð@@SÁaÿ’î¯Æ§l5FŒâ-iâ¸ Ž¤F–ÄJÞÛhûóîÃÈåu½ä)%ÂÙèë¬!FÑ€ëqX•mëžã»‰¹‚•Oºr}`•	ý©¾¶ Æº¨ÅùQÌ½ïô©ºŠÈ¶(¬s¹çFýÐéðÈg©ìx¾#wÍé´Î52€ìm©þ§Xü`v3@á®šw¢ÈÑ‰H¹kŽ>¹øÔ6V§Ô/ºwoiµ˜ŸH>¿ð›þ´Y¤îJäùÙpæÞ\AùžGà¾ñÄ£v=v¤Ù‰GXâÏÐÃB}MµëÆ\‚‡«@uµT,QÃ$Ø’£f3ßäªáÝüb+I[©¨?49Û7"N®Õ~ˆjý'*]IcZ*«À»J¾ú›1 unfreed mallocs
+ft_strjoin() -> Ï¼ª_¨J’êÙû+ÿø†Ãb¤±n&{ê€‚¹Ü»bÌš‘¾{W+¸Òë5xÔpÈà2õnßŠJM3<&:_ÀŸvÕjÒE@ö3@D--à’Ë*ß0y\*åßÑþ¸ ÷1ð¡ÑcïªÔ©o.g'‰9)=Z9#ê”h¦M0\f ½'ÂÉe(ÒØ½mH.·¤úÈ‘ÀýÃ_µÍwfÂËÜžé-nÊ€ÔxŽ%©äYTEÞr½ÏjÃ#ÛÈæqNŠ:£à\Äü¦	l’©&ÑòbyÓÂEL³k×™%<æy3£AÎ˜£Ó+)¡ÿ6SÚL>ˆ–	ˆ“Ø¿žþV ¿¤üÚÒ‚\]úçS Ô•Y^6Î®›`oüì×²£Âý<hö ó©ŸqùÕw}F·4ag„©¬ø£›â>dÖUJõ„Ý$c’'¢Ââå'^"îL^áºƒƒAÏ¬àlÁ%œ?5³DÃK`.µÁðìžVšuFVÕ”ŽØ±.C°rBfG¡zi²úoµÏPÉûš“È×-9¢×iÃ½ÔÀ'­ãx¸^ˆ>·AõLMrªsÚùÝ¦öbh§ësöåíô.ºb¢\NºÏËlJ?¹¼×ºW@RçòSˆ«4,ve¸RÀíà98_“TT…HQ!Ió#Ð#`èwLÛúAåœ	‡/ÚýåmƒôÛpdyf›£N/ÂY¾	QŽ@cìñ‘›¸)ãùhÇ–—N?
+aQp+±Eã<^Åc¿¤9àM‰ä¾Øjdî¥DÌ-Džl}Ž¥¥äI”Oö~#ø¸«d‹ cŸæA{ŸÔnLÖ0¨ùUë*DÃ’,~“+x_53fÑquœ^µZÁºÄÜ—IG#nLŒ’AÈuÖÝåÄ‚¼,¼ç%ù‚ÿ3MÍR²9ß¨ð@@SÁaÿ’î¯Æ§l5FŒâ-iâ¸ Ž¤F–ÄJÞÛhûóîÃÈåu½ä)%ÂÙèë¬!FÑ€ëqX•mëžã»‰¹‚•Oºr}`•	ý©¾¶ Æº¨ÅùQÌ½ïô©ºŠÈ¶(¬s¹çFýÐéðÈg©ìx¾#wÍé´Î52€ìm©þ§Xü`v3@á®šw¢ÈÑ‰H¹kŽ>¹øÔ6V§Ô/ºwoiµ˜ŸH>¿ð›þ´Y¤îJäùÙpæÞ\AùžGà¾ñÄ£v=v¤Ù‰GXâÏÐÃB}MµëÆ\‚‡«@uµT,QÃ$Ø’£f3ßäªáÝüb+I[©¨?49Û7"N®Õ~ˆjý'*]IcZ*«À»J¾ú›
+1 unfreed mallocs
 1005 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 8C¬BïmoÝú°ÖF‚¶¦éì¤¡c”dëÂs.;îs{û¶obï›ë2ß³ÿJß`?ÉÐ«$E»q»ØØŠÉ„kJ`–ÁÓEØé!y3ÓÉ½jºdÑ#äÜÞä&¸)¢‰Ij!Yf¤ªìZ
+ft_strjoin() -> 8C¬BïmoÝú°ÖF‚¶¦éì¤¡c”dëÂs.;îs{û¶obï›ë2ß³ÿJß`?ÉÐ«$E»q»ØØŠÉ„kJ`–ÁÓEØé!y3ÓÉ½jºdÑ#äÜÞä&¸)¢‰Ij!Yf¤ªìZ
 ‚&qGéx˜ø·uŒ'Æ¶Õp¸E·éFâ^hvcÓ%&xÌŽ]ì"‡ô°sˆª)±"êS|^Iq[}ìkÕïòÄŽÊªž.ùx¡ªM¤nsÛX“’êU›H×îkLCMB†'™ërè§Ÿ òÙã&þt_cï%6Tƒ?^ak@U°êËvs“³Ç·.:²ûRÌ.YÈàr`‡é<k“8óÈZØ¸Pï"¬æn¦Pá’¿•´­å›ðPwÉƒlÞÙø<²™8b8rî¦š!#ßHïÒ£ñ»uylXBx¶Ô3›íØbºÑXKñæ‘Ë?c„ºx pïF^÷æüOÜ)nMÇ…7ôéAö£m&]^å ;¤÷,îv¢é%‰õÒï
-Èlæâ#c©ÐÞë"¼É{”ÜœLgˆ¢³Þ$sŽ–Ò¢„¾=:¯W6ˆetNO+¡¨Ã.? •˜òax¥'Ø³kÄÝY[Œ6þR3…ËDœÚ1 unfreed mallocs
+Èlæâ#c©ÐÞë"¼É{”ÜœLgˆ¢³Þ$sŽ–Ò¢„¾=:¯W6ˆetNO+¡¨Ã.? •˜òax¥'Ø³kÄÝY[Œ6þR3…ËDœÚ
+1 unfreed mallocs
 500 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¾3àu¼©/áSäŒ:ìëä¥m›kB“d§‚¦TæåDÈ¾ˆà)ïù=çñ8üö"
-cú¡k§É°Y¨+¼¡Cñb½ÚÝ¹[ÁØÏËü$¿	æNÔtqZuŸ}ãS*»´µ4W†mŠýdiû¾wM[”{¦Œe Nic°ž•à£Û'«û×øLö±X—jí›G°=06b¨ªÆ¡`ÓzŸIèðD²0Ë*‡LÙ9-g¿¼mì1¿¬¿·G}y\„b¾!²^F!ªÁšØs"~ÔfçŠžÄ‚Þm0¸ràŒc¯ÆŽM”ÄomAðYàB/Ž¨œNX(šã´[Tâ½ØþÚ†Å§¶z¤fä± '2­ãóz˜ÅÉbzŽ[Ý¥Çz »aÍ”èbf­§æº°–ÑoåGzO¦ê¦Wî.xC][lµØ­‡™˜Ñ«Ç¬ˆåÑVÚ2m"ÄÈ¯d·Õä–5¯)lO‹|2™gMÁi„]2aíÀ»u*¨3—Ó‰Áƒ!»Ýoên­Ÿ9»?EfŽnÎ©ÇÉLˆpžâY—Ä­{>–‹·É†AIrm†×»1Ï”D^“ XºZ,xrV:´·›Ý%×NŽ—³vR[”ºùd? ÁæKÎÚ(LÎÔÜŠ‘Ü‹“RÆ¨ØÈP­+ìýÇù‰´AG…²mñ¥ç•ÒŽŽó­Y§ÂÔ8ªs'yóZÇOˆü¾K{HÃL:åÆi¥¼¥dŠJét%ïÃï¯ñá{è	LN³Íd{náŸÿÝ‹ýZæŒBƒÕ•`./(Zm¦3R‡Ê^ƒ¥š¦F’ïÇëÈå„oMî»³H:ÉPµú§€bW$Ã¨žd½ƒ,!>dEG5‹[Ÿ³`À	‹îþuÖ–ê»lá|Fqº>¢û¼Ä"cÔ«'hfâëŒgš¾bUFö•M´e:yÛM™–ÌŽ¢çB–:1«\§§¬ý!#¢pt¾øŸAêô=ÿ²Ä®©ÌHÊ(Ì5}O|´œ-õ‰¹îS×üQÄtj®bmsÔƒÑzÄú‰<Vj^h^þzmôV¶ý)YM¾ÝÔºÄ5(—ˆ·u YŸ„u;)7ä0—„úû^FZ.ÉôFÌ+j§aA¼çT'sv¸òþ(¾Bg§ñ7²_÷KÃî£ß:¥_yj6m§¹›D˜ÜÛ˜×æ >ÑRÄòôjëøù«·×õÙ0ØÜñ=_a“B›1ÛÕÀO£’Ô‰Š4‹Y*wL;ãœÙ†úÝ0~˜¾uHœ‰¦ÇÅþÍËE÷¬Š8§™£lYˆÉ¡]×3x|ÂCÁI¢./ÆÚÇ'	¸<Goqî¹°LGS–[•MãºžÉ¸÷n1 unfreed mallocs
+ft_strjoin() -> ¾3àu¼©/áSäŒ:ìëä¥m›kB“d§‚¦TæåDÈ¾ˆà)ïù=çñ8üö"
+cú¡k§É°Y¨+¼¡Cñb½ÚÝ¹[ÁØÏËü$¿	æNÔtqZuŸ}ãS*»´µ4W†mŠýdiû¾wM[”{¦Œe Nic°ž•à£Û'«û×øLö±X—jí›G°=06b¨ªÆ¡`ÓzŸIèðD²0Ë*‡LÙ9-g¿¼mì1¿¬¿·G}y\„b¾!²^F!ªÁšØs"~ÔfçŠžÄ‚Þm0¸ràŒc¯ÆŽM”ÄomAðYàB/Ž¨œNX(šã´[Tâ½ØþÚ†Å§¶z¤fä± '2­ãóz˜ÅÉbzŽ[Ý¥Çz »aÍ”èbf­§æº°–ÑoåGzO¦ê¦Wî.xC][lµØ­‡™˜Ñ«Ç¬ˆåÑVÚ2m"ÄÈ¯d·Õä–5¯)lO‹|2™gMÁi„]2aíÀ»u*¨3—Ó‰Áƒ!»Ýoên­Ÿ9»?EfŽnÎ©ÇÉLˆpžâY—Ä­{>–‹·É†AIrm†×»1Ï”D^“ XºZ,xrV:´·›Ý%×NŽ—³vR[”ºùd? ÁæKÎÚ(LÎÔÜŠ‘Ü‹“RÆ¨ØÈP­+ìýÇù‰´AG…²mñ¥ç•ÒŽŽó­Y§ÂÔ8ªs'yóZÇOˆü¾K{HÃL:åÆi¥¼¥dŠJét%ïÃï¯ñá{è	LN³Íd{náŸÿÝ‹ýZæŒBƒÕ•`./(Zm¦3R‡Ê^ƒ¥š¦F’ïÇëÈå„oMî»³H:ÉPµú§€bW$Ã¨žd½ƒ,!>dEG5‹[Ÿ³`À	‹îþuÖ–ê»lá|Fqº>¢û¼Ä"cÔ«'hfâëŒgš¾bUFö•M´e:yÛM™–ÌŽ¢çB–:1«\§§¬ý!#¢pt¾øŸAêô=ÿ²Ä®©ÌHÊ(Ì5}O|´œ-õ‰¹îS×üQÄtj®bmsÔƒÑzÄú‰<Vj^h^þzmôV¶ý)YM¾ÝÔºÄ5(—ˆ·u YŸ„u;)7ä0—„úû^FZ.ÉôFÌ+j§aA¼çT'sv¸òþ(¾Bg§ñ7²_÷KÃî£ß:¥_yj6m§¹›D˜ÜÛ˜×æ >ÑRÄòôjëøù«·×õÙ0ØÜñ=_a“B›1ÛÕÀO£’Ô‰Š4‹Y*wL;ãœÙ†úÝ0~˜¾uHœ‰¦ÇÅþÍËE÷¬Š8§™£lYˆÉ¡]×3x|ÂCÁI¢./ÆÚÇ'	¸<Goqî¹°LGS–[•MãºžÉ¸÷n
+1 unfreed mallocs
 1068 malloc'd size
 0 unfreed mallocs
-ft_substr() -> áÄLrÈ¡e›i1R¡Gèû`ôpž"“sZÊDø(+¾~SùîÄARqy¯]*õIÃkAd™‚Šé3¡°`ÛÁ›éÇÚlÊ¥¾'Ó/ÙÛÈ¾O*†ø¾D·QRôV(b:Ú†l‚†Ñ±‰fSñ×ðO=Å%¹¬gLÜ}ªáÏæ0D¶œï$¾"ˆ©ÖÒhd.¬ ÷qâ…„ÁÖv›ÒR—à&›YwÉŸÄÇ3ƒ·ÎðÛ…øs4ž]].Dö§»áº0Æ4ÉêKÅÓ2 ð¼ÑVs3ž	P‡=aìþæ¢5çLG]ÎDÁê•ËhÕú‹H	õm˜Z¿îµ—§\Ä:×ßncø™#sNp½†Šoÿ‡Ð‘gN$+'aCVøæè»ùz.O½y=#[0wÕÄ”]ißf»Þ¼u¤øí ­/cªñýÒiLÌüÐŒ±ICbCã©L‰qönáÄLrÈ¡e›i1R¡Gèû`ôpž"“sZÊDø(+¾~SùîÄARqy¯]*õIÃkAd™‚Šé3¡°`ÛÁ›éÇÚlÊ¥¾'Ó/ÙÛÈ¾O*†ø¾D·QRôV(b:Ú†l‚†Ñ±‰fSñ×ðO=Å%¹¬gLÜ}ªáÏæ0D¶œï$¾"ˆ©ÖÒhd.¬ ÷qâ…„ÁÖv›ÒR—à&›YwÉŸÄÇ3ƒ·ÎðÛ…øs4ž]].Dö§»áº0Æ4ÉêKÅÓ2 ð¼ÑVs3ž	P‡=aìþæ¢5çLG]ÎDÁê•ËhÕú‹H	õm˜Z¿îµ—§\Ä:×ßncø™#sNp½†Šoÿ‡Ð‘gN$+'aCVøæè»ùz.O½y=#[0wÕÄ”]1 unfreed mallocs
+ft_strjoin() -> áÄLrÈ¡e›i1R¡Gèû`ôpž"“sZÊDø(+¾~SùîÄARqy¯]*õIÃkAd™‚Šé3¡°`ÛÁ›éÇÚlÊ¥¾'Ó/ÙÛÈ¾O*†ø¾D·QRôV(b:Ú†l‚†Ñ±‰fSñ×ðO=Å%¹¬gLÜ}ªáÏæ0D¶œï$¾"ˆ©ÖÒhd.¬ ÷qâ…„ÁÖv›ÒR—à&›YwÉŸÄÇ3ƒ·ÎðÛ…øs4ž]].Dö§»áº0Æ4ÉêKÅÓ2 ð¼ÑVs3ž	P‡=aìþæ¢5çLG]ÎDÁê•ËhÕú‹H	õm˜Z¿îµ—§\Ä:×ßncø™#sNp½†Šoÿ‡Ð‘gN$+'aCVøæè»ùz.O½y=#[0wÕÄ”]ißf»Þ¼u¤øí ­/cªñýÒiLÌüÐŒ±ICbCã©L‰qönáÄLrÈ¡e›i1R¡Gèû`ôpž"“sZÊDø(+¾~SùîÄARqy¯]*õIÃkAd™‚Šé3¡°`ÛÁ›éÇÚlÊ¥¾'Ó/ÙÛÈ¾O*†ø¾D·QRôV(b:Ú†l‚†Ñ±‰fSñ×ðO=Å%¹¬gLÜ}ªáÏæ0D¶œï$¾"ˆ©ÖÒhd.¬ ÷qâ…„ÁÖv›ÒR—à&›YwÉŸÄÇ3ƒ·ÎðÛ…øs4ž]].Dö§»áº0Æ4ÉêKÅÓ2 ð¼ÑVs3ž	P‡=aìþæ¢5çLG]ÎDÁê•ËhÕú‹H	õm˜Z¿îµ—§\Ä:×ßncø™#sNp½†Šoÿ‡Ð‘gN$+'aCVøæè»ùz.O½y=#[0wÕÄ”]
+1 unfreed mallocs
 652 malloc'd size
 0 unfreed mallocs
-ft_substr() -> SÖé{#¤>Ç•kŒ÷	]ÄHÀV´È@»wjóÊ NQr6”4s8}á½á6õùÏ-ða‰d$ã˜ã0›g4B§2«peš‡»´:jn÷Ti#Ë².néIîD#¶å¹‡]WñdN)Ãúîðµct+aåœ`×½üß˜]¤æa¿”ÐgF!…qÊZ×›D(­Àž$õµô1 unfreed mallocs
+ft_strjoin() -> SÖé{#¤>Ç•kŒ÷	]ÄHÀV´È@»wjóÊ NQr6”4s8}á½á6õùÏ-ða‰d$ã˜ã0›g4B§2«peš‡»´:jn÷Ti#Ë².néIîD#¶å¹‡]WñdN)Ãúîðµct+aåœ`×½üß˜]¤æa¿”ÐgF!…qÊZ×›D(­Àž$õµô
+1 unfreed mallocs
 154 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÿæPÑ6¼:<þYÜÿêÝõf§Èu96ÄàäâÅñSÕ_Ìç!cbŒP‡;&²õËsóZ4	G¹Ëœ·TÝa3ùÂ~}ÉhlSlz?óc4œœ…êWûÙw‚ÑäI€.½ ‡*ÎFª|³³”Nfô}J)á8P“"¹Ìç!cbŒP‡;&²õËsóZ4	G¹Ëœ·TÝa3ùÂ~}ÉhlSlz?óc4œœ…êWûÙw‚ÑäI€.½ ‡*ÎFª|³³”Nfô}J)á8P“"¹1 unfreed mallocs
+ft_strjoin() -> ÿæPÑ6¼:<þYÜÿêÝõf§Èu96ÄàäâÅñSÕ_Ìç!cbŒP‡;&²õËsóZ4	G¹Ëœ·TÝa3ùÂ~}ÉhlSlz?óc4œœ…êWûÙw‚ÑäI€.½ ‡*ÎFª|³³”Nfô}J)á8P“"¹Ìç!cbŒP‡;&²õËsóZ4	G¹Ëœ·TÝa3ùÂ~}ÉhlSlz?óc4œœ…êWûÙw‚ÑäI€.½ ‡*ÎFª|³³”Nfô}J)á8P“"¹
+1 unfreed mallocs
 220 malloc'd size
 0 unfreed mallocs
-ft_substr() ->  x¤@NïjØÀæj‡ÍL¡0ÔŽ\”MÙÒZW§ç†‹£DÜ°x¼Ú¡GéEý0ô€[lþ|¾ ð¢¶KX“³äôÖ‘ýŸ|ãÁ8,;›ø{6^¢VŠ’9h…Zh  !Ò¸¥ç®æ9Ó½Ššžý±]û|ù:êü¾Yc¾cjöã±GŸ (;íý‘²ÉÜÑE„±<7Z£-î?)™’NMuûa¬þrÃÛ{µ“Ò#q˜Ë
+ft_strjoin() ->  x¤@NïjØÀæj‡ÍL¡0ÔŽ\”MÙÒZW§ç†‹£DÜ°x¼Ú¡GéEý0ô€[lþ|¾ ð¢¶KX“³äôÖ‘ýŸ|ãÁ8,;›ø{6^¢VŠ’9h…Zh  !Ò¸¥ç®æ9Ó½Ššžý±]û|ù:êü¾Yc¾cjöã±GŸ (;íý‘²ÉÜÑE„±<7Z£-î?)™’NMuûa¬þrÃÛ{µ“Ò#q˜Ë
 ¢hðPŽnO­ôD$ñ)}ö8Ç“¸Õ¸.•°NÉ§!Ìk¤ÿ™³ß9%ä-¢Å”RòÒ³ley3•Wäyß)<,ª9äÂoYî@ø7K~ã«„äå©!€/€
-2‘œÃÞ9™aB¢ÌªƒDßÉÎB¢ÌªƒDßÉÎ1 unfreed mallocs
+2‘œÃÞ9™aB¢ÌªƒDßÉÎB¢ÌªƒDßÉÎ
+1 unfreed mallocs
 328 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÂD±h´íZôÍ”w5kh‹é€øo»¢s;z2›AD}“DÀ³©•Ù³Í@(.ÑŽBØ(î\~ârÂµë:”ÐÈÌp`¯YßÙá™Ì51í2vtÙ‹ÛXíõò8HÉ7¶·-‚Ò¸Ê7â+>„¶MþS,ŠŠÌ~Gë¬R£À€>V¡ø5*[).EoÓÕRÚò §…z¤~Å·$Ÿ5bP Àav…?ÄS%£z<è×LÏ¹Æ,CãÍ$¼|ÆÃ6ÐWf6ŽN·‘£ÂCÞJõ$’ˆ'×¼ýÖø¨ˆC‹×ØTBË¶rí›">;3äåSÒ3ñéÚ'C’*ãÏÉ=~Àÿ¶uèsSö?];]°ýÞ<Ð3·ÊÄ=Ô0KÃ9àœÃXaC?OÚ¾¨ä`ÛAÿÏóoŠ,“#ë‰Sáˆ$ÙpÉÒÊ›o%Ër&¾{ÝÎ³=J0É¿t9Ôrîkž¥ëµÿÕÙk¥C(ÑÔ4²]cm™¡pˆÉõ5±”Êd$„‡Ñiã%ÝR‰¦±^¥ðÚ<MÒÜgÙ ~`€œûooÛ}v¬ù[q®üÐ¸	uùIö‹e™@QôØÑ 	ØÒê—öÄŸ2JUŸ*ÕûÅGöÁvžOQáÐ´áÛ“&j<¡Á\Ìíð*ßPLÕ£H§sÔïÉ<ßcœ"§âQ±¯UÜËÖ§ýÒ<°´¥q°¯DQë_wå.v2PûÒÑ]î‡<U<Q¢¼¤Ê}»êlO»Ëé|”¼6»Iß"Òºßé8BJw4Çúèo"žÚ#%fÄêÈe0˜ð¼ó2?eÍšpèíÓÖ‘-ÌL¹Ô— ºˆ³Ó”€Ÿ?ë±"êQC•ì80ñ.1µ=…‹˜Ó8Ü€Búèg½§ß;›®U¨UÑ9³fžØèÛŽÖÑÖd5¹<°Š‚1H9É“9«¢f„Eó‰È9MUb“‰ó4ø–gôÞey’ì(vÌ«kf³j8¬O^8h½b)Ô\ÁJ2>¿NÐå}XZáÊ„…ü¾­þ%ÒŒeÏîƒðâËSÀ‡I¹ógÅ”ˆ:jÇ{úq:¬PG% {Â~|ãy{¶æÇ`gù#Pfò¥IXZY½Ô‘3,ÉÇV<­ÜIBpÂpX±Unt;õ–~BRïQ–2…ÈÎÐïØd>´&­ügj±n‹rË1U—½ÐiÆ”š“s Äõjäq6I*!À9…Pª0\{=DäÆŸ0â•F-C†÷1 unfreed mallocs
+ft_strjoin() -> ÂD±h´íZôÍ”w5kh‹é€øo»¢s;z2›AD}“DÀ³©•Ù³Í@(.ÑŽBØ(î\~ârÂµë:”ÐÈÌp`¯YßÙá™Ì51í2vtÙ‹ÛXíõò8HÉ7¶·-‚Ò¸Ê7â+>„¶MþS,ŠŠÌ~Gë¬R£À€>V¡ø5*[).EoÓÕRÚò §…z¤~Å·$Ÿ5bP Àav…?ÄS%£z<è×LÏ¹Æ,CãÍ$¼|ÆÃ6ÐWf6ŽN·‘£ÂCÞJõ$’ˆ'×¼ýÖø¨ˆC‹×ØTBË¶rí›">;3äåSÒ3ñéÚ'C’*ãÏÉ=~Àÿ¶uèsSö?];]°ýÞ<Ð3·ÊÄ=Ô0KÃ9àœÃXaC?OÚ¾¨ä`ÛAÿÏóoŠ,“#ë‰Sáˆ$ÙpÉÒÊ›o%Ër&¾{ÝÎ³=J0É¿t9Ôrîkž¥ëµÿÕÙk¥C(ÑÔ4²]cm™¡pˆÉõ5±”Êd$„‡Ñiã%ÝR‰¦±^¥ðÚ<MÒÜgÙ ~`€œûooÛ}v¬ù[q®üÐ¸	uùIö‹e™@QôØÑ 	ØÒê—öÄŸ2JUŸ*ÕûÅGöÁvžOQáÐ´áÛ“&j<¡Á\Ìíð*ßPLÕ£H§sÔïÉ<ßcœ"§âQ±¯UÜËÖ§ýÒ<°´¥q°¯DQë_wå.v2PûÒÑ]î‡<U<Q¢¼¤Ê}»êlO»Ëé|”¼6»Iß"Òºßé8BJw4Çúèo"žÚ#%fÄêÈe0˜ð¼ó2?eÍšpèíÓÖ‘-ÌL¹Ô— ºˆ³Ó”€Ÿ?ë±"êQC•ì80ñ.1µ=…‹˜Ó8Ü€Búèg½§ß;›®U¨UÑ9³fžØèÛŽÖÑÖd5¹<°Š‚1H9É“9«¢f„Eó‰È9MUb“‰ó4ø–gôÞey’ì(vÌ«kf³j8¬O^8h½b)Ô\ÁJ2>¿NÐå}XZáÊ„…ü¾­þ%ÒŒeÏîƒðâËSÀ‡I¹ógÅ”ˆ:jÇ{úq:¬PG% {Â~|ãy{¶æÇ`gù#Pfò¥IXZY½Ô‘3,ÉÇV<­ÜIBpÂpX±Unt;õ–~BRïQ–2…ÈÎÐïØd>´&­ügj±n‹rË1U—½ÐiÆ”š“s Äõjäq6I*!À9…Pª0\{=DäÆŸ0â•F-C†÷
+1 unfreed mallocs
 951 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ÂTeì¹’„Í«]i¹b¿J£ã•Ï;*:ÆÎü_»†žgàGõvW©QN,6±úÿ¸où‹Q¼O™!"ê:œ‘T‘{#ƒ£/o²>¼;>­$\â¯
-èç€P]Å#r¾Z„¡Â•yùÉãc}Z“ç`¬µ>*Ìqk&òA‹>ëñŠ×Á¸‹«¤Óƒw¶tpB‘)f²G™Â¢a-Ní¾+^|A2‘€=&%HÒÞ â'85¡­N©´®0êÎù]>Ç|LºD„yVëÌn÷!nNf‰üòÁ4‡*â*2÷"H>h¸QaÛ•ÿ$¾Ý‘eðËTÔùôOr×#èË‡öVòR5ÊAÜõ]Îîq¸¬þ£…æ„¦™<üËÞ›¹}^pÕáG€ü³;DõÁ•9æ9ìÜ×Ëw[ð…ç›ŠS,@ê,„–Uæ12s¨J¸„ÍÞ~BWƒ>pÚ]VD¨b®ŠÚ6úHøÁö+¶ã-GìîÓ=w5ìŠbq}DŽuºN7[{$DC€£§E½(žþtãÁ™ ë©‘­ÒÖc}}­&J'v±’3Šµ…£}Ä8ÏœãDÌïÔšò 4æÍ‡Ùf1 unfreed mallocs
+ft_strjoin() -> ÂTeì¹’„Í«]i¹b¿J£ã•Ï;*:ÆÎü_»†žgàGõvW©QN,6±úÿ¸où‹Q¼O™!"ê:œ‘T‘{#ƒ£/o²>¼;>­$\â¯
+èç€P]Å#r¾Z„¡Â•yùÉãc}Z“ç`¬µ>*Ìqk&òA‹>ëñŠ×Á¸‹«¤Óƒw¶tpB‘)f²G™Â¢a-Ní¾+^|A2‘€=&%HÒÞ â'85¡­N©´®0êÎù]>Ç|LºD„yVëÌn÷!nNf‰üòÁ4‡*â*2÷"H>h¸QaÛ•ÿ$¾Ý‘eðËTÔùôOr×#èË‡öVòR5ÊAÜõ]Îîq¸¬þ£…æ„¦™<üËÞ›¹}^pÕáG€ü³;DõÁ•9æ9ìÜ×Ëw[ð…ç›ŠS,@ê,„–Uæ12s¨J¸„ÍÞ~BWƒ>pÚ]VD¨b®ŠÚ6úHøÁö+¶ã-GìîÓ=w5ìŠbq}DŽuºN7[{$DC€£§E½(žþtãÁ™ ë©‘­ÒÖc}}­&J'v±’3Šµ…£}Ä8ÏœãDÌïÔšò 4æÍ‡Ùf
+1 unfreed mallocs
 457 malloc'd size
 0 unfreed mallocs
-ft_substr() -> {—²"uÙ×ñúg$Žaø„Vfª·à¶ž¸ú:Pòg#·![º 	²åËÚôxB^
+ft_strjoin() -> {—²"uÙ×ñúg$Žaø„Vfª·à¶ž¸ú:Pòg#·![º 	²åËÚôxB^
 A}è¼Ò·ýò¿§pÝ¬%Ù¼"Éî¤µø×«˜€¢EûAòzÓÒ2U 9IŒ­RØT€øáxc@‡øæK¦.6ŠÐ8ìuol‹ŽÁ—(·7ïg#¤9¦ÜZ„0©Þ?ÜKKSûáœ«"òØF¢û—tRæißíøn÷ÌZ;ãszEdÛ÷#ð»ÒO’.5ZLP‹ŒVIö\ý‡^æhã×tÒ½©OrïÇ{—²"uÙ×ñúg$Žaø„Vfª·à¶ž¸ú:Pòg#·![º 	²åËÚôxB^
-A}è¼Ò·ýò¿§pÝ¬%Ù¼"Éî¤µø×«˜€¢EûAòzÓÒ2U 9IŒ­RØT€øáxc@‡øæK¦.6ŠÐ8ìuol‹ŽÁ—(·7ïg#¤9¦ÜZ„0©Þ?ÜKKSûáœ«"òØF¢û—tRæ1 unfreed mallocs
+A}è¼Ò·ýò¿§pÝ¬%Ù¼"Éî¤µø×«˜€¢EûAòzÓÒ2U 9IŒ­RØT€øáxc@‡øæK¦.6ŠÐ8ìuol‹ŽÁ—(·7ïg#¤9¦ÜZ„0©Þ?ÜKKSûáœ«"òØF¢û—tRæ
+1 unfreed mallocs
 394 malloc'd size
 0 unfreed mallocs
-ft_substr() -> Š^&nÇó0~Oô(z0]  «Ý0Çþ\JeÎe§Æý£7Wüï$/Ü‘z`=!Û¤„)Ûlêª0bñ?uO#I˜ÁÃÂ”f 0†\¶jÛ~5	XØÓÏfi6VÕôép€äß7µp¿ÊUéjgy‚´·‚¾®ÚuD¤Þì²Ò`ž¤vÒõO•„§¼˜VÊ»tÐŽž4èAèú¡è±y›é–aÁ´¸½úÕ”ãYª¥åi’[DË#ËlcàX…kÉqF54Ã‚~À29pWÙ¦_s÷„,'ò~ÃõZ"Òž¥‘ãEÄ§xÝNnZãøQ^ÆžV/ô1Ícê]¤Q¨±c“‰dK­ÇZJ½¶rcf™v¹›\yâ_Ù›ks9ßme*º#˜ÏÿÕTŸ(ýÅáa#µñdÀxeñtFjco}’ò`@uc…Õ&ñ¬Îá»ÀÞ¥wPLËk@º+írm{PQµØZsw•EÕñ½ÔYÉÍ)t½à{ Qº1‰ôèzw;5ÝE­U‰I€ÉVä¿Ò>rÆQ¸â0r¶ô´]DDBr·¥to¡\Õ~2X"ÞÙàFedWÿøªÕÀi¼ãs†·Rðs±©9 _øVnR]ð›óS¯q?¾U³C·—BW¿’ÅÑ1À¢Ñ¾ëÄ¹¢œpsã	Å<š0^÷1ÛgË6Ïö§ @ÙøÎ~Õâ›)ñ­¨˜Ìhö=C	ÿƒoÒ™È²ÏÀY`¨2ÀÛµÒ°¶C[›èÇœùXè‘M‡ó"–!X[³€*H®=bŠ·BH ²Q*]“õæ àŠt‡B.QgçïÖˆa“PBÅ0î5^«‡~5T6ê†ÍÃÇn\ßgiñµÈk÷¾CþÚˆBÇÌ³¸oTÿ¢øDN¸=žcu¦|Ô¹¤Ð¤.°£Ÿˆc¦È–·§|u¨;ìŽN?ïŸDu¢üP?ín‹ÔP)C7ð1©üÒÀs-þ„¼ÖùGK³RÛîl5Õ£§xoU‚„ås1 unfreed mallocs
+ft_strjoin() -> Š^&nÇó0~Oô(z0]  «Ý0Çþ\JeÎe§Æý£7Wüï$/Ü‘z`=!Û¤„)Ûlêª0bñ?uO#I˜ÁÃÂ”f 0†\¶jÛ~5	XØÓÏfi6VÕôép€äß7µp¿ÊUéjgy‚´·‚¾®ÚuD¤Þì²Ò`ž¤vÒõO•„§¼˜VÊ»tÐŽž4èAèú¡è±y›é–aÁ´¸½úÕ”ãYª¥åi’[DË#ËlcàX…kÉqF54Ã‚~À29pWÙ¦_s÷„,'ò~ÃõZ"Òž¥‘ãEÄ§xÝNnZãøQ^ÆžV/ô1Ícê]¤Q¨±c“‰dK­ÇZJ½¶rcf™v¹›\yâ_Ù›ks9ßme*º#˜ÏÿÕTŸ(ýÅáa#µñdÀxeñtFjco}’ò`@uc…Õ&ñ¬Îá»ÀÞ¥wPLËk@º+írm{PQµØZsw•EÕñ½ÔYÉÍ)t½à{ Qº1‰ôèzw;5ÝE­U‰I€ÉVä¿Ò>rÆQ¸â0r¶ô´]DDBr·¥to¡\Õ~2X"ÞÙàFedWÿøªÕÀi¼ãs†·Rðs±©9 _øVnR]ð›óS¯q?¾U³C·—BW¿’ÅÑ1À¢Ñ¾ëÄ¹¢œpsã	Å<š0^÷1ÛgË6Ïö§ @ÙøÎ~Õâ›)ñ­¨˜Ìhö=C	ÿƒoÒ™È²ÏÀY`¨2ÀÛµÒ°¶C[›èÇœùXè‘M‡ó"–!X[³€*H®=bŠ·BH ²Q*]“õæ àŠt‡B.QgçïÖˆa“PBÅ0î5^«‡~5T6ê†ÍÃÇn\ßgiñµÈk÷¾CþÚˆBÇÌ³¸oTÿ¢øDN¸=žcu¦|Ô¹¤Ð¤.°£Ÿˆc¦È–·§|u¨;ìŽN?ïŸDu¢üP?ín‹ÔP)C7ð1©üÒÀs-þ„¼ÖùGK³RÛîl5Õ£§xoU‚„ås
+1 unfreed mallocs
 804 malloc'd size
 0 unfreed mallocs
-ft_substr() -> r#õË^,y-W<[z«öá†\<öÀýpý¿žŒ"Ú>®}!ÕÂóeµßøÜ¥·Zà¿
-åS|_ˆÝ­Œ®Ë‘`ŽžMlµüÄ*bÇ™«[l¨hªQK>Ï;ÙÓ€&Ìh1ômd¦Ù³†ë‘O Tµè?{¼ÄÃUù®¾ñŠôÆVC2gâszOAñIKÞ{ñØ÷«ª[~£ŸbÒó1 unfreed mallocs
+ft_strjoin() -> r#õË^,y-W<[z«öá†\<öÀýpý¿žŒ"Ú>®}!ÕÂóeµßøÜ¥·Zà¿
+åS|_ˆÝ­Œ®Ë‘`ŽžMlµüÄ*bÇ™«[l¨hªQK>Ï;ÙÓ€&Ìh1ômd¦Ù³†ë‘O Tµè?{¼ÄÃUù®¾ñŠôÆVC2gâszOAñIKÞ{ñØ÷«ª[~£ŸbÒó
+1 unfreed mallocs
 158 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 7|4)ô!«ãö2rÿWë®½§±$$X†e 2‹°ØÖÖaC@‹­™ÊNali.èÖ6$EÔ3cv@Ó T-7-×Ž,¬ÊUäˆJhê‹Ÿß:>èÞ°ºÀ³khtD´cçUÍ©ŸÄ•uéA•\ÉÍÉ)¨ô.y¼É7¦/ ÷¯PÌ>ßD5YÀÝ˜Ç£æÛórwGÉ÷mNÏfÔw„Î³aJVå[a¿ÄV8`!íp/\4£±ã¡W!*Åd&h±…m3ü­wQ'{›’è¸×šx[Kƒ+Å-…f¿™ÆÙ6Û?A%‡­ví)¹âriå,æÛ>~ò[þŽ?ÁØž¹H×€tû¥Ó},,1 unfreed mallocs
+ft_strjoin() -> 7|4)ô!«ãö2rÿWë®½§±$$X†e 2‹°ØÖÖaC@‹­™ÊNali.èÖ6$EÔ3cv@Ó T-7-×Ž,¬ÊUäˆJhê‹Ÿß:>èÞ°ºÀ³khtD´cçUÍ©ŸÄ•uéA•\ÉÍÉ)¨ô.y¼É7¦/ ÷¯PÌ>ßD5YÀÝ˜Ç£æÛórwGÉ÷mNÏfÔw„Î³aJVå[a¿ÄV8`!íp/\4£±ã¡W!*Åd&h±…m3ü­wQ'{›’è¸×šx[Kƒ+Å-…f¿™ÆÙ6Û?A%‡­ví)¹âriå,æÛ>~ò[þŽ?ÁØž¹H×€tû¥Ó},,
+1 unfreed mallocs
 279 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ›ap‹á\q^ÏÎL
+ft_strjoin() -> ›ap‹á\q^ÏÎL
 ÙZkµ—ÊÈ‚Rª[ŒN£J£Ù˜ÏÄ‚éZŒÂ7gîãQ‘
-<yG&kœ1)&ÖMËKk=-ÄÕ™”ÌK‡Òá tˆ“‚­ÃµS%?Á®a…¾òèü`ª›—uF¹”²\–f5==ûðFL<ZÅDµ¶ÇSÎo‚çucÀŽ‡›â¥Ñ°â­‡A¡üVÑ²cÜOê@-LGüF¾kmjôÕïü¾U³)P-­E:~5v·¸ü)Þ(EçÆeŽì®DCÕ!œjq:•©D£)‡©pŸLás!Ÿý˜7[˜²2—R¤Ô£àú?æ”(a¾÷Mœ2“­”2Ó¸ šQpîçÜt·Jš¨J–ñeJ»½ÔåÏ÷*<Ä›îü÷Þ-nPð>€€¯|\¢²ç÷3Mï2ïþÆœ¯3k6§ÿ:B‚]€U0Ô@ýÒãtuÚ-~I‚Š1™@…}IÖzêÆ¯ŽUŸhB¶	âÃæ˜Öc¾#ÃåýŒaÍµÀµh7‹ì…PMàÝºÖgžçÎdÛ–ÙÜÏ…¨ý¼„©h}@µÃiäI4©RÕC7T–Öˆo=U*–†Ì0WXŒsUþ{i…ü, Þ0Í&bapÌ‚Å+¡u‹ç" ˜ƒê5WZ@œ$pñ¼(¦Àq5?ì?ý"¹øˆ\´‡Ž4µõ|‡.ÓïA —c¢Ðñ¦î#¾É1 unfreed mallocs
+<yG&kœ1)&ÖMËKk=-ÄÕ™”ÌK‡Òá tˆ“‚­ÃµS%?Á®a…¾òèü`ª›—uF¹”²\–f5==ûðFL<ZÅDµ¶ÇSÎo‚çucÀŽ‡›â¥Ñ°â­‡A¡üVÑ²cÜOê@-LGüF¾kmjôÕïü¾U³)P-­E:~5v·¸ü)Þ(EçÆeŽì®DCÕ!œjq:•©D£)‡©pŸLás!Ÿý˜7[˜²2—R¤Ô£àú?æ”(a¾÷Mœ2“­”2Ó¸ šQpîçÜt·Jš¨J–ñeJ»½ÔåÏ÷*<Ä›îü÷Þ-nPð>€€¯|\¢²ç÷3Mï2ïþÆœ¯3k6§ÿ:B‚]€U0Ô@ýÒãtuÚ-~I‚Š1™@…}IÖzêÆ¯ŽUŸhB¶	âÃæ˜Öc¾#ÃåýŒaÍµÀµh7‹ì…PMàÝºÖgžçÎdÛ–ÙÜÏ…¨ý¼„©h}@µÃiäI4©RÕC7T–Öˆo=U*–†Ì0WXŒsUþ{i…ü, Þ0Í&bapÌ‚Å+¡u‹ç" ˜ƒê5WZ@œ$pñ¼(¦Àq5?ì?ý"¹øˆ\´‡Ž4µõ|‡.ÓïA —c¢Ðñ¦î#¾É
+1 unfreed mallocs
 547 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ×£¢‹ýÕÓÝ¿å÷ÝNÂ
-ôØ8Wå·x©Í]zEc|ïÏ¶ÂVÚê[`9Ÿê:^"FšsVô‹:`iù¥üü5%­å˜	ïœ7Oœ´[|hè9=£Séy¯Ü-½Œ4WîÃ@×n1¦3Ø_!€vn+lÿÃjÊm×ÛEú¤÷ãÎFÙ+C÷1 unfreed mallocs
+ft_strjoin() -> ×£¢‹ýÕÓÝ¿å÷ÝNÂ
+ôØ8Wå·x©Í]zEc|ïÏ¶ÂVÚê[`9Ÿê:^"FšsVô‹:`iù¥üü5%­å˜	ïœ7Oœ´[|hè9=£Séy¯Ü-½Œ4WîÃ@×n1¦3Ø_!€vn+lÿÃjÊm×ÛEú¤÷ãÎFÙ+C÷
+1 unfreed mallocs
 140 malloc'd size
 0 unfreed mallocs
-ft_substr() -> 7¸yABj´˜ÓÉ*%Ñ¾îùkÉ+1 unfreed mallocs
+ft_strjoin() -> 7¸yABj´˜ÓÉ*%Ñ¾îùkÉ+
+1 unfreed mallocs
 25 malloc'd size
 0 unfreed mallocs
-ft_substr() -> =>¶ Ò)s¾Ùšúá7
+ft_strjoin() -> =>¶ Ò)s¾Ùšúá7
 çNˆÒÚ\ûÝM£³¬yð¼–\.Äª½XRÜ6z”â$H“qòeM21²Ç
 Ìí¡"sévk_³}ôxq©¡lŒ³RÄ`ë¼ˆr¿±q"Sî(ñ‡Û¬Å•÷Ñ²3TxkŽŸÔ÷'Ã‹5ã!¨x°;>Ÿ„Dv®pŽmD2ŸÉ¿¯…Âß}Tk9¸B4ky1C5ê1¶ýà²Ì»#^PŸÖúñ|\Ai
 ÔBà†ó”Ÿ*×5Çm‹%´ÿYÂ.‚ÓâV
  ²KSRŸÅ=,}(o–'1Ð†Üu­#;}®0ÄD(º/iÕý# Íù£C5s²Ç
 Ìí¡"sévk_³}ôxq©¡lŒ³RÄ`ë¼ˆr¿±q"Sî(ñ‡Û¬Å•÷Ñ²3TxkŽŸÔ÷'Ã‹5ã!¨x°;>Ÿ„Dv®pŽmD2ŸÉ¿¯…Âß}Tk9¸B4ky1C5ê1¶ýà²Ì»#^PŸÖúñ|\Ai
 ÔBà†ó”Ÿ*×5Çm‹%´ÿYÂ.‚ÓâV
- ²KSRŸÅ=,}(o–'1Ð†Üu­#;}®0ÄD(º/iÕý# Íù£C5s1 unfreed mallocs
+ ²KSRŸÅ=,}(o–'1Ð†Üu­#;}®0ÄD(º/iÕý# Íù£C5s
+1 unfreed mallocs
 468 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ¦þ5UÓk³bÀL¦`öðS}ÔEÚ_]ÿ5{ž 
+ft_strjoin() -> ¦þ5UÓk³bÀL¦`öðS}ÔEÚ_]ÿ5{ž 
 «q\-š¯º€’y, ¤2$a•XŠù«.‰c¢¸i ÈçÞJ„4ž½ŽJEôÀÐ¿z]ÕM°òòÛÓ‡LE¶Ò]ünuƒ¡ÀûDfLb%v„¢=~\1è€Ãÿªžò@~»‰Ž.jkëc§(ä<&•}ƒ|KÛö‘§bî H¥ØÏâ¥WLÿàˆlEïÄ_àD¤Š §ñ;d‰b‰—^b~¶qÙ'?Þ|üñþ$=öèÃ|ö*ñ×äàsÍEq}CÆ>Tz†4²úâÈwÖ;ß!|eéNqäQÑ±+SÐ˜g= )‡J ½ÜãÆUN'†4b¨z‰õ‡÷ny†}ÒPÊÕR¤*àoùòi7ë£žnL@Ë–nß[ÂCPà…çp0ÉÌ‰}îÃøÁî·þ^yLíRtÏä®×JÖY	Q!K)´cõ
 ZÌãZØ>Œ"û’éºU‡mcbßþQ–8ùÙeìUÔl–5íX¥¤Ä èì¦lfd{eá/õH´Ëòð—•·¾%±ÑG¬À,?ô%z¯,·lí–B8N³xN0UàÜ[…qŒ)EÕÊõ°C²N¬´[0µ‘OzÊãEQË›ÒD+†Às=‚w^)Ì_¬ú“½çõs±å3åÎí±“QÆe½´ï,/i¯ Ñ+OS¶‰@×¦%Uáš¾Å^.qž`ra'ÛavhZ¡Ú¼Q8×Ø
 wñ¬äN½ù-ß¯ûeŒ¸c‹Ys$þ²Ï³üLŽƒßˆ‰2Ô:Êì¤ˆ;(ÛžMPî%ÝÎ¤n™D—?^vlóåq·“Ü»µh9‚ÉüÀ$4‘5À
 Ý‘
-È>š/ø¦Úóy=µ­-Óe…å†Ü*ÎØ¾Ä×%wä0m,„ßö¾õ*eÛƒå†=tãÅklv!þ‚ÊüÿÏ¶:D‚¢Ó3í×ß¥qÃWÏöuØóè"eÚxj1Âcgû8Af‹ZK—lKóÅ91VU¦ÆCÒD™;.Æ²1 unfreed mallocs
+È>š/ø¦Úóy=µ­-Óe…å†Ü*ÎØ¾Ä×%wä0m,„ßö¾õ*eÛƒå†=tãÅklv!þ‚ÊüÿÏ¶:D‚¢Ó3í×ß¥qÃWÏöuØóè"eÚxj1Âcgû8Af‹ZK—lKóÅ91VU¦ÆCÒD™;.Æ²
+1 unfreed mallocs
 801 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ˆŽ™¬Ö6¶R5h¼Æä{Â¿!_DÐ—¦–Ji@ÊÀ\•A¦Â>¾eÓ…ë¸†Ñ¯ÔÀgDo•¤|}	ÂY£*l`}îúí` *b‡_‘–³Òí2GìÐ§}-u¥€‹?èâ`øúÎÒN©±Á…3k7H†o>õ,«â5]Ÿ¥ÂÈsÑŸ MkÚÍ>0&ù3Ð¶öS™¦+:veŠ|’¥	Á9ƒ(5•†ëùgäëÀuæw}þP^ÂîõÚÊçç¥VL¿6Ã6-,h>ÖÚ{Ëþœ“d™×¡mÿ¬1||F²LZÑ0³t{ÙÜÚùR±wÍcÝ°Üœ€—ö«‚Ä¿áµ€JP-ÚVÎÎ.?”vCæ½Ç$a~³¿c#È?jÎA)«îÈ8½€ù'ëNÄ¯Ù“ü0-Å¹EÄÆôÍÄ$W¦ÄmL'ìß\ÿ¹xÀÅ<´Le¡>BZ™mâ+`e,ÜB×Õ*öŒÞ€¢ä²?›”wÓ¹Û—Í©>{¹RøÓ,nn,d/ˆŽ™¬Ö6¶R5h¼Æä{Â¿!_DÐ—¦–Ji@ÊÀ\•A¦Â>¾eÓ…ë¸†Ñ¯ÔÀgDo•¤|}	ÂY£*l`}îúí` *b‡_‘–³Òí2GìÐ§}-u¥€‹?èâ`øúÎÒN©±Á…3k7H†o>õ,«â5]Ÿ¥ÂÈsÑŸ MkÚÍ>0&ù3Ð¶1 unfreed mallocs
+ft_strjoin() -> ˆŽ™¬Ö6¶R5h¼Æä{Â¿!_DÐ—¦–Ji@ÊÀ\•A¦Â>¾eÓ…ë¸†Ñ¯ÔÀgDo•¤|}	ÂY£*l`}îúí` *b‡_‘–³Òí2GìÐ§}-u¥€‹?èâ`øúÎÒN©±Á…3k7H†o>õ,«â5]Ÿ¥ÂÈsÑŸ MkÚÍ>0&ù3Ð¶öS™¦+:veŠ|’¥	Á9ƒ(5•†ëùgäëÀuæw}þP^ÂîõÚÊçç¥VL¿6Ã6-,h>ÖÚ{Ëþœ“d™×¡mÿ¬1||F²LZÑ0³t{ÙÜÚùR±wÍcÝ°Üœ€—ö«‚Ä¿áµ€JP-ÚVÎÎ.?”vCæ½Ç$a~³¿c#È?jÎA)«îÈ8½€ù'ëNÄ¯Ù“ü0-Å¹EÄÆôÍÄ$W¦ÄmL'ìß\ÿ¹xÀÅ<´Le¡>BZ™mâ+`e,ÜB×Õ*öŒÞ€¢ä²?›”wÓ¹Û—Í©>{¹RøÓ,nn,d/ˆŽ™¬Ö6¶R5h¼Æä{Â¿!_DÐ—¦–Ji@ÊÀ\•A¦Â>¾eÓ…ë¸†Ñ¯ÔÀgDo•¤|}	ÂY£*l`}îúí` *b‡_‘–³Òí2GìÐ§}-u¥€‹?èâ`øúÎÒN©±Á…3k7H†o>õ,«â5]Ÿ¥ÂÈsÑŸ MkÚÍ>0&ù3Ð¶
+1 unfreed mallocs
 544 malloc'd size
 0 unfreed mallocs
-ft_substr() -> E©ÑˆbJá«a/afJç1åçlsqÄ¹BNŠñnËOô
+ft_strjoin() -> E©ÑˆbJá«a/afJç1åçlsqÄ¹BNŠñnËOô
 sÑ?:¤!‹)Næ!!SEƒsŽEÜùþ$éµ]1™Ý¼3‚f¯°Â9å"ºÔ¨/4ñ¼ÈZt¼Œ`,ÜMÄªNfçv¤Ñ5?8š½Þ²Hž#ô9ë69kh¾fˆªÎäœ~@}Êõþf•‹/¹ýUQQëÖÆ¡Ž;l~Z¯zÛ3Wß´Ü¦´'À¿æcÅe¤;ƒ¹³Ò¼nƒié’„u Ö<1žr*{’1-š $œ-Úq#×þá`¨r'AJ€ñðQ°‹þ+(xj·^,@e’Ÿ,¯ô¹; 0[â´VªMßÑG›Û-HÑNí{«]i÷"Àóê]A%[Ùsd_çØRœ	ÐÒëŠNužÈ{Ã(kAÒŒc•«‡£†\|Ÿ
 Ý#†ƒ£ò?G&§SZƒº±åÎì´¥KÃ‰[*Z\åþ¿›†´ê[ó€Ào_Ñ¨CÆCè‡ èqHÝÀËÞ7ü”C9ïàØ@ÄérbÂ%c¼d"2£m‡ª«›ÉÞðô#!Þ(lo`>£ö6RÃbQóy¿ÜŽLO‘Î”<›EÏjýâ[….¾+¿cçÒkŽ’WÏVÝx{êÖÒR‰¯‰£)%$ZjÖºÁ^—ÿ¦G9¬.¶k6µ¨•÷Ûì¥„×ú™,«½‰Eî. µZEMâ×XúU	dIÄ^³ðôp7º7£Ï4ï“©Rìë;³ytþz`‡Äì2î&GTcT¡±Ìœ"8»:˜™ç?˜ø3fÎªÔyùÌU.ÿ($7qDšªc‰ÇžþÇƒÑž«¥J·ª6gªŠÊx<*é_ˆf¹‡uP7ü&¢+í¿›Ìã÷2¿bˆ€u|ÔÍ‹uq×O¾^gÛW‚Ê×pT·8éÝzhØX!ùp°"ƒ"™¥pú@úË˜1>Ÿ	ßZ€å&QrAyQžÎößÚ¦ÜMe±þ÷_¸5gTG0W| 	ä¬ô†¡‰Pò…Oð\†û.3šjBR\}^f< ç¥»EÙ“—†¢óÔx92„ùP0v^Ï¤‡òx¦»ÞE-{
 nÔýû›å®ö84|›SK Ýõ0¸¯)›$Ûú8çdÈ>ÑwÂqÃ6ÛŠ pþáRÿ¦	ÌlÊiÅ-—·U×\ÙQ†ZëM—	(!?ªdg;ãÃšãŽ¹½-Û(ë!gãÅ1úçv#X'ógZclÃZñ˜"µ•Dä„$ßà, °¢æ²Á|"µZ_5®Êµ>tqºÂì3ŒãŽ†¼ª]n$ý…›š!«²ö´±Á{ëO‘Ï¤Pk|ÖÎ
 Êt)mBS4Ÿ Y‡eÎM^³l•Å¼â•šŒydq…K¯¼vV…ú‰m‚g%Ê„®hæŠú^Y‘Ÿpf™nÌÃ
-ù„ÿdœ!´N«×,³Ê€GÐõÆY¹n|h1 unfreed mallocs
+ù„ÿdœ!´N«×,³Ê€GÐõÆY¹n|h
+1 unfreed mallocs
 1151 malloc'd size
 0 unfreed mallocs
-ft_substr() -> H•ˆ|I¢îŠíÍõùV)îÏ½–FÒÌá)yWÞcL[UÐ£y-ÕõæþµcLNç«™åé±­Ï¿!Ö÷{=×)¯ð§º¦¿ìW@n8‹r6sÏ~|¼Ç5 {{Oo¡O:Ù21 unfreed mallocs
+ft_strjoin() -> H•ˆ|I¢îŠíÍõùV)îÏ½–FÒÌá)yWÞcL[UÐ£y-ÕõæþµcLNç«™åé±­Ï¿!Ö÷{=×)¯ð§º¦¿ìW@n8‹r6sÏ~|¼Ç5 {{Oo¡O:Ù2
+1 unfreed mallocs
 104 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ®’¶à¸òfì+8ÚÛäP}×(¿s,"à)Õ]
+ft_strjoin() -> ®’¶à¸òfì+8ÚÛäP}×(¿s,"à)Õ]
 ³†úr¯iÊ²—vR+Ï>õPí~"Ê*ÜkÜàã]ê)ž+&f|ƒñÇ·-;êÅv‹øA¨Ë~™JÙ}ÎÑnšŠ
 gµß(3ì­å\Î¹<â!@Ë]e:ä éP¿Ü~lñÜ/d>J’%Ô@šZªFøÃÐ"Ø*ø×Ó]pH$Z[nÉŒ;ôïÅB’úX)Âë£·{ˆ¤áa³äbÍâ:wdÕÞZO_OP¤º‚)ÙñöUdvþËyZ8IXµ¬G­‰äî¥áMÀÐ¼ÆK&LÒådÙ˜^}_ÈÑèF1HÛµß:ï¸pÓ=R½UÈ®5W#W] \¿±ÎšÕqø¨%õ8‡+ Ï—ÿÈß+.È1øL)é×vqÿHo,û$®*êÍ¾bØªJlÊŒßYRnßjånú(ºótÃrrC°sÿš	3÷ö2ÆÝÙ¨w™Pçbãí¹Ók‰C]È»Ìº'Lf°&¹ú·)I§Ž&<¯/,m*M†ÏOEX:»ƒð(Ó(Se1L‹f¤µ¸pDï>#íÅPÜx¿k ‡Ó1×¯ƒ™Ä=¯Ÿ™úÜMËˆžKùñ\\¤¼bK®²Å“”múÑj¥5ê›:ƒü^¦øO´V´Fn¶¢âaUÂ¿wÎ·úÜ&ònºïz¯ñ½'¨ø;‘xRLÝÆQbïªº!ÁMFõ½Âð‚	B§Æ1Øáº†Þ¸¬HG–sí®·ƒ³•¢èó·Q¦öš&‰~Øä,Œç`ˆ
 °ÃøN
@@ -1176,17 +1428,21 @@ d9ÿ•—&’Ý-?j<4
 Œï{’ŒÏŠm¼™ÛÈ½‡ôâ0êVŒÁ0ùØYKâîØ‡NÏø–ü„¦ŒÏiœZ‹·k	çÙ¾YXH·L¥èDÄœß­ª¹ò1b=)9ç/÷¾°5öI0¨‚dÓÞÃ·5^2+à+>èqõ£*CyìÉ^{=à)ûräÛX¾Æaò!¬B}Òm°ò"a¤¡L­µ7_;‹"j[Ðs@“ºYRÂ3“›ÛÞg<?¡a°¤Væ‹â»ÆÄtDH¦˜ÝèH„*Îí PeV`ñüWvÃ6„dßò<¿Ûjø}pGVõä M¨«”§"ø½=ð«¤bYÕ)Z~ÁÊòÊ¸¼Ê¨Ü·úö6ÐÿÖÙñÅg9:&¯ð	=ƒr*çžZz9Q‹x#Iâ¢FËî6_”ï ¿É?M>8l=‘Ô…Ú÷Q>ÃÎúE{¾;÷ˆY@„C
 ëxºs9“ÏMçÿÆâNp5Ô
 Ã©pÿ™.CòâþÒ&QrQéËK¨väìÊÜ(Ï¶„%èŠ¡¢HÞPßßR«,B·x;ØD¦'ÖN…Z.Ë.HñÀÏåÃK-5%9 ×Øèôn Ð0Ã°£&\I5ìmê¥¸nRj H78@ŽKÈ9½œb×«ÓXGi19Âz-ï1‚=5Ù4ˆ^NÕ²czþq¡º[¤§—vÔU ï)ê@ÂË1sQûkE7ïûËrÔqv8£µ»
-ívÄÅò¼#TUØ)DqÊû5gDX®õœñ\‰¶Š1!L5hÌŸÎ¿Cìþ_—“(£Cp²Õ´Ò1‡]sæ&zrO¿ìh•ØÖ£cþH©qÙLÏY|V–'kÒ¬qÙì„EË°ÖåQN¡­	>8/ÓýKÅëÕlIÛ¸Ü/bÄ`¢T²ÓFšýŸÞfž€›þâ:]Ký© ˜“hKOe^!¶„:rêÃ`ÛÚòø,21 unfreed mallocs
+ívÄÅò¼#TUØ)DqÊû5gDX®õœñ\‰¶Š1!L5hÌŸÎ¿Cìþ_—“(£Cp²Õ´Ò1‡]sæ&zrO¿ìh•ØÖ£cþH©qÙLÏY|V–'kÒ¬qÙì„EË°ÖåQN¡­	>8/ÓýKÅëÕlIÛ¸Ü/bÄ`¢T²ÓFšýŸÞfž€›þâ:]Ký© ˜“hKOe^!¶„:rêÃ`ÛÚòø,2
+1 unfreed mallocs
 1568 malloc'd size
 0 unfreed mallocs
-ft_substr() -> À­ÎýXÒ*Vny'l¿Š“û´‰7jžß¨ak¹„;gåUKX¬\HÖµgîäËùÚã»—ŸËd "lÃü¿Kîé©Çºg‚c8˜‚žûìüªø×03éG7sý`ÅòM0tKÕB›ÎZ/A%	™¾tVªB“c©ºo°WØt J{Ôæ,Ïs¦C±3ÜÑ™`û0¤¸	ZPC<céËÆ¢e½0ŽJÍÜuŸznOw±]ï	¤F÷Jc%_Ÿk@Wê_Û±ô"#¹ÿLS$ßqð$À¦jQ±í„yK¼i{ar•\±ìÃ¥0ñy''¿I-Õmw–)íÂpC´UÇ5Ì{Üã(Öó¦¯Í‘ð¾Ž½$h(Ž(ù¯ÌÛLCt:Œã‚…×.6o·iž;F¨±£6AOCi7DâOký‚)%“Mnu˜Â4’ „;{çÃØí’Ðk”‹ÅT~k<9´JŽ"öö{-³x áM"˜ZFÅ)’'Üƒ%/†T–NxO¿)6u`]gsî_mM«ûBya¥T	½ h“Ï—‰×Š±@ÃDœ7Di#QŒ½Z7JRhY˜)Rø¼…ŠŽí#e\ÿVº¨Ü U+¡Žj´Ý¼bDgŠÃ®tYÿ‡¨{&·ý§/ü¨wÍÔ³‰K\»¨]îxWO.ëWæ¬ Ë,ºÓnûß–Kjì=2ÒèãPVÕÍ„ìu«fÐýµlIM^cwYl¡÷¹EQá¬1 unfreed mallocs
+ft_strjoin() -> À­ÎýXÒ*Vny'l¿Š“û´‰7jžß¨ak¹„;gåUKX¬\HÖµgîäËùÚã»—ŸËd "lÃü¿Kîé©Çºg‚c8˜‚žûìüªø×03éG7sý`ÅòM0tKÕB›ÎZ/A%	™¾tVªB“c©ºo°WØt J{Ôæ,Ïs¦C±3ÜÑ™`û0¤¸	ZPC<céËÆ¢e½0ŽJÍÜuŸznOw±]ï	¤F÷Jc%_Ÿk@Wê_Û±ô"#¹ÿLS$ßqð$À¦jQ±í„yK¼i{ar•\±ìÃ¥0ñy''¿I-Õmw–)íÂpC´UÇ5Ì{Üã(Öó¦¯Í‘ð¾Ž½$h(Ž(ù¯ÌÛLCt:Œã‚…×.6o·iž;F¨±£6AOCi7DâOký‚)%“Mnu˜Â4’ „;{çÃØí’Ðk”‹ÅT~k<9´JŽ"öö{-³x áM"˜ZFÅ)’'Üƒ%/†T–NxO¿)6u`]gsî_mM«ûBya¥T	½ h“Ï—‰×Š±@ÃDœ7Di#QŒ½Z7JRhY˜)Rø¼…ŠŽí#e\ÿVº¨Ü U+¡Žj´Ý¼bDgŠÃ®tYÿ‡¨{&·ý§/ü¨wÍÔ³‰K\»¨]îxWO.ëWæ¬ Ë,ºÓnûß–Kjì=2ÒèãPVÕÍ„ìu«fÐýµlIM^cwYl¡÷¹EQá¬
+1 unfreed mallocs
 576 malloc'd size
 0 unfreed mallocs
-ft_substr() -> —7˜mÒµŽOª°ÇªâG»H4·3T-Ž{ìgš2¸•¢ú|úïNÍW`>Pgú2;’xY4—â?4dÎšp™H‡'9•ÁH ÃûÉ åæÊGÐpfvu]ï.õ!ì‡—µÞ@˜„±WQ)ƒÞäêÎÊRÇ×0ë;ôMKux›ƒ¡o—nQÁmÐßÅØ•¨7ó|CÄßƒ~TšæQ_­ÃùØœçÑò#ÍeaVKˆªBXñs30%)EÅé`EÄB¥‰´–&¯!Ô›]hÅ§;%¤$ÑôEmÚu•¤¸xM1Nþ¶ê¡ÁCîXÿjMóFwËîeÎ“‰öT[vŽO$Ÿ)ñM]„àO¨ò_ù¬¾Ÿœ‡ÂÖB&Vî‹OTþ68„CoæÊàÛGVdïÁÄR'ØÓæ¼¢‘vìùófÖ1 unfreed mallocs
+ft_strjoin() -> —7˜mÒµŽOª°ÇªâG»H4·3T-Ž{ìgš2¸•¢ú|úïNÍW`>Pgú2;’xY4—â?4dÎšp™H‡'9•ÁH ÃûÉ åæÊGÐpfvu]ï.õ!ì‡—µÞ@˜„±WQ)ƒÞäêÎÊRÇ×0ë;ôMKux›ƒ¡o—nQÁmÐßÅØ•¨7ó|CÄßƒ~TšæQ_­ÃùØœçÑò#ÍeaVKˆªBXñs30%)EÅé`EÄB¥‰´–&¯!Ô›]hÅ§;%¤$ÑôEmÚu•¤¸xM1Nþ¶ê¡ÁCîXÿjMóFwËîeÎ“‰öT[vŽO$Ÿ)ñM]„àO¨ò_ù¬¾Ÿœ‡ÂÖB&Vî‹OTþ68„CoæÊàÛGVdïÁÄR'ØÓæ¼¢‘vìùófÖ
+1 unfreed mallocs
 339 malloc'd size
 0 unfreed mallocs
-ft_substr() -> ?4¼ÝÆ8ƒ"LŽð˜fn_Ãþ?Þ25y«HE\rÈRC"©%Uá}Ž‹‡lÏv«©™X.üQž!õ0ö]Þj2nu¥»ÿåÀ¿HäjäºÈš+íâ³Ó½‹÷Žø¥AÒ
-®ýC™¤8g]k‹½¨ÂœóL)®Ý1Ÿ}¤—D:ËÐ²D­þzã«mARÝöT™|NâÈù˜™HTëb‰f›WvÅkoNå™­f"ÿ¤‹ê·t½—ºFZÀÔÜr®Ÿ=¿æ)\k²½ÔW‘Í;‘Î,eœ‚OÉÞÁVíßé»¦žNýÆŒºG¸:è©;üB“y¼©ÿYI0™Ás”ÐŒÓdºëÔ0ó;#FÍpc#¤£][3®¨9¼V/…³#^r~¿Øp4hXÊY‹ÿÔk»}ž=ÕÀ"QœBUÛFù§Š›@žýÉ¹c0øž‹‡#¥øØ3«õÇ)rGäø§fãTÆ¦þÒ”ƒjFov<³–	o˜¸4|}â÷¥µ2]ÄSöW«(ÑäH×Gu|ÄìõúÃþÐëR*·WFo`Ñé&co˜¸4|}â÷¥µ2]ÄSöW«(ÑäH×Gu|ÄìõúÃþÐëR*·WFo`Ñé&c1 unfreed mallocs
+ft_strjoin() -> ?4¼ÝÆ8ƒ"LŽð˜fn_Ãþ?Þ25y«HE\rÈRC"©%Uá}Ž‹‡lÏv«©™X.üQž!õ0ö]Þj2nu¥»ÿåÀ¿HäjäºÈš+íâ³Ó½‹÷Žø¥AÒ
+®ýC™¤8g]k‹½¨ÂœóL)®Ý1Ÿ}¤—D:ËÐ²D­þzã«mARÝöT™|NâÈù˜™HTëb‰f›WvÅkoNå™­f"ÿ¤‹ê·t½—ºFZÀÔÜr®Ÿ=¿æ)\k²½ÔW‘Í;‘Î,eœ‚OÉÞÁVíßé»¦žNýÆŒºG¸:è©;üB“y¼©ÿYI0™Ás”ÐŒÓdºëÔ0ó;#FÍpc#¤£][3®¨9¼V/…³#^r~¿Øp4hXÊY‹ÿÔk»}ž=ÕÀ"QœBUÛFù§Š›@žýÉ¹c0øž‹‡#¥øØ3«õÇ)rGäø§fãTÆ¦þÒ”ƒjFov<³–	o˜¸4|}â÷¥µ2]ÄSöW«(ÑäH×Gu|ÄìõúÃþÐëR*·WFo`Ñé&co˜¸4|}â÷¥µ2]ÄSöW«(ÑäH×Gu|ÄìõúÃþÐëR*·WFo`Ñé&c
+1 unfreed mallocs
 482 malloc'd size
 0 unfreed mallocs
 stderr 0
