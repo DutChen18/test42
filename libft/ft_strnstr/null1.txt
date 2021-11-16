@@ -1,2 +1,2 @@
 stdout 18
-ft_strncmp(10) -> stderr 0
+ft_strnstr(10) -> stderr 0

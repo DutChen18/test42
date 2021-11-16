@@ -10,7 +10,7 @@ void
 {
 	char	*res;
 
-	printf("ft_strncmp(%lu) -> ", (unsigned long) size);
+	printf("ft_strnstr(%lu) -> ", (unsigned long) size);
 	fflush(stdout);
 	res = ft_strnstr(str1, str2, size);
 	if (res == NULL)
