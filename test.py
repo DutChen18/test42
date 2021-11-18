@@ -41,18 +41,18 @@ class Group:
 		for i, result in enumerate(results):
 			test = self.tests[i]
 			if result == "OK":
-				result_str += "  \033[32mOK\033[0m "
+				result_str += "  \033[1;32mOK\033[0m "
 			elif result == "KO" and not test.options["opt"]:
-				result_str += "  \033[31mKO\033[0m "
+				result_str += "  \033[1;31mKO\033[0m "
 			elif result == "KO" and test.options["opt"]:
-				result_str += "  \033[33mKO\033[0m "
-		print(f"{self.name:16}{result_str}")
+				result_str += "  \033[1;33mKO\033[0m "
+		print(f"\033[1;37m{self.name:16}\033[0m{result_str}")
 		for i, result in enumerate(results):
 			test = self.tests[i]
 			if result == "KO" and not test.options["opt"]:
-				print(f"\033[31mKO\033[0m  {self.name} {test.name}")
+				print(f"\033[1;31mKO\033[0m  \033[1;37m{self.name} {test.name}\033[0m")
 			elif result == "KO" and test.options["opt"]:
-				print(f"\033[33mKO\033[0m  {self.name} {test.name}")
+				print(f"\033[1;33mKO\033[0m  \033[1;37m{self.name} {test.name}\033[0m")
 
 	async def run_test(self, test):
 		path = f"{self.name}/{test.name}.txt"
@@ -105,7 +105,15 @@ class Test:
 
 	async def run(self, path):
 		with open(path, "rb") as f:
-			return "OK" if f.read() == (await self.run_text()) else "KO"
+			expect = f.read()
+		result = await self.run_text()
+		proc = await asyncio.create_subprocess_exec("diff", path, "-",
+			stdin=asyncio.subprocess.PIPE,
+			stdout=asyncio.subprocess.PIPE)
+		stdout, stderr = await proc.communicate(result)
+		with open(os.path.splitext(path)[0] + ".diff", "wb") as f:
+			f.write(stdout)
+		return "OK" if expect == result else "KO"
 
 	async def setup(self):
 		pass
