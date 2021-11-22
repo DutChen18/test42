@@ -69,56 +69,41 @@ void
 	}
 }
 
-#ifdef TEST_EMPTY
-int
-	main(void)
+void
+	main_empty(void)
 {
 	test("", (void *) "", 0, "", 0);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL1
-int
-	main(void)
+void
+	main_null1(void)
 {
 	char	str[1];
 
 	str[0] = '*';
 	test(NULL, str, 1, str, 1);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL2
-int
-	main(void)
+void
+	main_null2(void)
 {
 	char	str[1];
 
 	str[0] = '*';
 	test(str, NULL, 1, str, 1);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL3
-int
-	main(void)
+void
+	main_null3(void)
 {
 	char	str[1];
 
 	str[0] = '*';
 	test(NULL, NULL, 1, str, 1);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif

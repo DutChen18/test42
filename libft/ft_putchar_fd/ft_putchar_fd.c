@@ -21,22 +21,16 @@ void
 	}
 }
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test('\n');
 	test('\0');
 	test('h');
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif

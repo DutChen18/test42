@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <ctype.h>
-#include "mem.h"
+#include "test.h"
 
 char	*ft_strmapi(const char *str, char (*f)(unsigned int, char));
 
@@ -23,9 +23,9 @@ void
 	printf("%lu unfreed mallocs\n", mallocs - frees);
 	if (str2 != NULL)
 	{
-#ifdef TEST_MEM
-		printf("%lu malloc'd size\n", (unsigned long) malloc_size(str2));
-#endif
+		if (do_test_mem) {
+			printf("%lu malloc'd size\n", (unsigned long) malloc_size(str2));
+		}
 		free(str2);
 	}
 	printf("%lu unfreed mallocs\n", mallocs - frees);
@@ -52,39 +52,27 @@ void
 	}
 }
 
-#ifdef TEST_EMPTY
-int
-	main(void)
+void
+	main_empty(void)
 {
 	test("");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test("Hello, World!");
 	test("42");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL
-int
-	main(void)
+void
+	main_null(void)
 {
 	test(NULL);
-	return (EXIT_SUCCESS);
 }
-#endif

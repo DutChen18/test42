@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#include "mem.h"
+#include "test.h"
 
 char	*ft_itoa(int num);
 
@@ -16,9 +16,9 @@ void
 	printf("%lu unfreed mallocs\n", mallocs - frees);
 	if (str != NULL)
 	{
-#ifdef TEST_MEM
-		printf("%lu malloc'd size\n", (unsigned long) malloc_size(str));
-#endif
+		if (do_test_mem) {
+			printf("%lu malloc'd size\n", (unsigned long) malloc_size(str));
+		}
 		free(str);
 	}
 	printf("%lu unfreed mallocs\n", mallocs - frees);
@@ -35,32 +35,23 @@ void
 	}
 }
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test(-1);
 	test(0);
 	test(1);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_INTMAX
-int
-	main(void)
+void
+	main_intmax(void)
 {
 	test(0x7fffffff);
 	test(-0x80000000);
-	return (EXIT_SUCCESS);
 }
-#endif

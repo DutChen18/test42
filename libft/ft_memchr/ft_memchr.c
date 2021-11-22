@@ -42,31 +42,24 @@ void
 	}
 }
 
-#ifdef TEST_EMPTY
-int
-	main(void)
+void
+	main_empty(void)
 {
 	test("", '\0', 1);
 	test("", 'a', 1);
 	test("", '\0', 0);
 	test("", 'a', 0);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL
-int
-	main(void)
+void
+	main_null(void)
 {
 	test(NULL, 'a', 0);
 	test(NULL, 'a', 1);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test("Hello, World!", ',', 5);
 	test("Hello, World!", ',', 6);
@@ -76,15 +69,10 @@ int
 	test("Hello, World!", '\0', 12);
 	test("Hello, World!", '\0', 13);
 	test("Hello, World!", '\0', 14);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif

@@ -40,41 +40,29 @@ void
 	}
 }
 
-#ifdef TEST_EMPTY
-int
-	main(void)
+void
+	main_empty(void)
 {
 	test("", '\0');
 	test("", 'a');
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL
-int
-	main(void)
+void
+	main_null(void)
 {
 	test(NULL, 'a');
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test("Hello, World!", ',');
 	test("Hello, World!", 'J');
 	test("Hello, World!", '\0');
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif

@@ -33,18 +33,14 @@ void
 	}
 }
 
-#ifdef TEST_NULL
-int
-	main(void)
+void
+	main_null(void)
 {
 	test(NULL);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test("-10");
 	test("-9");
@@ -53,37 +49,28 @@ int
 	test("9");
 	test("1");
 	test("0");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_INTMAX
-int
-	main(void)
+void
+	main_intmax(void)
 {
 	test("-2147483647");
 	test("2147483647");
 	test("2147483648");
 	test("-2147483648");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_LONGMAX
-int
-	main(void)
+void
+	main_longmax(void)
 {
 	test("-9223372036854775807");
 	test("9223372036854775807");
 	test("9223372036854775808");
 	test("-9223372036854775808");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_WEIRD
-int
-	main(void)
+void
+	main_weird(void)
 {
 	test("");
 	test("-");
@@ -119,15 +106,10 @@ int
 	test(" \t   -123");
 	test(" \t   +123");
 	test(" \t   123");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif

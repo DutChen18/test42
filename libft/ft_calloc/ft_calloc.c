@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "mem.h"
+#include "test.h"
 
 void	*ft_calloc(size_t size, size_t count);
 
@@ -19,44 +19,35 @@ void
 	printf("%lu unfreed mallocs\n", mallocs - frees);
 	if (ptr != NULL)
 	{
-#ifdef TEST_MEM
-		printf("%lu malloc'd size\n", (unsigned long) malloc_size(ptr));
-#endif
+		if (do_test_mem) {
+			printf("%lu malloc'd size\n", (unsigned long) malloc_size(ptr));
+		}
 		free(ptr);
 	}
 	printf("%lu unfreed mallocs\n", mallocs - frees);
 	fflush(stdout);
 }
 
-#ifdef TEST_ZERO
-int
-	main(void)
+void
+	main_zero(void)
 {
 	test(0, 0);
 	test(0, 42);
 	test(69, 0);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test(1, 42);
 	test(69, 1);
 	test(42, 69);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL
-int
-	main(void)
+void
+	main_null(void)
 {
 	test(1, 0x1000000000000);
 	test(0x1000000000000, 1);
 	test(0x1000000, 0x1000000);
-	return (EXIT_SUCCESS);
 }
-#endif

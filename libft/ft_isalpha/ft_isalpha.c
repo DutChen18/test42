@@ -30,38 +30,26 @@ void
 	}
 }
 
-#ifdef TEST_ASCII
-int
-	main(void)
+void
+	main_ascii(void)
 {
 	test_range(0, 128);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_UNSIGNED_CHAR
-int
-	main(void)
+void
+	main_unsigned_char(void)
 {
 	test_range(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_SIGNED_CHAR
-int
-	main(void)
+void
+	main_signed_char(void)
 {
 	test_range(-128, 128);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif

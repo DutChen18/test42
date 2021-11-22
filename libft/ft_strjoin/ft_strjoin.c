@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#include "mem.h"
+#include "test.h"
 
 char	*ft_strjoin(const char *str1, const char *str2);
 
@@ -16,9 +16,9 @@ void
 	printf("%lu unfreed mallocs\n", mallocs - frees);
 	if (str3 != NULL)
 	{
-#ifdef TEST_MEM
-		printf("%lu malloc'd size\n", (unsigned long) malloc_size(str3));
-#endif
+		if (do_test_mem) {
+			printf("%lu malloc'd size\n", (unsigned long) malloc_size(str3));
+		}
 		free(str3);
 	}
 	printf("%lu unfreed mallocs\n", mallocs - frees);
@@ -51,42 +51,30 @@ void
 	}
 }
 
-#ifdef TEST_EMPTY
-int
-	main(void)
+void
+	main_empty(void)
 {
 	test("", "");
 	test("", "a");
 	test("a", "");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test("Hello, ", "World!");
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL
-int
-	main(void)
+void
+	main_null(void)
 {
 	test(NULL, "");
 	test("", NULL);
 	test(NULL, NULL);
-	return (EXIT_SUCCESS);
 }
-#endif

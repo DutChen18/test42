@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#include "mem.h"
+#include "test.h"
 
 char	**ft_split(const char *str, char ch);
 
@@ -26,15 +26,15 @@ void
 	printf(")\n%lu unfreed mallocs\n", mallocs - frees);
 	if (str2 != NULL)
 	{
-#ifdef TEST_MEM
-		printf("%lu malloc'd size\n", (unsigned long) malloc_size(str2));
-#endif
+		if (do_test_mem) {
+			printf("%lu malloc'd size\n", (unsigned long) malloc_size(str2));
+		}
 		tmp = str2;
 		while (*tmp != NULL)
 		{
-#ifdef TEST_MEM
-			printf("%lu malloc'd size\n", (unsigned long) malloc_size(*tmp));
-#endif
+			if (do_test_mem) {
+				printf("%lu malloc'd size\n", (unsigned long) malloc_size(*tmp));
+			}
 			free(*tmp);
 			tmp += 1;
 		}
@@ -65,41 +65,29 @@ void
 	}
 }
 
-#ifdef TEST_EMPTY
-int
-	main(void)
+void
+	main_empty(void)
 {
 	test("", ' ');
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test("Hello, World!", ' ');
 	test("Hello, World!", ',');
 	test("Hello, World!", 'a');
 	test("   Hello,  World!   ", ' ');
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL
-int
-	main(void)
+void
+	main_null(void)
 {
 	test(NULL, ' ');
-	return (EXIT_SUCCESS);
 }
-#endif

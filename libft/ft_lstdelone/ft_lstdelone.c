@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "mem.h"
+#include "test.h"
 
 typedef struct s_list	t_list;
 
@@ -20,9 +20,9 @@ void
 	tmp = lst;
 	while (tmp != NULL)
 	{
-#ifdef TEST_MEM
-		printf("%lu ", (unsigned long) malloc_size(tmp));
-#endif
+		if (do_test_mem) {
+			printf("%lu ", (unsigned long) malloc_size(tmp));
+		}
 		printf("%lu, ", (unsigned long) tmp->content);
 		tmp = tmp->next;
 	}
@@ -59,11 +59,10 @@ void
 	printf("%lu unfreed mallocs\n", mallocs - frees);
 }
 
-int
-	main(void)
+void
+	main_test(void)
 {
 	test("a");
 	test("ab");
 	test("abc");
-	return (EXIT_SUCCESS);
 }

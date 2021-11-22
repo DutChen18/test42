@@ -52,42 +52,32 @@ void
 	}
 }
 
-#ifdef TEST_EMPTY
-int
-	main(void)
+void
+	main_empty(void)
 {
 	test("", "", 0);
 	test("abc", "", 0);
 	test("", "abc", 0);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL1
-int
-	main(void)
+void
+	main_null1(void)
 {
 	test("abc", NULL, 10);
 	test(NULL, "abc", 10);
 	test(NULL, NULL, 10);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_NULL2
-int
-	main(void)
+void
+	main_null2(void)
 {
 	test("abc", NULL, 0);
 	test(NULL, "abc", 0);
 	test(NULL, NULL, 0);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test("123", "123", 0);
 	test("123abc", "123", 0);
@@ -98,15 +88,10 @@ int
 	test("123", "123", 4);
 	test("123abc", "123", 4);
 	test("123", "123abc", 4);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif

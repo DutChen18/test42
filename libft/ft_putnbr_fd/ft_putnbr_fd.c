@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#include "mem.h"
+#include "test.h"
 
 void	ft_putnbr_fd(int num, int fd);
 
@@ -24,32 +24,23 @@ void
 	}
 }
 
-#ifdef TEST_BASIC
-int
-	main(void)
+void
+	main_basic(void)
 {
 	test(-1);
 	test(0);
 	test(1);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_RANDOM
-int
-	main(void)
+void
+	main_random(void)
 {
 	test_random(0, 256);
-	return (EXIT_SUCCESS);
 }
-#endif
 
-#ifdef TEST_INTMAX
-int
-	main(void)
+void
+	main_intmax(void)
 {
 	test(0x7fffffff);
 	test(-0x80000000);
-	return (EXIT_SUCCESS);
 }
-#endif
