@@ -16,7 +16,7 @@ def main(test, argv):
 		"notsoomanylines", "42_chars_no_nl", "big_line_nl", "manylines",
 		"only_newlines", "43_chars_nl", "big_line_no_nl", "multiple_nl",
 		"random"]
-	sizes = [1, 42]
+	sizes = [1, 2, 3, 4, 5, 42, 69, 100, 420, 1000, 1000000]
 
 	for size in sizes:
 		t = test.Test(f"mandatory_{size}")

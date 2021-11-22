@@ -1,0 +1,4 @@
+stdout 25
+<GNL> Hallo
+<GNL> (null)
+stderr 0

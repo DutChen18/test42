@@ -75,7 +75,7 @@ class Test:
 				else:
 					result_str += " \033[1;31mKO\033[0m "
 					result_arr += f"\n\033[1;31mKO\033[0m \033[1;37m{name}\033[0m"
-			print(f"\033[1;37m{self.name:16}\033[0m{result_str}{result_arr}")
+			print(f"\033[1;37m{self.name:20}\033[0m{result_str}{result_arr}")
 		else:
 			print(self.name)
 
