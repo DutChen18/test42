@@ -174,6 +174,12 @@ def main(test, argv):
 	t.add("random", mem=True)
 	t.add("intmax", mem=True)
 
+	t = test.CTest("ft_strmapi", args)
+	t.add("empty", mem=True)
+	t.add("basic", mem=True)
+	t.add("random", mem=True)
+	t.add("null", mem=True, opt=True)
+
 	t = test.CTest("ft_striteri", args)
 	t.add("empty")
 	t.add("basic")
