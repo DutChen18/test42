@@ -1,3 +1,5 @@
+	./test.py [project] test [project args]
+
 for libft
 
-	python3 libft.py run [project_path]
+	./test.py libft test [libft.a path]
