@@ -1,5 +1,27 @@
 def main(test, argv):
 	args = [argv[0]]
+	if test.mode == "record":
+		args.append("-Dft_isalpha=isalpha")
+		args.append("-Dft_isdigit=isdigit")
+		args.append("-Dft_isalnum=isalnum")
+		args.append("-Dft_isascii=isascii")
+		args.append("-Dft_isprint=isprint")
+		args.append("-Dft_strlen=strlen")
+		args.append("-Dft_memset=memset")
+		args.append("-Dft_bzero=bzero")
+		args.append("-Dft_memcpy=memcpy2")
+		args.append("-Dft_memmove=memmove2")
+		args.append("-Dft_strlcpy=strlcpy2")
+		args.append("-Dft_strlcat=strlcat2")
+		args.append("-Dft_toupper=toupper")
+		args.append("-Dft_tolower=tolower")
+		args.append("-Dft_strchr=strchr")
+		args.append("-Dft_strrchr=strrchr")
+		args.append("-Dft_strncmp=strncmp")
+		args.append("-Dft_memchr=memchr")
+		args.append("-Dft_memcmp=memcmp")
+		args.append("-Dft_strnstr=strnstr")
+		args.append("-Dft_atoi=atoi")
 	
 	t = test.CTest("ft_isalpha", args)
 	t.add("ascii")

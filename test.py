@@ -56,18 +56,21 @@ class Test:
 				with open(path + ".txt", "wb") as f:
 					f.write(result)
 
-		result_str = ""
-		result_arr = ""
-		for name, case in self.cases.items():
-			if case.ok:
-				result_str += " \033[1;32mOK\033[0m "
-			elif case.opt:
-				result_str += " \033[1;33mKO\033[0m "
-				result_arr += f"\n\033[1;33mKO\033[0m \033[1;37m{name}\033[0m"
-			else:
-				result_str += " \033[1;31mKO\033[0m "
-				result_arr += f"\n\033[1;31mKO\033[0m \033[1;37m{name}\033[0m"
-		print(f"\033[1;37m{self.name:16}\033[0m{result_str}{result_arr}")
+		if mode == "test":
+			result_str = ""
+			result_arr = ""
+			for name, case in self.cases.items():
+				if case.ok:
+					result_str += " \033[1;32mOK\033[0m "
+				elif case.opt:
+					result_str += " \033[1;33mKO\033[0m "
+					result_arr += f"\n\033[1;33mKO\033[0m \033[1;37m{name}\033[0m"
+				else:
+					result_str += " \033[1;31mKO\033[0m "
+					result_arr += f"\n\033[1;31mKO\033[0m \033[1;37m{name}\033[0m"
+			print(f"\033[1;37m{self.name:16}\033[0m{result_str}{result_arr}")
+		else:
+			print(self.name)
 
 class CTest(Test):
 	def __init__(self, name, args):
