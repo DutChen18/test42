@@ -13,7 +13,7 @@ void
 	char	**tmp;
 
 	str2 = ft_split(str, ch);
-	printf("ft_strjoin(%c) -> (", ch);
+	printf("ft_split(%c) -> (", ch);
 	if (str2 != NULL)
 	{
 		tmp = str2;
