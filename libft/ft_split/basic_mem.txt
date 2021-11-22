@@ -1,22 +1,22 @@
-stdout 468
-ft_strjoin( ) -> (Hello,, World!, )
+stdout 460
+ft_split( ) -> (Hello,, World!, )
 3 unfreed mallocs
 24 malloc'd size
 7 malloc'd size
 7 malloc'd size
 0 unfreed mallocs
-ft_strjoin(,) -> (Hello,  World!, )
+ft_split(,) -> (Hello,  World!, )
 3 unfreed mallocs
 24 malloc'd size
 6 malloc'd size
 8 malloc'd size
 0 unfreed mallocs
-ft_strjoin(a) -> (Hello, World!, )
+ft_split(a) -> (Hello, World!, )
 2 unfreed mallocs
 16 malloc'd size
 14 malloc'd size
 0 unfreed mallocs
-ft_strjoin( ) -> (Hello,, World!, )
+ft_split( ) -> (Hello,, World!, )
 3 unfreed mallocs
 24 malloc'd size
 7 malloc'd size

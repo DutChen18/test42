@@ -1,5 +1,5 @@
-stdout 72
-ft_strjoin( ) -> ()
+stdout 70
+ft_split( ) -> ()
 1 unfreed mallocs
 8 malloc'd size
 0 unfreed mallocs
