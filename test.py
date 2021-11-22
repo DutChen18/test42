@@ -36,6 +36,9 @@ class Test:
 
 	async def run(self):
 		await asyncio.gather(*self.execs)
+		for e in self.execs:
+			if e.result[1] != b"":
+				sys.stdout.write(e.result[1].decode())
 		await asyncio.gather(*self.cases.values())
 		for name, case in self.cases.items():
 			stdout, stderr, returncode = case.result
@@ -68,14 +71,18 @@ class Test:
 class CTest(Test):
 	def __init__(self, name, args):
 		Test.__init__(self, name)
-		self.execs.append(Exec(["cc", *args, "-shared", "test.c",
+		self.execs.append(Exec(["cc", *args, "-shared", "test.c", "-I", ".",
 			f"{project_name}/{self.name}/{self.name}.c",
 			"-o", f"{project_name}/{self.name}/{self.name}.so"]))
 
-	def add(self, name):
+	def add(self, name, opt=False, mem=False):
 		self.cases[name] = Case(["./test",
 			f"{project_name}/{self.name}/{self.name}.so",
-			f"main_{name}"])
+			f"main_{name}", "-1", "0"], opt=opt)
+		if mem:
+			self.cases[name + "_mem"] = Case(["./test",
+				f"{project_name}/{self.name}/{self.name}.so",
+				f"main_{name}", "-1", "1"], opt=opt)
 
 async def main(module, argv):
 	global proc_sem

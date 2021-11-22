@@ -133,3 +133,97 @@ def main(test, argv):
 	t.add("longmax")
 	t.add("weird")
 	t.add("random")
+
+	t = test.CTest("ft_calloc", args)
+	t.add("zero", mem=True)
+	t.add("basic", mem=True)
+	t.add("null", mem=True)
+
+	t = test.CTest("ft_strdup", args)
+	t.add("empty", mem=True)
+	t.add("basic", mem=True)
+	t.add("random", mem=True)
+	t.add("null", mem=True)
+
+	t = test.CTest("ft_substr", args)
+	t.add("empty", mem=True)
+	t.add("basic", mem=True)
+	t.add("random", mem=True)
+	t.add("null", mem=True, opt=True)
+
+	t = test.CTest("ft_strjoin", args)
+	t.add("empty", mem=True)
+	t.add("basic", mem=True)
+	t.add("random", mem=True)
+	t.add("null", mem=True, opt=True)
+
+	t = test.CTest("ft_strtrim", args)
+	t.add("empty", mem=True)
+	t.add("basic", mem=True)
+	t.add("random", mem=True)
+	t.add("null", mem=True, opt=True)
+
+	t = test.CTest("ft_split", args)
+	t.add("empty", mem=True)
+	t.add("basic", mem=True)
+	t.add("random", mem=True)
+	t.add("null", mem=True, opt=True)
+
+	t = test.CTest("ft_itoa", args)
+	t.add("basic", mem=True)
+	t.add("random", mem=True)
+	t.add("intmax", mem=True)
+
+	t = test.CTest("ft_striteri", args)
+	t.add("empty")
+	t.add("basic")
+	t.add("random")
+	t.add("null", opt=True)
+
+	t = test.CTest("ft_putstr_fd", args)
+	t.add("empty")
+	t.add("basic")
+	t.add("random")
+	t.add("null", opt=True)
+
+	t = test.CTest("ft_putchar_fd", args)
+	t.add("basic")
+	t.add("random")
+
+	t = test.CTest("ft_putendl_fd", args)
+	t.add("empty")
+	t.add("basic")
+	t.add("random")
+	t.add("null", opt=True)
+
+	t = test.CTest("ft_putnbr_fd", args)
+	t.add("basic")
+	t.add("random")
+	t.add("intmax")
+
+	t = test.CTest("ft_lstnew", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstadd_front", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstsize", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstlast", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstadd_back", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstdelone", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstclear", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstiter", args)
+	t.add("test", mem=True)
+
+	t = test.CTest("ft_lstmap", args)
+	t.add("test", mem=True)
