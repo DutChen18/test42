@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import asyncio
 import sys
+import os.path
 
 proc_sem = None
 tests = []
@@ -53,6 +54,7 @@ class Test:
 			result += f"stderr {len(stderr)}\n".encode() + stderr
 			path = f"{project_name}/{self.name}/{name}"
 			if mode == "test":
+				assert os.path.isfile(path + ".txt")
 				diff = await pexec(["diff", path + ".txt", "-"], result)
 				with open(path + ".diff", "wb") as f:
 					f.write(diff[0])

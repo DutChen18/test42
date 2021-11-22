@@ -1,0 +1,33 @@
+import os.path
+
+def main(test, argv):
+	args = ["-I", argv[0], "get_next_line/main.c"]
+	mandatory = [
+		os.path.join(argv[0], "get_next_line.c"),
+		os.path.join(argv[0], "get_next_line_utils.c")]
+	bonus = [
+		os.path.join(argv[0], "get_next_line_bonus.c"),
+		os.path.join(argv[0], "get_next_line_utils_bonus.c")]
+
+	files = [
+		"41_chars_nl", "43_chars_no_nl", "empty", "multiple_no_nl",
+		"simple", "41_chars_no_nl", "alternating_nl", "hallo",
+		"newline", "42_chars_nl", "alternating_no_nl", "lorumipsum",
+		"notsoomanylines", "42_chars_no_nl", "big_line_nl", "manylines",
+		"only_newlines", "43_chars_nl", "big_line_no_nl", "multiple_nl",
+		"random"]
+	sizes = [1, 42]
+
+	for size in sizes:
+		t = test.Test(f"mandatory_{size}")
+		t.execs.append(test.Exec(["cc", *args, *mandatory, "-o", f"get_next_line/mandatory_{size}.out", f"-DBUFFER_SIZE={size}"]))
+		t.execs.append(test.Exec(["mkdir", "-p", f"get_next_line/mandatory_{size}"]))
+		for file in files:
+			t.cases[file] = test.Case([f"get_next_line/mandatory_{size}.out", f"get_next_line/{file}.txt"])
+			t.cases[file + "_stdin"] = test.Case([f"get_next_line/mandatory_{size}.out"], stdin=f"get_next_line/{file}.txt")
+
+	for size in sizes:
+		t = test.Test(f"bonus_{size}")
+		t.execs.append(test.Exec(["cc", *args, *bonus, "-o", f"get_next_line/bonus_{size}.out", f"-DBUFFER_SIZE={size}"]))
+		t.execs.append(test.Exec(["mkdir", "-p", f"get_next_line/bonus_{size}"]))
+		t.cases["bonus"] = test.Case([f"get_next_line/mandatory_{size}.out", *[f"get_next_line/{file}.txt" for file in files]])
