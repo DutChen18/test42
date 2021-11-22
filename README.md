@@ -1,5 +1,5 @@
-	./test.py [project] test [project args]
+	./test.py test [project] [project args]
 
 for libft
 
-	./test.py libft test [libft.a path]
+	./test.py test libft [libft.a path]
