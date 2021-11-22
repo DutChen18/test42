@@ -15,16 +15,21 @@ async def pexec(cmd, stdin=b""):
 		return stdout, stderr, proc.returncode
 
 class Exec:
-	def __init__(self, cmd):
+	def __init__(self, cmd, stdin=None):
 		self.cmd = cmd
 		self.result = None
+		self.stdin = stdin
 	
 	async def __await__(self):
-		self.result = await pexec(self.cmd)
+		stdin = b""
+		if self.stdin is not None:
+			with open(self.stdin, "rb") as f:
+				stdin = f.read()
+		self.result = await pexec(self.cmd, stdin)
 
 class Case(Exec):
-	def __init__(self, cmd, opt=False):
-		Exec.__init__(self, cmd)
+	def __init__(self, cmd, stdin=None, opt=False):
+		Exec.__init__(self, cmd, stdin)
 		self.opt = opt
 		self.ok = False
 
@@ -80,18 +85,18 @@ class CTest(Test):
 			"-o", f"{project_name}/{self.name}/{self.name}.so"]))
 
 	def add(self, name, opt=False, mem=False):
-		self.cases[name] = Case(["./test",
+		self.cases[name] = Case(["./test.out",
 			f"{project_name}/{self.name}/{self.name}.so",
 			f"main_{name}", "-1", "0"], opt=opt)
 		if mem:
-			self.cases[name + "_mem"] = Case(["./test",
+			self.cases[name + "_mem"] = Case(["./test.out",
 				f"{project_name}/{self.name}/{self.name}.so",
 				f"main_{name}", "-1", "1"], opt=opt)
 
 async def main(module, argv):
 	global proc_sem
 	proc_sem = asyncio.Semaphore(4)
-	await pexec(["cc", "main.c", "-o", "test"])
+	await pexec(["cc", "main.c", "-o", "test.out"])
 	module.main(sys.modules[__name__], argv)
 	await asyncio.gather(*[test.run() for test in tests])
 
