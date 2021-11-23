@@ -1,6 +1,0 @@
-stdout 72
-<GNL> UWAKzj6@j#^M3qjlrh!4.j)Dv(L{1SQn-Uc4t//_Td$
-
-<GNL> 1
-<GNL> (null)
-stderr 0
