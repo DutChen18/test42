@@ -1,6 +1,6 @@
-stdout 71
-<GNL> |?hC#f>0y..`am+%]SOQk,N=&W]2}?Qh^61x<IYgZU
+stdout 83
+<GNL 0:0> |?hC#f>0y..`am+%]SOQk,N=&W]2}?Qh^61x<IYgZU
 
-<GNL> 1
-<GNL> (null)
+<GNL 0:1> 1
+<GNL 0:2> (null)
 stderr 0

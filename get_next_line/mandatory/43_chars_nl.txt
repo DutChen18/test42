@@ -1,6 +1,6 @@
-stdout 72
-<GNL> UWAKzj6@j#^M3qjlrh!4.j)Dv(L{1SQn-Uc4t//_Td$
+stdout 84
+<GNL 0:0> UWAKzj6@j#^M3qjlrh!4.j)Dv(L{1SQn-Uc4t//_Td$
 
-<GNL> 1
-<GNL> (null)
+<GNL 0:1> 1
+<GNL 0:2> (null)
 stderr 0

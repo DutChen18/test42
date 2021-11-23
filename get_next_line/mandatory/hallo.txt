@@ -1,4 +1,4 @@
-stdout 25
-<GNL> Hallo
-<GNL> (null)
+stdout 33
+<GNL 0:0> Hallo
+<GNL 0:1> (null)
 stderr 0

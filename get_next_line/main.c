@@ -4,46 +4,68 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+#ifndef GNL_REOPEN
+# define GNL_REOPEN 1
+#endif
+
 char	*get_next_line(int fd);
 
-int
-	main(int argc, char **argv)
+void
+	test(int argc, char **argv)
 {
 	int		fd[OPEN_MAX];
-	int		ended[OPEN_MAX];
-	int		n;
+	int		eof_count[OPEN_MAX];
+	int		fd_line[OPEN_MAX];
 	int		ends;
-	int		tmpfd;
+	int		n;
+	int		m;
 	char	*tmp;
 
 	n = 0;
-	if (argc == 1)
+	if (argc == 0)
 	{
 		fd[n] = 0;
-		ended[0] = 0;
+		eof_count[n] = 0;
+		fd_line[n] = 0;
 		n += 1;
 	}
-	while (n < argc - 1)
+	while (n < argc)
 	{
-		fd[n] = open(argv[n + 1], O_RDONLY);
-		ended[fd[n]] = 0;
+		fd[n] = open(argv[n], O_RDONLY);
+		eof_count[n] = 0;
+		fd_line[n] = 0;
 		n += 1;
 	}
 	ends = 0;
 	srand(0);
-	while (ends < n)
+	while (ends < n * GNL_REOPEN)
 	{
-		tmpfd = fd[rand() % n];
-		if (ended[tmpfd] && (rand() % n) != 0)
+		m = rand() % n;
+		if (eof_count[m] == GNL_REOPEN && (rand() % n) != 0)
 			continue ;
-		tmp = get_next_line(tmpfd);
-		printf("<GNL> %s\n", tmp);
+		tmp = get_next_line(fd[m]);
+		printf("<GNL %d:%d> %s\n", m, fd_line[m], tmp);
+		fd_line[m] += 1;
 		if (tmp == NULL)
 		{
-			if (!ended[tmpfd])
+			if (eof_count[m] < GNL_REOPEN)
+			{
+				eof_count[m] += 1;
 				ends += 1;
-			ended[tmpfd] = 1;
+			}
+			if (eof_count[m] < GNL_REOPEN)
+			{
+				close(fd[m]);
+				fd[m] = open(argv[m], O_RDONLY);
+				fd_line[m] = 0;
+			}
 		}
 		free(tmp);
 	}
+}
+
+int
+	main(int argc, char **argv)
+{
+	test(argc - 1, argv + 1);
 }

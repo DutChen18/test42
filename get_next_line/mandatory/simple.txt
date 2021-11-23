@@ -1,7 +1,7 @@
-stdout 35
-<GNL> Hallo
+stdout 47
+<GNL 0:0> Hallo
 
-<GNL> a
+<GNL 0:1> a
 
-<GNL> (null)
+<GNL 0:2> (null)
 stderr 0

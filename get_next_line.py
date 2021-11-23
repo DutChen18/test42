@@ -33,4 +33,9 @@ def main(test, argv):
 		t = test.Test(f"bonus_{size}", path="bonus")
 		t.execs.append(test.Exec(["cc", *args, *bonus, "-o", f"get_next_line/bonus_{size}.out", f"-DBUFFER_SIZE={size}"]))
 		t.execs.append(test.Exec(["mkdir", "-p", f"get_next_line/bonus_{size}"]))
-		t.cases.append(test.Case("bonus", [f"get_next_line/mandatory_{size}.out", *[f"get_next_line/{file}.txt" for file in files]]))
+		t.cases.append(test.Case("bonus", [f"get_next_line/bonus_{size}.out", *[f"get_next_line/{file}.txt" for file in files]]))
+	for size in sizes:
+		t = test.Test(f"reopen_{size}", path="reopen")
+		t.execs.append(test.Exec(["cc", *args, *bonus, "-o", f"get_next_line/reopen_{size}.out", f"-DBUFFER_SIZE={size}", f"-DGNL_REOPEN=2"]))
+		t.execs.append(test.Exec(["mkdir", "-p", f"get_next_line/reopen_{size}"]))
+		t.cases.append(test.Case("reopen", [f"get_next_line/reopen_{size}.out", *[f"get_next_line/{file}.txt" for file in files]]))
