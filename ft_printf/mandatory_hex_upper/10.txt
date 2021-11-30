@@ -1,0 +1,3 @@
+stdout 14
+E6F4590B -> 8
+stderr 0

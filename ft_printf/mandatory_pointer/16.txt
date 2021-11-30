@@ -1,0 +1,3 @@
+stdout 25
+0x1759edc372ae2244 -> 18
+stderr 0

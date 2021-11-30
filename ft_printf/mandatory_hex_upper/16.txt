@@ -1,0 +1,3 @@
+stdout 14
+E9BB17BC -> 8
+stderr 0

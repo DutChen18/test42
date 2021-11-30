@@ -1,0 +1,3 @@
+stdout 7
+o -> 1
+stderr 0

@@ -1,0 +1,3 @@
+stdout 10
+asdf -> 4
+stderr 0

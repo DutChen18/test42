@@ -1,0 +1,3 @@
+stdout 14
+af19922a -> 8
+stderr 0

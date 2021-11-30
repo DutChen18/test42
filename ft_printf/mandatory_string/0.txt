@@ -1,0 +1,3 @@
+stdout 11
+Hello -> 5
+stderr 0

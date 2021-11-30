@@ -1,0 +1,3 @@
+stdout 18
+Hello World -> 11
+stderr 0

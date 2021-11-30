@@ -1,0 +1,3 @@
+stdout 24
+0x3983ca8ea7e9d49 -> 17
+stderr 0

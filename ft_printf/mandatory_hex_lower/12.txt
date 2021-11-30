@@ -1,0 +1,3 @@
+stdout 14
+bad640fb -> 8
+stderr 0

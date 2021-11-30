@@ -1,0 +1,3 @@
+stdout 14
+6F25E2A2 -> 8
+stderr 0
