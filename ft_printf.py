@@ -169,13 +169,40 @@ def flags():
 		random.shuffle(fs)
 		f1, f2, f3, f4, f5 = fs
 		fmt = f"{f1}{f2}{f3}{f4}{f5}"
+		if (fmt, p, w) == ("-", ("",), None):
+			index = 0
+		elif (fmt, p, w) == ("0", ("",), None):
+			index = 1
+		elif (fmt, p, w) == ("#", ("",), None):
+			index = 2
+		elif (fmt, p, w) == (" ", ("",), None):
+			index = 3
+		elif (fmt, p, w) == ("+", ("",), None):
+			index = 4
+		elif (fmt, w) == ("", None):
+			index = 5
+		elif (fmt, p) == ("", ("",)):
+			index = 6
+		else:
+			index = 7
 		arg = []
 		fmt += p[0]
 		arg += list(str(x) for x in p[1:])
 		if w is not None:
 			fmt += "." + w[0]
 			arg += list(str(x) for x in w[1:])
-		yield (fmt, *arg)
+		yield (index, fmt, *arg)
+
+bonus_names = [
+	"left",
+	"zero",
+	"alt",
+	"space",
+	"plus",
+	"precision",
+	"width",
+	"mix",
+]
 
 conversions = [
 	PfChar,
@@ -195,7 +222,7 @@ def gen_conv(gen, conv, use_flags=False):
 		tmp = []
 		for v in values:
 			for f in flags():
-				tmp.append((v[0], f[0] + v[1], *f[1:], *v[2:]))
+				tmp.append((f[0], f[1] + v[1], *f[2:], *v[2:]))
 		values = tmp
 	for v in values:
 		gen.test(v[0], json.dumps("%" + v[1]), *v[2:])
@@ -230,5 +257,5 @@ def main(test, argv):
 		t = test.Test(n)
 		t.execs.append(test.Exec(["cc", *args, f"ft_printf/{n}.c", "-o", f"ft_printf/{n}.out"]))
 		t.execs.append(test.Exec(["mkdir", "-p", f"ft_printf/{n}"]))
-		for i in range(len(list(conv.values()))):
-			t.cases.append(test.Case(str(i), [f"ft_printf/{n}.out", str(i)]))
+		for i in range(8):
+			t.cases.append(test.Case(bonus_names[i], [f"ft_printf/{n}.out", str(i)]))

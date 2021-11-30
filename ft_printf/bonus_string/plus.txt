@@ -1,0 +1,8 @@
+stdout 183
+Hello -> 5
+Hello World -> 11
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+ -> 0
+  -> 1
+asdf -> 4
+stderr 0

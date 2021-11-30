@@ -1,0 +1,74 @@
+stdout 2409
+Hello -> 5
+Hello -> 5
+Hello -> 5
+           Hello -> 16
+Hello            -> 16
+Hello -> 5
+Hello -> 5
+Hello -> 5
+Hello -> 5
+Hello -> 5
+           Hello -> 16
+Hello -> 5
+Hello World -> 11
+Hello World -> 11
+Hello World -> 11
+     Hello World -> 16
+Hello World      -> 16
+Hello World -> 11
+Hello World -> 11
+Hello World -> 11
+Hello World -> 11
+Hello World -> 11
+     Hello World -> 16
+Hello World -> 11
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+ -> 0
+  -> 1
+     -> 4
+                 -> 16
+                 -> 16
+     -> 4
+  -> 1
+ -> 0
+  -> 1
+     -> 4
+                 -> 16
+ -> 0
+  -> 1
+  -> 1
+     -> 4
+                 -> 16
+                 -> 16
+     -> 4
+  -> 1
+  -> 1
+  -> 1
+     -> 4
+                 -> 16
+  -> 1
+asdf -> 4
+asdf -> 4
+asdf -> 4
+            asdf -> 16
+asdf             -> 16
+asdf -> 4
+asdf -> 4
+asdf -> 4
+asdf -> 4
+asdf -> 4
+            asdf -> 16
+asdf -> 4
+stderr 0
