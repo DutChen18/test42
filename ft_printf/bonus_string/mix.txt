@@ -1,4 +1,4 @@
-stdout 567265
+stdout 567448
  -> 0
 H -> 1
 Hell -> 4
@@ -131,6 +131,7 @@ Hello -> 5
             Hell -> 16
            Hello -> 16
                  -> 16
+Hello -> 5
  -> 0
 H -> 1
 Hell -> 4
@@ -5094,6 +5095,7 @@ Hello World -> 11
             Hell -> 16
      Hello World -> 16
                  -> 16
+Hello World -> 11
  -> 0
 H -> 1
 Hell -> 4
@@ -10057,6 +10059,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             Lore -> 16
 Lorem ipsum dolo -> 16
                  -> 16
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
  -> 0
 L -> 1
 Lore -> 4
@@ -15033,6 +15036,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  -> 0
  -> 0
  -> 0
+ -> 0
   -> 1
   -> 1
   -> 1
@@ -19983,6 +19987,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
                  -> 16
                  -> 16
                  -> 16
+  -> 1
  -> 0
   -> 1
   -> 1
@@ -24946,6 +24951,7 @@ asdf -> 4
             asdf -> 16
             asdf -> 16
                  -> 16
+asdf -> 4
  -> 0
 a -> 1
 asdf -> 4

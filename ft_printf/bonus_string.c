@@ -784,7 +784,7 @@ int
 		printf(" -> %d\n", ft_printf("%.s", "Hello"));
 		fflush(stdout);
 	}
-	if (test == 5)
+	if (test == 7)
 	{
 		printf(" -> %d\n", ft_printf("%s", "Hello"));
 		fflush(stdout);
@@ -25744,7 +25744,7 @@ int
 		printf(" -> %d\n", ft_printf("%.s", "Hello World"));
 		fflush(stdout);
 	}
-	if (test == 5)
+	if (test == 7)
 	{
 		printf(" -> %d\n", ft_printf("%s", "Hello World"));
 		fflush(stdout);
@@ -50704,7 +50704,7 @@ int
 		printf(" -> %d\n", ft_printf("%.s", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."));
 		fflush(stdout);
 	}
-	if (test == 5)
+	if (test == 7)
 	{
 		printf(" -> %d\n", ft_printf("%s", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."));
 		fflush(stdout);
@@ -75664,7 +75664,7 @@ int
 		printf(" -> %d\n", ft_printf("%.s", ""));
 		fflush(stdout);
 	}
-	if (test == 5)
+	if (test == 7)
 	{
 		printf(" -> %d\n", ft_printf("%s", ""));
 		fflush(stdout);
@@ -100624,7 +100624,7 @@ int
 		printf(" -> %d\n", ft_printf("%.s", " "));
 		fflush(stdout);
 	}
-	if (test == 5)
+	if (test == 7)
 	{
 		printf(" -> %d\n", ft_printf("%s", " "));
 		fflush(stdout);
@@ -125584,7 +125584,7 @@ int
 		printf(" -> %d\n", ft_printf("%.s", "asdf"));
 		fflush(stdout);
 	}
-	if (test == 5)
+	if (test == 7)
 	{
 		printf(" -> %d\n", ft_printf("%s", "asdf"));
 		fflush(stdout);

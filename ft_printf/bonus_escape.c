@@ -784,7 +784,7 @@ int
 		printf(" -> %d\n", ft_printf("%.%"));
 		fflush(stdout);
 	}
-	if (test == 5)
+	if (test == 7)
 	{
 		printf(" -> %d\n", ft_printf("%%"));
 		fflush(stdout);

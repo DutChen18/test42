@@ -179,9 +179,9 @@ def flags():
 			index = 3
 		elif (fmt, p, w) == ("+", ("",), None):
 			index = 4
-		elif (fmt, w) == ("", None):
+		elif (fmt, w) == ("", None) and p != ("",):
 			index = 5
-		elif (fmt, p) == ("", ("",)):
+		elif (fmt, p) == ("", ("",)) and w != None:
 			index = 6
 		else:
 			index = 7
