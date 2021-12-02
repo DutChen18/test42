@@ -227,6 +227,41 @@ def gen_conv(gen, conv, use_flags=False):
 	for v in values:
 		gen.test(v[0], json.dumps("%" + v[1]), *v[2:])
 
+undefined = [
+	"bonus_char_mix",
+	"bonus_string_mix",
+	"bonus_pointer_mix",
+	"bonus_decimal_mix",
+	"bonus_integer_mix",
+	"bonus_unsigned_mix",
+	"bonus_hex_lower_mix",
+	"bonus_hex_upper_mix",
+	"bonus_escape_mix",
+	"bonus_char_precision",
+	"bonus_char_zero",
+	"bonus_char_alt",
+	"bonus_char_space",
+	"bonus_char_plus",
+	"bonus_string_zero",
+	"bonus_string_alt",
+	"bonus_string_space",
+	"bonus_string_plus",
+	"bonus_pointer_plus",
+	"bonus_unsigned_plus",
+	"bonus_unsigned_space",
+	"bonus_hex_lower_plus",
+	"bonus_hex_lower_space",
+	"bonus_hex_upper_plus",
+	"bonus_hex_upper_space",
+	"bonus_escape_precision",
+	"bonus_escape_width",
+	"bonus_escape_left",
+	"bonus_escape_zero",
+	"bonus_escape_alt",
+	"bonus_escape_space",
+	"bonus_escape_plus",
+]
+
 def main(test, argv):
 	args = [argv[0]]
 	if test.mode == "record":
@@ -258,4 +293,4 @@ def main(test, argv):
 		t.execs.append(test.Exec(["cc", *args, f"ft_printf/{n}.c", "-o", f"ft_printf/{n}.out"]))
 		t.execs.append(test.Exec(["mkdir", "-p", f"ft_printf/{n}"]))
 		for i in range(8):
-			t.cases.append(test.Case(bonus_names[i], [f"ft_printf/{n}.out", str(i)]))
+			t.cases.append(test.Case(bonus_names[i], [f"ft_printf/{n}.out", str(i)], opt=(f"{n}_{bonus_names[i]}" in undefined)))
