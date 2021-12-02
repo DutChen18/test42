@@ -1,68 +1,74 @@
-stdout 2226
-Hello -> 5
-Hello -> 5
-Hello -> 5
-           Hello -> 16
-Hello            -> 16
+stdout 995
+ -> 0
+H -> 1
+Hell -> 4
 Hello -> 5
 Hello -> 5
 Hello -> 5
 Hello -> 5
+ -> 0
+H -> 1
+Hell -> 4
 Hello -> 5
-           Hello -> 16
-Hello World -> 11
-Hello World -> 11
-Hello World -> 11
-     Hello World -> 16
-Hello World      -> 16
+ -> 0
+ -> 0
+H -> 1
+Hell -> 4
 Hello World -> 11
 Hello World -> 11
 Hello World -> 11
 Hello World -> 11
+ -> 0
+H -> 1
+Hell -> 4
 Hello World -> 11
-     Hello World -> 16
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
+ -> 0
+ -> 0
+L -> 1
+Lore -> 4
+Lorem ipsum dolo -> 16
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -> 123
  -> 0
+L -> 1
+Lore -> 4
+Lorem ipsum dolo -> 16
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
+ -> 0
   -> 1
-     -> 4
-                 -> 16
-                 -> 16
-     -> 4
+  -> 1
+  -> 1
+  -> 1
+  -> 1
   -> 1
  -> 0
   -> 1
-     -> 4
-                 -> 16
   -> 1
   -> 1
-     -> 4
-                 -> 16
-                 -> 16
-     -> 4
-  -> 1
-  -> 1
-  -> 1
-     -> 4
-                 -> 16
-asdf -> 4
-asdf -> 4
-asdf -> 4
-            asdf -> 16
-asdf             -> 16
+ -> 0
+ -> 0
+a -> 1
 asdf -> 4
 asdf -> 4
 asdf -> 4
 asdf -> 4
 asdf -> 4
-            asdf -> 16
+ -> 0
+a -> 1
+asdf -> 4
+asdf -> 4
+ -> 0
 stderr 0
