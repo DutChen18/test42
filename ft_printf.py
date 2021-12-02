@@ -199,8 +199,8 @@ bonus_names = [
 	"alt",
 	"space",
 	"plus",
-	"precision",
 	"width",
+	"precision",
 	"mix",
 ]
 
